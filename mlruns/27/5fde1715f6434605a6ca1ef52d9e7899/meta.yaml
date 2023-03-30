@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/27/5fde1715f6434605a6ca1ef52d9e7899/artifacts
+end_time: 1674760255920
+entry_point_name: ''
+experiment_id: '27'
+lifecycle_stage: active
+run_id: 5fde1715f6434605a6ca1ef52d9e7899
+run_name: beautiful-flea-639
+run_uuid: 5fde1715f6434605a6ca1ef52d9e7899
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674760240706
+status: 3
+tags: []
+user_id: louibo

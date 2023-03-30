@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/3/d3ca7770cdf646079cff16a2e7cdaafd/artifacts
+end_time: 1670248587365
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+run_id: d3ca7770cdf646079cff16a2e7cdaafd
+run_name: aged-fish-789
+run_uuid: d3ca7770cdf646079cff16a2e7cdaafd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670248587357
+status: 4
+tags: []
+user_id: louibo

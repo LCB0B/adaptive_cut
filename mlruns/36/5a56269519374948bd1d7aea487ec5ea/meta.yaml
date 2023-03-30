@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/36/5a56269519374948bd1d7aea487ec5ea/artifacts
+end_time: 1673989963048
+entry_point_name: ''
+experiment_id: '36'
+lifecycle_stage: active
+run_id: 5a56269519374948bd1d7aea487ec5ea
+run_name: hilarious-cat-868
+run_uuid: 5a56269519374948bd1d7aea487ec5ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673989959915
+status: 3
+tags: []
+user_id: louibo

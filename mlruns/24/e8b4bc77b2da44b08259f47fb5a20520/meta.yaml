@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/24/e8b4bc77b2da44b08259f47fb5a20520/artifacts
+end_time: 1673987765610
+entry_point_name: ''
+experiment_id: '24'
+lifecycle_stage: active
+run_id: e8b4bc77b2da44b08259f47fb5a20520
+run_name: magnificent-lynx-457
+run_uuid: e8b4bc77b2da44b08259f47fb5a20520
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673987208162
+status: 3
+tags: []
+user_id: louibo

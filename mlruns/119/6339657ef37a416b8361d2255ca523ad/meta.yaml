@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/119/6339657ef37a416b8361d2255ca523ad/artifacts
+end_time: 1676870315587
+entry_point_name: ''
+experiment_id: '119'
+lifecycle_stage: active
+run_id: 6339657ef37a416b8361d2255ca523ad
+run_name: respected-sloth-678
+run_uuid: 6339657ef37a416b8361d2255ca523ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676870283382
+status: 3
+tags: []
+user_id: louibo

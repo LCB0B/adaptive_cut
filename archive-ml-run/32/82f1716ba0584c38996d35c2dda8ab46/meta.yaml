@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/32/82f1716ba0584c38996d35c2dda8ab46/artifacts
+end_time: 1672658764660
+entry_point_name: ''
+experiment_id: '32'
+lifecycle_stage: active
+run_id: 82f1716ba0584c38996d35c2dda8ab46
+run_name: clumsy-fish-922
+run_uuid: 82f1716ba0584c38996d35c2dda8ab46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672658710660
+status: 3
+tags: []
+user_id: louibo

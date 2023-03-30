@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/29/f3c4aa53ece149b2aec7cdb050045d07/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '29'
+lifecycle_stage: active
+run_id: f3c4aa53ece149b2aec7cdb050045d07
+run_name: able-mare-288
+run_uuid: f3c4aa53ece149b2aec7cdb050045d07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677014370266
+status: 1
+tags: []
+user_id: louibo

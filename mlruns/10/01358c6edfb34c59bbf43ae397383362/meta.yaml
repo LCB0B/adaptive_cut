@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/10/01358c6edfb34c59bbf43ae397383362/artifacts
+end_time: 1673975338904
+entry_point_name: ''
+experiment_id: '10'
+lifecycle_stage: active
+run_id: 01358c6edfb34c59bbf43ae397383362
+run_name: trusting-crow-220
+run_uuid: 01358c6edfb34c59bbf43ae397383362
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673975338685
+status: 4
+tags: []
+user_id: louibo

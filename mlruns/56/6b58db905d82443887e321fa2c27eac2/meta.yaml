@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/56/6b58db905d82443887e321fa2c27eac2/artifacts
+end_time: 1676850636151
+entry_point_name: ''
+experiment_id: '56'
+lifecycle_stage: active
+run_id: 6b58db905d82443887e321fa2c27eac2
+run_name: judicious-hawk-754
+run_uuid: 6b58db905d82443887e321fa2c27eac2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676850634498
+status: 3
+tags: []
+user_id: louibo

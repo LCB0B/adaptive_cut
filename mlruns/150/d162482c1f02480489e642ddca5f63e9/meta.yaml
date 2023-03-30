@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/150/d162482c1f02480489e642ddca5f63e9/artifacts
+end_time: 1676882698457
+entry_point_name: ''
+experiment_id: '150'
+lifecycle_stage: active
+run_id: d162482c1f02480489e642ddca5f63e9
+run_name: awesome-newt-400
+run_uuid: d162482c1f02480489e642ddca5f63e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676882672764
+status: 3
+tags: []
+user_id: louibo

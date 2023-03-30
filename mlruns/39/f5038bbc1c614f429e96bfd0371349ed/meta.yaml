@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/39/f5038bbc1c614f429e96bfd0371349ed/artifacts
+end_time: 1674757954699
+entry_point_name: ''
+experiment_id: '39'
+lifecycle_stage: active
+run_id: f5038bbc1c614f429e96bfd0371349ed
+run_name: resilient-robin-908
+run_uuid: f5038bbc1c614f429e96bfd0371349ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674757953303
+status: 3
+tags: []
+user_id: louibo

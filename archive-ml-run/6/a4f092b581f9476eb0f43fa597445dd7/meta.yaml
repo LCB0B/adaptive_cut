@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/6/a4f092b581f9476eb0f43fa597445dd7/artifacts
+end_time: 1673978443767
+entry_point_name: ''
+experiment_id: '6'
+lifecycle_stage: active
+run_id: a4f092b581f9476eb0f43fa597445dd7
+run_name: nimble-skunk-612
+run_uuid: a4f092b581f9476eb0f43fa597445dd7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673978309860
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/10/f7c377f65cc8466bb4b658c19c45ad89/artifacts
+end_time: 1673975392684
+entry_point_name: ''
+experiment_id: '10'
+lifecycle_stage: active
+run_id: f7c377f65cc8466bb4b658c19c45ad89
+run_name: invincible-wasp-268
+run_uuid: f7c377f65cc8466bb4b658c19c45ad89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673975363278
+status: 3
+tags: []
+user_id: louibo

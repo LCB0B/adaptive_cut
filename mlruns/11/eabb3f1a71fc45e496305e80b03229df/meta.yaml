@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/11/eabb3f1a71fc45e496305e80b03229df/artifacts
+end_time: 1674060075286
+entry_point_name: ''
+experiment_id: '11'
+lifecycle_stage: active
+run_id: eabb3f1a71fc45e496305e80b03229df
+run_name: abrasive-sow-146
+run_uuid: eabb3f1a71fc45e496305e80b03229df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674059587606
+status: 3
+tags: []
+user_id: louibo

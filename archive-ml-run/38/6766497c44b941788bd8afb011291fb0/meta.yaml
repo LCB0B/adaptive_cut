@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/38/6766497c44b941788bd8afb011291fb0/artifacts
+end_time: 1673985837853
+entry_point_name: ''
+experiment_id: '38'
+lifecycle_stage: active
+run_id: 6766497c44b941788bd8afb011291fb0
+run_name: blushing-snail-375
+run_uuid: 6766497c44b941788bd8afb011291fb0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673985822904
+status: 3
+tags: []
+user_id: louibo

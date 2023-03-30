@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/29/35e5923fb0af49b689faaa5c8088f1c1/artifacts
+end_time: 1676877039999
+entry_point_name: ''
+experiment_id: '29'
+lifecycle_stage: active
+run_id: 35e5923fb0af49b689faaa5c8088f1c1
+run_name: mercurial-calf-95
+run_uuid: 35e5923fb0af49b689faaa5c8088f1c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676876283123
+status: 3
+tags: []
+user_id: louibo

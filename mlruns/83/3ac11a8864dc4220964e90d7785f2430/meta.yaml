@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/83/3ac11a8864dc4220964e90d7785f2430/artifacts
+end_time: 1676854884651
+entry_point_name: ''
+experiment_id: '83'
+lifecycle_stage: active
+run_id: 3ac11a8864dc4220964e90d7785f2430
+run_name: puzzled-swan-817
+run_uuid: 3ac11a8864dc4220964e90d7785f2430
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676854869413
+status: 3
+tags: []
+user_id: louibo

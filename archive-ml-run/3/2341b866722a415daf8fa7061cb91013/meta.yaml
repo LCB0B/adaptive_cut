@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/3/2341b866722a415daf8fa7061cb91013/artifacts
+end_time: 1670251618482
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+run_id: 2341b866722a415daf8fa7061cb91013
+run_name: intelligent-wasp-267
+run_uuid: 2341b866722a415daf8fa7061cb91013
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670251618472
+status: 4
+tags: []
+user_id: louibo

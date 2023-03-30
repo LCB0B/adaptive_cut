@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/15/3a5f666e281b4a5cb93d3f6eeb9e9396/artifacts
+end_time: 1673981397208
+entry_point_name: ''
+experiment_id: '15'
+lifecycle_stage: active
+run_id: 3a5f666e281b4a5cb93d3f6eeb9e9396
+run_name: luxuriant-bat-703
+run_uuid: 3a5f666e281b4a5cb93d3f6eeb9e9396
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673981394878
+status: 3
+tags: []
+user_id: louibo

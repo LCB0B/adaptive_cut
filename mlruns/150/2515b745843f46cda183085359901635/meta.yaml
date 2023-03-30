@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/150/2515b745843f46cda183085359901635/artifacts
+end_time: 1676791191418
+entry_point_name: ''
+experiment_id: '150'
+lifecycle_stage: active
+run_id: 2515b745843f46cda183085359901635
+run_name: powerful-elk-86
+run_uuid: 2515b745843f46cda183085359901635
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676791190554
+status: 4
+tags: []
+user_id: louibo

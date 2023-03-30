@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/4/82d30ce19c7f4d94ae82c1b67d052800/artifacts
+end_time: 1674732336271
+entry_point_name: ''
+experiment_id: '4'
+lifecycle_stage: active
+run_id: 82d30ce19c7f4d94ae82c1b67d052800
+run_name: nebulous-stork-318
+run_uuid: 82d30ce19c7f4d94ae82c1b67d052800
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674732319387
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/138/8f6719e47066470b83d46b46f27e5592/artifacts
+end_time: 1676897285784
+entry_point_name: ''
+experiment_id: '138'
+lifecycle_stage: active
+run_id: 8f6719e47066470b83d46b46f27e5592
+run_name: flawless-yak-562
+run_uuid: 8f6719e47066470b83d46b46f27e5592
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676897271737
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/114/88cf1d30af9d4282a254aaea4ed8e627/artifacts
+end_time: 1676909429474
+entry_point_name: ''
+experiment_id: '114'
+lifecycle_stage: active
+run_id: 88cf1d30af9d4282a254aaea4ed8e627
+run_name: welcoming-cub-643
+run_uuid: 88cf1d30af9d4282a254aaea4ed8e627
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676909198752
+status: 3
+tags: []
+user_id: louibo

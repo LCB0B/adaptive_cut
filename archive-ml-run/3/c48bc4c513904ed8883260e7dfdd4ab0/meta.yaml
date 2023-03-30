@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/3/c48bc4c513904ed8883260e7dfdd4ab0/artifacts
+end_time: 1672595863117
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+run_id: c48bc4c513904ed8883260e7dfdd4ab0
+run_name: useful-mouse-323
+run_uuid: c48bc4c513904ed8883260e7dfdd4ab0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672595863104
+status: 4
+tags: []
+user_id: louibo

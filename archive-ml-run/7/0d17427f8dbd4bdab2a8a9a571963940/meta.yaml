@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/7/0d17427f8dbd4bdab2a8a9a571963940/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '7'
+lifecycle_stage: active
+run_id: 0d17427f8dbd4bdab2a8a9a571963940
+run_name: salty-horse-25
+run_uuid: 0d17427f8dbd4bdab2a8a9a571963940
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673830943768
+status: 1
+tags: []
+user_id: louibo

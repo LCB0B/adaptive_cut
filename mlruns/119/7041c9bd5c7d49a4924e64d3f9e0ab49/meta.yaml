@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/119/7041c9bd5c7d49a4924e64d3f9e0ab49/artifacts
+end_time: 1676885075511
+entry_point_name: ''
+experiment_id: '119'
+lifecycle_stage: active
+run_id: 7041c9bd5c7d49a4924e64d3f9e0ab49
+run_name: tasteful-deer-407
+run_uuid: 7041c9bd5c7d49a4924e64d3f9e0ab49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676885043752
+status: 3
+tags: []
+user_id: louibo

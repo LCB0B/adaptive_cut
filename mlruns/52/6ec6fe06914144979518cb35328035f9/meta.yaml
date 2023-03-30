@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/52/6ec6fe06914144979518cb35328035f9/artifacts
+end_time: 1676893507859
+entry_point_name: ''
+experiment_id: '52'
+lifecycle_stage: active
+run_id: 6ec6fe06914144979518cb35328035f9
+run_name: chill-shrew-554
+run_uuid: 6ec6fe06914144979518cb35328035f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676892353880
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/32/1fd6bc47e5054441887145a2c46057fd/artifacts
+end_time: 1674762735165
+entry_point_name: ''
+experiment_id: '32'
+lifecycle_stage: active
+run_id: 1fd6bc47e5054441887145a2c46057fd
+run_name: monumental-smelt-875
+run_uuid: 1fd6bc47e5054441887145a2c46057fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674762732878
+status: 3
+tags: []
+user_id: louibo

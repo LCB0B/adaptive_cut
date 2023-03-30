@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/99/44c710aa4daf4aafb58456ada436b348/artifacts
+end_time: 1676755627590
+entry_point_name: ''
+experiment_id: '99'
+lifecycle_stage: active
+run_id: 44c710aa4daf4aafb58456ada436b348
+run_name: legendary-eel-984
+run_uuid: 44c710aa4daf4aafb58456ada436b348
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676755618926
+status: 3
+tags: []
+user_id: louibo

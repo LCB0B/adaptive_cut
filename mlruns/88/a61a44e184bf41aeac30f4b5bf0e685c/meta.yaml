@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/88/a61a44e184bf41aeac30f4b5bf0e685c/artifacts
+end_time: 1676856504612
+entry_point_name: ''
+experiment_id: '88'
+lifecycle_stage: active
+run_id: a61a44e184bf41aeac30f4b5bf0e685c
+run_name: trusting-ram-687
+run_uuid: a61a44e184bf41aeac30f4b5bf0e685c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676856504091
+status: 3
+tags: []
+user_id: louibo

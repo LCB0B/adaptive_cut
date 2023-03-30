@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/36/742a05baf60443a6b911ea7a868ab948/artifacts
+end_time: 1673992514688
+entry_point_name: ''
+experiment_id: '36'
+lifecycle_stage: active
+run_id: 742a05baf60443a6b911ea7a868ab948
+run_name: bald-flea-355
+run_uuid: 742a05baf60443a6b911ea7a868ab948
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673992512653
+status: 3
+tags: []
+user_id: louibo

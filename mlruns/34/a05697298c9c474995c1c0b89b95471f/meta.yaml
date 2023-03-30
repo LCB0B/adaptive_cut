@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/34/a05697298c9c474995c1c0b89b95471f/artifacts
+end_time: 1673729008944
+entry_point_name: ''
+experiment_id: '34'
+lifecycle_stage: active
+run_id: a05697298c9c474995c1c0b89b95471f
+run_name: blushing-kite-801
+run_uuid: a05697298c9c474995c1c0b89b95471f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673729008900
+status: 4
+tags: []
+user_id: louibo

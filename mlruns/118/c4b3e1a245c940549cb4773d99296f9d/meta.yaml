@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/118/c4b3e1a245c940549cb4773d99296f9d/artifacts
+end_time: 1676763483661
+entry_point_name: ''
+experiment_id: '118'
+lifecycle_stage: active
+run_id: c4b3e1a245c940549cb4773d99296f9d
+run_name: capricious-owl-769
+run_uuid: c4b3e1a245c940549cb4773d99296f9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676763468275
+status: 3
+tags: []
+user_id: louibo

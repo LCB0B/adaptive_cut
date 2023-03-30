@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/20/fa0fc16b49054142a2b2a150bca695af/artifacts
+end_time: 1673737262757
+entry_point_name: ''
+experiment_id: '20'
+lifecycle_stage: active
+run_id: fa0fc16b49054142a2b2a150bca695af
+run_name: fortunate-chimp-554
+run_uuid: fa0fc16b49054142a2b2a150bca695af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673737257033
+status: 3
+tags: []
+user_id: louibo

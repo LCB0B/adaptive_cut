@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/46/0793056021254099898ca9b81eeeaf57/artifacts
+end_time: 1673992418484
+entry_point_name: ''
+experiment_id: '46'
+lifecycle_stage: active
+run_id: 0793056021254099898ca9b81eeeaf57
+run_name: serious-newt-519
+run_uuid: 0793056021254099898ca9b81eeeaf57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673992301954
+status: 3
+tags: []
+user_id: louibo

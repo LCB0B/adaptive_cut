@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/41/e7bfb8e687b34bd59be903ce05edc53b/artifacts
+end_time: 1674063816837
+entry_point_name: ''
+experiment_id: '41'
+lifecycle_stage: active
+run_id: e7bfb8e687b34bd59be903ce05edc53b
+run_name: thoughtful-mole-796
+run_uuid: e7bfb8e687b34bd59be903ce05edc53b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674063766754
+status: 3
+tags: []
+user_id: louibo

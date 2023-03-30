@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/55/e173ca2b92194721ad7c4e0d124b12ec/artifacts
+end_time: 1676735278859
+entry_point_name: ''
+experiment_id: '55'
+lifecycle_stage: active
+run_id: e173ca2b92194721ad7c4e0d124b12ec
+run_name: valuable-cod-1000
+run_uuid: e173ca2b92194721ad7c4e0d124b12ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676735277330
+status: 4
+tags: []
+user_id: louibo

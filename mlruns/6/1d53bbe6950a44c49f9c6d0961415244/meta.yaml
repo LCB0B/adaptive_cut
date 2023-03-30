@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/6/1d53bbe6950a44c49f9c6d0961415244/artifacts
+end_time: 1674056228177
+entry_point_name: ''
+experiment_id: '6'
+lifecycle_stage: active
+run_id: 1d53bbe6950a44c49f9c6d0961415244
+run_name: auspicious-steed-528
+run_uuid: 1d53bbe6950a44c49f9c6d0961415244
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674056070675
+status: 3
+tags: []
+user_id: louibo

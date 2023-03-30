@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/113/63b7750ab4194506bbfff1b68450c708/artifacts
+end_time: 1676761275823
+entry_point_name: ''
+experiment_id: '113'
+lifecycle_stage: active
+run_id: 63b7750ab4194506bbfff1b68450c708
+run_name: nervous-boar-262
+run_uuid: 63b7750ab4194506bbfff1b68450c708
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676761263800
+status: 3
+tags: []
+user_id: louibo

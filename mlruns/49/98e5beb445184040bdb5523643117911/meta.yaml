@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/49/98e5beb445184040bdb5523643117911/artifacts
+end_time: 1674089282027
+entry_point_name: ''
+experiment_id: '49'
+lifecycle_stage: active
+run_id: 98e5beb445184040bdb5523643117911
+run_name: glamorous-frog-919
+run_uuid: 98e5beb445184040bdb5523643117911
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674089261391
+status: 3
+tags: []
+user_id: louibo

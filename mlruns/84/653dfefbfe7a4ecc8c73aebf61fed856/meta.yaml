@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/84/653dfefbfe7a4ecc8c73aebf61fed856/artifacts
+end_time: 1676747384628
+entry_point_name: ''
+experiment_id: '84'
+lifecycle_stage: active
+run_id: 653dfefbfe7a4ecc8c73aebf61fed856
+run_name: ambitious-wolf-719
+run_uuid: 653dfefbfe7a4ecc8c73aebf61fed856
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676746988011
+status: 3
+tags: []
+user_id: louibo

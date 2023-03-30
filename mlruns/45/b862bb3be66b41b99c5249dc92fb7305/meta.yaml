@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/45/b862bb3be66b41b99c5249dc92fb7305/artifacts
+end_time: 1676759769295
+entry_point_name: ''
+experiment_id: '45'
+lifecycle_stage: active
+run_id: b862bb3be66b41b99c5249dc92fb7305
+run_name: likeable-steed-645
+run_uuid: b862bb3be66b41b99c5249dc92fb7305
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676759751600
+status: 3
+tags: []
+user_id: louibo

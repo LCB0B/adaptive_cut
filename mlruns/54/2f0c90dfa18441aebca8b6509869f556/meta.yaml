@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/54/2f0c90dfa18441aebca8b6509869f556/artifacts
+end_time: 1676734808509
+entry_point_name: ''
+experiment_id: '54'
+lifecycle_stage: active
+run_id: 2f0c90dfa18441aebca8b6509869f556
+run_name: invincible-hawk-260
+run_uuid: 2f0c90dfa18441aebca8b6509869f556
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676734788074
+status: 3
+tags: []
+user_id: louibo

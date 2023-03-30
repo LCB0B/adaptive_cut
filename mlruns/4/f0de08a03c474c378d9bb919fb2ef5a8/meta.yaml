@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/4/f0de08a03c474c378d9bb919fb2ef5a8/artifacts
+end_time: 1674050908908
+entry_point_name: ''
+experiment_id: '4'
+lifecycle_stage: active
+run_id: f0de08a03c474c378d9bb919fb2ef5a8
+run_name: victorious-ray-596
+run_uuid: f0de08a03c474c378d9bb919fb2ef5a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674050891612
+status: 3
+tags: []
+user_id: louibo

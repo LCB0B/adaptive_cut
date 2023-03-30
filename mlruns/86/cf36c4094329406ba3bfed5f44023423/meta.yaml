@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/86/cf36c4094329406ba3bfed5f44023423/artifacts
+end_time: 1676748063464
+entry_point_name: ''
+experiment_id: '86'
+lifecycle_stage: active
+run_id: cf36c4094329406ba3bfed5f44023423
+run_name: funny-skink-495
+run_uuid: cf36c4094329406ba3bfed5f44023423
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676748056035
+status: 3
+tags: []
+user_id: louibo

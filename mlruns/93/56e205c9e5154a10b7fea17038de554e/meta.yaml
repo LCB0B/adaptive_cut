@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/93/56e205c9e5154a10b7fea17038de554e/artifacts
+end_time: 1676871138311
+entry_point_name: ''
+experiment_id: '93'
+lifecycle_stage: active
+run_id: 56e205c9e5154a10b7fea17038de554e
+run_name: persistent-croc-548
+run_uuid: 56e205c9e5154a10b7fea17038de554e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676871128824
+status: 3
+tags: []
+user_id: louibo

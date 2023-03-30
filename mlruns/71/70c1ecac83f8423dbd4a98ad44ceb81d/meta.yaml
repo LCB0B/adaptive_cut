@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/71/70c1ecac83f8423dbd4a98ad44ceb81d/artifacts
+end_time: 1676857429066
+entry_point_name: ''
+experiment_id: '71'
+lifecycle_stage: active
+run_id: 70c1ecac83f8423dbd4a98ad44ceb81d
+run_name: indecisive-skink-319
+run_uuid: 70c1ecac83f8423dbd4a98ad44ceb81d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676857414267
+status: 3
+tags: []
+user_id: louibo

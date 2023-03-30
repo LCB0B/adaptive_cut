@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/1da33d6d07bb4baebe6893685692a5a7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 1da33d6d07bb4baebe6893685692a5a7
+run_name: loud-boar-197
+run_uuid: 1da33d6d07bb4baebe6893685692a5a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672596757066
+status: 1
+tags: []
+user_id: louibo

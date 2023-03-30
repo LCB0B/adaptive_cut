@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/150/f0fe521e245c43618df16b44542c3fb0/artifacts
+end_time: 1676920857851
+entry_point_name: ''
+experiment_id: '150'
+lifecycle_stage: active
+run_id: f0fe521e245c43618df16b44542c3fb0
+run_name: lyrical-hen-630
+run_uuid: f0fe521e245c43618df16b44542c3fb0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676920781745
+status: 3
+tags: []
+user_id: louibo

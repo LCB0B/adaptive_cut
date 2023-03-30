@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/112/980faeb3a320485d9f0d20d4aaeb071d/artifacts
+end_time: 1676756313030
+entry_point_name: ''
+experiment_id: '112'
+lifecycle_stage: active
+run_id: 980faeb3a320485d9f0d20d4aaeb071d
+run_name: bald-bee-988
+run_uuid: 980faeb3a320485d9f0d20d4aaeb071d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676756309263
+status: 3
+tags: []
+user_id: louibo

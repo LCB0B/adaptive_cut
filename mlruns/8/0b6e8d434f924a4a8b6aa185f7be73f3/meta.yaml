@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/8/0b6e8d434f924a4a8b6aa185f7be73f3/artifacts
+end_time: 1676741493827
+entry_point_name: ''
+experiment_id: '8'
+lifecycle_stage: active
+run_id: 0b6e8d434f924a4a8b6aa185f7be73f3
+run_name: bittersweet-rook-736
+run_uuid: 0b6e8d434f924a4a8b6aa185f7be73f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676741443153
+status: 3
+tags: []
+user_id: louibo

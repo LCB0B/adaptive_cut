@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/16/4f519bc593fd440692d76f66283048fd/artifacts
+end_time: 1676745461099
+entry_point_name: ''
+experiment_id: '16'
+lifecycle_stage: active
+run_id: 4f519bc593fd440692d76f66283048fd
+run_name: fortunate-moose-527
+run_uuid: 4f519bc593fd440692d76f66283048fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676744376410
+status: 3
+tags: []
+user_id: louibo

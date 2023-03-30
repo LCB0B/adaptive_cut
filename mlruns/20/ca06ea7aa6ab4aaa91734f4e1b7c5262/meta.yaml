@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/20/ca06ea7aa6ab4aaa91734f4e1b7c5262/artifacts
+end_time: 1674055523718
+entry_point_name: ''
+experiment_id: '20'
+lifecycle_stage: active
+run_id: ca06ea7aa6ab4aaa91734f4e1b7c5262
+run_name: luminous-cod-110
+run_uuid: ca06ea7aa6ab4aaa91734f4e1b7c5262
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674055512134
+status: 3
+tags: []
+user_id: louibo

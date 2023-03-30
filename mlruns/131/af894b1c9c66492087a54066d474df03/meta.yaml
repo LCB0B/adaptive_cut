@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/131/af894b1c9c66492087a54066d474df03/artifacts
+end_time: 1676767639227
+entry_point_name: ''
+experiment_id: '131'
+lifecycle_stage: active
+run_id: af894b1c9c66492087a54066d474df03
+run_name: persistent-finch-343
+run_uuid: af894b1c9c66492087a54066d474df03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676767527051
+status: 4
+tags: []
+user_id: louibo

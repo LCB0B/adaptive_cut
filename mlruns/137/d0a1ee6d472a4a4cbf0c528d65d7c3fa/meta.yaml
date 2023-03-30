@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/137/d0a1ee6d472a4a4cbf0c528d65d7c3fa/artifacts
+end_time: 1676917364925
+entry_point_name: ''
+experiment_id: '137'
+lifecycle_stage: active
+run_id: d0a1ee6d472a4a4cbf0c528d65d7c3fa
+run_name: handsome-crab-403
+run_uuid: d0a1ee6d472a4a4cbf0c528d65d7c3fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676917328809
+status: 3
+tags: []
+user_id: louibo

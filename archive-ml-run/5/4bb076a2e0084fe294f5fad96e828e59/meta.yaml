@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/5/4bb076a2e0084fe294f5fad96e828e59/artifacts
+end_time: 1670256509656
+entry_point_name: ''
+experiment_id: '5'
+lifecycle_stage: active
+run_id: 4bb076a2e0084fe294f5fad96e828e59
+run_name: respected-worm-112
+run_uuid: 4bb076a2e0084fe294f5fad96e828e59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670256509468
+status: 4
+tags: []
+user_id: louibo

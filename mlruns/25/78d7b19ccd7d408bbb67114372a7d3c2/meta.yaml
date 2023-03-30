@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/25/78d7b19ccd7d408bbb67114372a7d3c2/artifacts
+end_time: 1676752832593
+entry_point_name: ''
+experiment_id: '25'
+lifecycle_stage: active
+run_id: 78d7b19ccd7d408bbb67114372a7d3c2
+run_name: sedate-gnu-730
+run_uuid: 78d7b19ccd7d408bbb67114372a7d3c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676752571026
+status: 3
+tags: []
+user_id: louibo

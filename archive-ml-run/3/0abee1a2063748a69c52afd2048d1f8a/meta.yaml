@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/3/0abee1a2063748a69c52afd2048d1f8a/artifacts
+end_time: 1673978959680
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+run_id: 0abee1a2063748a69c52afd2048d1f8a
+run_name: adventurous-auk-828
+run_uuid: 0abee1a2063748a69c52afd2048d1f8a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673978959660
+status: 4
+tags: []
+user_id: louibo

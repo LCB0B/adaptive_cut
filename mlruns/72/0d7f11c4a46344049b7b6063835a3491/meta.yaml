@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/72/0d7f11c4a46344049b7b6063835a3491/artifacts
+end_time: 1676895745289
+entry_point_name: ''
+experiment_id: '72'
+lifecycle_stage: active
+run_id: 0d7f11c4a46344049b7b6063835a3491
+run_name: sedate-midge-46
+run_uuid: 0d7f11c4a46344049b7b6063835a3491
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676895741094
+status: 3
+tags: []
+user_id: louibo

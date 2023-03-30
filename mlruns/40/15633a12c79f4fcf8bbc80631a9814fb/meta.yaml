@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/40/15633a12c79f4fcf8bbc80631a9814fb/artifacts
+end_time: 1673999296000
+entry_point_name: ''
+experiment_id: '40'
+lifecycle_stage: active
+run_id: 15633a12c79f4fcf8bbc80631a9814fb
+run_name: kindly-hound-153
+run_uuid: 15633a12c79f4fcf8bbc80631a9814fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673999285983
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/100/364b05548d2e46e893fd35875367876e/artifacts
+end_time: 1676874528218
+entry_point_name: ''
+experiment_id: '100'
+lifecycle_stage: active
+run_id: 364b05548d2e46e893fd35875367876e
+run_name: spiffy-fly-182
+run_uuid: 364b05548d2e46e893fd35875367876e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676874484585
+status: 3
+tags: []
+user_id: louibo

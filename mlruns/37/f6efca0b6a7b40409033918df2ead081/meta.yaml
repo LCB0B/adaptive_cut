@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/37/f6efca0b6a7b40409033918df2ead081/artifacts
+end_time: 1674063749655
+entry_point_name: ''
+experiment_id: '37'
+lifecycle_stage: active
+run_id: f6efca0b6a7b40409033918df2ead081
+run_name: gifted-skink-518
+run_uuid: f6efca0b6a7b40409033918df2ead081
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674062638707
+status: 3
+tags: []
+user_id: louibo

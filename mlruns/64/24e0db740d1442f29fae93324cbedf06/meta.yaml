@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/64/24e0db740d1442f29fae93324cbedf06/artifacts
+end_time: 1676736401763
+entry_point_name: ''
+experiment_id: '64'
+lifecycle_stage: active
+run_id: 24e0db740d1442f29fae93324cbedf06
+run_name: resilient-deer-593
+run_uuid: 24e0db740d1442f29fae93324cbedf06
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676736127428
+status: 3
+tags: []
+user_id: louibo

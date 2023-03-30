@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/44/d18c595eab874800b8ba7f7a4ad2eab0/artifacts
+end_time: 1676884756782
+entry_point_name: ''
+experiment_id: '44'
+lifecycle_stage: active
+run_id: d18c595eab874800b8ba7f7a4ad2eab0
+run_name: suave-pig-590
+run_uuid: d18c595eab874800b8ba7f7a4ad2eab0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676884756493
+status: 3
+tags: []
+user_id: louibo

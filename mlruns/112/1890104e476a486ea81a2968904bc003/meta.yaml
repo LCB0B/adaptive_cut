@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/112/1890104e476a486ea81a2968904bc003/artifacts
+end_time: 1676761132551
+entry_point_name: ''
+experiment_id: '112'
+lifecycle_stage: active
+run_id: 1890104e476a486ea81a2968904bc003
+run_name: hilarious-shrimp-362
+run_uuid: 1890104e476a486ea81a2968904bc003
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676761132484
+status: 4
+tags: []
+user_id: louibo

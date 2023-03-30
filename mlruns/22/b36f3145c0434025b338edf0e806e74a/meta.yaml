@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/22/b36f3145c0434025b338edf0e806e74a/artifacts
+end_time: 1676749854943
+entry_point_name: ''
+experiment_id: '22'
+lifecycle_stage: active
+run_id: b36f3145c0434025b338edf0e806e74a
+run_name: blushing-gnat-10
+run_uuid: b36f3145c0434025b338edf0e806e74a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676748658404
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/43/92cdaed18b6847fdb2e976523ee5bfeb/artifacts
+end_time: 1676884750402
+entry_point_name: ''
+experiment_id: '43'
+lifecycle_stage: active
+run_id: 92cdaed18b6847fdb2e976523ee5bfeb
+run_name: casual-worm-86
+run_uuid: 92cdaed18b6847fdb2e976523ee5bfeb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676883081185
+status: 3
+tags: []
+user_id: louibo

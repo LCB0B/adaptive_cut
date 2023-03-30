@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/14/9f4d471c0be7470d8dd8a495cea65e8d/artifacts
+end_time: 1674056640071
+entry_point_name: ''
+experiment_id: '14'
+lifecycle_stage: active
+run_id: 9f4d471c0be7470d8dd8a495cea65e8d
+run_name: judicious-grub-387
+run_uuid: 9f4d471c0be7470d8dd8a495cea65e8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674056595571
+status: 3
+tags: []
+user_id: louibo

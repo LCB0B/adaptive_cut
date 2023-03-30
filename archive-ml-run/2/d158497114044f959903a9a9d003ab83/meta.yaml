@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/d158497114044f959903a9a9d003ab83/artifacts
+end_time: 1670250046345
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: d158497114044f959903a9a9d003ab83
+run_name: melodic-fawn-413
+run_uuid: d158497114044f959903a9a9d003ab83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670250044899
+status: 3
+tags: []
+user_id: louibo

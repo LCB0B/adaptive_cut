@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/24/3d546d67d4ec4d5486607779db4ec632/artifacts
+end_time: 1674057118273
+entry_point_name: ''
+experiment_id: '24'
+lifecycle_stage: active
+run_id: 3d546d67d4ec4d5486607779db4ec632
+run_name: polite-mink-489
+run_uuid: 3d546d67d4ec4d5486607779db4ec632
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674056579218
+status: 3
+tags: []
+user_id: louibo

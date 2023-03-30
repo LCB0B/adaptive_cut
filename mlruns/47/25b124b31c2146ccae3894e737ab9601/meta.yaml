@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/47/25b124b31c2146ccae3894e737ab9601/artifacts
+end_time: 1674757257496
+entry_point_name: ''
+experiment_id: '47'
+lifecycle_stage: active
+run_id: 25b124b31c2146ccae3894e737ab9601
+run_name: incongruous-bug-150
+run_uuid: 25b124b31c2146ccae3894e737ab9601
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674757248657
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/42/cce5ab9e97824ea291e127a7f63c3bbb/artifacts
+end_time: 1674760145500
+entry_point_name: ''
+experiment_id: '42'
+lifecycle_stage: active
+run_id: cce5ab9e97824ea291e127a7f63c3bbb
+run_name: bouncy-mouse-891
+run_uuid: cce5ab9e97824ea291e127a7f63c3bbb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674760107780
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/109/6bf8a83e15814184af7ca0dd64907f80/artifacts
+end_time: 1676908753885
+entry_point_name: ''
+experiment_id: '109'
+lifecycle_stage: active
+run_id: 6bf8a83e15814184af7ca0dd64907f80
+run_name: salty-toad-76
+run_uuid: 6bf8a83e15814184af7ca0dd64907f80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676908733628
+status: 3
+tags: []
+user_id: louibo

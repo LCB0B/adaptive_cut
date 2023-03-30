@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/129/a23cc421280243469066d46f17d13981/artifacts
+end_time: 1676754424806
+entry_point_name: ''
+experiment_id: '129'
+lifecycle_stage: active
+run_id: a23cc421280243469066d46f17d13981
+run_name: bedecked-skink-715
+run_uuid: a23cc421280243469066d46f17d13981
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676754424761
+status: 4
+tags: []
+user_id: louibo

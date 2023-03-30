@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/140/5ff9eccca0db4f1aac7c17c29f7aef89/artifacts
+end_time: 1676757608608
+entry_point_name: ''
+experiment_id: '140'
+lifecycle_stage: active
+run_id: 5ff9eccca0db4f1aac7c17c29f7aef89
+run_name: abrasive-horse-998
+run_uuid: 5ff9eccca0db4f1aac7c17c29f7aef89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676757579333
+status: 3
+tags: []
+user_id: louibo

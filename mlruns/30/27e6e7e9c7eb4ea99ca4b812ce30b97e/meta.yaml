@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/30/27e6e7e9c7eb4ea99ca4b812ce30b97e/artifacts
+end_time: 1673992446883
+entry_point_name: ''
+experiment_id: '30'
+lifecycle_stage: active
+run_id: 27e6e7e9c7eb4ea99ca4b812ce30b97e
+run_name: kindly-fawn-655
+run_uuid: 27e6e7e9c7eb4ea99ca4b812ce30b97e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673992442885
+status: 3
+tags: []
+user_id: louibo

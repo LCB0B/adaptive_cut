@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/121/ccdd4d16b7df4b30bc9c72b5f980f546/artifacts
+end_time: 1676911388636
+entry_point_name: ''
+experiment_id: '121'
+lifecycle_stage: active
+run_id: ccdd4d16b7df4b30bc9c72b5f980f546
+run_name: silent-gnat-281
+run_uuid: ccdd4d16b7df4b30bc9c72b5f980f546
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676911361949
+status: 3
+tags: []
+user_id: louibo

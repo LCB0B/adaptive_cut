@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/46/4e5783d2bb4849f7bd746fc672d43acb/artifacts
+end_time: 1674079484935
+entry_point_name: ''
+experiment_id: '46'
+lifecycle_stage: active
+run_id: 4e5783d2bb4849f7bd746fc672d43acb
+run_name: beautiful-rat-830
+run_uuid: 4e5783d2bb4849f7bd746fc672d43acb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674079474856
+status: 3
+tags: []
+user_id: louibo

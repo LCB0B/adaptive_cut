@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/33/6eb1b3be0bc6477cb639b523df6c00fa/artifacts
+end_time: 1673990095164
+entry_point_name: ''
+experiment_id: '33'
+lifecycle_stage: active
+run_id: 6eb1b3be0bc6477cb639b523df6c00fa
+run_name: flawless-mule-100
+run_uuid: 6eb1b3be0bc6477cb639b523df6c00fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673990081291
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/89/17e870c4f84241818d77e7eeec3f80ba/artifacts
+end_time: 1676901103634
+entry_point_name: ''
+experiment_id: '89'
+lifecycle_stage: active
+run_id: 17e870c4f84241818d77e7eeec3f80ba
+run_name: gifted-crane-816
+run_uuid: 17e870c4f84241818d77e7eeec3f80ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676901093775
+status: 3
+tags: []
+user_id: louibo

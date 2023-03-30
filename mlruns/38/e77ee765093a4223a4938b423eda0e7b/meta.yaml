@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/38/e77ee765093a4223a4938b423eda0e7b/artifacts
+end_time: 1674741275755
+entry_point_name: ''
+experiment_id: '38'
+lifecycle_stage: active
+run_id: e77ee765093a4223a4938b423eda0e7b
+run_name: gentle-gull-222
+run_uuid: e77ee765093a4223a4938b423eda0e7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674741267398
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/16/a012e210203d465da8b78eccdb00e427/artifacts
+end_time: 1673985949984
+entry_point_name: ''
+experiment_id: '16'
+lifecycle_stage: active
+run_id: a012e210203d465da8b78eccdb00e427
+run_name: sassy-bear-673
+run_uuid: a012e210203d465da8b78eccdb00e427
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673985737639
+status: 3
+tags: []
+user_id: louibo

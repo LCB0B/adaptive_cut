@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/62/432bcb2db4d54885a706ff820aa63f60/artifacts
+end_time: 1676893258482
+entry_point_name: ''
+experiment_id: '62'
+lifecycle_stage: active
+run_id: 432bcb2db4d54885a706ff820aa63f60
+run_name: vaunted-roo-122
+run_uuid: 432bcb2db4d54885a706ff820aa63f60
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676893257946
+status: 3
+tags: []
+user_id: louibo

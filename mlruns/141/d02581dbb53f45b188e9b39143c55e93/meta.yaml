@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/141/d02581dbb53f45b188e9b39143c55e93/artifacts
+end_time: 1676758042324
+entry_point_name: ''
+experiment_id: '141'
+lifecycle_stage: active
+run_id: d02581dbb53f45b188e9b39143c55e93
+run_name: receptive-ox-331
+run_uuid: d02581dbb53f45b188e9b39143c55e93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676757608856
+status: 3
+tags: []
+user_id: louibo

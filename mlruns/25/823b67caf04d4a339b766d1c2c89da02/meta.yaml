@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/25/823b67caf04d4a339b766d1c2c89da02/artifacts
+end_time: 1676744238958
+entry_point_name: ''
+experiment_id: '25'
+lifecycle_stage: active
+run_id: 823b67caf04d4a339b766d1c2c89da02
+run_name: brawny-dog-822
+run_uuid: 823b67caf04d4a339b766d1c2c89da02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676744118122
+status: 3
+tags: []
+user_id: louibo

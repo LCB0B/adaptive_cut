@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/74/95a5f2a9acc642e59aa0ab9f55e2ddb9/artifacts
+end_time: 1676743578814
+entry_point_name: ''
+experiment_id: '74'
+lifecycle_stage: active
+run_id: 95a5f2a9acc642e59aa0ab9f55e2ddb9
+run_name: rare-fish-694
+run_uuid: 95a5f2a9acc642e59aa0ab9f55e2ddb9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676743573153
+status: 3
+tags: []
+user_id: louibo

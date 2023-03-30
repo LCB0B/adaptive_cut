@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/55/e940739c8c274be28006a1946e1f454d/artifacts
+end_time: 1676735277322
+entry_point_name: ''
+experiment_id: '55'
+lifecycle_stage: active
+run_id: e940739c8c274be28006a1946e1f454d
+run_name: fortunate-bee-783
+run_uuid: e940739c8c274be28006a1946e1f454d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676735269164
+status: 3
+tags: []
+user_id: louibo

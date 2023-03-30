@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/94/ee35e89692324631a9c9892756549fea/artifacts
+end_time: 1676871303423
+entry_point_name: ''
+experiment_id: '94'
+lifecycle_stage: active
+run_id: ee35e89692324631a9c9892756549fea
+run_name: zealous-finch-466
+run_uuid: ee35e89692324631a9c9892756549fea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676871210701
+status: 3
+tags: []
+user_id: louibo

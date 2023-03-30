@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/10/9c9d6c4d19eb4b4699839961d4a6d2a2/artifacts
+end_time: 1673975989159
+entry_point_name: ''
+experiment_id: '10'
+lifecycle_stage: active
+run_id: 9c9d6c4d19eb4b4699839961d4a6d2a2
+run_name: delicate-carp-327
+run_uuid: 9c9d6c4d19eb4b4699839961d4a6d2a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673975959745
+status: 3
+tags: []
+user_id: louibo

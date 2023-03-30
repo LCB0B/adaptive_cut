@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/8ea0e5c76f3645dd9486a442ff7c4376/artifacts
+end_time: 1670249907755
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 8ea0e5c76f3645dd9486a442ff7c4376
+run_name: selective-shrew-222
+run_uuid: 8ea0e5c76f3645dd9486a442ff7c4376
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670249904864
+status: 3
+tags: []
+user_id: louibo

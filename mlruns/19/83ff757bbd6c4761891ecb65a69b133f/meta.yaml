@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/19/83ff757bbd6c4761891ecb65a69b133f/artifacts
+end_time: 1674738409585
+entry_point_name: ''
+experiment_id: '19'
+lifecycle_stage: active
+run_id: 83ff757bbd6c4761891ecb65a69b133f
+run_name: crawling-owl-268
+run_uuid: 83ff757bbd6c4761891ecb65a69b133f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674737963827
+status: 3
+tags: []
+user_id: louibo

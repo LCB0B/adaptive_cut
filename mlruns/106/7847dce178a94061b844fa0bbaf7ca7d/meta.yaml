@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/106/7847dce178a94061b844fa0bbaf7ca7d/artifacts
+end_time: 1676908333751
+entry_point_name: ''
+experiment_id: '106'
+lifecycle_stage: active
+run_id: 7847dce178a94061b844fa0bbaf7ca7d
+run_name: nervous-mouse-488
+run_uuid: 7847dce178a94061b844fa0bbaf7ca7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676908332638
+status: 3
+tags: []
+user_id: louibo

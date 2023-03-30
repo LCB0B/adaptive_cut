@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/83/edb27c6558c244e89babc97da5dfe268/artifacts
+end_time: 1676901857779
+entry_point_name: ''
+experiment_id: '83'
+lifecycle_stage: active
+run_id: edb27c6558c244e89babc97da5dfe268
+run_name: fearless-finch-834
+run_uuid: edb27c6558c244e89babc97da5dfe268
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676901839065
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/c1acfa98cdb541b9ab0460c1909c5036/artifacts
+end_time: 1676761402785
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: c1acfa98cdb541b9ab0460c1909c5036
+run_name: aged-shrike-906
+run_uuid: c1acfa98cdb541b9ab0460c1909c5036
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676761399787
+status: 3
+tags: []
+user_id: louibo

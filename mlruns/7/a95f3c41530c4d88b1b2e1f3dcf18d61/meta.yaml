@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/7/a95f3c41530c4d88b1b2e1f3dcf18d61/artifacts
+end_time: 1673980390797
+entry_point_name: ''
+experiment_id: '7'
+lifecycle_stage: active
+run_id: a95f3c41530c4d88b1b2e1f3dcf18d61
+run_name: welcoming-frog-893
+run_uuid: a95f3c41530c4d88b1b2e1f3dcf18d61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673979745331
+status: 3
+tags: []
+user_id: louibo

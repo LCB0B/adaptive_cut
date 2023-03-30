@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/15/b7a572ecfba2403b9857a1859330d5ec/artifacts
+end_time: 1676740497793
+entry_point_name: ''
+experiment_id: '15'
+lifecycle_stage: active
+run_id: b7a572ecfba2403b9857a1859330d5ec
+run_name: zealous-wren-533
+run_uuid: b7a572ecfba2403b9857a1859330d5ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676740496613
+status: 3
+tags: []
+user_id: louibo

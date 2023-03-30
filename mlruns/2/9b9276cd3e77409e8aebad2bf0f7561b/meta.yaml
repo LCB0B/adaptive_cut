@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/9b9276cd3e77409e8aebad2bf0f7561b/artifacts
+end_time: 1673743882242
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 9b9276cd3e77409e8aebad2bf0f7561b
+run_name: bedecked-stag-471
+run_uuid: 9b9276cd3e77409e8aebad2bf0f7561b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673743879620
+status: 3
+tags: []
+user_id: louibo

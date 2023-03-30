@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/69994fb8c3ba470e8473e8011c2115b2/artifacts
+end_time: 1673743582087
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 69994fb8c3ba470e8473e8011c2115b2
+run_name: luxuriant-mink-234
+run_uuid: 69994fb8c3ba470e8473e8011c2115b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673743582064
+status: 4
+tags: []
+user_id: louibo

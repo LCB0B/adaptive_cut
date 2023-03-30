@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/13/358b3a111b3e4bd0b8d3f63e7d65fc40/artifacts
+end_time: 1673989732826
+entry_point_name: ''
+experiment_id: '13'
+lifecycle_stage: active
+run_id: 358b3a111b3e4bd0b8d3f63e7d65fc40
+run_name: rare-donkey-311
+run_uuid: 358b3a111b3e4bd0b8d3f63e7d65fc40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673989187649
+status: 3
+tags: []
+user_id: louibo

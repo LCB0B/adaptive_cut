@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/44/8faeb55526ce4878996f3b9c54df120c/artifacts
+end_time: 1674760804000
+entry_point_name: ''
+experiment_id: '44'
+lifecycle_stage: active
+run_id: 8faeb55526ce4878996f3b9c54df120c
+run_name: luminous-conch-829
+run_uuid: 8faeb55526ce4878996f3b9c54df120c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674760800150
+status: 3
+tags: []
+user_id: louibo

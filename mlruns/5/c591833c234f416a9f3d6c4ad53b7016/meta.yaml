@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/5/c591833c234f416a9f3d6c4ad53b7016/artifacts
+end_time: 1674732379017
+entry_point_name: ''
+experiment_id: '5'
+lifecycle_stage: active
+run_id: c591833c234f416a9f3d6c4ad53b7016
+run_name: popular-boar-904
+run_uuid: c591833c234f416a9f3d6c4ad53b7016
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674732374617
+status: 3
+tags: []
+user_id: louibo

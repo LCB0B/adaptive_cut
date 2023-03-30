@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/61/ec9ddfeed6db4b9fb071b7ceefbb91c7/artifacts
+end_time: 1676736438885
+entry_point_name: ''
+experiment_id: '61'
+lifecycle_stage: active
+run_id: ec9ddfeed6db4b9fb071b7ceefbb91c7
+run_name: painted-trout-512
+run_uuid: ec9ddfeed6db4b9fb071b7ceefbb91c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676736101772
+status: 3
+tags: []
+user_id: louibo

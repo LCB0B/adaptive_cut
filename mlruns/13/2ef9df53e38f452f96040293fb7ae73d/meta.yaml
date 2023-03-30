@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/13/2ef9df53e38f452f96040293fb7ae73d/artifacts
+end_time: 1674737346225
+entry_point_name: ''
+experiment_id: '13'
+lifecycle_stage: active
+run_id: 2ef9df53e38f452f96040293fb7ae73d
+run_name: magnificent-croc-633
+run_uuid: 2ef9df53e38f452f96040293fb7ae73d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674736913595
+status: 3
+tags: []
+user_id: louibo

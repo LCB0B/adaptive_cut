@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/95/ff16b3009c4246c7ba53437c76b6f562/artifacts
+end_time: 1676858806055
+entry_point_name: ''
+experiment_id: '95'
+lifecycle_stage: active
+run_id: ff16b3009c4246c7ba53437c76b6f562
+run_name: brawny-mink-468
+run_uuid: ff16b3009c4246c7ba53437c76b6f562
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676858582243
+status: 3
+tags: []
+user_id: louibo

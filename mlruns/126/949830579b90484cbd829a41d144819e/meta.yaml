@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/126/949830579b90484cbd829a41d144819e/artifacts
+end_time: 1676754085451
+entry_point_name: ''
+experiment_id: '126'
+lifecycle_stage: active
+run_id: 949830579b90484cbd829a41d144819e
+run_name: vaunted-snail-528
+run_uuid: 949830579b90484cbd829a41d144819e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676753957868
+status: 3
+tags: []
+user_id: louibo

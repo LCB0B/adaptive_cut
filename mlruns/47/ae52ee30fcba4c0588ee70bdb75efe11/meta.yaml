@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/47/ae52ee30fcba4c0588ee70bdb75efe11/artifacts
+end_time: 1674069758390
+entry_point_name: ''
+experiment_id: '47'
+lifecycle_stage: active
+run_id: ae52ee30fcba4c0588ee70bdb75efe11
+run_name: stately-wren-907
+run_uuid: ae52ee30fcba4c0588ee70bdb75efe11
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674069749600
+status: 3
+tags: []
+user_id: louibo

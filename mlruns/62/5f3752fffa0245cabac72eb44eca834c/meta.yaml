@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/62/5f3752fffa0245cabac72eb44eca834c/artifacts
+end_time: 1676894718175
+entry_point_name: ''
+experiment_id: '62'
+lifecycle_stage: active
+run_id: 5f3752fffa0245cabac72eb44eca834c
+run_name: wise-colt-158
+run_uuid: 5f3752fffa0245cabac72eb44eca834c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676894710651
+status: 3
+tags: []
+user_id: louibo

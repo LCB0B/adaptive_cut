@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/35/206d02e452cb4b3faedac0974d7a6826/artifacts
+end_time: 1674066003030
+entry_point_name: ''
+experiment_id: '35'
+lifecycle_stage: active
+run_id: 206d02e452cb4b3faedac0974d7a6826
+run_name: painted-wren-937
+run_uuid: 206d02e452cb4b3faedac0974d7a6826
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674065966271
+status: 3
+tags: []
+user_id: louibo

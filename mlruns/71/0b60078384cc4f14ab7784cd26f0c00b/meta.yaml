@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/71/0b60078384cc4f14ab7784cd26f0c00b/artifacts
+end_time: 1676738624258
+entry_point_name: ''
+experiment_id: '71'
+lifecycle_stage: active
+run_id: 0b60078384cc4f14ab7784cd26f0c00b
+run_name: bold-steed-263
+run_uuid: 0b60078384cc4f14ab7784cd26f0c00b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676738624202
+status: 4
+tags: []
+user_id: louibo

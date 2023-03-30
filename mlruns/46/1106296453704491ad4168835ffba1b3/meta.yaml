@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/46/1106296453704491ad4168835ffba1b3/artifacts
+end_time: 1674090434203
+entry_point_name: ''
+experiment_id: '46'
+lifecycle_stage: active
+run_id: 1106296453704491ad4168835ffba1b3
+run_name: likeable-croc-520
+run_uuid: 1106296453704491ad4168835ffba1b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674090369191
+status: 3
+tags: []
+user_id: louibo

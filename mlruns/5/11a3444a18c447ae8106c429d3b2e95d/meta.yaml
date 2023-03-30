@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/5/11a3444a18c447ae8106c429d3b2e95d/artifacts
+end_time: 1676850285820
+entry_point_name: ''
+experiment_id: '5'
+lifecycle_stage: active
+run_id: 11a3444a18c447ae8106c429d3b2e95d
+run_name: sassy-newt-974
+run_uuid: 11a3444a18c447ae8106c429d3b2e95d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676850285454
+status: 3
+tags: []
+user_id: louibo

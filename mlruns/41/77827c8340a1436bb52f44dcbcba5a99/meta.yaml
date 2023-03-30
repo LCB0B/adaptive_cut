@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/41/77827c8340a1436bb52f44dcbcba5a99/artifacts
+end_time: 1673988383078
+entry_point_name: ''
+experiment_id: '41'
+lifecycle_stage: active
+run_id: 77827c8340a1436bb52f44dcbcba5a99
+run_name: adventurous-duck-542
+run_uuid: 77827c8340a1436bb52f44dcbcba5a99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673988355744
+status: 3
+tags: []
+user_id: louibo

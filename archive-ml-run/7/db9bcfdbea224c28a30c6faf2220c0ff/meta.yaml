@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/7/db9bcfdbea224c28a30c6faf2220c0ff/artifacts
+end_time: 1673820208035
+entry_point_name: ''
+experiment_id: '7'
+lifecycle_stage: active
+run_id: db9bcfdbea224c28a30c6faf2220c0ff
+run_name: nervous-tern-639
+run_uuid: db9bcfdbea224c28a30c6faf2220c0ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673819813663
+status: 3
+tags: []
+user_id: louibo

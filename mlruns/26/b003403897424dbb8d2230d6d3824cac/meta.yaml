@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/26/b003403897424dbb8d2230d6d3824cac/artifacts
+end_time: 1676859207969
+entry_point_name: ''
+experiment_id: '26'
+lifecycle_stage: active
+run_id: b003403897424dbb8d2230d6d3824cac
+run_name: clean-bee-812
+run_uuid: b003403897424dbb8d2230d6d3824cac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676858806431
+status: 3
+tags: []
+user_id: louibo

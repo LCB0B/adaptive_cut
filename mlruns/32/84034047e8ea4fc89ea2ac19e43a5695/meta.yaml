@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/32/84034047e8ea4fc89ea2ac19e43a5695/artifacts
+end_time: 1673992475561
+entry_point_name: ''
+experiment_id: '32'
+lifecycle_stage: active
+run_id: 84034047e8ea4fc89ea2ac19e43a5695
+run_name: stately-worm-430
+run_uuid: 84034047e8ea4fc89ea2ac19e43a5695
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673992470466
+status: 3
+tags: []
+user_id: louibo

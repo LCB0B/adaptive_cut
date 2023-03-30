@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/14/df3c9d272ab3453e848f525ca9d6e63d/artifacts
+end_time: 1674472884984
+entry_point_name: ''
+experiment_id: '14'
+lifecycle_stage: active
+run_id: df3c9d272ab3453e848f525ca9d6e63d
+run_name: placid-snake-986
+run_uuid: df3c9d272ab3453e848f525ca9d6e63d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674472847473
+status: 3
+tags: []
+user_id: louibo

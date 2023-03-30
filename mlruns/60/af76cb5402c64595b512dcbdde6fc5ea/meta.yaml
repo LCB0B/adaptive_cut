@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/60/af76cb5402c64595b512dcbdde6fc5ea/artifacts
+end_time: 1676892624597
+entry_point_name: ''
+experiment_id: '60'
+lifecycle_stage: active
+run_id: af76cb5402c64595b512dcbdde6fc5ea
+run_name: exultant-kite-264
+run_uuid: af76cb5402c64595b512dcbdde6fc5ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676892622195
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/145/595a8a0829ed4422939c7a5eaff363bd/artifacts
+end_time: 1676901608466
+entry_point_name: ''
+experiment_id: '145'
+lifecycle_stage: active
+run_id: 595a8a0829ed4422939c7a5eaff363bd
+run_name: brawny-hen-792
+run_uuid: 595a8a0829ed4422939c7a5eaff363bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676901566336
+status: 3
+tags: []
+user_id: louibo

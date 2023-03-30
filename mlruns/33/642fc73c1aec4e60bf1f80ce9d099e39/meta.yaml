@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/33/642fc73c1aec4e60bf1f80ce9d099e39/artifacts
+end_time: 1674754274819
+entry_point_name: ''
+experiment_id: '33'
+lifecycle_stage: active
+run_id: 642fc73c1aec4e60bf1f80ce9d099e39
+run_name: respected-stork-437
+run_uuid: 642fc73c1aec4e60bf1f80ce9d099e39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674754245350
+status: 3
+tags: []
+user_id: louibo

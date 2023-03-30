@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/34/d7eca2593eaa4a0e86b2e41d99471ba4/artifacts
+end_time: 1674068316205
+entry_point_name: ''
+experiment_id: '34'
+lifecycle_stage: active
+run_id: d7eca2593eaa4a0e86b2e41d99471ba4
+run_name: selective-gnat-476
+run_uuid: d7eca2593eaa4a0e86b2e41d99471ba4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674068270908
+status: 3
+tags: []
+user_id: louibo

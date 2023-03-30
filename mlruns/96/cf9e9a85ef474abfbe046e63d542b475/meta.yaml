@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/96/cf9e9a85ef474abfbe046e63d542b475/artifacts
+end_time: 1676904235566
+entry_point_name: ''
+experiment_id: '96'
+lifecycle_stage: active
+run_id: cf9e9a85ef474abfbe046e63d542b475
+run_name: bouncy-lark-182
+run_uuid: cf9e9a85ef474abfbe046e63d542b475
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676904153543
+status: 3
+tags: []
+user_id: louibo

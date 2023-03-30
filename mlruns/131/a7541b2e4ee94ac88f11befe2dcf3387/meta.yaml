@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/131/a7541b2e4ee94ac88f11befe2dcf3387/artifacts
+end_time: 1676873795445
+entry_point_name: ''
+experiment_id: '131'
+lifecycle_stage: active
+run_id: a7541b2e4ee94ac88f11befe2dcf3387
+run_name: whimsical-cod-463
+run_uuid: a7541b2e4ee94ac88f11befe2dcf3387
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676873689560
+status: 3
+tags: []
+user_id: louibo

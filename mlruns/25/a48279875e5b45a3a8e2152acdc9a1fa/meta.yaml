@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/25/a48279875e5b45a3a8e2152acdc9a1fa/artifacts
+end_time: 1674081593340
+entry_point_name: ''
+experiment_id: '25'
+lifecycle_stage: active
+run_id: a48279875e5b45a3a8e2152acdc9a1fa
+run_name: bold-vole-731
+run_uuid: a48279875e5b45a3a8e2152acdc9a1fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674081474088
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/58/80f1bb48291e4d07851bd62b537df1fe/artifacts
+end_time: 1676850627138
+entry_point_name: ''
+experiment_id: '58'
+lifecycle_stage: active
+run_id: 80f1bb48291e4d07851bd62b537df1fe
+run_name: adventurous-ray-660
+run_uuid: 80f1bb48291e4d07851bd62b537df1fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676850624933
+status: 3
+tags: []
+user_id: louibo

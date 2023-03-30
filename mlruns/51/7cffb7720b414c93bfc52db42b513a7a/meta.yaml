@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/51/7cffb7720b414c93bfc52db42b513a7a/artifacts
+end_time: 1676849033268
+entry_point_name: ''
+experiment_id: '51'
+lifecycle_stage: active
+run_id: 7cffb7720b414c93bfc52db42b513a7a
+run_name: sneaky-mule-520
+run_uuid: 7cffb7720b414c93bfc52db42b513a7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676849026646
+status: 3
+tags: []
+user_id: louibo

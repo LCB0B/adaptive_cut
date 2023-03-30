@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/34/0da84fc187ce4de4a3bf76a546a19da0/artifacts
+end_time: 1676927041135
+entry_point_name: ''
+experiment_id: '34'
+lifecycle_stage: active
+run_id: 0da84fc187ce4de4a3bf76a546a19da0
+run_name: serious-gull-22
+run_uuid: 0da84fc187ce4de4a3bf76a546a19da0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676926730613
+status: 3
+tags: []
+user_id: louibo

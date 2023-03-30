@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/132/7097087c1c534180bf835620eac579fb/artifacts
+end_time: 1676767640467
+entry_point_name: ''
+experiment_id: '132'
+lifecycle_stage: active
+run_id: 7097087c1c534180bf835620eac579fb
+run_name: gifted-sloth-120
+run_uuid: 7097087c1c534180bf835620eac579fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676767640445
+status: 4
+tags: []
+user_id: louibo

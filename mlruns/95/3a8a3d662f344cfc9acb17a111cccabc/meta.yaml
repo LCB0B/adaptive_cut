@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/95/3a8a3d662f344cfc9acb17a111cccabc/artifacts
+end_time: 1676750293610
+entry_point_name: ''
+experiment_id: '95'
+lifecycle_stage: active
+run_id: 3a8a3d662f344cfc9acb17a111cccabc
+run_name: bedecked-bass-627
+run_uuid: 3a8a3d662f344cfc9acb17a111cccabc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676750293568
+status: 4
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/5/4b01042c56914b70a7e8321be8702dbe/artifacts
+end_time: 1672661562579
+entry_point_name: ''
+experiment_id: '5'
+lifecycle_stage: active
+run_id: 4b01042c56914b70a7e8321be8702dbe
+run_name: incongruous-cod-943
+run_uuid: 4b01042c56914b70a7e8321be8702dbe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672661560429
+status: 3
+tags: []
+user_id: louibo

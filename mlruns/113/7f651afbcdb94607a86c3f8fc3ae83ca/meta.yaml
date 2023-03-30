@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/113/7f651afbcdb94607a86c3f8fc3ae83ca/artifacts
+end_time: 1676908838772
+entry_point_name: ''
+experiment_id: '113'
+lifecycle_stage: active
+run_id: 7f651afbcdb94607a86c3f8fc3ae83ca
+run_name: exultant-hog-71
+run_uuid: 7f651afbcdb94607a86c3f8fc3ae83ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676908835371
+status: 3
+tags: []
+user_id: louibo

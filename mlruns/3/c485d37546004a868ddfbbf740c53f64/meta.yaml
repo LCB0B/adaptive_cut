@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/3/c485d37546004a868ddfbbf740c53f64/artifacts
+end_time: 1672596743565
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+run_id: c485d37546004a868ddfbbf740c53f64
+run_name: receptive-quail-402
+run_uuid: c485d37546004a868ddfbbf740c53f64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672596743552
+status: 4
+tags: []
+user_id: louibo

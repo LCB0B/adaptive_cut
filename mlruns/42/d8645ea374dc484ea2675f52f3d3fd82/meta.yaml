@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/42/d8645ea374dc484ea2675f52f3d3fd82/artifacts
+end_time: 1676758715339
+entry_point_name: ''
+experiment_id: '42'
+lifecycle_stage: active
+run_id: d8645ea374dc484ea2675f52f3d3fd82
+run_name: honorable-foal-665
+run_uuid: d8645ea374dc484ea2675f52f3d3fd82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676758674569
+status: 3
+tags: []
+user_id: louibo

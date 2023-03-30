@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/35/680a047081674a1382aa8b641bf8b952/artifacts
+end_time: 1674751440452
+entry_point_name: ''
+experiment_id: '35'
+lifecycle_stage: active
+run_id: 680a047081674a1382aa8b641bf8b952
+run_name: zealous-goose-376
+run_uuid: 680a047081674a1382aa8b641bf8b952
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674751409193
+status: 3
+tags: []
+user_id: louibo

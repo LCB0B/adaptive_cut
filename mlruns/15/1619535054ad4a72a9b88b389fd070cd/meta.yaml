@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/15/1619535054ad4a72a9b88b389fd070cd/artifacts
+end_time: 1676897912045
+entry_point_name: ''
+experiment_id: '15'
+lifecycle_stage: active
+run_id: 1619535054ad4a72a9b88b389fd070cd
+run_name: valuable-bird-861
+run_uuid: 1619535054ad4a72a9b88b389fd070cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676897909195
+status: 3
+tags: []
+user_id: louibo

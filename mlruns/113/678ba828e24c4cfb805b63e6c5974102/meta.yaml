@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/113/678ba828e24c4cfb805b63e6c5974102/artifacts
+end_time: 1676935085561
+entry_point_name: ''
+experiment_id: '113'
+lifecycle_stage: active
+run_id: 678ba828e24c4cfb805b63e6c5974102
+run_name: mercurial-roo-504
+run_uuid: 678ba828e24c4cfb805b63e6c5974102
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676935082459
+status: 3
+tags: []
+user_id: louibo

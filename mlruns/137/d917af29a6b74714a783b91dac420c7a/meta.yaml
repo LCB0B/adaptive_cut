@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/137/d917af29a6b74714a783b91dac420c7a/artifacts
+end_time: 1676875381917
+entry_point_name: ''
+experiment_id: '137'
+lifecycle_stage: active
+run_id: d917af29a6b74714a783b91dac420c7a
+run_name: omniscient-bird-472
+run_uuid: d917af29a6b74714a783b91dac420c7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676875369092
+status: 3
+tags: []
+user_id: louibo

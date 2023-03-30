@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/93/a422973b59fb4beca736d53dd9d6ee2a/artifacts
+end_time: 1676749822268
+entry_point_name: ''
+experiment_id: '93'
+lifecycle_stage: active
+run_id: a422973b59fb4beca736d53dd9d6ee2a
+run_name: nosy-wolf-207
+run_uuid: a422973b59fb4beca736d53dd9d6ee2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676749811144
+status: 3
+tags: []
+user_id: louibo

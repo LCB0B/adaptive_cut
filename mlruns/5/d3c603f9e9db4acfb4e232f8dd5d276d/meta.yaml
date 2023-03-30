@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/5/d3c603f9e9db4acfb4e232f8dd5d276d/artifacts
+end_time: 1676851404501
+entry_point_name: ''
+experiment_id: '5'
+lifecycle_stage: active
+run_id: d3c603f9e9db4acfb4e232f8dd5d276d
+run_name: colorful-whale-200
+run_uuid: d3c603f9e9db4acfb4e232f8dd5d276d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676851400292
+status: 3
+tags: []
+user_id: louibo

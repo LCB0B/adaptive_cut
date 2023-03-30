@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/47/d29803730f984c05a0595238c4252bbe/artifacts
+end_time: 1674007968381
+entry_point_name: ''
+experiment_id: '47'
+lifecycle_stage: active
+run_id: d29803730f984c05a0595238c4252bbe
+run_name: welcoming-ox-748
+run_uuid: d29803730f984c05a0595238c4252bbe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674007965477
+status: 3
+tags: []
+user_id: louibo

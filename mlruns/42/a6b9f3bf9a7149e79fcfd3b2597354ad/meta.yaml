@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/42/a6b9f3bf9a7149e79fcfd3b2597354ad/artifacts
+end_time: 1674075594404
+entry_point_name: ''
+experiment_id: '42'
+lifecycle_stage: active
+run_id: a6b9f3bf9a7149e79fcfd3b2597354ad
+run_name: worried-eel-301
+run_uuid: a6b9f3bf9a7149e79fcfd3b2597354ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674075585052
+status: 3
+tags: []
+user_id: louibo

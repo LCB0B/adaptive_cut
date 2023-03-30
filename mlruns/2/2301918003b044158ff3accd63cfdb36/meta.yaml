@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/2301918003b044158ff3accd63cfdb36/artifacts
+end_time: 1676909434051
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 2301918003b044158ff3accd63cfdb36
+run_name: capable-goat-650
+run_uuid: 2301918003b044158ff3accd63cfdb36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676909430384
+status: 3
+tags: []
+user_id: louibo

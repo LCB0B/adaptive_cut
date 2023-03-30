@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/3/32fbd991cf984175b7a01d001a0e30cf/artifacts
+end_time: 1676899531114
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+run_id: 32fbd991cf984175b7a01d001a0e30cf
+run_name: polite-skunk-396
+run_uuid: 32fbd991cf984175b7a01d001a0e30cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676899531024
+status: 4
+tags: []
+user_id: louibo

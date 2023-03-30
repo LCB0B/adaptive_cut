@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/10/015ade02121b41429adf4ee7395d5d5f/artifacts
+end_time: 1673974385768
+entry_point_name: ''
+experiment_id: '10'
+lifecycle_stage: active
+run_id: 015ade02121b41429adf4ee7395d5d5f
+run_name: bemused-penguin-149
+run_uuid: 015ade02121b41429adf4ee7395d5d5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673974371356
+status: 3
+tags: []
+user_id: louibo

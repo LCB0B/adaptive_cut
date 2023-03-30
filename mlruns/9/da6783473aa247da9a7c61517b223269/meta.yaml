@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/9/da6783473aa247da9a7c61517b223269/artifacts
+end_time: 1674735247909
+entry_point_name: ''
+experiment_id: '9'
+lifecycle_stage: active
+run_id: da6783473aa247da9a7c61517b223269
+run_name: resilient-goat-893
+run_uuid: da6783473aa247da9a7c61517b223269
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674735226573
+status: 3
+tags: []
+user_id: louibo

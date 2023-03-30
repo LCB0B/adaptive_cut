@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/25/bede81b883514f958543b90ba9eee983/artifacts
+end_time: 1674070770741
+entry_point_name: ''
+experiment_id: '25'
+lifecycle_stage: active
+run_id: bede81b883514f958543b90ba9eee983
+run_name: calm-smelt-48
+run_uuid: bede81b883514f958543b90ba9eee983
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674070659225
+status: 3
+tags: []
+user_id: louibo

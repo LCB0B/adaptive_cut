@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/20/194b34007a3246d2ae82be9708816e8c/artifacts
+end_time: 1672663010393
+entry_point_name: ''
+experiment_id: '20'
+lifecycle_stage: active
+run_id: 194b34007a3246d2ae82be9708816e8c
+run_name: traveling-bass-670
+run_uuid: 194b34007a3246d2ae82be9708816e8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672662992035
+status: 3
+tags: []
+user_id: louibo

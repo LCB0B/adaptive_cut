@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/89/d196963e4c9a4f65a4ba001d4f6ca6c2/artifacts
+end_time: 1676870298358
+entry_point_name: ''
+experiment_id: '89'
+lifecycle_stage: active
+run_id: d196963e4c9a4f65a4ba001d4f6ca6c2
+run_name: handsome-shrimp-641
+run_uuid: d196963e4c9a4f65a4ba001d4f6ca6c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676870298211
+status: 3
+tags: []
+user_id: louibo

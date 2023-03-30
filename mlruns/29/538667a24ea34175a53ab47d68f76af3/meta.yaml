@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/29/538667a24ea34175a53ab47d68f76af3/artifacts
+end_time: 1674759577291
+entry_point_name: ''
+experiment_id: '29'
+lifecycle_stage: active
+run_id: 538667a24ea34175a53ab47d68f76af3
+run_name: stylish-fox-985
+run_uuid: 538667a24ea34175a53ab47d68f76af3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674759421322
+status: 3
+tags: []
+user_id: louibo

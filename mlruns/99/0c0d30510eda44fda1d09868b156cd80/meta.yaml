@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/99/0c0d30510eda44fda1d09868b156cd80/artifacts
+end_time: 1676859591429
+entry_point_name: ''
+experiment_id: '99'
+lifecycle_stage: active
+run_id: 0c0d30510eda44fda1d09868b156cd80
+run_name: bustling-robin-750
+run_uuid: 0c0d30510eda44fda1d09868b156cd80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676859586343
+status: 3
+tags: []
+user_id: louibo

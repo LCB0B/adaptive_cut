@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/26/731db532e23d43d5925fe307e3e9f6cd/artifacts
+end_time: 1673989869941
+entry_point_name: ''
+experiment_id: '26'
+lifecycle_stage: active
+run_id: 731db532e23d43d5925fe307e3e9f6cd
+run_name: ambitious-pig-388
+run_uuid: 731db532e23d43d5925fe307e3e9f6cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673989524298
+status: 3
+tags: []
+user_id: louibo

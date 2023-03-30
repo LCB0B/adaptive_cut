@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/118/1eba92c0f7734f49883f371e777a0e3c/artifacts
+end_time: 1676864991164
+entry_point_name: ''
+experiment_id: '118'
+lifecycle_stage: active
+run_id: 1eba92c0f7734f49883f371e777a0e3c
+run_name: glamorous-lark-281
+run_uuid: 1eba92c0f7734f49883f371e777a0e3c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676864957418
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/59/1f7ba58eeef0438cbb2ef97d8327168b/artifacts
+end_time: 1676894317219
+entry_point_name: ''
+experiment_id: '59'
+lifecycle_stage: active
+run_id: 1f7ba58eeef0438cbb2ef97d8327168b
+run_name: skillful-hound-408
+run_uuid: 1f7ba58eeef0438cbb2ef97d8327168b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676894146957
+status: 3
+tags: []
+user_id: louibo

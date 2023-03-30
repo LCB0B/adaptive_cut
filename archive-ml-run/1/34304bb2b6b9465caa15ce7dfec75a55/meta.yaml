@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/1/34304bb2b6b9465caa15ce7dfec75a55/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 34304bb2b6b9465caa15ce7dfec75a55
+run_name: unruly-tern-488
+run_uuid: 34304bb2b6b9465caa15ce7dfec75a55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674000460575
+status: 1
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/101/3b1bfbaef7534dd2bc7085548c9ac432/artifacts
+end_time: 1676908762341
+entry_point_name: ''
+experiment_id: '101'
+lifecycle_stage: active
+run_id: 3b1bfbaef7534dd2bc7085548c9ac432
+run_name: upset-cub-721
+run_uuid: 3b1bfbaef7534dd2bc7085548c9ac432
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676908746282
+status: 3
+tags: []
+user_id: louibo

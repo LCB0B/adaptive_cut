@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/108/399445c3e6b3486eb9d6faf5a0b2487e/artifacts
+end_time: 1676908729509
+entry_point_name: ''
+experiment_id: '108'
+lifecycle_stage: active
+run_id: 399445c3e6b3486eb9d6faf5a0b2487e
+run_name: dashing-pug-566
+run_uuid: 399445c3e6b3486eb9d6faf5a0b2487e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676908639270
+status: 3
+tags: []
+user_id: louibo

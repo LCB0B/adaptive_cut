@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/37/fc851a6ff8274a919c4cc388a34a4cf4/artifacts
+end_time: 1674074181473
+entry_point_name: ''
+experiment_id: '37'
+lifecycle_stage: active
+run_id: fc851a6ff8274a919c4cc388a34a4cf4
+run_name: nimble-penguin-702
+run_uuid: fc851a6ff8274a919c4cc388a34a4cf4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674073911174
+status: 3
+tags: []
+user_id: louibo

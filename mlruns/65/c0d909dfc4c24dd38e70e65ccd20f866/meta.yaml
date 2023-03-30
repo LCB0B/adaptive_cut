@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/65/c0d909dfc4c24dd38e70e65ccd20f866/artifacts
+end_time: 1676855630799
+entry_point_name: ''
+experiment_id: '65'
+lifecycle_stage: active
+run_id: c0d909dfc4c24dd38e70e65ccd20f866
+run_name: judicious-cow-133
+run_uuid: c0d909dfc4c24dd38e70e65ccd20f866
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676855629601
+status: 3
+tags: []
+user_id: louibo

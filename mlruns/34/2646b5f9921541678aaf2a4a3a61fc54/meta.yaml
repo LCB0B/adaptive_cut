@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/34/2646b5f9921541678aaf2a4a3a61fc54/artifacts
+end_time: 1673728674272
+entry_point_name: ''
+experiment_id: '34'
+lifecycle_stage: active
+run_id: 2646b5f9921541678aaf2a4a3a61fc54
+run_name: smiling-shrew-450
+run_uuid: 2646b5f9921541678aaf2a4a3a61fc54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673728674261
+status: 4
+tags: []
+user_id: louibo

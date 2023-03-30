@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/7/78540a35b2564eb68718c20f52cdf6ca/artifacts
+end_time: 1673821271126
+entry_point_name: ''
+experiment_id: '7'
+lifecycle_stage: active
+run_id: 78540a35b2564eb68718c20f52cdf6ca
+run_name: stately-flea-427
+run_uuid: 78540a35b2564eb68718c20f52cdf6ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673820696536
+status: 3
+tags: []
+user_id: louibo

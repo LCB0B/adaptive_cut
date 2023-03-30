@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/9/5724a837c4cf44888846287c76a1e6e9/artifacts
+end_time: 1676902318682
+entry_point_name: ''
+experiment_id: '9'
+lifecycle_stage: active
+run_id: 5724a837c4cf44888846287c76a1e6e9
+run_name: brawny-lynx-822
+run_uuid: 5724a837c4cf44888846287c76a1e6e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676902315376
+status: 3
+tags: []
+user_id: louibo

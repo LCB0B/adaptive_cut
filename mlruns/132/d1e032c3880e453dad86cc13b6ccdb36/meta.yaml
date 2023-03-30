@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/132/d1e032c3880e453dad86cc13b6ccdb36/artifacts
+end_time: 1676866978843
+entry_point_name: ''
+experiment_id: '132'
+lifecycle_stage: active
+run_id: d1e032c3880e453dad86cc13b6ccdb36
+run_name: whimsical-hare-352
+run_uuid: d1e032c3880e453dad86cc13b6ccdb36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676866972253
+status: 3
+tags: []
+user_id: louibo

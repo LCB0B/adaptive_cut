@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/17/90af7b9c25774832a29572e29813a7a7/artifacts
+end_time: 1674737947897
+entry_point_name: ''
+experiment_id: '17'
+lifecycle_stage: active
+run_id: 90af7b9c25774832a29572e29813a7a7
+run_name: bold-croc-861
+run_uuid: 90af7b9c25774832a29572e29813a7a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674737944298
+status: 3
+tags: []
+user_id: louibo

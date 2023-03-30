@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/14/95a6bdbf66fe4b6691256d4cc8a81f19/artifacts
+end_time: 1673745432572
+entry_point_name: ''
+experiment_id: '14'
+lifecycle_stage: active
+run_id: 95a6bdbf66fe4b6691256d4cc8a81f19
+run_name: worried-bass-970
+run_uuid: 95a6bdbf66fe4b6691256d4cc8a81f19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673745430937
+status: 4
+tags: []
+user_id: louibo

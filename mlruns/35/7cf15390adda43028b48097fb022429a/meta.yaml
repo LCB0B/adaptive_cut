@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/35/7cf15390adda43028b48097fb022429a/artifacts
+end_time: 1676909261060
+entry_point_name: ''
+experiment_id: '35'
+lifecycle_stage: active
+run_id: 7cf15390adda43028b48097fb022429a
+run_name: classy-gnu-478
+run_uuid: 7cf15390adda43028b48097fb022429a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676909245207
+status: 3
+tags: []
+user_id: louibo

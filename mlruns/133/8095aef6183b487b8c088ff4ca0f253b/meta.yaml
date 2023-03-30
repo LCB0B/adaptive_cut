@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/133/8095aef6183b487b8c088ff4ca0f253b/artifacts
+end_time: 1676866980171
+entry_point_name: ''
+experiment_id: '133'
+lifecycle_stage: active
+run_id: 8095aef6183b487b8c088ff4ca0f253b
+run_name: placid-bee-665
+run_uuid: 8095aef6183b487b8c088ff4ca0f253b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676866979185
+status: 3
+tags: []
+user_id: louibo

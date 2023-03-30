@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/77/16b1bd2f7e97486a81f9aebc30d8e615/artifacts
+end_time: 1676897937039
+entry_point_name: ''
+experiment_id: '77'
+lifecycle_stage: active
+run_id: 16b1bd2f7e97486a81f9aebc30d8e615
+run_name: wise-tern-284
+run_uuid: 16b1bd2f7e97486a81f9aebc30d8e615
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676897916703
+status: 3
+tags: []
+user_id: louibo

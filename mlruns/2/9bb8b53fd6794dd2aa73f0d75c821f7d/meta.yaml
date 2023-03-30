@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/9bb8b53fd6794dd2aa73f0d75c821f7d/artifacts
+end_time: 1669221984517
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 9bb8b53fd6794dd2aa73f0d75c821f7d
+run_name: unleashed-ant-891
+run_uuid: 9bb8b53fd6794dd2aa73f0d75c821f7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669221983085
+status: 3
+tags: []
+user_id: louibo

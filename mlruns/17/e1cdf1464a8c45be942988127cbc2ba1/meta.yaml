@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/17/e1cdf1464a8c45be942988127cbc2ba1/artifacts
+end_time: 1674064299036
+entry_point_name: ''
+experiment_id: '17'
+lifecycle_stage: active
+run_id: e1cdf1464a8c45be942988127cbc2ba1
+run_name: likeable-jay-650
+run_uuid: e1cdf1464a8c45be942988127cbc2ba1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674064282026
+status: 3
+tags: []
+user_id: louibo

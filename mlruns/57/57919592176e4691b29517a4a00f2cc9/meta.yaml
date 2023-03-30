@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/57/57919592176e4691b29517a4a00f2cc9/artifacts
+end_time: 1676893803372
+entry_point_name: ''
+experiment_id: '57'
+lifecycle_stage: active
+run_id: 57919592176e4691b29517a4a00f2cc9
+run_name: victorious-stork-783
+run_uuid: 57919592176e4691b29517a4a00f2cc9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676893763687
+status: 3
+tags: []
+user_id: louibo

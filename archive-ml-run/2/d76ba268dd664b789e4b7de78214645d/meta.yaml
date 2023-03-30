@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/d76ba268dd664b789e4b7de78214645d/artifacts
+end_time: 1673744666826
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: d76ba268dd664b789e4b7de78214645d
+run_name: dashing-bass-316
+run_uuid: d76ba268dd664b789e4b7de78214645d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673744666262
+status: 4
+tags: []
+user_id: louibo

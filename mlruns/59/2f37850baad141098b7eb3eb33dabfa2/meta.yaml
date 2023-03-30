@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/59/2f37850baad141098b7eb3eb33dabfa2/artifacts
+end_time: 1676735140946
+entry_point_name: ''
+experiment_id: '59'
+lifecycle_stage: active
+run_id: 2f37850baad141098b7eb3eb33dabfa2
+run_name: popular-grouse-504
+run_uuid: 2f37850baad141098b7eb3eb33dabfa2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676735125194
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/68/0410deff78fb4ee4b8c9d861f3af4f52/artifacts
+end_time: 1676858458038
+entry_point_name: ''
+experiment_id: '68'
+lifecycle_stage: active
+run_id: 0410deff78fb4ee4b8c9d861f3af4f52
+run_name: fortunate-shad-350
+run_uuid: 0410deff78fb4ee4b8c9d861f3af4f52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676858457931
+status: 3
+tags: []
+user_id: louibo

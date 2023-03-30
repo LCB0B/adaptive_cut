@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/33/2730d9d8b2e148a6b888783f77012af0/artifacts
+end_time: 1673990069525
+entry_point_name: ''
+experiment_id: '33'
+lifecycle_stage: active
+run_id: 2730d9d8b2e148a6b888783f77012af0
+run_name: flawless-shark-746
+run_uuid: 2730d9d8b2e148a6b888783f77012af0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673990055661
+status: 3
+tags: []
+user_id: louibo

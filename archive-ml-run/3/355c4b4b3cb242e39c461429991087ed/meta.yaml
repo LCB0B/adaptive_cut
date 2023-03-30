@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/3/355c4b4b3cb242e39c461429991087ed/artifacts
+end_time: 1670246052472
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+run_id: 355c4b4b3cb242e39c461429991087ed
+run_name: inquisitive-bug-907
+run_uuid: 355c4b4b3cb242e39c461429991087ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670246052450
+status: 4
+tags: []
+user_id: louibo

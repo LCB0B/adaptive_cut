@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/77/10a829ddadd047f78177caea843666d9/artifacts
+end_time: 1676744100366
+entry_point_name: ''
+experiment_id: '77'
+lifecycle_stage: active
+run_id: 10a829ddadd047f78177caea843666d9
+run_name: powerful-swan-320
+run_uuid: 10a829ddadd047f78177caea843666d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676744086276
+status: 3
+tags: []
+user_id: louibo

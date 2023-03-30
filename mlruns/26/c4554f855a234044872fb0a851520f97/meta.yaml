@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/26/c4554f855a234044872fb0a851520f97/artifacts
+end_time: 1672599359333
+entry_point_name: ''
+experiment_id: '26'
+lifecycle_stage: active
+run_id: c4554f855a234044872fb0a851520f97
+run_name: exultant-owl-797
+run_uuid: c4554f855a234044872fb0a851520f97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672597570104
+status: 4
+tags: []
+user_id: louibo

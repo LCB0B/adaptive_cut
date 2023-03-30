@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/1/cfc4fe56d6cc4fe2abdfcc05cdef9eaa/artifacts
+end_time: 1670259223713
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cfc4fe56d6cc4fe2abdfcc05cdef9eaa
+run_name: rumbling-bird-769
+run_uuid: cfc4fe56d6cc4fe2abdfcc05cdef9eaa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670258831787
+status: 3
+tags: []
+user_id: louibo

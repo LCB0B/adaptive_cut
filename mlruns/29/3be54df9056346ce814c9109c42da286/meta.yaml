@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/29/3be54df9056346ce814c9109c42da286/artifacts
+end_time: 1674469619591
+entry_point_name: ''
+experiment_id: '29'
+lifecycle_stage: active
+run_id: 3be54df9056346ce814c9109c42da286
+run_name: placid-turtle-556
+run_uuid: 3be54df9056346ce814c9109c42da286
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674469465694
+status: 3
+tags: []
+user_id: louibo

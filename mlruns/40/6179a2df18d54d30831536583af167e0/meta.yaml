@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/40/6179a2df18d54d30831536583af167e0/artifacts
+end_time: 1676755415724
+entry_point_name: ''
+experiment_id: '40'
+lifecycle_stage: active
+run_id: 6179a2df18d54d30831536583af167e0
+run_name: dapper-moose-973
+run_uuid: 6179a2df18d54d30831536583af167e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676755403714
+status: 3
+tags: []
+user_id: louibo

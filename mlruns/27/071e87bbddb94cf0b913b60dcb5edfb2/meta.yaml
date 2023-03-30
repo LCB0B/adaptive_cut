@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/27/071e87bbddb94cf0b913b60dcb5edfb2/artifacts
+end_time: 1670268133796
+entry_point_name: ''
+experiment_id: '27'
+lifecycle_stage: active
+run_id: 071e87bbddb94cf0b913b60dcb5edfb2
+run_name: wise-chimp-520
+run_uuid: 071e87bbddb94cf0b913b60dcb5edfb2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670268124932
+status: 3
+tags: []
+user_id: louibo

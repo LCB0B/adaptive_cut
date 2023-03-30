@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/33/fc23525ed1bb4c559181dc939383055c/artifacts
+end_time: 1674079571411
+entry_point_name: ''
+experiment_id: '33'
+lifecycle_stage: active
+run_id: fc23525ed1bb4c559181dc939383055c
+run_name: vaunted-turtle-305
+run_uuid: fc23525ed1bb4c559181dc939383055c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674079558696
+status: 3
+tags: []
+user_id: louibo

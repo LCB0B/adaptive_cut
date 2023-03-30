@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/61/730d5739837e409abbcb905ddbab92f4/artifacts
+end_time: 1676849666232
+entry_point_name: ''
+experiment_id: '61'
+lifecycle_stage: active
+run_id: 730d5739837e409abbcb905ddbab92f4
+run_name: colorful-bird-7
+run_uuid: 730d5739837e409abbcb905ddbab92f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676849576190
+status: 3
+tags: []
+user_id: louibo

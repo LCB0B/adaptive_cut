@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/17/c2d94d5d456e4379ab311f22aa180dcc/artifacts
+end_time: 1676857346894
+entry_point_name: ''
+experiment_id: '17'
+lifecycle_stage: active
+run_id: c2d94d5d456e4379ab311f22aa180dcc
+run_name: clumsy-seal-859
+run_uuid: c2d94d5d456e4379ab311f22aa180dcc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676857346090
+status: 3
+tags: []
+user_id: louibo

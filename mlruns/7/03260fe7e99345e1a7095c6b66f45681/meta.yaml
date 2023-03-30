@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/7/03260fe7e99345e1a7095c6b66f45681/artifacts
+end_time: 1676741442996
+entry_point_name: ''
+experiment_id: '7'
+lifecycle_stage: active
+run_id: 03260fe7e99345e1a7095c6b66f45681
+run_name: dashing-wolf-213
+run_uuid: 03260fe7e99345e1a7095c6b66f45681
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676739858643
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/27/f39f9fd32bd3404aba364a6e58d78b3b/artifacts
+end_time: 1676862987662
+entry_point_name: ''
+experiment_id: '27'
+lifecycle_stage: active
+run_id: f39f9fd32bd3404aba364a6e58d78b3b
+run_name: marvelous-sponge-448
+run_uuid: f39f9fd32bd3404aba364a6e58d78b3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676862973684
+status: 3
+tags: []
+user_id: louibo

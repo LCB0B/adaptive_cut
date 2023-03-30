@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/56/e008e13b7b1a4953a3eabc1f50303f77/artifacts
+end_time: 1676850463643
+entry_point_name: ''
+experiment_id: '56'
+lifecycle_stage: active
+run_id: e008e13b7b1a4953a3eabc1f50303f77
+run_name: blushing-vole-33
+run_uuid: e008e13b7b1a4953a3eabc1f50303f77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676850461997
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/3/00841ae4675b480aac2cee08789ec68e/artifacts
+end_time: 1670264573489
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+run_id: 00841ae4675b480aac2cee08789ec68e
+run_name: polite-shark-173
+run_uuid: 00841ae4675b480aac2cee08789ec68e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670264573477
+status: 4
+tags: []
+user_id: louibo

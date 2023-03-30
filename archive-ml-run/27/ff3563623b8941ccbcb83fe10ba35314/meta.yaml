@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/27/ff3563623b8941ccbcb83fe10ba35314/artifacts
+end_time: 1673989035464
+entry_point_name: ''
+experiment_id: '27'
+lifecycle_stage: active
+run_id: ff3563623b8941ccbcb83fe10ba35314
+run_name: marvelous-panda-234
+run_uuid: ff3563623b8941ccbcb83fe10ba35314
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673989022483
+status: 3
+tags: []
+user_id: louibo

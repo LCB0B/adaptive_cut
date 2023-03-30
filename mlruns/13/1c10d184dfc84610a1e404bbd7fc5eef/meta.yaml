@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/13/1c10d184dfc84610a1e404bbd7fc5eef/artifacts
+end_time: 1674061202879
+entry_point_name: ''
+experiment_id: '13'
+lifecycle_stage: active
+run_id: 1c10d184dfc84610a1e404bbd7fc5eef
+run_name: powerful-hog-570
+run_uuid: 1c10d184dfc84610a1e404bbd7fc5eef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674060658702
+status: 3
+tags: []
+user_id: louibo

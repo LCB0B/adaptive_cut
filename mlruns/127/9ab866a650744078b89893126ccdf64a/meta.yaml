@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/127/9ab866a650744078b89893126ccdf64a/artifacts
+end_time: 1676940278805
+entry_point_name: ''
+experiment_id: '127'
+lifecycle_stage: active
+run_id: 9ab866a650744078b89893126ccdf64a
+run_name: omniscient-shad-326
+run_uuid: 9ab866a650744078b89893126ccdf64a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676939527928
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/77/da2dda3ff66c499a955dafaec983afe9/artifacts
+end_time: 1676897916692
+entry_point_name: ''
+experiment_id: '77'
+lifecycle_stage: active
+run_id: da2dda3ff66c499a955dafaec983afe9
+run_name: worried-cod-540
+run_uuid: da2dda3ff66c499a955dafaec983afe9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676897912304
+status: 3
+tags: []
+user_id: louibo

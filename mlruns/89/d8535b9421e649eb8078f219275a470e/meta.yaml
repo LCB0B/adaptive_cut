@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/89/d8535b9421e649eb8078f219275a470e/artifacts
+end_time: 1676856511146
+entry_point_name: ''
+experiment_id: '89'
+lifecycle_stage: active
+run_id: d8535b9421e649eb8078f219275a470e
+run_name: popular-doe-668
+run_uuid: d8535b9421e649eb8078f219275a470e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676856511004
+status: 3
+tags: []
+user_id: louibo

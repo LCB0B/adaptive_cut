@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/52/fd67376fc3394376acd73c3c0e600e7a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '52'
+lifecycle_stage: active
+run_id: fd67376fc3394376acd73c3c0e600e7a
+run_name: polite-trout-436
+run_uuid: fd67376fc3394376acd73c3c0e600e7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676824159505
+status: 1
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/92/ed2498e1afbc4e67842ea952fb13ddef/artifacts
+end_time: 1676752854049
+entry_point_name: ''
+experiment_id: '92'
+lifecycle_stage: active
+run_id: ed2498e1afbc4e67842ea952fb13ddef
+run_name: unruly-conch-661
+run_uuid: ed2498e1afbc4e67842ea952fb13ddef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676752832795
+status: 3
+tags: []
+user_id: louibo

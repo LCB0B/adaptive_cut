@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/25/5e1490711788403b9be4eafdcc58fc40/artifacts
+end_time: 1674057731867
+entry_point_name: ''
+experiment_id: '25'
+lifecycle_stage: active
+run_id: 5e1490711788403b9be4eafdcc58fc40
+run_name: puzzled-panda-69
+run_uuid: 5e1490711788403b9be4eafdcc58fc40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674057540198
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/23/824dbe30663f421089b113418f168c5d/artifacts
+end_time: 1674068095782
+entry_point_name: ''
+experiment_id: '23'
+lifecycle_stage: active
+run_id: 824dbe30663f421089b113418f168c5d
+run_name: clumsy-boar-367
+run_uuid: 824dbe30663f421089b113418f168c5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674068021616
+status: 3
+tags: []
+user_id: louibo

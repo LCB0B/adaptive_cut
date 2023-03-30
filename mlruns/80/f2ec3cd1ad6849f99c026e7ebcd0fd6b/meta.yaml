@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/80/f2ec3cd1ad6849f99c026e7ebcd0fd6b/artifacts
+end_time: 1676898003973
+entry_point_name: ''
+experiment_id: '80'
+lifecycle_stage: active
+run_id: f2ec3cd1ad6849f99c026e7ebcd0fd6b
+run_name: illustrious-hog-962
+run_uuid: f2ec3cd1ad6849f99c026e7ebcd0fd6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676898000817
+status: 3
+tags: []
+user_id: louibo

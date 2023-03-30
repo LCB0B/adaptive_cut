@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/46/b93ef9a3317147f6b6ede506bd493405/artifacts
+end_time: 1676869695055
+entry_point_name: ''
+experiment_id: '46'
+lifecycle_stage: active
+run_id: b93ef9a3317147f6b6ede506bd493405
+run_name: stately-shoat-619
+run_uuid: b93ef9a3317147f6b6ede506bd493405
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676869691452
+status: 3
+tags: []
+user_id: louibo

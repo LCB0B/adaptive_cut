@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/7/865a2375ef9c459889572291fa59d71d/artifacts
+end_time: 1674053396003
+entry_point_name: ''
+experiment_id: '7'
+lifecycle_stage: active
+run_id: 865a2375ef9c459889572291fa59d71d
+run_name: upset-dolphin-388
+run_uuid: 865a2375ef9c459889572291fa59d71d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674051685261
+status: 3
+tags: []
+user_id: louibo

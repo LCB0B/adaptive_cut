@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/25/07ddc6211d9748b28e5e14d6e48b22b0/artifacts
+end_time: 1676748906030
+entry_point_name: ''
+experiment_id: '25'
+lifecycle_stage: active
+run_id: 07ddc6211d9748b28e5e14d6e48b22b0
+run_name: puzzled-shrike-711
+run_uuid: 07ddc6211d9748b28e5e14d6e48b22b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676748773971
+status: 3
+tags: []
+user_id: louibo

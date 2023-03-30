@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/27/2d032c99fb414b1ea5fb7825c92622ae/artifacts
+end_time: 1674475842369
+entry_point_name: ''
+experiment_id: '27'
+lifecycle_stage: active
+run_id: 2d032c99fb414b1ea5fb7825c92622ae
+run_name: nosy-asp-433
+run_uuid: 2d032c99fb414b1ea5fb7825c92622ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674475834505
+status: 3
+tags: []
+user_id: louibo

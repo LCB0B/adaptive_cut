@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/82/ef70fddce4a64eae9bffeeb9baec53e5/artifacts
+end_time: 1676741297299
+entry_point_name: ''
+experiment_id: '82'
+lifecycle_stage: active
+run_id: ef70fddce4a64eae9bffeeb9baec53e5
+run_name: worried-grub-688
+run_uuid: ef70fddce4a64eae9bffeeb9baec53e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676741297012
+status: 3
+tags: []
+user_id: louibo

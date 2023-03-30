@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/143/669f11590d9d4834955bf8574f72ecad/artifacts
+end_time: 1676901551191
+entry_point_name: ''
+experiment_id: '143'
+lifecycle_stage: active
+run_id: 669f11590d9d4834955bf8574f72ecad
+run_name: unleashed-gnat-150
+run_uuid: 669f11590d9d4834955bf8574f72ecad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676901528452
+status: 3
+tags: []
+user_id: louibo

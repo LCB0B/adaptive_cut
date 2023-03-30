@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/14/f3d4d1d674db40299093c34230bcfa84/artifacts
+end_time: 1673802497000
+entry_point_name: ''
+experiment_id: '14'
+lifecycle_stage: active
+run_id: f3d4d1d674db40299093c34230bcfa84
+run_name: popular-mouse-793
+run_uuid: f3d4d1d674db40299093c34230bcfa84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673802460084
+status: 3
+tags: []
+user_id: louibo

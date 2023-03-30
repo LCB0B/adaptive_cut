@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/39/ffa276fc7af3485799eaa8ef864fa36c/artifacts
+end_time: 1673987434106
+entry_point_name: ''
+experiment_id: '39'
+lifecycle_stage: active
+run_id: ffa276fc7af3485799eaa8ef864fa36c
+run_name: bemused-kit-322
+run_uuid: ffa276fc7af3485799eaa8ef864fa36c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673987433556
+status: 3
+tags: []
+user_id: louibo

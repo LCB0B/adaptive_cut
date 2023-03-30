@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/135/a729204cbf7e4260bcfdfb55fea23ea2/artifacts
+end_time: 1676922145396
+entry_point_name: ''
+experiment_id: '135'
+lifecycle_stage: active
+run_id: a729204cbf7e4260bcfdfb55fea23ea2
+run_name: classy-grub-702
+run_uuid: a729204cbf7e4260bcfdfb55fea23ea2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676922139340
+status: 3
+tags: []
+user_id: louibo

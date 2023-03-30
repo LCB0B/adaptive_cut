@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/23/40f9a555c03645e79c774889374c3221/artifacts
+end_time: 1673985079926
+entry_point_name: ''
+experiment_id: '23'
+lifecycle_stage: active
+run_id: 40f9a555c03645e79c774889374c3221
+run_name: fearless-stoat-414
+run_uuid: 40f9a555c03645e79c774889374c3221
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673985046742
+status: 3
+tags: []
+user_id: louibo

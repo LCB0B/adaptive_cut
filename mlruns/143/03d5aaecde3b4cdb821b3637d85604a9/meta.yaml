@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/143/03d5aaecde3b4cdb821b3637d85604a9/artifacts
+end_time: 1676878140300
+entry_point_name: ''
+experiment_id: '143'
+lifecycle_stage: active
+run_id: 03d5aaecde3b4cdb821b3637d85604a9
+run_name: casual-wren-553
+run_uuid: 03d5aaecde3b4cdb821b3637d85604a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676878119779
+status: 3
+tags: []
+user_id: louibo

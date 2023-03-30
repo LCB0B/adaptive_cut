@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/68/a01d0e0bb9bc44138088a08c6f6f7f7f/artifacts
+end_time: 1676739921048
+entry_point_name: ''
+experiment_id: '68'
+lifecycle_stage: active
+run_id: a01d0e0bb9bc44138088a08c6f6f7f7f
+run_name: auspicious-tern-930
+run_uuid: a01d0e0bb9bc44138088a08c6f6f7f7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676739921023
+status: 4
+tags: []
+user_id: louibo

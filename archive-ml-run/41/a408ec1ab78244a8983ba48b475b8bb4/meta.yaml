@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/41/a408ec1ab78244a8983ba48b475b8bb4/artifacts
+end_time: 1673988354544
+entry_point_name: ''
+experiment_id: '41'
+lifecycle_stage: active
+run_id: a408ec1ab78244a8983ba48b475b8bb4
+run_name: vaunted-skunk-369
+run_uuid: a408ec1ab78244a8983ba48b475b8bb4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673988336994
+status: 3
+tags: []
+user_id: louibo

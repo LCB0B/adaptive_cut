@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/119/efea9430775e45429313ea404a90a8ec/artifacts
+end_time: 1676890326946
+entry_point_name: ''
+experiment_id: '119'
+lifecycle_stage: active
+run_id: efea9430775e45429313ea404a90a8ec
+run_name: vaunted-auk-25
+run_uuid: efea9430775e45429313ea404a90a8ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676890217265
+status: 3
+tags: []
+user_id: louibo

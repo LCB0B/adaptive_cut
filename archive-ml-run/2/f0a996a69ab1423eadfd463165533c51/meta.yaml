@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/f0a996a69ab1423eadfd463165533c51/artifacts
+end_time: 1673743472563
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: f0a996a69ab1423eadfd463165533c51
+run_name: salty-frog-735
+run_uuid: f0a996a69ab1423eadfd463165533c51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673743471850
+status: 4
+tags: []
+user_id: louibo

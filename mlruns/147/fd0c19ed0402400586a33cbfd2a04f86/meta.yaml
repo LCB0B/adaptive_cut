@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/147/fd0c19ed0402400586a33cbfd2a04f86/artifacts
+end_time: 1676898919456
+entry_point_name: ''
+experiment_id: '147'
+lifecycle_stage: active
+run_id: fd0c19ed0402400586a33cbfd2a04f86
+run_name: bright-worm-22
+run_uuid: fd0c19ed0402400586a33cbfd2a04f86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676898918906
+status: 3
+tags: []
+user_id: louibo

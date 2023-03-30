@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/1e32237cce3b414186ace6489f2aadca/artifacts
+end_time: 1673989054949
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 1e32237cce3b414186ace6489f2aadca
+run_name: worried-rat-259
+run_uuid: 1e32237cce3b414186ace6489f2aadca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673989052431
+status: 3
+tags: []
+user_id: louibo

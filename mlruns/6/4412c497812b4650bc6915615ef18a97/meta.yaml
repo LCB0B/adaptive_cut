@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/6/4412c497812b4650bc6915615ef18a97/artifacts
+end_time: 1674051279093
+entry_point_name: ''
+experiment_id: '6'
+lifecycle_stage: active
+run_id: 4412c497812b4650bc6915615ef18a97
+run_name: bedecked-lynx-680
+run_uuid: 4412c497812b4650bc6915615ef18a97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674051150373
+status: 3
+tags: []
+user_id: louibo

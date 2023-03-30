@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/95/2438dfc452d94bada9d7e1602a7e3619/artifacts
+end_time: 1676861996341
+entry_point_name: ''
+experiment_id: '95'
+lifecycle_stage: active
+run_id: 2438dfc452d94bada9d7e1602a7e3619
+run_name: enthused-foal-849
+run_uuid: 2438dfc452d94bada9d7e1602a7e3619
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676861600302
+status: 3
+tags: []
+user_id: louibo

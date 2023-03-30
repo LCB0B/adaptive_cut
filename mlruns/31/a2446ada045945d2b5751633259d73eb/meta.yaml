@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/31/a2446ada045945d2b5751633259d73eb/artifacts
+end_time: 1673989810969
+entry_point_name: ''
+experiment_id: '31'
+lifecycle_stage: active
+run_id: a2446ada045945d2b5751633259d73eb
+run_name: skittish-stork-95
+run_uuid: a2446ada045945d2b5751633259d73eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673989806718
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/46/6e027ce4165443759b7d5af234957d76/artifacts
+end_time: 1674090673863
+entry_point_name: ''
+experiment_id: '46'
+lifecycle_stage: active
+run_id: 6e027ce4165443759b7d5af234957d76
+run_name: mysterious-moose-820
+run_uuid: 6e027ce4165443759b7d5af234957d76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674090650351
+status: 3
+tags: []
+user_id: louibo

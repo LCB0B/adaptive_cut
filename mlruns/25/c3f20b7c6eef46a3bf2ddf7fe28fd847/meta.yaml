@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/25/c3f20b7c6eef46a3bf2ddf7fe28fd847/artifacts
+end_time: 1674751538208
+entry_point_name: ''
+experiment_id: '25'
+lifecycle_stage: active
+run_id: c3f20b7c6eef46a3bf2ddf7fe28fd847
+run_name: capricious-koi-977
+run_uuid: c3f20b7c6eef46a3bf2ddf7fe28fd847
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674751420567
+status: 3
+tags: []
+user_id: louibo

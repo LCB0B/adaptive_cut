@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/10/e8b95ad108b547c39c113634412e0a0f/artifacts
+end_time: 1673974871159
+entry_point_name: ''
+experiment_id: '10'
+lifecycle_stage: active
+run_id: e8b95ad108b547c39c113634412e0a0f
+run_name: gifted-colt-837
+run_uuid: e8b95ad108b547c39c113634412e0a0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673974856856
+status: 3
+tags: []
+user_id: louibo

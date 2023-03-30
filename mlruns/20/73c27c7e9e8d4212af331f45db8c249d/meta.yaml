@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/20/73c27c7e9e8d4212af331f45db8c249d/artifacts
+end_time: 1674091292317
+entry_point_name: ''
+experiment_id: '20'
+lifecycle_stage: active
+run_id: 73c27c7e9e8d4212af331f45db8c249d
+run_name: suave-yak-213
+run_uuid: 73c27c7e9e8d4212af331f45db8c249d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674091266826
+status: 3
+tags: []
+user_id: louibo

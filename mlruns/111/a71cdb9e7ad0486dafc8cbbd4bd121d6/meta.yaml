@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/111/a71cdb9e7ad0486dafc8cbbd4bd121d6/artifacts
+end_time: 1676761259436
+entry_point_name: ''
+experiment_id: '111'
+lifecycle_stage: active
+run_id: a71cdb9e7ad0486dafc8cbbd4bd121d6
+run_name: resilient-dove-871
+run_uuid: a71cdb9e7ad0486dafc8cbbd4bd121d6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676761244830
+status: 3
+tags: []
+user_id: louibo

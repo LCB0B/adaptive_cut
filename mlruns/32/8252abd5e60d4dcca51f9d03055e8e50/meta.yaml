@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/32/8252abd5e60d4dcca51f9d03055e8e50/artifacts
+end_time: 1674079558655
+entry_point_name: ''
+experiment_id: '32'
+lifecycle_stage: active
+run_id: 8252abd5e60d4dcca51f9d03055e8e50
+run_name: angry-pug-724
+run_uuid: 8252abd5e60d4dcca51f9d03055e8e50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674079550413
+status: 3
+tags: []
+user_id: louibo

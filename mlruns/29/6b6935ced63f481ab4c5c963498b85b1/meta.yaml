@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/29/6b6935ced63f481ab4c5c963498b85b1/artifacts
+end_time: 1674065012276
+entry_point_name: ''
+experiment_id: '29'
+lifecycle_stage: active
+run_id: 6b6935ced63f481ab4c5c963498b85b1
+run_name: defiant-jay-797
+run_uuid: 6b6935ced63f481ab4c5c963498b85b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674064037026
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/64/8f75b0f0df144690af0ac68ce257e1ac/artifacts
+end_time: 1676854404937
+entry_point_name: ''
+experiment_id: '64'
+lifecycle_stage: active
+run_id: 8f75b0f0df144690af0ac68ce257e1ac
+run_name: stylish-frog-410
+run_uuid: 8f75b0f0df144690af0ac68ce257e1ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676851630155
+status: 3
+tags: []
+user_id: louibo

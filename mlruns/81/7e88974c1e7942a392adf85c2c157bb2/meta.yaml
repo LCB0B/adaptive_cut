@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/81/7e88974c1e7942a392adf85c2c157bb2/artifacts
+end_time: 1676856763704
+entry_point_name: ''
+experiment_id: '81'
+lifecycle_stage: active
+run_id: 7e88974c1e7942a392adf85c2c157bb2
+run_name: lyrical-grub-897
+run_uuid: 7e88974c1e7942a392adf85c2c157bb2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676856702887
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/36d6fc66e42b4842bb97c37b51972866/artifacts
+end_time: 1670248420280
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 36d6fc66e42b4842bb97c37b51972866
+run_name: enthused-fly-742
+run_uuid: 36d6fc66e42b4842bb97c37b51972866
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670248418832
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/95/bb6dc3bf06c743a2b832255d076ea45a/artifacts
+end_time: 1676753856536
+entry_point_name: ''
+experiment_id: '95'
+lifecycle_stage: active
+run_id: bb6dc3bf06c743a2b832255d076ea45a
+run_name: salty-pug-942
+run_uuid: bb6dc3bf06c743a2b832255d076ea45a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676753491574
+status: 3
+tags: []
+user_id: louibo

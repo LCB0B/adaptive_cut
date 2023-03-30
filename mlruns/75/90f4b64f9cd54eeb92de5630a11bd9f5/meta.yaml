@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/75/90f4b64f9cd54eeb92de5630a11bd9f5/artifacts
+end_time: 1676899857353
+entry_point_name: ''
+experiment_id: '75'
+lifecycle_stage: active
+run_id: 90f4b64f9cd54eeb92de5630a11bd9f5
+run_name: mysterious-duck-149
+run_uuid: 90f4b64f9cd54eeb92de5630a11bd9f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676899766303
+status: 3
+tags: []
+user_id: louibo

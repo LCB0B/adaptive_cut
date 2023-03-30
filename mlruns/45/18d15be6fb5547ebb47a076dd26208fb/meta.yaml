@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/45/18d15be6fb5547ebb47a076dd26208fb/artifacts
+end_time: 1673992273717
+entry_point_name: ''
+experiment_id: '45'
+lifecycle_stage: active
+run_id: 18d15be6fb5547ebb47a076dd26208fb
+run_name: industrious-hawk-953
+run_uuid: 18d15be6fb5547ebb47a076dd26208fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673992258290
+status: 3
+tags: []
+user_id: louibo

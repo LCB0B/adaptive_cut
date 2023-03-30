@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/30/b7a27c6e835e4ac8b71999bb1c2f7285/artifacts
+end_time: 1674762542488
+entry_point_name: ''
+experiment_id: '30'
+lifecycle_stage: active
+run_id: b7a27c6e835e4ac8b71999bb1c2f7285
+run_name: vaunted-wolf-409
+run_uuid: b7a27c6e835e4ac8b71999bb1c2f7285
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674762537624
+status: 3
+tags: []
+user_id: louibo

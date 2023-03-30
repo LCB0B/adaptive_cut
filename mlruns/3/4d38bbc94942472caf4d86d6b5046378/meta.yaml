@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/3/4d38bbc94942472caf4d86d6b5046378/artifacts
+end_time: 1670259444923
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+run_id: 4d38bbc94942472caf4d86d6b5046378
+run_name: flawless-ox-140
+run_uuid: 4d38bbc94942472caf4d86d6b5046378
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670259444911
+status: 4
+tags: []
+user_id: louibo

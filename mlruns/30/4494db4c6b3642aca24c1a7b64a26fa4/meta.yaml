@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/30/4494db4c6b3642aca24c1a7b64a26fa4/artifacts
+end_time: 1676758900675
+entry_point_name: ''
+experiment_id: '30'
+lifecycle_stage: active
+run_id: 4494db4c6b3642aca24c1a7b64a26fa4
+run_name: merciful-steed-526
+run_uuid: 4494db4c6b3642aca24c1a7b64a26fa4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676758894035
+status: 3
+tags: []
+user_id: louibo

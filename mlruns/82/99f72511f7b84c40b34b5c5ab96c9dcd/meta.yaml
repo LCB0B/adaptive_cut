@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/82/99f72511f7b84c40b34b5c5ab96c9dcd/artifacts
+end_time: 1676745100782
+entry_point_name: ''
+experiment_id: '82'
+lifecycle_stage: active
+run_id: 99f72511f7b84c40b34b5c5ab96c9dcd
+run_name: zealous-loon-767
+run_uuid: 99f72511f7b84c40b34b5c5ab96c9dcd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676745100493
+status: 3
+tags: []
+user_id: louibo

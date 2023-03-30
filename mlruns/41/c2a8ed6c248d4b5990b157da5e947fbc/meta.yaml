@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/41/c2a8ed6c248d4b5990b157da5e947fbc/artifacts
+end_time: 1673988518502
+entry_point_name: ''
+experiment_id: '41'
+lifecycle_stage: active
+run_id: c2a8ed6c248d4b5990b157da5e947fbc
+run_name: agreeable-ray-312
+run_uuid: c2a8ed6c248d4b5990b157da5e947fbc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673988321526
+status: 3
+tags: []
+user_id: louibo

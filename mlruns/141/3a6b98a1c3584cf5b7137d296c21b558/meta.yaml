@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/141/3a6b98a1c3584cf5b7137d296c21b558/artifacts
+end_time: 1676875787292
+entry_point_name: ''
+experiment_id: '141'
+lifecycle_stage: active
+run_id: 3a6b98a1c3584cf5b7137d296c21b558
+run_name: upbeat-duck-149
+run_uuid: 3a6b98a1c3584cf5b7137d296c21b558
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676875581637
+status: 3
+tags: []
+user_id: louibo

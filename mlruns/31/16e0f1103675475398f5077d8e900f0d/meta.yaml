@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/31/16e0f1103675475398f5077d8e900f0d/artifacts
+end_time: 1676753702822
+entry_point_name: ''
+experiment_id: '31'
+lifecycle_stage: active
+run_id: 16e0f1103675475398f5077d8e900f0d
+run_name: agreeable-koi-673
+run_uuid: 16e0f1103675475398f5077d8e900f0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676753699042
+status: 3
+tags: []
+user_id: louibo

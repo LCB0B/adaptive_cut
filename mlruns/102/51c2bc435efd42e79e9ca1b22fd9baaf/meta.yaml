@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/102/51c2bc435efd42e79e9ca1b22fd9baaf/artifacts
+end_time: 1676908764184
+entry_point_name: ''
+experiment_id: '102'
+lifecycle_stage: active
+run_id: 51c2bc435efd42e79e9ca1b22fd9baaf
+run_name: worried-hawk-39
+run_uuid: 51c2bc435efd42e79e9ca1b22fd9baaf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676908762572
+status: 3
+tags: []
+user_id: louibo

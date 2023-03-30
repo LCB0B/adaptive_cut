@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/99086fd6b52447939245e8444ac91638/artifacts
+end_time: 1672596321067
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 99086fd6b52447939245e8444ac91638
+run_name: mysterious-dove-856
+run_uuid: 99086fd6b52447939245e8444ac91638
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672596126137
+status: 4
+tags: []
+user_id: louibo

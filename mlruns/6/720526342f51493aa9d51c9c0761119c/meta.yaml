@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/6/720526342f51493aa9d51c9c0761119c/artifacts
+end_time: 1674732516890
+entry_point_name: ''
+experiment_id: '6'
+lifecycle_stage: active
+run_id: 720526342f51493aa9d51c9c0761119c
+run_name: welcoming-shrimp-378
+run_uuid: 720526342f51493aa9d51c9c0761119c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674732379146
+status: 3
+tags: []
+user_id: louibo

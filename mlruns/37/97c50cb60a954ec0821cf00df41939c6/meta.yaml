@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/37/97c50cb60a954ec0821cf00df41939c6/artifacts
+end_time: 1674064640691
+entry_point_name: ''
+experiment_id: '37'
+lifecycle_stage: active
+run_id: 97c50cb60a954ec0821cf00df41939c6
+run_name: selective-finch-245
+run_uuid: 97c50cb60a954ec0821cf00df41939c6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674064334501
+status: 3
+tags: []
+user_id: louibo

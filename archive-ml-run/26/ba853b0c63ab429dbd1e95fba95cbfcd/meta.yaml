@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/26/ba853b0c63ab429dbd1e95fba95cbfcd/artifacts
+end_time: 1672658599181
+entry_point_name: ''
+experiment_id: '26'
+lifecycle_stage: active
+run_id: ba853b0c63ab429dbd1e95fba95cbfcd
+run_name: upset-mule-493
+run_uuid: ba853b0c63ab429dbd1e95fba95cbfcd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672658401100
+status: 4
+tags: []
+user_id: louibo

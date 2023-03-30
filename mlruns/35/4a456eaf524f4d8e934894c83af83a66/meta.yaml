@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/35/4a456eaf524f4d8e934894c83af83a66/artifacts
+end_time: 1674075348361
+entry_point_name: ''
+experiment_id: '35'
+lifecycle_stage: active
+run_id: 4a456eaf524f4d8e934894c83af83a66
+run_name: sassy-dog-319
+run_uuid: 4a456eaf524f4d8e934894c83af83a66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674075315421
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/143/68004d8d85954dc698f1d3fd2f11b1a1/artifacts
+end_time: 1676983130397
+entry_point_name: ''
+experiment_id: '143'
+lifecycle_stage: active
+run_id: 68004d8d85954dc698f1d3fd2f11b1a1
+run_name: fearless-zebra-133
+run_uuid: 68004d8d85954dc698f1d3fd2f11b1a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676983111361
+status: 3
+tags: []
+user_id: louibo

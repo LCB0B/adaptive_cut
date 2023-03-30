@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/130/c997b023b91e4fc5a7da4ce58cb5a9e4/artifacts
+end_time: 1676765309543
+entry_point_name: ''
+experiment_id: '130'
+lifecycle_stage: active
+run_id: c997b023b91e4fc5a7da4ce58cb5a9e4
+run_name: judicious-zebra-551
+run_uuid: c997b023b91e4fc5a7da4ce58cb5a9e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676764416236
+status: 3
+tags: []
+user_id: louibo

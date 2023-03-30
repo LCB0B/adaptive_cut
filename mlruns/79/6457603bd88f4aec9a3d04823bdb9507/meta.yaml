@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/79/6457603bd88f4aec9a3d04823bdb9507/artifacts
+end_time: 1676744158148
+entry_point_name: ''
+experiment_id: '79'
+lifecycle_stage: active
+run_id: 6457603bd88f4aec9a3d04823bdb9507
+run_name: bouncy-dove-840
+run_uuid: 6457603bd88f4aec9a3d04823bdb9507
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676744149425
+status: 3
+tags: []
+user_id: louibo

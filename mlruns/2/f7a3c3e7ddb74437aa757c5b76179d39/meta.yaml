@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/f7a3c3e7ddb74437aa757c5b76179d39/artifacts
+end_time: 1673744144750
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: f7a3c3e7ddb74437aa757c5b76179d39
+run_name: carefree-owl-863
+run_uuid: f7a3c3e7ddb74437aa757c5b76179d39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673744142028
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/31/bce1fb5055934cb9a08b3d40bc24d8c5/artifacts
+end_time: 1674476165894
+entry_point_name: ''
+experiment_id: '31'
+lifecycle_stage: active
+run_id: bce1fb5055934cb9a08b3d40bc24d8c5
+run_name: rumbling-whale-37
+run_uuid: bce1fb5055934cb9a08b3d40bc24d8c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674476164061
+status: 3
+tags: []
+user_id: louibo

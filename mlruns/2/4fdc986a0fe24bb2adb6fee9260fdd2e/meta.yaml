@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/4fdc986a0fe24bb2adb6fee9260fdd2e/artifacts
+end_time: 1672595796797
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 4fdc986a0fe24bb2adb6fee9260fdd2e
+run_name: entertaining-hen-909
+run_uuid: 4fdc986a0fe24bb2adb6fee9260fdd2e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672595795371
+status: 3
+tags: []
+user_id: louibo

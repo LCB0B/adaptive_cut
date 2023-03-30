@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/5/0bdfec6c076f4dd2b28e3d376e5d85c9/artifacts
+end_time: 1672661573156
+entry_point_name: ''
+experiment_id: '5'
+lifecycle_stage: active
+run_id: 0bdfec6c076f4dd2b28e3d376e5d85c9
+run_name: nebulous-fowl-679
+run_uuid: 0bdfec6c076f4dd2b28e3d376e5d85c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672661562583
+status: 3
+tags: []
+user_id: louibo

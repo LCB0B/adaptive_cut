@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/80/f96e1c58013e46a3b89e125ac18576b0/artifacts
+end_time: 1676853662752
+entry_point_name: ''
+experiment_id: '80'
+lifecycle_stage: active
+run_id: f96e1c58013e46a3b89e125ac18576b0
+run_name: debonair-zebra-315
+run_uuid: f96e1c58013e46a3b89e125ac18576b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676853661986
+status: 3
+tags: []
+user_id: louibo

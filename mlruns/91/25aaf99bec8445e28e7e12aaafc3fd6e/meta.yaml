@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/91/25aaf99bec8445e28e7e12aaafc3fd6e/artifacts
+end_time: 1676917919160
+entry_point_name: ''
+experiment_id: '91'
+lifecycle_stage: active
+run_id: 25aaf99bec8445e28e7e12aaafc3fd6e
+run_name: placid-snipe-909
+run_uuid: 25aaf99bec8445e28e7e12aaafc3fd6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676917691207
+status: 3
+tags: []
+user_id: louibo

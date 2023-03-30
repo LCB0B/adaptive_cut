@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/34/f079dcc64a73401cabd90c98fb12af9d/artifacts
+end_time: 1676920892523
+entry_point_name: ''
+experiment_id: '34'
+lifecycle_stage: active
+run_id: f079dcc64a73401cabd90c98fb12af9d
+run_name: stylish-croc-637
+run_uuid: f079dcc64a73401cabd90c98fb12af9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676920864913
+status: 3
+tags: []
+user_id: louibo

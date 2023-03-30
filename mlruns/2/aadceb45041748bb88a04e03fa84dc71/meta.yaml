@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/aadceb45041748bb88a04e03fa84dc71/artifacts
+end_time: 1669218529599
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: aadceb45041748bb88a04e03fa84dc71
+run_name: dazzling-lark-931
+run_uuid: aadceb45041748bb88a04e03fa84dc71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669218526587
+status: 3
+tags: []
+user_id: louibo

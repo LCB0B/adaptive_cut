@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/123/ee29fc823c834214b7a52293a74fd8e1/artifacts
+end_time: 1676759285092
+entry_point_name: ''
+experiment_id: '123'
+lifecycle_stage: active
+run_id: ee29fc823c834214b7a52293a74fd8e1
+run_name: thundering-moose-991
+run_uuid: ee29fc823c834214b7a52293a74fd8e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676759285016
+status: 4
+tags: []
+user_id: louibo

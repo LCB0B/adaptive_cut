@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/65/d819b772994b470d8751f9d9f607246e/artifacts
+end_time: 1676737079224
+entry_point_name: ''
+experiment_id: '65'
+lifecycle_stage: active
+run_id: d819b772994b470d8751f9d9f607246e
+run_name: angry-steed-604
+run_uuid: d819b772994b470d8751f9d9f607246e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676737078760
+status: 4
+tags: []
+user_id: louibo

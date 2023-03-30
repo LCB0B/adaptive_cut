@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/37/901a2b65602744069ec58d188491b1a0/artifacts
+end_time: 1674743963900
+entry_point_name: ''
+experiment_id: '37'
+lifecycle_stage: active
+run_id: 901a2b65602744069ec58d188491b1a0
+run_name: glamorous-yak-509
+run_uuid: 901a2b65602744069ec58d188491b1a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674743684677
+status: 3
+tags: []
+user_id: louibo

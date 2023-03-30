@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/130/6a804463789f4023bc8823c7a6379da9/artifacts
+end_time: 1676888929260
+entry_point_name: ''
+experiment_id: '130'
+lifecycle_stage: active
+run_id: 6a804463789f4023bc8823c7a6379da9
+run_name: angry-stoat-924
+run_uuid: 6a804463789f4023bc8823c7a6379da9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676888480386
+status: 3
+tags: []
+user_id: louibo

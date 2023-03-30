@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/134/1a68cbf8bae54bb1a8d4a102d874ea51/artifacts
+end_time: 1676973313935
+entry_point_name: ''
+experiment_id: '134'
+lifecycle_stage: active
+run_id: 1a68cbf8bae54bb1a8d4a102d874ea51
+run_name: puzzled-flea-654
+run_uuid: 1a68cbf8bae54bb1a8d4a102d874ea51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676973303235
+status: 3
+tags: []
+user_id: louibo

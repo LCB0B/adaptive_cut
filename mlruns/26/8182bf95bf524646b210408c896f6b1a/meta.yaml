@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/26/8182bf95bf524646b210408c896f6b1a/artifacts
+end_time: 1676862647372
+entry_point_name: ''
+experiment_id: '26'
+lifecycle_stage: active
+run_id: 8182bf95bf524646b210408c896f6b1a
+run_name: bright-bird-737
+run_uuid: 8182bf95bf524646b210408c896f6b1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676862346625
+status: 3
+tags: []
+user_id: louibo

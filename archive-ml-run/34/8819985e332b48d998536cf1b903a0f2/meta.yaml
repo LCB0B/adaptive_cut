@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/34/8819985e332b48d998536cf1b903a0f2/artifacts
+end_time: 1673990241507
+entry_point_name: ''
+experiment_id: '34'
+lifecycle_stage: active
+run_id: 8819985e332b48d998536cf1b903a0f2
+run_name: enchanting-wasp-358
+run_uuid: 8819985e332b48d998536cf1b903a0f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673990137025
+status: 3
+tags: []
+user_id: louibo

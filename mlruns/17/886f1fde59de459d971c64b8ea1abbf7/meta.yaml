@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/17/886f1fde59de459d971c64b8ea1abbf7/artifacts
+end_time: 1674058218385
+entry_point_name: ''
+experiment_id: '17'
+lifecycle_stage: active
+run_id: 886f1fde59de459d971c64b8ea1abbf7
+run_name: secretive-grub-117
+run_uuid: 886f1fde59de459d971c64b8ea1abbf7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674058213157
+status: 3
+tags: []
+user_id: louibo

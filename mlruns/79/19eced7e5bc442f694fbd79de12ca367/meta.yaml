@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/79/19eced7e5bc442f694fbd79de12ca367/artifacts
+end_time: 1676745375866
+entry_point_name: ''
+experiment_id: '79'
+lifecycle_stage: active
+run_id: 19eced7e5bc442f694fbd79de12ca367
+run_name: merciful-wren-589
+run_uuid: 19eced7e5bc442f694fbd79de12ca367
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676745375718
+status: 4
+tags: []
+user_id: louibo

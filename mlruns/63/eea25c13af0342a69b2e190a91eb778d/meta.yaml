@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/63/eea25c13af0342a69b2e190a91eb778d/artifacts
+end_time: 1676736121423
+entry_point_name: ''
+experiment_id: '63'
+lifecycle_stage: active
+run_id: eea25c13af0342a69b2e190a91eb778d
+run_name: auspicious-sheep-574
+run_uuid: eea25c13af0342a69b2e190a91eb778d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676736101044
+status: 4
+tags: []
+user_id: louibo

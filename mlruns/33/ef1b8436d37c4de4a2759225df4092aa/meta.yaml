@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/33/ef1b8436d37c4de4a2759225df4092aa/artifacts
+end_time: 1673737063026
+entry_point_name: ''
+experiment_id: '33'
+lifecycle_stage: active
+run_id: ef1b8436d37c4de4a2759225df4092aa
+run_name: glamorous-shad-574
+run_uuid: ef1b8436d37c4de4a2759225df4092aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673737062983
+status: 4
+tags: []
+user_id: louibo

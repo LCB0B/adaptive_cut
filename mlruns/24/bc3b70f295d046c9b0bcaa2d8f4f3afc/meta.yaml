@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/24/bc3b70f295d046c9b0bcaa2d8f4f3afc/artifacts
+end_time: 1676870686791
+entry_point_name: ''
+experiment_id: '24'
+lifecycle_stage: active
+run_id: bc3b70f295d046c9b0bcaa2d8f4f3afc
+run_name: ambitious-hawk-987
+run_uuid: bc3b70f295d046c9b0bcaa2d8f4f3afc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676870299474
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/25/dd086bedac704779bb6055c110125117/artifacts
+end_time: 1673986307412
+entry_point_name: ''
+experiment_id: '25'
+lifecycle_stage: active
+run_id: dd086bedac704779bb6055c110125117
+run_name: sincere-frog-439
+run_uuid: dd086bedac704779bb6055c110125117
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673986191210
+status: 3
+tags: []
+user_id: louibo

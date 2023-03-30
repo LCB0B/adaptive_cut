@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/42/c29b5efd44514beabe490b4121babd0b/artifacts
+end_time: 1676861326680
+entry_point_name: ''
+experiment_id: '42'
+lifecycle_stage: active
+run_id: c29b5efd44514beabe490b4121babd0b
+run_name: adventurous-hound-16
+run_uuid: c29b5efd44514beabe490b4121babd0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676861309234
+status: 3
+tags: []
+user_id: louibo

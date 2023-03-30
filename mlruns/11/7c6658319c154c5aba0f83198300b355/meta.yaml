@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/11/7c6658319c154c5aba0f83198300b355/artifacts
+end_time: 1674054647466
+entry_point_name: ''
+experiment_id: '11'
+lifecycle_stage: active
+run_id: 7c6658319c154c5aba0f83198300b355
+run_name: salty-grub-364
+run_uuid: 7c6658319c154c5aba0f83198300b355
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674054179535
+status: 3
+tags: []
+user_id: louibo

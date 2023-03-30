@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/11/74725b88328d4932aa71a1298a7474ec/artifacts
+end_time: 1673987919249
+entry_point_name: ''
+experiment_id: '11'
+lifecycle_stage: active
+run_id: 74725b88328d4932aa71a1298a7474ec
+run_name: traveling-kite-201
+run_uuid: 74725b88328d4932aa71a1298a7474ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673987427341
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/123/49e45028af864558a7d3a8b23e324828/artifacts
+end_time: 1676885428079
+entry_point_name: ''
+experiment_id: '123'
+lifecycle_stage: active
+run_id: 49e45028af864558a7d3a8b23e324828
+run_name: unleashed-stag-120
+run_uuid: 49e45028af864558a7d3a8b23e324828
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676885405879
+status: 3
+tags: []
+user_id: louibo

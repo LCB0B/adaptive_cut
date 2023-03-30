@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/11/8878c3cf09e440878f0707f856b7813d/artifacts
+end_time: 1674736818964
+entry_point_name: ''
+experiment_id: '11'
+lifecycle_stage: active
+run_id: 8878c3cf09e440878f0707f856b7813d
+run_name: colorful-gnat-106
+run_uuid: 8878c3cf09e440878f0707f856b7813d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674735733314
+status: 3
+tags: []
+user_id: louibo

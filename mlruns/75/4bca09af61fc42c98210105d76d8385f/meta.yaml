@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/75/4bca09af61fc42c98210105d76d8385f/artifacts
+end_time: 1676897810690
+entry_point_name: ''
+experiment_id: '75'
+lifecycle_stage: active
+run_id: 4bca09af61fc42c98210105d76d8385f
+run_name: nebulous-mouse-819
+run_uuid: 4bca09af61fc42c98210105d76d8385f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676897666413
+status: 3
+tags: []
+user_id: louibo

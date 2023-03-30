@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/121/8ec62712dcd24075886800ca405d8ed3/artifacts
+end_time: 1676916744190
+entry_point_name: ''
+experiment_id: '121'
+lifecycle_stage: active
+run_id: 8ec62712dcd24075886800ca405d8ed3
+run_name: classy-bee-70
+run_uuid: 8ec62712dcd24075886800ca405d8ed3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676916737165
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/47/3026c17b88754efe965c0784ae71222d/artifacts
+end_time: 1676983101453
+entry_point_name: ''
+experiment_id: '47'
+lifecycle_stage: active
+run_id: 3026c17b88754efe965c0784ae71222d
+run_name: nebulous-grub-670
+run_uuid: 3026c17b88754efe965c0784ae71222d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676983100744
+status: 3
+tags: []
+user_id: louibo

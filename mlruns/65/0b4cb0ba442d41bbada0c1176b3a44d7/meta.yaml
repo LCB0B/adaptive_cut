@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/65/0b4cb0ba442d41bbada0c1176b3a44d7/artifacts
+end_time: 1676899530767
+entry_point_name: ''
+experiment_id: '65'
+lifecycle_stage: active
+run_id: 0b4cb0ba442d41bbada0c1176b3a44d7
+run_name: bemused-goose-227
+run_uuid: 0b4cb0ba442d41bbada0c1176b3a44d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676899512191
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/37/6beba109284d47899cb71daadf72e3fa/artifacts
+end_time: 1674475618786
+entry_point_name: ''
+experiment_id: '37'
+lifecycle_stage: active
+run_id: 6beba109284d47899cb71daadf72e3fa
+run_name: unleashed-shrimp-813
+run_uuid: 6beba109284d47899cb71daadf72e3fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674475413323
+status: 3
+tags: []
+user_id: louibo

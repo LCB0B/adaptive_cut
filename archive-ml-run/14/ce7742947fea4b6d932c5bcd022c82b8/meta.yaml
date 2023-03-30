@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/14/ce7742947fea4b6d932c5bcd022c82b8/artifacts
+end_time: 1673737736599
+entry_point_name: ''
+experiment_id: '14'
+lifecycle_stage: active
+run_id: ce7742947fea4b6d932c5bcd022c82b8
+run_name: nosy-mare-565
+run_uuid: ce7742947fea4b6d932c5bcd022c82b8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673737736399
+status: 4
+tags: []
+user_id: louibo

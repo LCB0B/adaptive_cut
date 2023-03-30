@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/55/7adf756970954aa08f333502398e02cc/artifacts
+end_time: 1676734816984
+entry_point_name: ''
+experiment_id: '55'
+lifecycle_stage: active
+run_id: 7adf756970954aa08f333502398e02cc
+run_name: fun-trout-509
+run_uuid: 7adf756970954aa08f333502398e02cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676734808610
+status: 3
+tags: []
+user_id: louibo

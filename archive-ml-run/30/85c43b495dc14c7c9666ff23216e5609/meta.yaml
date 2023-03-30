@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/30/85c43b495dc14c7c9666ff23216e5609/artifacts
+end_time: 1673989881912
+entry_point_name: ''
+experiment_id: '30'
+lifecycle_stage: active
+run_id: 85c43b495dc14c7c9666ff23216e5609
+run_name: thundering-shrew-782
+run_uuid: 85c43b495dc14c7c9666ff23216e5609
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673989877513
+status: 3
+tags: []
+user_id: louibo

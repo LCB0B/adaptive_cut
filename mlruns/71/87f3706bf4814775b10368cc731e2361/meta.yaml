@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/71/87f3706bf4814775b10368cc731e2361/artifacts
+end_time: 1676895740744
+entry_point_name: ''
+experiment_id: '71'
+lifecycle_stage: active
+run_id: 87f3706bf4814775b10368cc731e2361
+run_name: vaunted-gull-740
+run_uuid: 87f3706bf4814775b10368cc731e2361
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676895667279
+status: 3
+tags: []
+user_id: louibo

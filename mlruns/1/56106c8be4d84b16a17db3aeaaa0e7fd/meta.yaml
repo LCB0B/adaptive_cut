@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/1/56106c8be4d84b16a17db3aeaaa0e7fd/artifacts
+end_time: 1676752537090
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 56106c8be4d84b16a17db3aeaaa0e7fd
+run_name: luminous-perch-731
+run_uuid: 56106c8be4d84b16a17db3aeaaa0e7fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676752092144
+status: 3
+tags: []
+user_id: louibo

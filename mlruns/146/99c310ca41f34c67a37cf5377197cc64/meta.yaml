@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/146/99c310ca41f34c67a37cf5377197cc64/artifacts
+end_time: 1676902075568
+entry_point_name: ''
+experiment_id: '146'
+lifecycle_stage: active
+run_id: 99c310ca41f34c67a37cf5377197cc64
+run_name: skillful-crow-387
+run_uuid: 99c310ca41f34c67a37cf5377197cc64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676902074707
+status: 3
+tags: []
+user_id: louibo

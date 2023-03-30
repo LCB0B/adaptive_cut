@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/71/8aeae156ff884b7f99bd7785ba478f0c/artifacts
+end_time: 1676739988839
+entry_point_name: ''
+experiment_id: '71'
+lifecycle_stage: active
+run_id: 8aeae156ff884b7f99bd7785ba478f0c
+run_name: glamorous-hawk-79
+run_uuid: 8aeae156ff884b7f99bd7785ba478f0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676739988749
+status: 4
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/25/3962770a18464ee5a04a7773ef1d0898/artifacts
+end_time: 1674752638330
+entry_point_name: ''
+experiment_id: '25'
+lifecycle_stage: active
+run_id: 3962770a18464ee5a04a7773ef1d0898
+run_name: invincible-stork-210
+run_uuid: 3962770a18464ee5a04a7773ef1d0898
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674752346343
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/e9cbe4564a7f43359f29467714629030/artifacts
+end_time: 1669222045752
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: e9cbe4564a7f43359f29467714629030
+run_name: luxuriant-slug-263
+run_uuid: e9cbe4564a7f43359f29467714629030
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669222041884
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/41/45094791cb8545a0893bdf47fb640399/artifacts
+end_time: 1676756916118
+entry_point_name: ''
+experiment_id: '41'
+lifecycle_stage: active
+run_id: 45094791cb8545a0893bdf47fb640399
+run_name: amusing-newt-621
+run_uuid: 45094791cb8545a0893bdf47fb640399
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676756897740
+status: 3
+tags: []
+user_id: louibo

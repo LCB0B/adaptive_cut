@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/38/ffbdab8a53b640639632b1ada5194510/artifacts
+end_time: 1676860347346
+entry_point_name: ''
+experiment_id: '38'
+lifecycle_stage: active
+run_id: ffbdab8a53b640639632b1ada5194510
+run_name: bouncy-lamb-697
+run_uuid: ffbdab8a53b640639632b1ada5194510
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676860345140
+status: 3
+tags: []
+user_id: louibo

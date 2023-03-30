@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/33/ce2784217a9046ccae825fef6bc0f65b/artifacts
+end_time: 1674069812217
+entry_point_name: ''
+experiment_id: '33'
+lifecycle_stage: active
+run_id: ce2784217a9046ccae825fef6bc0f65b
+run_name: kindly-owl-262
+run_uuid: ce2784217a9046ccae825fef6bc0f65b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674069782595
+status: 3
+tags: []
+user_id: louibo

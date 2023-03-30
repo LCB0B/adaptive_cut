@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/17/075d98220aa84755851553ef9bedfee5/artifacts
+end_time: 1673983498515
+entry_point_name: ''
+experiment_id: '17'
+lifecycle_stage: active
+run_id: 075d98220aa84755851553ef9bedfee5
+run_name: unequaled-ant-543
+run_uuid: 075d98220aa84755851553ef9bedfee5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673983490628
+status: 3
+tags: []
+user_id: louibo

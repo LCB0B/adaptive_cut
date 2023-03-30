@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/33/ba25a5bda53b4ce38df598b97c369183/artifacts
+end_time: 1676870996680
+entry_point_name: ''
+experiment_id: '33'
+lifecycle_stage: active
+run_id: ba25a5bda53b4ce38df598b97c369183
+run_name: amusing-moth-577
+run_uuid: ba25a5bda53b4ce38df598b97c369183
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676870991783
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/26/bf25374ee8b04a4dac321e7636bf9295/artifacts
+end_time: 1676876816272
+entry_point_name: ''
+experiment_id: '26'
+lifecycle_stage: active
+run_id: bf25374ee8b04a4dac321e7636bf9295
+run_name: unique-horse-808
+run_uuid: bf25374ee8b04a4dac321e7636bf9295
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676875752703
+status: 3
+tags: []
+user_id: louibo

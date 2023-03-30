@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/28/289aa6513e0c4470ae3b30d670085ecd/artifacts
+end_time: 1673990063591
+entry_point_name: ''
+experiment_id: '28'
+lifecycle_stage: active
+run_id: 289aa6513e0c4470ae3b30d670085ecd
+run_name: crawling-newt-474
+run_uuid: 289aa6513e0c4470ae3b30d670085ecd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673990047678
+status: 3
+tags: []
+user_id: louibo

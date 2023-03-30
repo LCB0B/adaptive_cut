@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/17/dcb0650bf3f34ba4bea41ae38a0b40f0/artifacts
+end_time: 1676909674607
+entry_point_name: ''
+experiment_id: '17'
+lifecycle_stage: active
+run_id: dcb0650bf3f34ba4bea41ae38a0b40f0
+run_name: merciful-shrike-333
+run_uuid: dcb0650bf3f34ba4bea41ae38a0b40f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676909656090
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/14/b447bd21d4e44f34a59619d036d08d4c/artifacts
+end_time: 1673801824767
+entry_point_name: ''
+experiment_id: '14'
+lifecycle_stage: active
+run_id: b447bd21d4e44f34a59619d036d08d4c
+run_name: treasured-horse-976
+run_uuid: b447bd21d4e44f34a59619d036d08d4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673801786175
+status: 3
+tags: []
+user_id: louibo

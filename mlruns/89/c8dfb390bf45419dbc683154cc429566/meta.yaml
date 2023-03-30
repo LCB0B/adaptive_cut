@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/89/c8dfb390bf45419dbc683154cc429566/artifacts
+end_time: 1676743324421
+entry_point_name: ''
+experiment_id: '89'
+lifecycle_stage: active
+run_id: c8dfb390bf45419dbc683154cc429566
+run_name: selective-snake-846
+run_uuid: c8dfb390bf45419dbc683154cc429566
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676743317788
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/38/3476690be0b24254ad9d98a8a9830400/artifacts
+end_time: 1674060443411
+entry_point_name: ''
+experiment_id: '38'
+lifecycle_stage: active
+run_id: 3476690be0b24254ad9d98a8a9830400
+run_name: clean-wolf-780
+run_uuid: 3476690be0b24254ad9d98a8a9830400
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674060436030
+status: 3
+tags: []
+user_id: louibo

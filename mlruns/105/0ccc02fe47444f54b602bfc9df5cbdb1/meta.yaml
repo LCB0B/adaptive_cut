@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/105/0ccc02fe47444f54b602bfc9df5cbdb1/artifacts
+end_time: 1676912851851
+entry_point_name: ''
+experiment_id: '105'
+lifecycle_stage: active
+run_id: 0ccc02fe47444f54b602bfc9df5cbdb1
+run_name: masked-donkey-798
+run_uuid: 0ccc02fe47444f54b602bfc9df5cbdb1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676912367436
+status: 3
+tags: []
+user_id: louibo

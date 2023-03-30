@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/72/018c70fd7a2e4ef9a7d39faa9cedcaae/artifacts
+end_time: 1676851696496
+entry_point_name: ''
+experiment_id: '72'
+lifecycle_stage: active
+run_id: 018c70fd7a2e4ef9a7d39faa9cedcaae
+run_name: intrigued-stag-618
+run_uuid: 018c70fd7a2e4ef9a7d39faa9cedcaae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676851666728
+status: 3
+tags: []
+user_id: louibo

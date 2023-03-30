@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/36/c0731d73e8734ba4bd48c489ba13bf4a/artifacts
+end_time: 1674760922324
+entry_point_name: ''
+experiment_id: '36'
+lifecycle_stage: active
+run_id: c0731d73e8734ba4bd48c489ba13bf4a
+run_name: redolent-duck-785
+run_uuid: c0731d73e8734ba4bd48c489ba13bf4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674760916107
+status: 3
+tags: []
+user_id: louibo

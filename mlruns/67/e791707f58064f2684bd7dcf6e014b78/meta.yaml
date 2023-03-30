@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/67/e791707f58064f2684bd7dcf6e014b78/artifacts
+end_time: 1676900124522
+entry_point_name: ''
+experiment_id: '67'
+lifecycle_stage: active
+run_id: e791707f58064f2684bd7dcf6e014b78
+run_name: colorful-panda-795
+run_uuid: e791707f58064f2684bd7dcf6e014b78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676900101415
+status: 3
+tags: []
+user_id: louibo

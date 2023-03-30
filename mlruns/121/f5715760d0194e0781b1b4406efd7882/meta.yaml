@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/121/f5715760d0194e0781b1b4406efd7882/artifacts
+end_time: 1676865167917
+entry_point_name: ''
+experiment_id: '121'
+lifecycle_stage: active
+run_id: f5715760d0194e0781b1b4406efd7882
+run_name: redolent-gull-603
+run_uuid: f5715760d0194e0781b1b4406efd7882
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676865167624
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/39/0958d4228d2049be9417e0351257e37e/artifacts
+end_time: 1674742318296
+entry_point_name: ''
+experiment_id: '39'
+lifecycle_stage: active
+run_id: 0958d4228d2049be9417e0351257e37e
+run_name: fortunate-hog-4
+run_uuid: 0958d4228d2049be9417e0351257e37e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674742317521
+status: 3
+tags: []
+user_id: louibo

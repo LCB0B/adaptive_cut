@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/36/a9e5dab537cb4cef85614328c5223c70/artifacts
+end_time: 1676897063038
+entry_point_name: ''
+experiment_id: '36'
+lifecycle_stage: active
+run_id: a9e5dab537cb4cef85614328c5223c70
+run_name: peaceful-snake-567
+run_uuid: a9e5dab537cb4cef85614328c5223c70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676897056865
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/19/3efdefd6e5f643d9a631a76d3a1a7385/artifacts
+end_time: 1676745632617
+entry_point_name: ''
+experiment_id: '19'
+lifecycle_stage: active
+run_id: 3efdefd6e5f643d9a631a76d3a1a7385
+run_name: unequaled-midge-622
+run_uuid: 3efdefd6e5f643d9a631a76d3a1a7385
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676745123006
+status: 3
+tags: []
+user_id: louibo

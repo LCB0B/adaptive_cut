@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/15/73a7b5e6875a4a60a0c0302bc44ac511/artifacts
+end_time: 1673983295961
+entry_point_name: ''
+experiment_id: '15'
+lifecycle_stage: active
+run_id: 73a7b5e6875a4a60a0c0302bc44ac511
+run_name: flawless-conch-753
+run_uuid: 73a7b5e6875a4a60a0c0302bc44ac511
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673983293926
+status: 3
+tags: []
+user_id: louibo

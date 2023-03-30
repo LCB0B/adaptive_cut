@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/20/0a648ab00f5f4373987d08abdaa5c467/artifacts
+end_time: 1674059600560
+entry_point_name: ''
+experiment_id: '20'
+lifecycle_stage: active
+run_id: 0a648ab00f5f4373987d08abdaa5c467
+run_name: resilient-midge-138
+run_uuid: 0a648ab00f5f4373987d08abdaa5c467
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674059593456
+status: 3
+tags: []
+user_id: louibo

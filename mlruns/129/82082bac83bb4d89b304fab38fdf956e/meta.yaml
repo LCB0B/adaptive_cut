@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/129/82082bac83bb4d89b304fab38fdf956e/artifacts
+end_time: 1676911971910
+entry_point_name: ''
+experiment_id: '129'
+lifecycle_stage: active
+run_id: 82082bac83bb4d89b304fab38fdf956e
+run_name: youthful-foal-970
+run_uuid: 82082bac83bb4d89b304fab38fdf956e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676911964890
+status: 3
+tags: []
+user_id: louibo

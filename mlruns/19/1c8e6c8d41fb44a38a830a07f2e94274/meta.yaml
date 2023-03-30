@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/19/1c8e6c8d41fb44a38a830a07f2e94274/artifacts
+end_time: 1673994429855
+entry_point_name: ''
+experiment_id: '19'
+lifecycle_stage: active
+run_id: 1c8e6c8d41fb44a38a830a07f2e94274
+run_name: unleashed-elk-813
+run_uuid: 1c8e6c8d41fb44a38a830a07f2e94274
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673993916298
+status: 3
+tags: []
+user_id: louibo

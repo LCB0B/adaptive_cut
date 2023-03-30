@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/34/8da38ec8ad214f55878636e49c5e373e/artifacts
+end_time: 1674754611685
+entry_point_name: ''
+experiment_id: '34'
+lifecycle_stage: active
+run_id: 8da38ec8ad214f55878636e49c5e373e
+run_name: beautiful-turtle-401
+run_uuid: 8da38ec8ad214f55878636e49c5e373e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674754323447
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/950cc383ae63424dac1fe851121e029f/artifacts
+end_time: 1670248734854
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 950cc383ae63424dac1fe851121e029f
+run_name: powerful-cod-993
+run_uuid: 950cc383ae63424dac1fe851121e029f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670248733334
+status: 3
+tags: []
+user_id: louibo

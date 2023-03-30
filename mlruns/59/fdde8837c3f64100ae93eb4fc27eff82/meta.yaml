@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/59/fdde8837c3f64100ae93eb4fc27eff82/artifacts
+end_time: 1676850656104
+entry_point_name: ''
+experiment_id: '59'
+lifecycle_stage: active
+run_id: fdde8837c3f64100ae93eb4fc27eff82
+run_name: funny-fly-59
+run_uuid: fdde8837c3f64100ae93eb4fc27eff82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676850651592
+status: 3
+tags: []
+user_id: louibo

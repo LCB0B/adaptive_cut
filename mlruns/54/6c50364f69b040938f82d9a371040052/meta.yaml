@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/54/6c50364f69b040938f82d9a371040052/artifacts
+end_time: 1676735741446
+entry_point_name: ''
+experiment_id: '54'
+lifecycle_stage: active
+run_id: 6c50364f69b040938f82d9a371040052
+run_name: valuable-shrew-421
+run_uuid: 6c50364f69b040938f82d9a371040052
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676735741383
+status: 4
+tags: []
+user_id: louibo

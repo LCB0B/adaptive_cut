@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/6/163c8815069a4267b64f9cd6ce3f8180/artifacts
+end_time: 1676895012241
+entry_point_name: ''
+experiment_id: '6'
+lifecycle_stage: active
+run_id: 163c8815069a4267b64f9cd6ce3f8180
+run_name: auspicious-shad-989
+run_uuid: 163c8815069a4267b64f9cd6ce3f8180
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676894893688
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/62/d32c7a3689ab4adf83f68a23989dc4c8/artifacts
+end_time: 1676736003649
+entry_point_name: ''
+experiment_id: '62'
+lifecycle_stage: active
+run_id: d32c7a3689ab4adf83f68a23989dc4c8
+run_name: gregarious-kite-781
+run_uuid: d32c7a3689ab4adf83f68a23989dc4c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676736002994
+status: 3
+tags: []
+user_id: louibo

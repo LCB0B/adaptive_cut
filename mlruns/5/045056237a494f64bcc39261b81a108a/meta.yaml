@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/5/045056237a494f64bcc39261b81a108a/artifacts
+end_time: 1674051009732
+entry_point_name: ''
+experiment_id: '5'
+lifecycle_stage: active
+run_id: 045056237a494f64bcc39261b81a108a
+run_name: intrigued-ox-715
+run_uuid: 045056237a494f64bcc39261b81a108a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674051005380
+status: 3
+tags: []
+user_id: louibo

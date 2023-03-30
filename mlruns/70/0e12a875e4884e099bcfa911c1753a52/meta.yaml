@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/70/0e12a875e4884e099bcfa911c1753a52/artifacts
+end_time: 1676741656062
+entry_point_name: ''
+experiment_id: '70'
+lifecycle_stage: active
+run_id: 0e12a875e4884e099bcfa911c1753a52
+run_name: sneaky-snake-456
+run_uuid: 0e12a875e4884e099bcfa911c1753a52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676741655309
+status: 3
+tags: []
+user_id: louibo

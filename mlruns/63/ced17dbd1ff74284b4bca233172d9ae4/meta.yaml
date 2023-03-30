@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/63/ced17dbd1ff74284b4bca233172d9ae4/artifacts
+end_time: 1676849882421
+entry_point_name: ''
+experiment_id: '63'
+lifecycle_stage: active
+run_id: ced17dbd1ff74284b4bca233172d9ae4
+run_name: painted-koi-99
+run_uuid: ced17dbd1ff74284b4bca233172d9ae4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676849770189
+status: 3
+tags: []
+user_id: louibo

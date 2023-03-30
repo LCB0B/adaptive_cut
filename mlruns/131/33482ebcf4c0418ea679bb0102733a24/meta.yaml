@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/131/33482ebcf4c0418ea679bb0102733a24/artifacts
+end_time: 1676866971418
+entry_point_name: ''
+experiment_id: '131'
+lifecycle_stage: active
+run_id: 33482ebcf4c0418ea679bb0102733a24
+run_name: gregarious-gnat-623
+run_uuid: 33482ebcf4c0418ea679bb0102733a24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676866852644
+status: 3
+tags: []
+user_id: louibo

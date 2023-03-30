@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/3/cef0c1906a1a43d4910a60bac36031ae/artifacts
+end_time: 1670250044894
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+run_id: cef0c1906a1a43d4910a60bac36031ae
+run_name: magnificent-ape-755
+run_uuid: cef0c1906a1a43d4910a60bac36031ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670250044886
+status: 4
+tags: []
+user_id: louibo

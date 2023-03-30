@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/7/8a05ab1ca30846439f7c87d09e70f4ff/artifacts
+end_time: 1674497293773
+entry_point_name: ''
+experiment_id: '7'
+lifecycle_stage: active
+run_id: 8a05ab1ca30846439f7c87d09e70f4ff
+run_name: sedate-dog-140
+run_uuid: 8a05ab1ca30846439f7c87d09e70f4ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674495693136
+status: 3
+tags: []
+user_id: louibo

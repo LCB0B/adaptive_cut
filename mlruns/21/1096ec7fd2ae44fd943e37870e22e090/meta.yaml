@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/21/1096ec7fd2ae44fd943e37870e22e090/artifacts
+end_time: 1674058306947
+entry_point_name: ''
+experiment_id: '21'
+lifecycle_stage: active
+run_id: 1096ec7fd2ae44fd943e37870e22e090
+run_name: delicate-ape-614
+run_uuid: 1096ec7fd2ae44fd943e37870e22e090
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674058255602
+status: 3
+tags: []
+user_id: louibo

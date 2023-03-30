@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/25/7c381d29eb5b4f158ff6a70cf66ede4f/artifacts
+end_time: 1674083700358
+entry_point_name: ''
+experiment_id: '25'
+lifecycle_stage: active
+run_id: 7c381d29eb5b4f158ff6a70cf66ede4f
+run_name: caring-shrew-359
+run_uuid: 7c381d29eb5b4f158ff6a70cf66ede4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674083579946
+status: 3
+tags: []
+user_id: louibo

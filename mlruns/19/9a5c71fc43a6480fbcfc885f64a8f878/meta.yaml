@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/19/9a5c71fc43a6480fbcfc885f64a8f878/artifacts
+end_time: 1676854667711
+entry_point_name: ''
+experiment_id: '19'
+lifecycle_stage: active
+run_id: 9a5c71fc43a6480fbcfc885f64a8f878
+run_name: charming-crab-149
+run_uuid: 9a5c71fc43a6480fbcfc885f64a8f878
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676854309463
+status: 3
+tags: []
+user_id: louibo

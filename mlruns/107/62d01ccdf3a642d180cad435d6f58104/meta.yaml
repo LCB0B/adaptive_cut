@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/107/62d01ccdf3a642d180cad435d6f58104/artifacts
+end_time: 1676885209947
+entry_point_name: ''
+experiment_id: '107'
+lifecycle_stage: active
+run_id: 62d01ccdf3a642d180cad435d6f58104
+run_name: redolent-toad-518
+run_uuid: 62d01ccdf3a642d180cad435d6f58104
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676885097750
+status: 3
+tags: []
+user_id: louibo

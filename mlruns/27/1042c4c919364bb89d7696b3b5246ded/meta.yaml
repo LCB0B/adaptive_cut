@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/27/1042c4c919364bb89d7696b3b5246ded/artifacts
+end_time: 1674078215645
+entry_point_name: ''
+experiment_id: '27'
+lifecycle_stage: active
+run_id: 1042c4c919364bb89d7696b3b5246ded
+run_name: unleashed-dove-981
+run_uuid: 1042c4c919364bb89d7696b3b5246ded
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674078113216
+status: 3
+tags: []
+user_id: louibo

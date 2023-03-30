@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/1/52e02dafa61e4acda6320f2475cc7c40/artifacts
+end_time: 1674003387830
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 52e02dafa61e4acda6320f2475cc7c40
+run_name: learned-bat-183
+run_uuid: 52e02dafa61e4acda6320f2475cc7c40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674002988602
+status: 3
+tags: []
+user_id: louibo

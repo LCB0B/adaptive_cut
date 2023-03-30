@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/26/e32d70208d094009a7003e2469fa952e/artifacts
+end_time: 1676923057272
+entry_point_name: ''
+experiment_id: '26'
+lifecycle_stage: active
+run_id: e32d70208d094009a7003e2469fa952e
+run_name: tasteful-flea-407
+run_uuid: e32d70208d094009a7003e2469fa952e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676922055396
+status: 3
+tags: []
+user_id: louibo

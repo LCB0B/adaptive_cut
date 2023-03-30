@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/123/14a185ee2ce74211889748536f68e94e/artifacts
+end_time: 1676763819994
+entry_point_name: ''
+experiment_id: '123'
+lifecycle_stage: active
+run_id: 14a185ee2ce74211889748536f68e94e
+run_name: receptive-cow-585
+run_uuid: 14a185ee2ce74211889748536f68e94e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676763819906
+status: 4
+tags: []
+user_id: louibo

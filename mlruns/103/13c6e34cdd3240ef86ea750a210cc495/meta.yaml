@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/103/13c6e34cdd3240ef86ea750a210cc495/artifacts
+end_time: 1676877042296
+entry_point_name: ''
+experiment_id: '103'
+lifecycle_stage: active
+run_id: 13c6e34cdd3240ef86ea750a210cc495
+run_name: powerful-trout-927
+run_uuid: 13c6e34cdd3240ef86ea750a210cc495
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676877040247
+status: 3
+tags: []
+user_id: louibo

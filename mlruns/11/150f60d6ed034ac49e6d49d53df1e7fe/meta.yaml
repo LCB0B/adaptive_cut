@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/11/150f60d6ed034ac49e6d49d53df1e7fe/artifacts
+end_time: 1673983060388
+entry_point_name: ''
+experiment_id: '11'
+lifecycle_stage: active
+run_id: 150f60d6ed034ac49e6d49d53df1e7fe
+run_name: auspicious-mink-324
+run_uuid: 150f60d6ed034ac49e6d49d53df1e7fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673981015693
+status: 3
+tags: []
+user_id: louibo

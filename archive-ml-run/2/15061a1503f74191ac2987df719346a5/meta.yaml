@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/15061a1503f74191ac2987df719346a5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 15061a1503f74191ac2987df719346a5
+run_name: delightful-mole-32
+run_uuid: 15061a1503f74191ac2987df719346a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670246634416
+status: 1
+tags: []
+user_id: louibo

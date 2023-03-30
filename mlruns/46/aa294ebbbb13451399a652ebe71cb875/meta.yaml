@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/46/aa294ebbbb13451399a652ebe71cb875/artifacts
+end_time: 1674068148179
+entry_point_name: ''
+experiment_id: '46'
+lifecycle_stage: active
+run_id: aa294ebbbb13451399a652ebe71cb875
+run_name: unequaled-shrike-264
+run_uuid: aa294ebbbb13451399a652ebe71cb875
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674068135165
+status: 3
+tags: []
+user_id: louibo

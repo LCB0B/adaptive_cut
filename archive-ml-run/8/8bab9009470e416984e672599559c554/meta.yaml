@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/8/8bab9009470e416984e672599559c554/artifacts
+end_time: 1673972752479
+entry_point_name: ''
+experiment_id: '8'
+lifecycle_stage: active
+run_id: 8bab9009470e416984e672599559c554
+run_name: popular-eel-245
+run_uuid: 8bab9009470e416984e672599559c554
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673972722762
+status: 3
+tags: []
+user_id: louibo

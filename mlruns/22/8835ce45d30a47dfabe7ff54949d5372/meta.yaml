@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/22/8835ce45d30a47dfabe7ff54949d5372/artifacts
+end_time: 1676900774576
+entry_point_name: ''
+experiment_id: '22'
+lifecycle_stage: active
+run_id: 8835ce45d30a47dfabe7ff54949d5372
+run_name: inquisitive-stag-793
+run_uuid: 8835ce45d30a47dfabe7ff54949d5372
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676900457760
+status: 3
+tags: []
+user_id: louibo

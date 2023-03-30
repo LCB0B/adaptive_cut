@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/121/5963ca3e282d453fbfaca0d386a22632/artifacts
+end_time: 1676763655236
+entry_point_name: ''
+experiment_id: '121'
+lifecycle_stage: active
+run_id: 5963ca3e282d453fbfaca0d386a22632
+run_name: dazzling-horse-348
+run_uuid: 5963ca3e282d453fbfaca0d386a22632
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676763646923
+status: 3
+tags: []
+user_id: louibo

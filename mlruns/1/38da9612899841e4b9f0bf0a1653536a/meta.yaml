@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/1/38da9612899841e4b9f0bf0a1653536a/artifacts
+end_time: 1674057910980
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 38da9612899841e4b9f0bf0a1653536a
+run_name: luxuriant-sponge-685
+run_uuid: 38da9612899841e4b9f0bf0a1653536a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674057908615
+status: 4
+tags: []
+user_id: louibo

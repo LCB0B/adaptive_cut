@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/12/d8d217281a50429c9d02b2826fcefe7b/artifacts
+end_time: 1674735849839
+entry_point_name: ''
+experiment_id: '12'
+lifecycle_stage: active
+run_id: d8d217281a50429c9d02b2826fcefe7b
+run_name: zealous-sponge-726
+run_uuid: d8d217281a50429c9d02b2826fcefe7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674735834017
+status: 3
+tags: []
+user_id: louibo

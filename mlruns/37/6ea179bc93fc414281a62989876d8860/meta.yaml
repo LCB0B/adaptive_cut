@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/37/6ea179bc93fc414281a62989876d8860/artifacts
+end_time: 1676877327416
+entry_point_name: ''
+experiment_id: '37'
+lifecycle_stage: active
+run_id: 6ea179bc93fc414281a62989876d8860
+run_name: peaceful-shrew-451
+run_uuid: 6ea179bc93fc414281a62989876d8860
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676877183201
+status: 3
+tags: []
+user_id: louibo

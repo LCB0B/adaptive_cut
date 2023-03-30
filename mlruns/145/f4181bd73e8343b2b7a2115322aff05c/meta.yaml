@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/145/f4181bd73e8343b2b7a2115322aff05c/artifacts
+end_time: 1676768314500
+entry_point_name: ''
+experiment_id: '145'
+lifecycle_stage: active
+run_id: f4181bd73e8343b2b7a2115322aff05c
+run_name: secretive-crow-210
+run_uuid: f4181bd73e8343b2b7a2115322aff05c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676768313339
+status: 4
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/109/7a3a10aaf66446b3940a34defa274360/artifacts
+end_time: 1676761187748
+entry_point_name: ''
+experiment_id: '109'
+lifecycle_stage: active
+run_id: 7a3a10aaf66446b3940a34defa274360
+run_name: thundering-seal-687
+run_uuid: 7a3a10aaf66446b3940a34defa274360
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676761175185
+status: 3
+tags: []
+user_id: louibo

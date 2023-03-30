@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/70/94845e9d008449c398a075e68d591890/artifacts
+end_time: 1676741656175
+entry_point_name: ''
+experiment_id: '70'
+lifecycle_stage: active
+run_id: 94845e9d008449c398a075e68d591890
+run_name: gentle-dog-869
+run_uuid: 94845e9d008449c398a075e68d591890
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676741656072
+status: 4
+tags: []
+user_id: louibo

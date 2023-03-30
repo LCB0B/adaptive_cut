@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/34/53e869da00aa4a9298cf146e5b13748e/artifacts
+end_time: 1673723534170
+entry_point_name: ''
+experiment_id: '34'
+lifecycle_stage: active
+run_id: 53e869da00aa4a9298cf146e5b13748e
+run_name: fortunate-fawn-271
+run_uuid: 53e869da00aa4a9298cf146e5b13748e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673723534159
+status: 4
+tags: []
+user_id: louibo

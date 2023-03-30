@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/48/7deeb5810ee2466e88a64a84f9b4b8ad/artifacts
+end_time: 1674081558321
+entry_point_name: ''
+experiment_id: '48'
+lifecycle_stage: active
+run_id: 7deeb5810ee2466e88a64a84f9b4b8ad
+run_name: enchanting-squid-626
+run_uuid: 7deeb5810ee2466e88a64a84f9b4b8ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674081439208
+status: 3
+tags: []
+user_id: louibo

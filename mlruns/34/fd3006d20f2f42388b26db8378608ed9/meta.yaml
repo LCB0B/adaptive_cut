@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/34/fd3006d20f2f42388b26db8378608ed9/artifacts
+end_time: 1674476283144
+entry_point_name: ''
+experiment_id: '34'
+lifecycle_stage: active
+run_id: fd3006d20f2f42388b26db8378608ed9
+run_name: burly-squid-574
+run_uuid: fd3006d20f2f42388b26db8378608ed9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674476236017
+status: 3
+tags: []
+user_id: louibo

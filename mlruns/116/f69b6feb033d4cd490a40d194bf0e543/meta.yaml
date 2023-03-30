@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/116/f69b6feb033d4cd490a40d194bf0e543/artifacts
+end_time: 1676870140881
+entry_point_name: ''
+experiment_id: '116'
+lifecycle_stage: active
+run_id: f69b6feb033d4cd490a40d194bf0e543
+run_name: persistent-carp-585
+run_uuid: f69b6feb033d4cd490a40d194bf0e543
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676870120711
+status: 3
+tags: []
+user_id: louibo

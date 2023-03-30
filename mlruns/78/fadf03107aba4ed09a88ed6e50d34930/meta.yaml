@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/78/fadf03107aba4ed09a88ed6e50d34930/artifacts
+end_time: 1676744149199
+entry_point_name: ''
+experiment_id: '78'
+lifecycle_stage: active
+run_id: fadf03107aba4ed09a88ed6e50d34930
+run_name: persistent-toad-524
+run_uuid: fadf03107aba4ed09a88ed6e50d34930
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676744147528
+status: 3
+tags: []
+user_id: louibo

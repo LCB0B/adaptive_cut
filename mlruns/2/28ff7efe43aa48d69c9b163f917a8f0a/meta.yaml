@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/28ff7efe43aa48d69c9b163f917a8f0a/artifacts
+end_time: 1673733548250
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 28ff7efe43aa48d69c9b163f917a8f0a
+run_name: powerful-bug-171
+run_uuid: 28ff7efe43aa48d69c9b163f917a8f0a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673733547013
+status: 3
+tags: []
+user_id: louibo

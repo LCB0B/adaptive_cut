@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/89/c8c052c7b51c4becb61fe73403a604c6/artifacts
+end_time: 1676867667561
+entry_point_name: ''
+experiment_id: '89'
+lifecycle_stage: active
+run_id: c8c052c7b51c4becb61fe73403a604c6
+run_name: receptive-moose-696
+run_uuid: c8c052c7b51c4becb61fe73403a604c6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676867667374
+status: 3
+tags: []
+user_id: louibo

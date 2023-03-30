@@ -1,0 +1,2 @@
+Run with UUID 7938b342d2324d04a5e127aa4507744b is already active. To start a new run, first end the current run with mlflow.end_run(). To start a nested run, call start_run with nested=True 
+Exception('Run with UUID 7938b342d2324d04a5e127aa4507744b is already active. To start a new run, first end the current run with mlflow.end_run(). To start a nested run, call start_run with nested=True')

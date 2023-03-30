@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/3/64a5cbbff9394878b1ea85f89d72669f/artifacts
+end_time: 1673721630970
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+run_id: 64a5cbbff9394878b1ea85f89d72669f
+run_name: skillful-lamb-168
+run_uuid: 64a5cbbff9394878b1ea85f89d72669f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673721630956
+status: 4
+tags: []
+user_id: louibo

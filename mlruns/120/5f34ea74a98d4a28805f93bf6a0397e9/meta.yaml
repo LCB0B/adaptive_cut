@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/120/5f34ea74a98d4a28805f93bf6a0397e9/artifacts
+end_time: 1676763646704
+entry_point_name: ''
+experiment_id: '120'
+lifecycle_stage: active
+run_id: 5f34ea74a98d4a28805f93bf6a0397e9
+run_name: worried-dolphin-759
+run_uuid: 5f34ea74a98d4a28805f93bf6a0397e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676763571582
+status: 3
+tags: []
+user_id: louibo

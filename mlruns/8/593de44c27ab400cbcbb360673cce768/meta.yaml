@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/8/593de44c27ab400cbcbb360673cce768/artifacts
+end_time: 1674054085105
+entry_point_name: ''
+experiment_id: '8'
+lifecycle_stage: active
+run_id: 593de44c27ab400cbcbb360673cce768
+run_name: useful-fowl-98
+run_uuid: 593de44c27ab400cbcbb360673cce768
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674053964706
+status: 3
+tags: []
+user_id: louibo

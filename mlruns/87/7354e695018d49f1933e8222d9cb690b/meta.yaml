@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/87/7354e695018d49f1933e8222d9cb690b/artifacts
+end_time: 1676900457532
+entry_point_name: ''
+experiment_id: '87'
+lifecycle_stage: active
+run_id: 7354e695018d49f1933e8222d9cb690b
+run_name: capable-gnu-829
+run_uuid: 7354e695018d49f1933e8222d9cb690b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676900347447
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/47/e4fc6151bae74ebe81730363928a164e/artifacts
+end_time: 1674762415769
+entry_point_name: ''
+experiment_id: '47'
+lifecycle_stage: active
+run_id: e4fc6151bae74ebe81730363928a164e
+run_name: carefree-shad-822
+run_uuid: e4fc6151bae74ebe81730363928a164e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674762412344
+status: 3
+tags: []
+user_id: louibo

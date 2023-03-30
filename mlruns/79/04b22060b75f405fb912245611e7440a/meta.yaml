@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/79/04b22060b75f405fb912245611e7440a/artifacts
+end_time: 1676863716272
+entry_point_name: ''
+experiment_id: '79'
+lifecycle_stage: active
+run_id: 04b22060b75f405fb912245611e7440a
+run_name: gregarious-shark-113
+run_uuid: 04b22060b75f405fb912245611e7440a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676863709825
+status: 3
+tags: []
+user_id: louibo

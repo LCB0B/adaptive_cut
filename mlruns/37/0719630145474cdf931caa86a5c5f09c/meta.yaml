@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/37/0719630145474cdf931caa86a5c5f09c/artifacts
+end_time: 1676746675006
+entry_point_name: ''
+experiment_id: '37'
+lifecycle_stage: active
+run_id: 0719630145474cdf931caa86a5c5f09c
+run_name: invincible-koi-100
+run_uuid: 0719630145474cdf931caa86a5c5f09c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676746462408
+status: 3
+tags: []
+user_id: louibo

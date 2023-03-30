@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/15/869bae13ac234ff097761196a11f7fbf/artifacts
+end_time: 1676740500658
+entry_point_name: ''
+experiment_id: '15'
+lifecycle_stage: active
+run_id: 869bae13ac234ff097761196a11f7fbf
+run_name: serious-perch-948
+run_uuid: 869bae13ac234ff097761196a11f7fbf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676740497802
+status: 3
+tags: []
+user_id: louibo

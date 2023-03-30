@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/29/a4b39c3e61174f14b24afdd4e44161be/artifacts
+end_time: 1674494892319
+entry_point_name: ''
+experiment_id: '29'
+lifecycle_stage: active
+run_id: a4b39c3e61174f14b24afdd4e44161be
+run_name: resilient-turtle-781
+run_uuid: a4b39c3e61174f14b24afdd4e44161be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674494735499
+status: 3
+tags: []
+user_id: louibo

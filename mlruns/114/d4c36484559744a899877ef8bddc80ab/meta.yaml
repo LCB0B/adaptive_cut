@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/114/d4c36484559744a899877ef8bddc80ab/artifacts
+end_time: 1676887976298
+entry_point_name: ''
+experiment_id: '114'
+lifecycle_stage: active
+run_id: d4c36484559744a899877ef8bddc80ab
+run_name: fearless-grub-858
+run_uuid: d4c36484559744a899877ef8bddc80ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676887976055
+status: 3
+tags: []
+user_id: louibo

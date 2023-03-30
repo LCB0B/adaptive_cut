@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/5/7212ca6a62ab4982a0aa70e31c871f94/artifacts
+end_time: 1673980613180
+entry_point_name: ''
+experiment_id: '5'
+lifecycle_stage: active
+run_id: 7212ca6a62ab4982a0aa70e31c871f94
+run_name: lyrical-trout-535
+run_uuid: 7212ca6a62ab4982a0aa70e31c871f94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673980611257
+status: 3
+tags: []
+user_id: louibo

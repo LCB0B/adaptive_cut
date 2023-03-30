@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/132/6883968bac7b45cfa3ea00795a308919/artifacts
+end_time: 1676767872157
+entry_point_name: ''
+experiment_id: '132'
+lifecycle_stage: active
+run_id: 6883968bac7b45cfa3ea00795a308919
+run_name: capable-shoat-466
+run_uuid: 6883968bac7b45cfa3ea00795a308919
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676767871268
+status: 3
+tags: []
+user_id: louibo

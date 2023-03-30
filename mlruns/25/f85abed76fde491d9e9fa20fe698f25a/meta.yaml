@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/25/f85abed76fde491d9e9fa20fe698f25a/artifacts
+end_time: 1674081677346
+entry_point_name: ''
+experiment_id: '25'
+lifecycle_stage: active
+run_id: f85abed76fde491d9e9fa20fe698f25a
+run_name: adaptable-rook-341
+run_uuid: f85abed76fde491d9e9fa20fe698f25a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674081593346
+status: 4
+tags: []
+user_id: louibo

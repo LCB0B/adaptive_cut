@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/16/29335eb4a6a943a0a3d504442fc104b1/artifacts
+end_time: 1674056748035
+entry_point_name: ''
+experiment_id: '16'
+lifecycle_stage: active
+run_id: 29335eb4a6a943a0a3d504442fc104b1
+run_name: lyrical-crane-859
+run_uuid: 29335eb4a6a943a0a3d504442fc104b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674056434950
+status: 3
+tags: []
+user_id: louibo

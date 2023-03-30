@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/1/d6d72f644d92493481af7a1390eef5ca/artifacts
+end_time: 1676902766468
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d6d72f644d92493481af7a1390eef5ca
+run_name: angry-sponge-730
+run_uuid: d6d72f644d92493481af7a1390eef5ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676902530523
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/31/0010469030164e138965551db0640fa8/artifacts
+end_time: 1673989893880
+entry_point_name: ''
+experiment_id: '31'
+lifecycle_stage: active
+run_id: 0010469030164e138965551db0640fa8
+run_name: languid-kite-400
+run_uuid: 0010469030164e138965551db0640fa8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673989889138
+status: 3
+tags: []
+user_id: louibo

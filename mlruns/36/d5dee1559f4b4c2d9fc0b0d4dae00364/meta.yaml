@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/36/d5dee1559f4b4c2d9fc0b0d4dae00364/artifacts
+end_time: 1674762349814
+entry_point_name: ''
+experiment_id: '36'
+lifecycle_stage: active
+run_id: d5dee1559f4b4c2d9fc0b0d4dae00364
+run_name: gifted-dolphin-181
+run_uuid: d5dee1559f4b4c2d9fc0b0d4dae00364
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674762343836
+status: 3
+tags: []
+user_id: louibo

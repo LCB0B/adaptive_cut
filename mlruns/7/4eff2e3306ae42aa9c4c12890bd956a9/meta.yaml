@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/7/4eff2e3306ae42aa9c4c12890bd956a9/artifacts
+end_time: 1673980062818
+entry_point_name: ''
+experiment_id: '7'
+lifecycle_stage: active
+run_id: 4eff2e3306ae42aa9c4c12890bd956a9
+run_name: blushing-duck-213
+run_uuid: 4eff2e3306ae42aa9c4c12890bd956a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673979609185
+status: 3
+tags: []
+user_id: louibo

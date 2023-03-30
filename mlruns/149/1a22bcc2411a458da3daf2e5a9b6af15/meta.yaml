@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/149/1a22bcc2411a458da3daf2e5a9b6af15/artifacts
+end_time: 1676795156535
+entry_point_name: ''
+experiment_id: '149'
+lifecycle_stage: active
+run_id: 1a22bcc2411a458da3daf2e5a9b6af15
+run_name: gregarious-cow-857
+run_uuid: 1a22bcc2411a458da3daf2e5a9b6af15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676795156433
+status: 4
+tags: []
+user_id: louibo

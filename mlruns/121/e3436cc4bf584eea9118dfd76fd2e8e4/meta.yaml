@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/121/e3436cc4bf584eea9118dfd76fd2e8e4/artifacts
+end_time: 1676911361896
+entry_point_name: ''
+experiment_id: '121'
+lifecycle_stage: active
+run_id: e3436cc4bf584eea9118dfd76fd2e8e4
+run_name: colorful-swan-63
+run_uuid: e3436cc4bf584eea9118dfd76fd2e8e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676911354467
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/45/40ca3b2eb39346709936c5749b4c6a01/artifacts
+end_time: 1676917639242
+entry_point_name: ''
+experiment_id: '45'
+lifecycle_stage: active
+run_id: 40ca3b2eb39346709936c5749b4c6a01
+run_name: zealous-shrike-473
+run_uuid: 40ca3b2eb39346709936c5749b4c6a01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676917610166
+status: 3
+tags: []
+user_id: louibo

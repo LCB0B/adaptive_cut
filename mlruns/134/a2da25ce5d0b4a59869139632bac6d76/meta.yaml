@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/134/a2da25ce5d0b4a59869139632bac6d76/artifacts
+end_time: 1676756462518
+entry_point_name: ''
+experiment_id: '134'
+lifecycle_stage: active
+run_id: a2da25ce5d0b4a59869139632bac6d76
+run_name: mysterious-wren-21
+run_uuid: a2da25ce5d0b4a59869139632bac6d76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676756433438
+status: 3
+tags: []
+user_id: louibo

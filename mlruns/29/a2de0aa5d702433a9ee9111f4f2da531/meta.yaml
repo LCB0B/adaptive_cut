@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/29/a2de0aa5d702433a9ee9111f4f2da531/artifacts
+end_time: 1674067339239
+entry_point_name: ''
+experiment_id: '29'
+lifecycle_stage: active
+run_id: a2de0aa5d702433a9ee9111f4f2da531
+run_name: exultant-gull-3
+run_uuid: a2de0aa5d702433a9ee9111f4f2da531
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674066289092
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/10/ef907cf3d4724eae8488a5ef634ce9ef/artifacts
+end_time: 1674053675134
+entry_point_name: ''
+experiment_id: '10'
+lifecycle_stage: active
+run_id: ef907cf3d4724eae8488a5ef634ce9ef
+run_name: sedate-mouse-750
+run_uuid: ef907cf3d4724eae8488a5ef634ce9ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674053633621
+status: 3
+tags: []
+user_id: louibo

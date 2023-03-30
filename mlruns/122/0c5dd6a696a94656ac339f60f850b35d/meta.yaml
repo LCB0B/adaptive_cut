@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/122/0c5dd6a696a94656ac339f60f850b35d/artifacts
+end_time: 1676939059474
+entry_point_name: ''
+experiment_id: '122'
+lifecycle_stage: active
+run_id: 0c5dd6a696a94656ac339f60f850b35d
+run_name: powerful-skunk-210
+run_uuid: 0c5dd6a696a94656ac339f60f850b35d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676938924545
+status: 3
+tags: []
+user_id: louibo

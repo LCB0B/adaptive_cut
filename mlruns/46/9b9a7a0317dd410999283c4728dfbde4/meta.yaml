@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/46/9b9a7a0317dd410999283c4728dfbde4/artifacts
+end_time: 1676768801000
+entry_point_name: ''
+experiment_id: '46'
+lifecycle_stage: active
+run_id: 9b9a7a0317dd410999283c4728dfbde4
+run_name: amusing-fly-317
+run_uuid: 9b9a7a0317dd410999283c4728dfbde4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676768789243
+status: 3
+tags: []
+user_id: louibo

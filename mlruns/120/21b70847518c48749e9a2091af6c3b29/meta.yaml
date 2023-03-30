@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/120/21b70847518c48749e9a2091af6c3b29/artifacts
+end_time: 1676865167267
+entry_point_name: ''
+experiment_id: '120'
+lifecycle_stage: active
+run_id: 21b70847518c48749e9a2091af6c3b29
+run_name: bright-sow-66
+run_uuid: 21b70847518c48749e9a2091af6c3b29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676865144651
+status: 3
+tags: []
+user_id: louibo

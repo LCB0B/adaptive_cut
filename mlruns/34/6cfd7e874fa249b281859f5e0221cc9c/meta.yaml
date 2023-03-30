@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/34/6cfd7e874fa249b281859f5e0221cc9c/artifacts
+end_time: 1674761392995
+entry_point_name: ''
+experiment_id: '34'
+lifecycle_stage: active
+run_id: 6cfd7e874fa249b281859f5e0221cc9c
+run_name: ambitious-foal-664
+run_uuid: 6cfd7e874fa249b281859f5e0221cc9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674761098600
+status: 3
+tags: []
+user_id: louibo

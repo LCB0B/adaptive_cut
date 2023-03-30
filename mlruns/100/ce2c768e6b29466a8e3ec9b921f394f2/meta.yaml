@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/100/ce2c768e6b29466a8e3ec9b921f394f2/artifacts
+end_time: 1676746462287
+entry_point_name: ''
+experiment_id: '100'
+lifecycle_stage: active
+run_id: ce2c768e6b29466a8e3ec9b921f394f2
+run_name: big-chimp-274
+run_uuid: ce2c768e6b29466a8e3ec9b921f394f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676746461937
+status: 4
+tags: []
+user_id: louibo

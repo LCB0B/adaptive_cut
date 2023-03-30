@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/65/0e736d1b9f5e4f6eab5442a2b46e8324/artifacts
+end_time: 1676850302337
+entry_point_name: ''
+experiment_id: '65'
+lifecycle_stage: active
+run_id: 0e736d1b9f5e4f6eab5442a2b46e8324
+run_name: redolent-newt-1
+run_uuid: 0e736d1b9f5e4f6eab5442a2b46e8324
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676850301179
+status: 3
+tags: []
+user_id: louibo

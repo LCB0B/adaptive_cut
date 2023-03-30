@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/139/80318b95b53744299ed5e1ce7bee2332/artifacts
+end_time: 1676757575133
+entry_point_name: ''
+experiment_id: '139'
+lifecycle_stage: active
+run_id: 80318b95b53744299ed5e1ce7bee2332
+run_name: upbeat-pug-138
+run_uuid: 80318b95b53744299ed5e1ce7bee2332
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676757570840
+status: 4
+tags: []
+user_id: louibo

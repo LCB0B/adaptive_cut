@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/126/28e87debf9c54d9a802ea43a1ea7d065/artifacts
+end_time: 1676754086374
+entry_point_name: ''
+experiment_id: '126'
+lifecycle_stage: active
+run_id: 28e87debf9c54d9a802ea43a1ea7d065
+run_name: placid-shrimp-998
+run_uuid: 28e87debf9c54d9a802ea43a1ea7d065
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676754085461
+status: 4
+tags: []
+user_id: louibo

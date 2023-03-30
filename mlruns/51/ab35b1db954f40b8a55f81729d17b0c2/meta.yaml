@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/51/ab35b1db954f40b8a55f81729d17b0c2/artifacts
+end_time: 1676824030558
+entry_point_name: ''
+experiment_id: '51'
+lifecycle_stage: active
+run_id: ab35b1db954f40b8a55f81729d17b0c2
+run_name: mysterious-worm-134
+run_uuid: ab35b1db954f40b8a55f81729d17b0c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676824023990
+status: 3
+tags: []
+user_id: louibo

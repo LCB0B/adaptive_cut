@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/89/df1a30bd591641db8cf65be16f915744/artifacts
+end_time: 1676915864474
+entry_point_name: ''
+experiment_id: '89'
+lifecycle_stage: active
+run_id: df1a30bd591641db8cf65be16f915744
+run_name: abrasive-koi-432
+run_uuid: df1a30bd591641db8cf65be16f915744
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676915850309
+status: 3
+tags: []
+user_id: louibo

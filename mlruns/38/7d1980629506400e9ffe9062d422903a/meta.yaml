@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/38/7d1980629506400e9ffe9062d422903a/artifacts
+end_time: 1674057392820
+entry_point_name: ''
+experiment_id: '38'
+lifecycle_stage: active
+run_id: 7d1980629506400e9ffe9062d422903a
+run_name: unique-shoat-969
+run_uuid: 7d1980629506400e9ffe9062d422903a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674057384517
+status: 3
+tags: []
+user_id: louibo

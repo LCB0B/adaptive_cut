@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/71/ab25f39b5dac422596bf2fee836f1c6b/artifacts
+end_time: 1676741674914
+entry_point_name: ''
+experiment_id: '71'
+lifecycle_stage: active
+run_id: ab25f39b5dac422596bf2fee836f1c6b
+run_name: placid-eel-950
+run_uuid: ab25f39b5dac422596bf2fee836f1c6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676741674773
+status: 4
+tags: []
+user_id: louibo

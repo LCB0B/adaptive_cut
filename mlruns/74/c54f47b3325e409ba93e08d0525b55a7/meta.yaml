@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/74/c54f47b3325e409ba93e08d0525b55a7/artifacts
+end_time: 1676853233712
+entry_point_name: ''
+experiment_id: '74'
+lifecycle_stage: active
+run_id: c54f47b3325e409ba93e08d0525b55a7
+run_name: blushing-frog-440
+run_uuid: c54f47b3325e409ba93e08d0525b55a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676853233515
+status: 3
+tags: []
+user_id: louibo

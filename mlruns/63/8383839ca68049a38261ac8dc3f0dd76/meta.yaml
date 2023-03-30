@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/63/8383839ca68049a38261ac8dc3f0dd76/artifacts
+end_time: 1676735764706
+entry_point_name: ''
+experiment_id: '63'
+lifecycle_stage: active
+run_id: 8383839ca68049a38261ac8dc3f0dd76
+run_name: selective-loon-133
+run_uuid: 8383839ca68049a38261ac8dc3f0dd76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676735667970
+status: 3
+tags: []
+user_id: louibo

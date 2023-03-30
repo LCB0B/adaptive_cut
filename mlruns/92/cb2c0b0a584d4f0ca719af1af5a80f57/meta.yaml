@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/92/cb2c0b0a584d4f0ca719af1af5a80f57/artifacts
+end_time: 1676752854211
+entry_point_name: ''
+experiment_id: '92'
+lifecycle_stage: active
+run_id: cb2c0b0a584d4f0ca719af1af5a80f57
+run_name: fun-horse-590
+run_uuid: cb2c0b0a584d4f0ca719af1af5a80f57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676752854060
+status: 4
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/19/7204036f83d9401887d0cf831a8e0eaf/artifacts
+end_time: 1674738177488
+entry_point_name: ''
+experiment_id: '19'
+lifecycle_stage: active
+run_id: 7204036f83d9401887d0cf831a8e0eaf
+run_name: angry-moth-784
+run_uuid: 7204036f83d9401887d0cf831a8e0eaf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674737754732
+status: 3
+tags: []
+user_id: louibo

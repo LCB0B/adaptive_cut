@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/29/6d448bd6a80347dca9f0b82c72fb0106/artifacts
+end_time: 1674757856048
+entry_point_name: ''
+experiment_id: '29'
+lifecycle_stage: active
+run_id: 6d448bd6a80347dca9f0b82c72fb0106
+run_name: flawless-mare-394
+run_uuid: 6d448bd6a80347dca9f0b82c72fb0106
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674757672054
+status: 3
+tags: []
+user_id: louibo

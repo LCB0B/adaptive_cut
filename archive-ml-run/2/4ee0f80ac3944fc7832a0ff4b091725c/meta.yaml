@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/4ee0f80ac3944fc7832a0ff4b091725c/artifacts
+end_time: 1673733032912
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 4ee0f80ac3944fc7832a0ff4b091725c
+run_name: gregarious-skink-996
+run_uuid: 4ee0f80ac3944fc7832a0ff4b091725c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673733018327
+status: 3
+tags: []
+user_id: louibo

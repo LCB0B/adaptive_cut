@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/129/517fe35f96c44275988c334c3f0b9ea7/artifacts
+end_time: 1676865662292
+entry_point_name: ''
+experiment_id: '129'
+lifecycle_stage: active
+run_id: 517fe35f96c44275988c334c3f0b9ea7
+run_name: mercurial-jay-672
+run_uuid: 517fe35f96c44275988c334c3f0b9ea7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676865655756
+status: 3
+tags: []
+user_id: louibo

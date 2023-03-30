@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/33/f8ec0bb1dbba44bc867d4ee55b068194/artifacts
+end_time: 1673735252858
+entry_point_name: ''
+experiment_id: '33'
+lifecycle_stage: active
+run_id: f8ec0bb1dbba44bc867d4ee55b068194
+run_name: illustrious-hare-864
+run_uuid: f8ec0bb1dbba44bc867d4ee55b068194
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673735238244
+status: 3
+tags: []
+user_id: louibo

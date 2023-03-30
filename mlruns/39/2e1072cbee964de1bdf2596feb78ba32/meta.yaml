@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/39/2e1072cbee964de1bdf2596feb78ba32/artifacts
+end_time: 1674754102165
+entry_point_name: ''
+experiment_id: '39'
+lifecycle_stage: active
+run_id: 2e1072cbee964de1bdf2596feb78ba32
+run_name: whimsical-foal-912
+run_uuid: 2e1072cbee964de1bdf2596feb78ba32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674754100542
+status: 3
+tags: []
+user_id: louibo

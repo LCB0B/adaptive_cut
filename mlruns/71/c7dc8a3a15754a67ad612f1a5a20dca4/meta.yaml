@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/71/c7dc8a3a15754a67ad612f1a5a20dca4/artifacts
+end_time: 1676858688943
+entry_point_name: ''
+experiment_id: '71'
+lifecycle_stage: active
+run_id: c7dc8a3a15754a67ad612f1a5a20dca4
+run_name: beautiful-ant-520
+run_uuid: c7dc8a3a15754a67ad612f1a5a20dca4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676858632627
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/114/559f3e81a7644c39a7697cfad59e7762/artifacts
+end_time: 1676909198739
+entry_point_name: ''
+experiment_id: '114'
+lifecycle_stage: active
+run_id: 559f3e81a7644c39a7697cfad59e7762
+run_name: intelligent-robin-89
+run_uuid: 559f3e81a7644c39a7697cfad59e7762
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676909197497
+status: 3
+tags: []
+user_id: louibo

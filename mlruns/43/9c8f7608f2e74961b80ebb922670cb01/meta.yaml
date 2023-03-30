@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/43/9c8f7608f2e74961b80ebb922670cb01/artifacts
+end_time: 1673991880360
+entry_point_name: ''
+experiment_id: '43'
+lifecycle_stage: active
+run_id: 9c8f7608f2e74961b80ebb922670cb01
+run_name: useful-skink-748
+run_uuid: 9c8f7608f2e74961b80ebb922670cb01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673991561253
+status: 3
+tags: []
+user_id: louibo

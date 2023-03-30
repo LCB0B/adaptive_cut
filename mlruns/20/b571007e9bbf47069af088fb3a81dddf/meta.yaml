@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/20/b571007e9bbf47069af088fb3a81dddf/artifacts
+end_time: 1673737451686
+entry_point_name: ''
+experiment_id: '20'
+lifecycle_stage: active
+run_id: b571007e9bbf47069af088fb3a81dddf
+run_name: resilient-jay-366
+run_uuid: b571007e9bbf47069af088fb3a81dddf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673737446104
+status: 3
+tags: []
+user_id: louibo

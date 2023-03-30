@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/51/1086629d6d66457bb5b08cf9932328b8/artifacts
+end_time: 1676734469475
+entry_point_name: ''
+experiment_id: '51'
+lifecycle_stage: active
+run_id: 1086629d6d66457bb5b08cf9932328b8
+run_name: learned-bee-172
+run_uuid: 1086629d6d66457bb5b08cf9932328b8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676734463077
+status: 3
+tags: []
+user_id: louibo

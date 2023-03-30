@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/26/d6863e5691dd4c92bf7e27153eda3053/artifacts
+end_time: 1674073873346
+entry_point_name: ''
+experiment_id: '26'
+lifecycle_stage: active
+run_id: d6863e5691dd4c92bf7e27153eda3053
+run_name: welcoming-stork-138
+run_uuid: d6863e5691dd4c92bf7e27153eda3053
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674072831978
+status: 3
+tags: []
+user_id: louibo

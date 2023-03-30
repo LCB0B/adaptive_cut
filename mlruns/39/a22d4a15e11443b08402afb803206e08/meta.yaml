@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/39/a22d4a15e11443b08402afb803206e08/artifacts
+end_time: 1676755402146
+entry_point_name: ''
+experiment_id: '39'
+lifecycle_stage: active
+run_id: a22d4a15e11443b08402afb803206e08
+run_name: unruly-wolf-566
+run_uuid: a22d4a15e11443b08402afb803206e08
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676755401574
+status: 3
+tags: []
+user_id: louibo

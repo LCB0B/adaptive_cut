@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/140/2ee6511142c04426b1a0014116302bb5/artifacts
+end_time: 1676869961043
+entry_point_name: ''
+experiment_id: '140'
+lifecycle_stage: active
+run_id: 2ee6511142c04426b1a0014116302bb5
+run_name: overjoyed-hog-77
+run_uuid: 2ee6511142c04426b1a0014116302bb5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676869890453
+status: 3
+tags: []
+user_id: louibo

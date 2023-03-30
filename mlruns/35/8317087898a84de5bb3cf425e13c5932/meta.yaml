@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/35/8317087898a84de5bb3cf425e13c5932/artifacts
+end_time: 1676757530832
+entry_point_name: ''
+experiment_id: '35'
+lifecycle_stage: active
+run_id: 8317087898a84de5bb3cf425e13c5932
+run_name: blushing-penguin-701
+run_uuid: 8317087898a84de5bb3cf425e13c5932
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676757497962
+status: 3
+tags: []
+user_id: louibo

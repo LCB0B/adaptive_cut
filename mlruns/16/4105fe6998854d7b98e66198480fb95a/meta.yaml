@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/16/4105fe6998854d7b98e66198480fb95a/artifacts
+end_time: 1676900962802
+entry_point_name: ''
+experiment_id: '16'
+lifecycle_stage: active
+run_id: 4105fe6998854d7b98e66198480fb95a
+run_name: gaudy-shrike-395
+run_uuid: 4105fe6998854d7b98e66198480fb95a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676900591442
+status: 3
+tags: []
+user_id: louibo

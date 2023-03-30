@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/74/e5087e0c4eda47abb0e5fc7340adc54e/artifacts
+end_time: 1676743313905
+entry_point_name: ''
+experiment_id: '74'
+lifecycle_stage: active
+run_id: e5087e0c4eda47abb0e5fc7340adc54e
+run_name: amusing-snail-28
+run_uuid: e5087e0c4eda47abb0e5fc7340adc54e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676743280637
+status: 3
+tags: []
+user_id: louibo

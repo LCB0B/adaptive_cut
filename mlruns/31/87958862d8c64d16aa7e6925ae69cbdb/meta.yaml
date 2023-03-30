@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/31/87958862d8c64d16aa7e6925ae69cbdb/artifacts
+end_time: 1676916521825
+entry_point_name: ''
+experiment_id: '31'
+lifecycle_stage: active
+run_id: 87958862d8c64d16aa7e6925ae69cbdb
+run_name: traveling-skink-867
+run_uuid: 87958862d8c64d16aa7e6925ae69cbdb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676916517168
+status: 3
+tags: []
+user_id: louibo

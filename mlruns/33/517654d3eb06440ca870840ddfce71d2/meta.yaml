@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/33/517654d3eb06440ca870840ddfce71d2/artifacts
+end_time: 1676926922904
+entry_point_name: ''
+experiment_id: '33'
+lifecycle_stage: active
+run_id: 517654d3eb06440ca870840ddfce71d2
+run_name: marvelous-mouse-498
+run_uuid: 517654d3eb06440ca870840ddfce71d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676926517283
+status: 3
+tags: []
+user_id: louibo

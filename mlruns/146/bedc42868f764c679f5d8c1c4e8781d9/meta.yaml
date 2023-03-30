@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/146/bedc42868f764c679f5d8c1c4e8781d9/artifacts
+end_time: 1676983647153
+entry_point_name: ''
+experiment_id: '146'
+lifecycle_stage: active
+run_id: bedc42868f764c679f5d8c1c4e8781d9
+run_name: bald-ray-218
+run_uuid: bedc42868f764c679f5d8c1c4e8781d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676983636856
+status: 3
+tags: []
+user_id: louibo

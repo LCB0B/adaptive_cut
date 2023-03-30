@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/60/9ae3e4539b5f4f32a69053d34baaafa1/artifacts
+end_time: 1676735278153
+entry_point_name: ''
+experiment_id: '60'
+lifecycle_stage: active
+run_id: 9ae3e4539b5f4f32a69053d34baaafa1
+run_name: bright-newt-948
+run_uuid: 9ae3e4539b5f4f32a69053d34baaafa1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676735278080
+status: 4
+tags: []
+user_id: louibo

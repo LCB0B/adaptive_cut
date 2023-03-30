@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/7/60046b4f29454f2bb20f2839a93d920e/artifacts
+end_time: 1670256894692
+entry_point_name: ''
+experiment_id: '7'
+lifecycle_stage: active
+run_id: 60046b4f29454f2bb20f2839a93d920e
+run_name: classy-perch-138
+run_uuid: 60046b4f29454f2bb20f2839a93d920e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670256602474
+status: 4
+tags: []
+user_id: louibo

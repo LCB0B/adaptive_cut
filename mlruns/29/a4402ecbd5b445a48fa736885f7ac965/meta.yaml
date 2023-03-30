@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/29/a4402ecbd5b445a48fa736885f7ac965/artifacts
+end_time: 1676905980782
+entry_point_name: ''
+experiment_id: '29'
+lifecycle_stage: active
+run_id: a4402ecbd5b445a48fa736885f7ac965
+run_name: nimble-asp-465
+run_uuid: a4402ecbd5b445a48fa736885f7ac965
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676905192470
+status: 3
+tags: []
+user_id: louibo

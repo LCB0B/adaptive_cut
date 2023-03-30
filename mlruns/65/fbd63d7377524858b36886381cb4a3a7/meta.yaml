@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/65/fbd63d7377524858b36886381cb4a3a7/artifacts
+end_time: 1676823938578
+entry_point_name: ''
+experiment_id: '65'
+lifecycle_stage: active
+run_id: fbd63d7377524858b36886381cb4a3a7
+run_name: dazzling-penguin-97
+run_uuid: fbd63d7377524858b36886381cb4a3a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676823928285
+status: 3
+tags: []
+user_id: louibo

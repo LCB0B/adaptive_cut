@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/103/4e12998afc7c485dbfc07ad75d6962a3/artifacts
+end_time: 1676749402307
+entry_point_name: ''
+experiment_id: '103'
+lifecycle_stage: active
+run_id: 4e12998afc7c485dbfc07ad75d6962a3
+run_name: magnificent-mare-407
+run_uuid: 4e12998afc7c485dbfc07ad75d6962a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676749364133
+status: 3
+tags: []
+user_id: louibo

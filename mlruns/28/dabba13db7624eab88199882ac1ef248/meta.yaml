@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/28/dabba13db7624eab88199882ac1ef248/artifacts
+end_time: 1676917293483
+entry_point_name: ''
+experiment_id: '28'
+lifecycle_stage: active
+run_id: dabba13db7624eab88199882ac1ef248
+run_name: angry-newt-142
+run_uuid: dabba13db7624eab88199882ac1ef248
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676917289494
+status: 3
+tags: []
+user_id: louibo

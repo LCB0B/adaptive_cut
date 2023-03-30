@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/30/99d4f8fca93a41f9806e7539c9e53c24/artifacts
+end_time: 1674762227439
+entry_point_name: ''
+experiment_id: '30'
+lifecycle_stage: active
+run_id: 99d4f8fca93a41f9806e7539c9e53c24
+run_name: dapper-grouse-941
+run_uuid: 99d4f8fca93a41f9806e7539c9e53c24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674762222585
+status: 3
+tags: []
+user_id: louibo

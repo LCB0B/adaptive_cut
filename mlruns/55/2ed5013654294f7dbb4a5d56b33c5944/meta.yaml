@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/55/2ed5013654294f7dbb4a5d56b33c5944/artifacts
+end_time: 1676850542904
+entry_point_name: ''
+experiment_id: '55'
+lifecycle_stage: active
+run_id: 2ed5013654294f7dbb4a5d56b33c5944
+run_name: resilient-skink-707
+run_uuid: 2ed5013654294f7dbb4a5d56b33c5944
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676850534852
+status: 3
+tags: []
+user_id: louibo

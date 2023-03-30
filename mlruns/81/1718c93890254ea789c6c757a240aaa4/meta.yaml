@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/81/1718c93890254ea789c6c757a240aaa4/artifacts
+end_time: 1676900528006
+entry_point_name: ''
+experiment_id: '81'
+lifecycle_stage: active
+run_id: 1718c93890254ea789c6c757a240aaa4
+run_name: sedate-jay-8
+run_uuid: 1718c93890254ea789c6c757a240aaa4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676900523990
+status: 3
+tags: []
+user_id: louibo

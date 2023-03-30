@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/75/5ea4503839804b739289aa18681f8350/artifacts
+end_time: 1676853445139
+entry_point_name: ''
+experiment_id: '75'
+lifecycle_stage: active
+run_id: 5ea4503839804b739289aa18681f8350
+run_name: selective-cub-73
+run_uuid: 5ea4503839804b739289aa18681f8350
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676853326313
+status: 3
+tags: []
+user_id: louibo

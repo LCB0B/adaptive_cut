@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/97/0b98c40ec3d64e53b231beaa4a443721/artifacts
+end_time: 1676923305684
+entry_point_name: ''
+experiment_id: '97'
+lifecycle_stage: active
+run_id: 0b98c40ec3d64e53b231beaa4a443721
+run_name: capricious-fox-712
+run_uuid: 0b98c40ec3d64e53b231beaa4a443721
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676923296374
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/140/9bf440bd51ff4e0bad5d3003559d61c0/artifacts
+end_time: 1676769111276
+entry_point_name: ''
+experiment_id: '140'
+lifecycle_stage: active
+run_id: 9bf440bd51ff4e0bad5d3003559d61c0
+run_name: skittish-grub-962
+run_uuid: 9bf440bd51ff4e0bad5d3003559d61c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676769090390
+status: 3
+tags: []
+user_id: louibo

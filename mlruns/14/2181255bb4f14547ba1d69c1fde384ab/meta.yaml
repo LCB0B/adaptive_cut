@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/14/2181255bb4f14547ba1d69c1fde384ab/artifacts
+end_time: 1673786672927
+entry_point_name: ''
+experiment_id: '14'
+lifecycle_stage: active
+run_id: 2181255bb4f14547ba1d69c1fde384ab
+run_name: enthused-midge-882
+run_uuid: 2181255bb4f14547ba1d69c1fde384ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673786635954
+status: 3
+tags: []
+user_id: louibo

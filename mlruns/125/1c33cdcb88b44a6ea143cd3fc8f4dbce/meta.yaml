@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/125/1c33cdcb88b44a6ea143cd3fc8f4dbce/artifacts
+end_time: 1676885451124
+entry_point_name: ''
+experiment_id: '125'
+lifecycle_stage: active
+run_id: 1c33cdcb88b44a6ea143cd3fc8f4dbce
+run_name: able-mule-106
+run_uuid: 1c33cdcb88b44a6ea143cd3fc8f4dbce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676885448855
+status: 3
+tags: []
+user_id: louibo

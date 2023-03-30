@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/32/46e569d930184b3eb4ed0a13ec3dcab5/artifacts
+end_time: 1673992583465
+entry_point_name: ''
+experiment_id: '32'
+lifecycle_stage: active
+run_id: 46e569d930184b3eb4ed0a13ec3dcab5
+run_name: shivering-wasp-660
+run_uuid: 46e569d930184b3eb4ed0a13ec3dcab5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673992581114
+status: 3
+tags: []
+user_id: louibo

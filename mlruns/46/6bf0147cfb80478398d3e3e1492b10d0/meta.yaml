@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/46/6bf0147cfb80478398d3e3e1492b10d0/artifacts
+end_time: 1674762670633
+entry_point_name: ''
+experiment_id: '46'
+lifecycle_stage: active
+run_id: 6bf0147cfb80478398d3e3e1492b10d0
+run_name: spiffy-gull-933
+run_uuid: 6bf0147cfb80478398d3e3e1492b10d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674762660425
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/73/ee4615a7202f4554ab67c87eddc18fc0/artifacts
+end_time: 1676906047725
+entry_point_name: ''
+experiment_id: '73'
+lifecycle_stage: active
+run_id: ee4615a7202f4554ab67c87eddc18fc0
+run_name: delightful-skink-451
+run_uuid: ee4615a7202f4554ab67c87eddc18fc0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676905942411
+status: 3
+tags: []
+user_id: louibo

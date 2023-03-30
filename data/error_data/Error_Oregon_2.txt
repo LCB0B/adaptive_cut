@@ -1,0 +1,2 @@
+object of type 'bool' has no len() 
+TypeError("object of type 'bool' has no len()")

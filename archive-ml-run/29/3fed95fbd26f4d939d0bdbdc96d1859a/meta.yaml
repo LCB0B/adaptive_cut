@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/29/3fed95fbd26f4d939d0bdbdc96d1859a/artifacts
+end_time: 1673991029347
+entry_point_name: ''
+experiment_id: '29'
+lifecycle_stage: active
+run_id: 3fed95fbd26f4d939d0bdbdc96d1859a
+run_name: debonair-grub-18
+run_uuid: 3fed95fbd26f4d939d0bdbdc96d1859a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673990831150
+status: 3
+tags: []
+user_id: louibo

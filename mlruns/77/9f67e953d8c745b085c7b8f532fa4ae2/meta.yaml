@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/77/9f67e953d8c745b085c7b8f532fa4ae2/artifacts
+end_time: 1676856548433
+entry_point_name: ''
+experiment_id: '77'
+lifecycle_stage: active
+run_id: 9f67e953d8c745b085c7b8f532fa4ae2
+run_name: victorious-deer-302
+run_uuid: 9f67e953d8c745b085c7b8f532fa4ae2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676856543923
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/6/5b706dc51f91483ea6159f1a30cca07d/artifacts
+end_time: 1673979146569
+entry_point_name: ''
+experiment_id: '6'
+lifecycle_stage: active
+run_id: 5b706dc51f91483ea6159f1a30cca07d
+run_name: lyrical-snake-732
+run_uuid: 5b706dc51f91483ea6159f1a30cca07d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673979006697
+status: 3
+tags: []
+user_id: louibo

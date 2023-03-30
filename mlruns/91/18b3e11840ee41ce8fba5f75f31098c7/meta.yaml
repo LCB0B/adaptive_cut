@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/91/18b3e11840ee41ce8fba5f75f31098c7/artifacts
+end_time: 1676748645961
+entry_point_name: ''
+experiment_id: '91'
+lifecycle_stage: active
+run_id: 18b3e11840ee41ce8fba5f75f31098c7
+run_name: resilient-lamb-944
+run_uuid: 18b3e11840ee41ce8fba5f75f31098c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676748625250
+status: 3
+tags: []
+user_id: louibo

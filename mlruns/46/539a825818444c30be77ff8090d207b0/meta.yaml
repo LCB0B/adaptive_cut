@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/46/539a825818444c30be77ff8090d207b0/artifacts
+end_time: 1674080350715
+entry_point_name: ''
+experiment_id: '46'
+lifecycle_stage: active
+run_id: 539a825818444c30be77ff8090d207b0
+run_name: rumbling-foal-668
+run_uuid: 539a825818444c30be77ff8090d207b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674080329645
+status: 3
+tags: []
+user_id: louibo

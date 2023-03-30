@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/19/34200aa8d16f42f5957c7ac919d692a8/artifacts
+end_time: 1674059593285
+entry_point_name: ''
+experiment_id: '19'
+lifecycle_stage: active
+run_id: 34200aa8d16f42f5957c7ac919d692a8
+run_name: selective-panda-701
+run_uuid: 34200aa8d16f42f5957c7ac919d692a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674058868974
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/102/eac245edd794456698a8fd600587e99d/artifacts
+end_time: 1676864419099
+entry_point_name: ''
+experiment_id: '102'
+lifecycle_stage: active
+run_id: eac245edd794456698a8fd600587e99d
+run_name: lyrical-turtle-673
+run_uuid: eac245edd794456698a8fd600587e99d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676864417501
+status: 3
+tags: []
+user_id: louibo

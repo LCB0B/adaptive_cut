@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/3/25f6d984f61e4f9e87fce6135ce89144/artifacts
+end_time: 1674051053074
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+run_id: 25f6d984f61e4f9e87fce6135ce89144
+run_name: tasteful-elk-505
+run_uuid: 25f6d984f61e4f9e87fce6135ce89144
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674051053049
+status: 4
+tags: []
+user_id: louibo

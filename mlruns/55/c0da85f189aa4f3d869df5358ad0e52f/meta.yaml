@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/55/c0da85f189aa4f3d869df5358ad0e52f/artifacts
+end_time: 1676892345307
+entry_point_name: ''
+experiment_id: '55'
+lifecycle_stage: active
+run_id: c0da85f189aa4f3d869df5358ad0e52f
+run_name: shivering-stag-834
+run_uuid: c0da85f189aa4f3d869df5358ad0e52f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676892337243
+status: 3
+tags: []
+user_id: louibo

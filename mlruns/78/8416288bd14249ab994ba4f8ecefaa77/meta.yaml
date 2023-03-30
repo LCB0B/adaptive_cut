@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/78/8416288bd14249ab994ba4f8ecefaa77/artifacts
+end_time: 1676740555803
+entry_point_name: ''
+experiment_id: '78'
+lifecycle_stage: active
+run_id: 8416288bd14249ab994ba4f8ecefaa77
+run_name: receptive-hog-710
+run_uuid: 8416288bd14249ab994ba4f8ecefaa77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676740554183
+status: 3
+tags: []
+user_id: louibo

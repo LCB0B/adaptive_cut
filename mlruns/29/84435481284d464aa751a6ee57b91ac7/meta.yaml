@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/29/84435481284d464aa751a6ee57b91ac7/artifacts
+end_time: 1676758567257
+entry_point_name: ''
+experiment_id: '29'
+lifecycle_stage: active
+run_id: 84435481284d464aa751a6ee57b91ac7
+run_name: omniscient-mink-614
+run_uuid: 84435481284d464aa751a6ee57b91ac7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676757704930
+status: 3
+tags: []
+user_id: louibo

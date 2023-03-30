@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/33/9b9deb9711b14cfdb2278eea7393fc51/artifacts
+end_time: 1673735517765
+entry_point_name: ''
+experiment_id: '33'
+lifecycle_stage: active
+run_id: 9b9deb9711b14cfdb2278eea7393fc51
+run_name: marvelous-swan-438
+run_uuid: 9b9deb9711b14cfdb2278eea7393fc51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673735508378
+status: 3
+tags: []
+user_id: louibo

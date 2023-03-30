@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/17/53ffd7a8cf914f60a54a4e9b9cc2ea1f/artifacts
+end_time: 1676854301926
+entry_point_name: ''
+experiment_id: '17'
+lifecycle_stage: active
+run_id: 53ffd7a8cf914f60a54a4e9b9cc2ea1f
+run_name: tasteful-turtle-115
+run_uuid: 53ffd7a8cf914f60a54a4e9b9cc2ea1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676854301132
+status: 3
+tags: []
+user_id: louibo

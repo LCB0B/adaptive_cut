@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/98/ddade85dd90f420bbaba5fbc8b17b8a7/artifacts
+end_time: 1676746399663
+entry_point_name: ''
+experiment_id: '98'
+lifecycle_stage: active
+run_id: ddade85dd90f420bbaba5fbc8b17b8a7
+run_name: nosy-squid-40
+run_uuid: ddade85dd90f420bbaba5fbc8b17b8a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676746383010
+status: 3
+tags: []
+user_id: louibo

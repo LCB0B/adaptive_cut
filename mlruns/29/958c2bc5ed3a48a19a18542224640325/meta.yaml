@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/29/958c2bc5ed3a48a19a18542224640325/artifacts
+end_time: 1673962563242
+entry_point_name: ''
+experiment_id: '29'
+lifecycle_stage: active
+run_id: 958c2bc5ed3a48a19a18542224640325
+run_name: worried-toad-128
+run_uuid: 958c2bc5ed3a48a19a18542224640325
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673962389097
+status: 3
+tags: []
+user_id: louibo

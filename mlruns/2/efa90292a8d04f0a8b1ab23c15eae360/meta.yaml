@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/efa90292a8d04f0a8b1ab23c15eae360/artifacts
+end_time: 1673743930302
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: efa90292a8d04f0a8b1ab23c15eae360
+run_name: flawless-goat-58
+run_uuid: efa90292a8d04f0a8b1ab23c15eae360
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673743927578
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/85/a199bea1593e404cbb2dbe11add75a5b/artifacts
+end_time: 1676858586013
+entry_point_name: ''
+experiment_id: '85'
+lifecycle_stage: active
+run_id: a199bea1593e404cbb2dbe11add75a5b
+run_name: efficient-foal-70
+run_uuid: a199bea1593e404cbb2dbe11add75a5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676858534696
+status: 3
+tags: []
+user_id: louibo

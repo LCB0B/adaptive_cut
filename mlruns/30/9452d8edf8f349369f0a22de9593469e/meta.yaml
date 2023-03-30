@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/30/9452d8edf8f349369f0a22de9593469e/artifacts
+end_time: 1676884756264
+entry_point_name: ''
+experiment_id: '30'
+lifecycle_stage: active
+run_id: 9452d8edf8f349369f0a22de9593469e
+run_name: gregarious-cat-637
+run_uuid: 9452d8edf8f349369f0a22de9593469e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676884751078
+status: 3
+tags: []
+user_id: louibo

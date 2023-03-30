@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/29/3f4d8c7224b44145992ef7fb4c8ab760/artifacts
+end_time: 1673960065935
+entry_point_name: ''
+experiment_id: '29'
+lifecycle_stage: active
+run_id: 3f4d8c7224b44145992ef7fb4c8ab760
+run_name: stately-toad-828
+run_uuid: 3f4d8c7224b44145992ef7fb4c8ab760
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673959854922
+status: 3
+tags: []
+user_id: louibo

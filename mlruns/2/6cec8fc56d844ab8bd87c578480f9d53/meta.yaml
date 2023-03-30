@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/6cec8fc56d844ab8bd87c578480f9d53/artifacts
+end_time: 1673733247789
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 6cec8fc56d844ab8bd87c578480f9d53
+run_name: amazing-crow-963
+run_uuid: 6cec8fc56d844ab8bd87c578480f9d53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673733246490
+status: 3
+tags: []
+user_id: louibo

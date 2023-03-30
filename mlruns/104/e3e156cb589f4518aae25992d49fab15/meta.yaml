@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/104/e3e156cb589f4518aae25992d49fab15/artifacts
+end_time: 1676754252554
+entry_point_name: ''
+experiment_id: '104'
+lifecycle_stage: active
+run_id: e3e156cb589f4518aae25992d49fab15
+run_name: stately-smelt-552
+run_uuid: e3e156cb589f4518aae25992d49fab15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676754250380
+status: 4
+tags: []
+user_id: louibo

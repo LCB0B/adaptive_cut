@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/44/4b6c8830bb764a4381b6146da707658d/artifacts
+end_time: 1676763421963
+entry_point_name: ''
+experiment_id: '44'
+lifecycle_stage: active
+run_id: 4b6c8830bb764a4381b6146da707658d
+run_name: unequaled-doe-917
+run_uuid: 4b6c8830bb764a4381b6146da707658d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676763418267
+status: 3
+tags: []
+user_id: louibo

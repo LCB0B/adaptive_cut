@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/37/63856ab367ec415ba52cb065f9fb0c43/artifacts
+end_time: 1673990251589
+entry_point_name: ''
+experiment_id: '37'
+lifecycle_stage: active
+run_id: 63856ab367ec415ba52cb065f9fb0c43
+run_name: abundant-shad-457
+run_uuid: 63856ab367ec415ba52cb065f9fb0c43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673989907735
+status: 3
+tags: []
+user_id: louibo

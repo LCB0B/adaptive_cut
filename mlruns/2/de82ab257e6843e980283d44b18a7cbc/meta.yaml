@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/de82ab257e6843e980283d44b18a7cbc/artifacts
+end_time: 1673743997817
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: de82ab257e6843e980283d44b18a7cbc
+run_name: clumsy-moth-5
+run_uuid: de82ab257e6843e980283d44b18a7cbc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673743997477
+status: 4
+tags: []
+user_id: louibo

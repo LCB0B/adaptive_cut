@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/29/87d87f3d655b4aa78069ac4643ae4f33/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '29'
+lifecycle_stage: active
+run_id: 87d87f3d655b4aa78069ac4643ae4f33
+run_name: peaceful-tern-311
+run_uuid: 87d87f3d655b4aa78069ac4643ae4f33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677003985129
+status: 1
+tags: []
+user_id: louibo

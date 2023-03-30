@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/46/98ad53e8444f4331a715e0edd0bed83a/artifacts
+end_time: 1674090218463
+entry_point_name: ''
+experiment_id: '46'
+lifecycle_stage: active
+run_id: 98ad53e8444f4331a715e0edd0bed83a
+run_name: entertaining-cod-17
+run_uuid: 98ad53e8444f4331a715e0edd0bed83a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674090206389
+status: 3
+tags: []
+user_id: louibo

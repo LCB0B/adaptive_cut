@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/37/5376a45e8c384810bcbc8536fd0ef61a/artifacts
+end_time: 1673999593099
+entry_point_name: ''
+experiment_id: '37'
+lifecycle_stage: active
+run_id: 5376a45e8c384810bcbc8536fd0ef61a
+run_name: stately-conch-638
+run_uuid: 5376a45e8c384810bcbc8536fd0ef61a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673999329879
+status: 3
+tags: []
+user_id: louibo

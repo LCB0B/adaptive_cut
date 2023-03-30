@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/36/cbcf08219a92457dbb88802c1c645a75/artifacts
+end_time: 1673989968944
+entry_point_name: ''
+experiment_id: '36'
+lifecycle_stage: active
+run_id: cbcf08219a92457dbb88802c1c645a75
+run_name: bright-rook-443
+run_uuid: cbcf08219a92457dbb88802c1c645a75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673989963093
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/9862ed571baf401ca00825cc75da6f68/artifacts
+end_time: 1676935337094
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 9862ed571baf401ca00825cc75da6f68
+run_name: welcoming-gull-284
+run_uuid: 9862ed571baf401ca00825cc75da6f68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676935336779
+status: 3
+tags: []
+user_id: louibo

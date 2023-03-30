@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/30/b07bcb8daa9c4b9584d312d34e02bb14/artifacts
+end_time: 1674493433395
+entry_point_name: ''
+experiment_id: '30'
+lifecycle_stage: active
+run_id: b07bcb8daa9c4b9584d312d34e02bb14
+run_name: nervous-swan-318
+run_uuid: b07bcb8daa9c4b9584d312d34e02bb14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674493427126
+status: 3
+tags: []
+user_id: louibo

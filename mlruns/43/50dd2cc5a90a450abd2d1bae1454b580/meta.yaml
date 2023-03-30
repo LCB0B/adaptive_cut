@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/43/50dd2cc5a90a450abd2d1bae1454b580/artifacts
+end_time: 1674754943865
+entry_point_name: ''
+experiment_id: '43'
+lifecycle_stage: active
+run_id: 50dd2cc5a90a450abd2d1bae1454b580
+run_name: luxuriant-cat-43
+run_uuid: 50dd2cc5a90a450abd2d1bae1454b580
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674753011596
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/106/066ee98fb0a046108f129098c6c44c28/artifacts
+end_time: 1676882175526
+entry_point_name: ''
+experiment_id: '106'
+lifecycle_stage: active
+run_id: 066ee98fb0a046108f129098c6c44c28
+run_name: powerful-mole-538
+run_uuid: 066ee98fb0a046108f129098c6c44c28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676882167093
+status: 3
+tags: []
+user_id: louibo

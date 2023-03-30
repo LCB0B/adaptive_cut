@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/55/373fcdeccb634cc493d0d6382b0b6024/artifacts
+end_time: 1676850634278
+entry_point_name: ''
+experiment_id: '55'
+lifecycle_stage: active
+run_id: 373fcdeccb634cc493d0d6382b0b6024
+run_name: defiant-foal-523
+run_uuid: 373fcdeccb634cc493d0d6382b0b6024
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676850542915
+status: 3
+tags: []
+user_id: louibo

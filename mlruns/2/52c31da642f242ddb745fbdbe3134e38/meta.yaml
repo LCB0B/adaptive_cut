@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/52c31da642f242ddb745fbdbe3134e38/artifacts
+end_time: 1673743882297
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 52c31da642f242ddb745fbdbe3134e38
+run_name: luxuriant-finch-2
+run_uuid: 52c31da642f242ddb745fbdbe3134e38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673743882250
+status: 4
+tags: []
+user_id: louibo

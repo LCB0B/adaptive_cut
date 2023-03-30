@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/11/60bd3e4d088d45f3a0bec2298c93bb30/artifacts
+end_time: 1674059625199
+entry_point_name: ''
+experiment_id: '11'
+lifecycle_stage: active
+run_id: 60bd3e4d088d45f3a0bec2298c93bb30
+run_name: able-loon-600
+run_uuid: 60bd3e4d088d45f3a0bec2298c93bb30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674059623336
+status: 4
+tags: []
+user_id: louibo

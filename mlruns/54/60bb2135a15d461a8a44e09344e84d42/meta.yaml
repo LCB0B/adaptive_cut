@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/54/60bb2135a15d461a8a44e09344e84d42/artifacts
+end_time: 1676850305104
+entry_point_name: ''
+experiment_id: '54'
+lifecycle_stage: active
+run_id: 60bb2135a15d461a8a44e09344e84d42
+run_name: dazzling-gull-560
+run_uuid: 60bb2135a15d461a8a44e09344e84d42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676850286283
+status: 3
+tags: []
+user_id: louibo

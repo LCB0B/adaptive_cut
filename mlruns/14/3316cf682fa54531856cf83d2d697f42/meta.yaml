@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/14/3316cf682fa54531856cf83d2d697f42/artifacts
+end_time: 1673802577593
+entry_point_name: ''
+experiment_id: '14'
+lifecycle_stage: active
+run_id: 3316cf682fa54531856cf83d2d697f42
+run_name: skillful-yak-33
+run_uuid: 3316cf682fa54531856cf83d2d697f42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673802539698
+status: 3
+tags: []
+user_id: louibo

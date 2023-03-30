@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/17/4b1d304a0ad84d95baa010a91e5eb59f/artifacts
+end_time: 1673993535908
+entry_point_name: ''
+experiment_id: '17'
+lifecycle_stage: active
+run_id: 4b1d304a0ad84d95baa010a91e5eb59f
+run_name: painted-boar-459
+run_uuid: 4b1d304a0ad84d95baa010a91e5eb59f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673993505323
+status: 3
+tags: []
+user_id: louibo

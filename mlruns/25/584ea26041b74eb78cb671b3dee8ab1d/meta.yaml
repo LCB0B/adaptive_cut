@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/25/584ea26041b74eb78cb671b3dee8ab1d/artifacts
+end_time: 1676869643487
+entry_point_name: ''
+experiment_id: '25'
+lifecycle_stage: active
+run_id: 584ea26041b74eb78cb671b3dee8ab1d
+run_name: colorful-mare-454
+run_uuid: 584ea26041b74eb78cb671b3dee8ab1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676869383685
+status: 3
+tags: []
+user_id: louibo

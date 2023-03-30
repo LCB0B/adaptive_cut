@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/122/ac5bb51ef93d4713a46b1fa044f7c351/artifacts
+end_time: 1676865316657
+entry_point_name: ''
+experiment_id: '122'
+lifecycle_stage: active
+run_id: ac5bb51ef93d4713a46b1fa044f7c351
+run_name: nervous-rook-914
+run_uuid: ac5bb51ef93d4713a46b1fa044f7c351
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676865174549
+status: 3
+tags: []
+user_id: louibo

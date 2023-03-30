@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/19/d60e2505d97a4e4d9a74592cc9c4e65a/artifacts
+end_time: 1674066998759
+entry_point_name: ''
+experiment_id: '19'
+lifecycle_stage: active
+run_id: d60e2505d97a4e4d9a74592cc9c4e65a
+run_name: wistful-dolphin-185
+run_uuid: d60e2505d97a4e4d9a74592cc9c4e65a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674065671895
+status: 3
+tags: []
+user_id: louibo

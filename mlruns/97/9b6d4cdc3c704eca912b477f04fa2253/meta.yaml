@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/97/9b6d4cdc3c704eca912b477f04fa2253/artifacts
+end_time: 1676907244030
+entry_point_name: ''
+experiment_id: '97'
+lifecycle_stage: active
+run_id: 9b6d4cdc3c704eca912b477f04fa2253
+run_name: angry-goose-758
+run_uuid: 9b6d4cdc3c704eca912b477f04fa2253
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676907234040
+status: 3
+tags: []
+user_id: louibo

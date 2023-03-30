@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/37/0eb05686c8e04ab398e5cec9396bba5b/artifacts
+end_time: 1676874671008
+entry_point_name: ''
+experiment_id: '37'
+lifecycle_stage: active
+run_id: 0eb05686c8e04ab398e5cec9396bba5b
+run_name: funny-zebra-368
+run_uuid: 0eb05686c8e04ab398e5cec9396bba5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676874528491
+status: 3
+tags: []
+user_id: louibo

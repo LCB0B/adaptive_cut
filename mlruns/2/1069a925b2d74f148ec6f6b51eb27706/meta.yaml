@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/1069a925b2d74f148ec6f6b51eb27706/artifacts
+end_time: 1673989039245
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 1069a925b2d74f148ec6f6b51eb27706
+run_name: serious-chimp-129
+run_uuid: 1069a925b2d74f148ec6f6b51eb27706
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673989036677
+status: 3
+tags: []
+user_id: louibo

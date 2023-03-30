@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/4/dc91c7a996144a0c97a527fe6c990b32/artifacts
+end_time: 1676849544164
+entry_point_name: ''
+experiment_id: '4'
+lifecycle_stage: active
+run_id: dc91c7a996144a0c97a527fe6c990b32
+run_name: intelligent-kite-922
+run_uuid: dc91c7a996144a0c97a527fe6c990b32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676849538449
+status: 3
+tags: []
+user_id: louibo

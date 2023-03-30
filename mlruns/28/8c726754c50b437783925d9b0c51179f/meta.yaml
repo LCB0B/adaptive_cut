@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/28/8c726754c50b437783925d9b0c51179f/artifacts
+end_time: 1674476215742
+entry_point_name: ''
+experiment_id: '28'
+lifecycle_stage: active
+run_id: 8c726754c50b437783925d9b0c51179f
+run_name: amusing-sheep-569
+run_uuid: 8c726754c50b437783925d9b0c51179f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674476205427
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/7/536c4f4c94964363a9577c4601e93edf/artifacts
+end_time: 1674051657931
+entry_point_name: ''
+experiment_id: '7'
+lifecycle_stage: active
+run_id: 536c4f4c94964363a9577c4601e93edf
+run_name: colorful-goose-797
+run_uuid: 536c4f4c94964363a9577c4601e93edf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674051252858
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/48/d02f0387f3e847a68b02e0976f6de978/artifacts
+end_time: 1674080240227
+entry_point_name: ''
+experiment_id: '48'
+lifecycle_stage: active
+run_id: d02f0387f3e847a68b02e0976f6de978
+run_name: abrasive-rat-356
+run_uuid: d02f0387f3e847a68b02e0976f6de978
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674080188506
+status: 3
+tags: []
+user_id: louibo

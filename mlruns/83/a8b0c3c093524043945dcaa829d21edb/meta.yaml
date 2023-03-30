@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/83/a8b0c3c093524043945dcaa829d21edb/artifacts
+end_time: 1676901839015
+entry_point_name: ''
+experiment_id: '83'
+lifecycle_stage: active
+run_id: a8b0c3c093524043945dcaa829d21edb
+run_name: nebulous-deer-483
+run_uuid: a8b0c3c093524043945dcaa829d21edb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676901836504
+status: 3
+tags: []
+user_id: louibo

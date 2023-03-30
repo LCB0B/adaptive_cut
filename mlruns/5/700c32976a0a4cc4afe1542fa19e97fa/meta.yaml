@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/5/700c32976a0a4cc4afe1542fa19e97fa/artifacts
+end_time: 1674051137031
+entry_point_name: ''
+experiment_id: '5'
+lifecycle_stage: active
+run_id: 700c32976a0a4cc4afe1542fa19e97fa
+run_name: fun-bass-893
+run_uuid: 700c32976a0a4cc4afe1542fa19e97fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674051132536
+status: 3
+tags: []
+user_id: louibo

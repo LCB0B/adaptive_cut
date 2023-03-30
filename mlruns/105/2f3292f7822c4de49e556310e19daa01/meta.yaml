@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/105/2f3292f7822c4de49e556310e19daa01/artifacts
+end_time: 1676750977279
+entry_point_name: ''
+experiment_id: '105'
+lifecycle_stage: active
+run_id: 2f3292f7822c4de49e556310e19daa01
+run_name: thundering-croc-814
+run_uuid: 2f3292f7822c4de49e556310e19daa01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676750957940
+status: 4
+tags: []
+user_id: louibo

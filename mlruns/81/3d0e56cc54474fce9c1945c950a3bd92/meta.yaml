@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/81/3d0e56cc54474fce9c1945c950a3bd92/artifacts
+end_time: 1676743890414
+entry_point_name: ''
+experiment_id: '81'
+lifecycle_stage: active
+run_id: 3d0e56cc54474fce9c1945c950a3bd92
+run_name: thoughtful-kite-567
+run_uuid: 3d0e56cc54474fce9c1945c950a3bd92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676743829509
+status: 3
+tags: []
+user_id: louibo

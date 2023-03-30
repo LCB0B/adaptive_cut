@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/4/ad960b66e67049a1a9aa4f0cfcd97b4f/artifacts
+end_time: 1673980611192
+entry_point_name: ''
+experiment_id: '4'
+lifecycle_stage: active
+run_id: ad960b66e67049a1a9aa4f0cfcd97b4f
+run_name: aged-penguin-299
+run_uuid: ad960b66e67049a1a9aa4f0cfcd97b4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673980585763
+status: 3
+tags: []
+user_id: louibo

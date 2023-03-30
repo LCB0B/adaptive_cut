@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/44/a1fda649fb9e4424948d6f46f335401e/artifacts
+end_time: 1673989883688
+entry_point_name: ''
+experiment_id: '44'
+lifecycle_stage: active
+run_id: a1fda649fb9e4424948d6f46f335401e
+run_name: painted-vole-430
+run_uuid: a1fda649fb9e4424948d6f46f335401e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673989881954
+status: 3
+tags: []
+user_id: louibo

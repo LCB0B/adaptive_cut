@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/26/bf6775fe68c3403c84a1f9468a2e37f7/artifacts
+end_time: 1676754331574
+entry_point_name: ''
+experiment_id: '26'
+lifecycle_stage: active
+run_id: bf6775fe68c3403c84a1f9468a2e37f7
+run_name: abrasive-auk-17
+run_uuid: bf6775fe68c3403c84a1f9468a2e37f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676753856934
+status: 3
+tags: []
+user_id: louibo

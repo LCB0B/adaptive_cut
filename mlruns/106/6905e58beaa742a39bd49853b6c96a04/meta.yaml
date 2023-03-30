@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/106/6905e58beaa742a39bd49853b6c96a04/artifacts
+end_time: 1676750993354
+entry_point_name: ''
+experiment_id: '106'
+lifecycle_stage: active
+run_id: 6905e58beaa742a39bd49853b6c96a04
+run_name: lyrical-seal-386
+run_uuid: 6905e58beaa742a39bd49853b6c96a04
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676750983970
+status: 3
+tags: []
+user_id: louibo

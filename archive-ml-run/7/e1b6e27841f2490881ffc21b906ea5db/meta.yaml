@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/7/e1b6e27841f2490881ffc21b906ea5db/artifacts
+end_time: 1673730813167
+entry_point_name: ''
+experiment_id: '7'
+lifecycle_stage: active
+run_id: e1b6e27841f2490881ffc21b906ea5db
+run_name: burly-mare-935
+run_uuid: e1b6e27841f2490881ffc21b906ea5db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673730403413
+status: 3
+tags: []
+user_id: louibo

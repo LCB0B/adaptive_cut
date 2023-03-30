@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/101/4d24152f5142437fb8dad3ab2e423026/artifacts
+end_time: 1676756895311
+entry_point_name: ''
+experiment_id: '101'
+lifecycle_stage: active
+run_id: 4d24152f5142437fb8dad3ab2e423026
+run_name: valuable-fawn-857
+run_uuid: 4d24152f5142437fb8dad3ab2e423026
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676756892452
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/92/acec0e5c56714560998f2581b13fd992/artifacts
+end_time: 1676752091983
+entry_point_name: ''
+experiment_id: '92'
+lifecycle_stage: active
+run_id: acec0e5c56714560998f2581b13fd992
+run_name: unequaled-fawn-574
+run_uuid: acec0e5c56714560998f2581b13fd992
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676752091794
+status: 4
+tags: []
+user_id: louibo

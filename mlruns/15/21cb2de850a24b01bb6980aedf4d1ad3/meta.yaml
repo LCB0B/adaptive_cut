@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/15/21cb2de850a24b01bb6980aedf4d1ad3/artifacts
+end_time: 1674736898407
+entry_point_name: ''
+experiment_id: '15'
+lifecycle_stage: active
+run_id: 21cb2de850a24b01bb6980aedf4d1ad3
+run_name: enchanting-perch-691
+run_uuid: 21cb2de850a24b01bb6980aedf4d1ad3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674736895478
+status: 3
+tags: []
+user_id: louibo

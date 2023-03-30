@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/140/161ad107a5da43538887caec813d2d5f/artifacts
+end_time: 1676875553843
+entry_point_name: ''
+experiment_id: '140'
+lifecycle_stage: active
+run_id: 161ad107a5da43538887caec813d2d5f
+run_name: able-carp-272
+run_uuid: 161ad107a5da43538887caec813d2d5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676875553209
+status: 3
+tags: []
+user_id: louibo

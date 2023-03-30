@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/48/e5b4282f5291444da1e4f912a9272580/artifacts
+end_time: 1674811757527
+entry_point_name: ''
+experiment_id: '48'
+lifecycle_stage: active
+run_id: e5b4282f5291444da1e4f912a9272580
+run_name: thundering-deer-80
+run_uuid: e5b4282f5291444da1e4f912a9272580
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674811703745
+status: 4
+tags: []
+user_id: louibo

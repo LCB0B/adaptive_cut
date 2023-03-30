@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/41/d288ead11f7c44ceb1757cef04a34400/artifacts
+end_time: 1674759363877
+entry_point_name: ''
+experiment_id: '41'
+lifecycle_stage: active
+run_id: d288ead11f7c44ceb1757cef04a34400
+run_name: funny-fox-729
+run_uuid: d288ead11f7c44ceb1757cef04a34400
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674759314025
+status: 3
+tags: []
+user_id: louibo

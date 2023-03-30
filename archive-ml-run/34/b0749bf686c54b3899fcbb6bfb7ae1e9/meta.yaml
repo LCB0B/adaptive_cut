@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/34/b0749bf686c54b3899fcbb6bfb7ae1e9/artifacts
+end_time: 1673728930407
+entry_point_name: ''
+experiment_id: '34'
+lifecycle_stage: active
+run_id: b0749bf686c54b3899fcbb6bfb7ae1e9
+run_name: amazing-steed-440
+run_uuid: b0749bf686c54b3899fcbb6bfb7ae1e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673728841048
+status: 3
+tags: []
+user_id: louibo

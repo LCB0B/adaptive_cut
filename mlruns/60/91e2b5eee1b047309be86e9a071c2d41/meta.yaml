@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/60/91e2b5eee1b047309be86e9a071c2d41/artifacts
+end_time: 1676850883415
+entry_point_name: ''
+experiment_id: '60'
+lifecycle_stage: active
+run_id: 91e2b5eee1b047309be86e9a071c2d41
+run_name: puzzled-ram-365
+run_uuid: 91e2b5eee1b047309be86e9a071c2d41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676850883298
+status: 3
+tags: []
+user_id: louibo

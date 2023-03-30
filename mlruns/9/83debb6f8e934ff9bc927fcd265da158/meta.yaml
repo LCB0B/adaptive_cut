@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/9/83debb6f8e934ff9bc927fcd265da158/artifacts
+end_time: 1674053609690
+entry_point_name: ''
+experiment_id: '9'
+lifecycle_stage: active
+run_id: 83debb6f8e934ff9bc927fcd265da158
+run_name: amazing-panda-464
+run_uuid: 83debb6f8e934ff9bc927fcd265da158
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674053587136
+status: 3
+tags: []
+user_id: louibo

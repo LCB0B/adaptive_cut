@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/30/d490ef830bb54bdc8e7b5775aec6535f/artifacts
+end_time: 1672658677423
+entry_point_name: ''
+experiment_id: '30'
+lifecycle_stage: active
+run_id: d490ef830bb54bdc8e7b5775aec6535f
+run_name: able-conch-1000
+run_uuid: d490ef830bb54bdc8e7b5775aec6535f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672658636406
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/29/bdacf76f022f4337b735673f5fa1618b/artifacts
+end_time: 1673991253834
+entry_point_name: ''
+experiment_id: '29'
+lifecycle_stage: active
+run_id: bdacf76f022f4337b735673f5fa1618b
+run_name: wistful-ant-671
+run_uuid: bdacf76f022f4337b735673f5fa1618b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673991088707
+status: 3
+tags: []
+user_id: louibo

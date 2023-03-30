@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/107/a28471b28aa444318395f7f20a0056ce/artifacts
+end_time: 1676756016589
+entry_point_name: ''
+experiment_id: '107'
+lifecycle_stage: active
+run_id: a28471b28aa444318395f7f20a0056ce
+run_name: carefree-hound-333
+run_uuid: a28471b28aa444318395f7f20a0056ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676755787087
+status: 3
+tags: []
+user_id: louibo

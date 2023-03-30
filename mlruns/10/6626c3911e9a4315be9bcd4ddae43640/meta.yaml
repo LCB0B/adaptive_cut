@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/10/6626c3911e9a4315be9bcd4ddae43640/artifacts
+end_time: 1674053633060
+entry_point_name: ''
+experiment_id: '10'
+lifecycle_stage: active
+run_id: 6626c3911e9a4315be9bcd4ddae43640
+run_name: enchanting-colt-873
+run_uuid: 6626c3911e9a4315be9bcd4ddae43640
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674053609614
+status: 3
+tags: []
+user_id: louibo

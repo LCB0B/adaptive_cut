@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/14/5a16077311294680b042de649af6c333/artifacts
+end_time: 1676743454465
+entry_point_name: ''
+experiment_id: '14'
+lifecycle_stage: active
+run_id: 5a16077311294680b042de649af6c333
+run_name: adorable-quail-284
+run_uuid: 5a16077311294680b042de649af6c333
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676743414625
+status: 3
+tags: []
+user_id: louibo

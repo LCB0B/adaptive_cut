@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/32/287e1276787842538636bc6b6844d7f3/artifacts
+end_time: 1676870982798
+entry_point_name: ''
+experiment_id: '32'
+lifecycle_stage: active
+run_id: 287e1276787842538636bc6b6844d7f3
+run_name: amazing-quail-892
+run_uuid: 287e1276787842538636bc6b6844d7f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676870982391
+status: 3
+tags: []
+user_id: louibo

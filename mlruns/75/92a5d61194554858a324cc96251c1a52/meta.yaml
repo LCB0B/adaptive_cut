@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/75/92a5d61194554858a324cc96251c1a52/artifacts
+end_time: 1676900018090
+entry_point_name: ''
+experiment_id: '75'
+lifecycle_stage: active
+run_id: 92a5d61194554858a324cc96251c1a52
+run_name: beautiful-smelt-157
+run_uuid: 92a5d61194554858a324cc96251c1a52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676899857365
+status: 3
+tags: []
+user_id: louibo

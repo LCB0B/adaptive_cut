@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/c0c5718bd643494b90d73045f97f4302/artifacts
+end_time: 1670276313161
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: c0c5718bd643494b90d73045f97f4302
+run_name: suave-pug-354
+run_uuid: c0c5718bd643494b90d73045f97f4302
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670276304202
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/45a841fd331c45308e5599e8b14563e1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 45a841fd331c45308e5599e8b14563e1
+run_name: welcoming-bird-895
+run_uuid: 45a841fd331c45308e5599e8b14563e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670266025136
+status: 1
+tags: []
+user_id: louibo

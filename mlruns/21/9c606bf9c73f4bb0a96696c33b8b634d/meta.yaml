@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/21/9c606bf9c73f4bb0a96696c33b8b634d/artifacts
+end_time: 1674738865537
+entry_point_name: ''
+experiment_id: '21'
+lifecycle_stage: active
+run_id: 9c606bf9c73f4bb0a96696c33b8b634d
+run_name: gaudy-horse-594
+run_uuid: 9c606bf9c73f4bb0a96696c33b8b634d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674738843643
+status: 3
+tags: []
+user_id: louibo

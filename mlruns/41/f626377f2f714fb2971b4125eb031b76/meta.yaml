@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/41/f626377f2f714fb2971b4125eb031b76/artifacts
+end_time: 1673990635178
+entry_point_name: ''
+experiment_id: '41'
+lifecycle_stage: active
+run_id: f626377f2f714fb2971b4125eb031b76
+run_name: luxuriant-pig-135
+run_uuid: f626377f2f714fb2971b4125eb031b76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673990613385
+status: 3
+tags: []
+user_id: louibo

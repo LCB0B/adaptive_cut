@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/15/5dca761f6e824d6b97824dcba7ede37c/artifacts
+end_time: 1676856543651
+entry_point_name: ''
+experiment_id: '15'
+lifecycle_stage: active
+run_id: 5dca761f6e824d6b97824dcba7ede37c
+run_name: beautiful-loon-405
+run_uuid: 5dca761f6e824d6b97824dcba7ede37c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676856540335
+status: 3
+tags: []
+user_id: louibo

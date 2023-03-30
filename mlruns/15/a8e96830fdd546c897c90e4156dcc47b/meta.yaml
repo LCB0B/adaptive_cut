@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/15/a8e96830fdd546c897c90e4156dcc47b/artifacts
+end_time: 1676897909182
+entry_point_name: ''
+experiment_id: '15'
+lifecycle_stage: active
+run_id: a8e96830fdd546c897c90e4156dcc47b
+run_name: wistful-mink-369
+run_uuid: a8e96830fdd546c897c90e4156dcc47b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676897908889
+status: 3
+tags: []
+user_id: louibo

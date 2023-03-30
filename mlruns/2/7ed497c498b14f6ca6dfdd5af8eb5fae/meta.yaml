@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/7ed497c498b14f6ca6dfdd5af8eb5fae/artifacts
+end_time: 1670248494098
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 7ed497c498b14f6ca6dfdd5af8eb5fae
+run_name: handsome-squid-29
+run_uuid: 7ed497c498b14f6ca6dfdd5af8eb5fae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670248492847
+status: 3
+tags: []
+user_id: louibo

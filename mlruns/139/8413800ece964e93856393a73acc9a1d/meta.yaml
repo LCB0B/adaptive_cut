@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/139/8413800ece964e93856393a73acc9a1d/artifacts
+end_time: 1676894460009
+entry_point_name: ''
+experiment_id: '139'
+lifecycle_stage: active
+run_id: 8413800ece964e93856393a73acc9a1d
+run_name: angry-gull-461
+run_uuid: 8413800ece964e93856393a73acc9a1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676894448333
+status: 3
+tags: []
+user_id: louibo

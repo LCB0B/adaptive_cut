@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/13/db6cc5fb728043fe9c2fa98379740a9a/artifacts
+end_time: 1674056595403
+entry_point_name: ''
+experiment_id: '13'
+lifecycle_stage: active
+run_id: db6cc5fb728043fe9c2fa98379740a9a
+run_name: gregarious-mink-627
+run_uuid: db6cc5fb728043fe9c2fa98379740a9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674055855895
+status: 3
+tags: []
+user_id: louibo

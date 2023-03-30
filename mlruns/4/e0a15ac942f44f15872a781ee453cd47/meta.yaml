@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/4/e0a15ac942f44f15872a781ee453cd47/artifacts
+end_time: 1674732391522
+entry_point_name: ''
+experiment_id: '4'
+lifecycle_stage: active
+run_id: e0a15ac942f44f15872a781ee453cd47
+run_name: capricious-horse-139
+run_uuid: e0a15ac942f44f15872a781ee453cd47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674732329992
+status: 3
+tags: []
+user_id: louibo

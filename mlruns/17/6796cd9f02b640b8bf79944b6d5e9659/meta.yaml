@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/17/6796cd9f02b640b8bf79944b6d5e9659/artifacts
+end_time: 1676909656082
+entry_point_name: ''
+experiment_id: '17'
+lifecycle_stage: active
+run_id: 6796cd9f02b640b8bf79944b6d5e9659
+run_name: charming-whale-407
+run_uuid: 6796cd9f02b640b8bf79944b6d5e9659
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676909655150
+status: 3
+tags: []
+user_id: louibo

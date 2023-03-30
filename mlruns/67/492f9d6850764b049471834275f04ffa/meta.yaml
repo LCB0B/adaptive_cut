@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/67/492f9d6850764b049471834275f04ffa/artifacts
+end_time: 1676739345151
+entry_point_name: ''
+experiment_id: '67'
+lifecycle_stage: active
+run_id: 492f9d6850764b049471834275f04ffa
+run_name: industrious-asp-643
+run_uuid: 492f9d6850764b049471834275f04ffa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676739308798
+status: 4
+tags: []
+user_id: louibo

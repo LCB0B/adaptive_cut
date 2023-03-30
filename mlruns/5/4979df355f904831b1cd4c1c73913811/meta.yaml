@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/5/4979df355f904831b1cd4c1c73913811/artifacts
+end_time: 1670256237250
+entry_point_name: ''
+experiment_id: '5'
+lifecycle_stage: active
+run_id: 4979df355f904831b1cd4c1c73913811
+run_name: blushing-zebra-87
+run_uuid: 4979df355f904831b1cd4c1c73913811
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670256237063
+status: 4
+tags: []
+user_id: louibo

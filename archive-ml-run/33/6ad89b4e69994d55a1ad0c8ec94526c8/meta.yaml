@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/33/6ad89b4e69994d55a1ad0c8ec94526c8/artifacts
+end_time: 1673736160880
+entry_point_name: ''
+experiment_id: '33'
+lifecycle_stage: active
+run_id: 6ad89b4e69994d55a1ad0c8ec94526c8
+run_name: casual-hare-883
+run_uuid: 6ad89b4e69994d55a1ad0c8ec94526c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673736146283
+status: 3
+tags: []
+user_id: louibo

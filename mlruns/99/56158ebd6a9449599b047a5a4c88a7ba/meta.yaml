@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/99/56158ebd6a9449599b047a5a4c88a7ba/artifacts
+end_time: 1676751336656
+entry_point_name: ''
+experiment_id: '99'
+lifecycle_stage: active
+run_id: 56158ebd6a9449599b047a5a4c88a7ba
+run_name: thoughtful-duck-982
+run_uuid: 56158ebd6a9449599b047a5a4c88a7ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676751334105
+status: 3
+tags: []
+user_id: louibo

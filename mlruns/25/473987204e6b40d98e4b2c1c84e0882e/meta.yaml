@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/25/473987204e6b40d98e4b2c1c84e0882e/artifacts
+end_time: 1676857401738
+entry_point_name: ''
+experiment_id: '25'
+lifecycle_stage: active
+run_id: 473987204e6b40d98e4b2c1c84e0882e
+run_name: spiffy-panda-726
+run_uuid: 473987204e6b40d98e4b2c1c84e0882e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676857296508
+status: 3
+tags: []
+user_id: louibo

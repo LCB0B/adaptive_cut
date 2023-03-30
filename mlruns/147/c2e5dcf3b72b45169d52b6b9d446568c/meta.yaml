@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/147/c2e5dcf3b72b45169d52b6b9d446568c/artifacts
+end_time: 1676772278738
+entry_point_name: ''
+experiment_id: '147'
+lifecycle_stage: active
+run_id: c2e5dcf3b72b45169d52b6b9d446568c
+run_name: adaptable-koi-783
+run_uuid: c2e5dcf3b72b45169d52b6b9d446568c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676772275544
+status: 3
+tags: []
+user_id: louibo

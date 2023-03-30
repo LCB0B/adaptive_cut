@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/69/385854e695134da79ea82e33f0d5d0f7/artifacts
+end_time: 1676851593465
+entry_point_name: ''
+experiment_id: '69'
+lifecycle_stage: active
+run_id: 385854e695134da79ea82e33f0d5d0f7
+run_name: aged-stoat-17
+run_uuid: 385854e695134da79ea82e33f0d5d0f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676851558383
+status: 3
+tags: []
+user_id: louibo

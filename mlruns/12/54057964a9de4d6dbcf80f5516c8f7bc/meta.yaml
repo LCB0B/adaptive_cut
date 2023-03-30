@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/12/54057964a9de4d6dbcf80f5516c8f7bc/artifacts
+end_time: 1676743233866
+entry_point_name: ''
+experiment_id: '12'
+lifecycle_stage: active
+run_id: 54057964a9de4d6dbcf80f5516c8f7bc
+run_name: blushing-roo-332
+run_uuid: 54057964a9de4d6dbcf80f5516c8f7bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676743217961
+status: 3
+tags: []
+user_id: louibo

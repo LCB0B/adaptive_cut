@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/84/6ccf42b311ab4b8eb28c4943d71653eb/artifacts
+end_time: 1676855198399
+entry_point_name: ''
+experiment_id: '84'
+lifecycle_stage: active
+run_id: 6ccf42b311ab4b8eb28c4943d71653eb
+run_name: delightful-flea-815
+run_uuid: 6ccf42b311ab4b8eb28c4943d71653eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676854884902
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/23/869168afa3f643939e64bab4d32a5f5c/artifacts
+end_time: 1674750550295
+entry_point_name: ''
+experiment_id: '23'
+lifecycle_stage: active
+run_id: 869168afa3f643939e64bab4d32a5f5c
+run_name: shivering-cow-35
+run_uuid: 869168afa3f643939e64bab4d32a5f5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674746892209
+status: 3
+tags: []
+user_id: louibo

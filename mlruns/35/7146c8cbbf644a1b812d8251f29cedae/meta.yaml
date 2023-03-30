@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/35/7146c8cbbf644a1b812d8251f29cedae/artifacts
+end_time: 1676864879631
+entry_point_name: ''
+experiment_id: '35'
+lifecycle_stage: active
+run_id: 7146c8cbbf644a1b812d8251f29cedae
+run_name: wise-fish-991
+run_uuid: 7146c8cbbf644a1b812d8251f29cedae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676864866980
+status: 3
+tags: []
+user_id: louibo

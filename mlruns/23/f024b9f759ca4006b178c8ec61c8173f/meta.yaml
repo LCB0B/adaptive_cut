@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/23/f024b9f759ca4006b178c8ec61c8173f/artifacts
+end_time: 1676856503833
+entry_point_name: ''
+experiment_id: '23'
+lifecycle_stage: active
+run_id: f024b9f759ca4006b178c8ec61c8173f
+run_name: unruly-worm-770
+run_uuid: f024b9f759ca4006b178c8ec61c8173f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676856475983
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/45/de6bb1115486401fb12598c8692d6172/artifacts
+end_time: 1676754375385
+entry_point_name: ''
+experiment_id: '45'
+lifecycle_stage: active
+run_id: de6bb1115486401fb12598c8692d6172
+run_name: receptive-sloth-315
+run_uuid: de6bb1115486401fb12598c8692d6172
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676754355533
+status: 3
+tags: []
+user_id: louibo

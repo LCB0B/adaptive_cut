@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/102/a4ccddd1700d4a9e91f3e70457eae2ac/artifacts
+end_time: 1676875681977
+entry_point_name: ''
+experiment_id: '102'
+lifecycle_stage: active
+run_id: a4ccddd1700d4a9e91f3e70457eae2ac
+run_name: beautiful-wren-628
+run_uuid: a4ccddd1700d4a9e91f3e70457eae2ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676875680400
+status: 3
+tags: []
+user_id: louibo

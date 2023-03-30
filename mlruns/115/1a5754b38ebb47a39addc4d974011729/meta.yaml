@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/115/1a5754b38ebb47a39addc4d974011729/artifacts
+end_time: 1676882830970
+entry_point_name: ''
+experiment_id: '115'
+lifecycle_stage: active
+run_id: 1a5754b38ebb47a39addc4d974011729
+run_name: kindly-shoat-67
+run_uuid: 1a5754b38ebb47a39addc4d974011729
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676882797126
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/64/2794ec3a42c44288b1c37dcc7403f275/artifacts
+end_time: 1676738832870
+entry_point_name: ''
+experiment_id: '64'
+lifecycle_stage: active
+run_id: 2794ec3a42c44288b1c37dcc7403f275
+run_name: righteous-wasp-941
+run_uuid: 2794ec3a42c44288b1c37dcc7403f275
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676736822036
+status: 4
+tags: []
+user_id: louibo

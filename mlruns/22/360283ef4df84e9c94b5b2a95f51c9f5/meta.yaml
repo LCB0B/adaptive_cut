@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/22/360283ef4df84e9c94b5b2a95f51c9f5/artifacts
+end_time: 1674739445014
+entry_point_name: ''
+experiment_id: '22'
+lifecycle_stage: active
+run_id: 360283ef4df84e9c94b5b2a95f51c9f5
+run_name: placid-wasp-197
+run_uuid: 360283ef4df84e9c94b5b2a95f51c9f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674739107206
+status: 3
+tags: []
+user_id: louibo

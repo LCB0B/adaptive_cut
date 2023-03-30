@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/136/aeec2d68f29a43418708630d6fe47af7/artifacts
+end_time: 1676894158763
+entry_point_name: ''
+experiment_id: '136'
+lifecycle_stage: active
+run_id: aeec2d68f29a43418708630d6fe47af7
+run_name: gifted-doe-636
+run_uuid: aeec2d68f29a43418708630d6fe47af7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676894156093
+status: 3
+tags: []
+user_id: louibo

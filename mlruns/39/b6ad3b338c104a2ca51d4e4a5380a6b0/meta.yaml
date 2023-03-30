@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/39/b6ad3b338c104a2ca51d4e4a5380a6b0/artifacts
+end_time: 1676907202158
+entry_point_name: ''
+experiment_id: '39'
+lifecycle_stage: active
+run_id: b6ad3b338c104a2ca51d4e4a5380a6b0
+run_name: stylish-mouse-635
+run_uuid: b6ad3b338c104a2ca51d4e4a5380a6b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676907200418
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/13/300dfdd98b0543c7b99a082b3da1b41e/artifacts
+end_time: 1676905942097
+entry_point_name: ''
+experiment_id: '13'
+lifecycle_stage: active
+run_id: 300dfdd98b0543c7b99a082b3da1b41e
+run_name: vaunted-dolphin-469
+run_uuid: 300dfdd98b0543c7b99a082b3da1b41e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676904760257
+status: 3
+tags: []
+user_id: louibo

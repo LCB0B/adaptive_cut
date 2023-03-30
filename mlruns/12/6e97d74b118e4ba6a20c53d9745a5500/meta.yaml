@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/12/6e97d74b118e4ba6a20c53d9745a5500/artifacts
+end_time: 1676859083229
+entry_point_name: ''
+experiment_id: '12'
+lifecycle_stage: active
+run_id: 6e97d74b118e4ba6a20c53d9745a5500
+run_name: traveling-fowl-42
+run_uuid: 6e97d74b118e4ba6a20c53d9745a5500
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676859015295
+status: 3
+tags: []
+user_id: louibo

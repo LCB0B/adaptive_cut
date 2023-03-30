@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/36/efffa16712d14e509a18a62c99ee2fe5/artifacts
+end_time: 1676922132393
+entry_point_name: ''
+experiment_id: '36'
+lifecycle_stage: active
+run_id: efffa16712d14e509a18a62c99ee2fe5
+run_name: dapper-vole-990
+run_uuid: efffa16712d14e509a18a62c99ee2fe5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676922132006
+status: 3
+tags: []
+user_id: louibo

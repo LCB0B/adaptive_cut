@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/10/4cf16f7bc05a48cebb5875c5ae5f7e0e/artifacts
+end_time: 1674053044424
+entry_point_name: ''
+experiment_id: '10'
+lifecycle_stage: active
+run_id: 4cf16f7bc05a48cebb5875c5ae5f7e0e
+run_name: adorable-horse-726
+run_uuid: 4cf16f7bc05a48cebb5875c5ae5f7e0e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674052999305
+status: 3
+tags: []
+user_id: louibo

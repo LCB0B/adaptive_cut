@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/13/65577d0109d24fa3b532920d3d7eaeda/artifacts
+end_time: 1674053444391
+entry_point_name: ''
+experiment_id: '13'
+lifecycle_stage: active
+run_id: 65577d0109d24fa3b532920d3d7eaeda
+run_name: bittersweet-goat-408
+run_uuid: 65577d0109d24fa3b532920d3d7eaeda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674052989185
+status: 3
+tags: []
+user_id: louibo

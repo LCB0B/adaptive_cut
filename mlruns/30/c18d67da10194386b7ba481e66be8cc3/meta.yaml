@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/30/c18d67da10194386b7ba481e66be8cc3/artifacts
+end_time: 1676910848390
+entry_point_name: ''
+experiment_id: '30'
+lifecycle_stage: active
+run_id: c18d67da10194386b7ba481e66be8cc3
+run_name: judicious-fowl-350
+run_uuid: c18d67da10194386b7ba481e66be8cc3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676910842833
+status: 3
+tags: []
+user_id: louibo

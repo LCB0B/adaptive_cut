@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/128/caaa9a2bb7834500aa6402496220e4d7/artifacts
+end_time: 1676764359892
+entry_point_name: ''
+experiment_id: '128'
+lifecycle_stage: active
+run_id: caaa9a2bb7834500aa6402496220e4d7
+run_name: unequaled-wren-492
+run_uuid: caaa9a2bb7834500aa6402496220e4d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676764359808
+status: 4
+tags: []
+user_id: louibo

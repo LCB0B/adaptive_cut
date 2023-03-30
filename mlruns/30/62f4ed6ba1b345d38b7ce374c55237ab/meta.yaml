@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/30/62f4ed6ba1b345d38b7ce374c55237ab/artifacts
+end_time: 1676864828476
+entry_point_name: ''
+experiment_id: '30'
+lifecycle_stage: active
+run_id: 62f4ed6ba1b345d38b7ce374c55237ab
+run_name: clumsy-swan-55
+run_uuid: 62f4ed6ba1b345d38b7ce374c55237ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676864824445
+status: 3
+tags: []
+user_id: louibo

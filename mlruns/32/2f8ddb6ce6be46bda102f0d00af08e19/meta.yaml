@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/32/2f8ddb6ce6be46bda102f0d00af08e19/artifacts
+end_time: 1676870991548
+entry_point_name: ''
+experiment_id: '32'
+lifecycle_stage: active
+run_id: 2f8ddb6ce6be46bda102f0d00af08e19
+run_name: serious-ram-270
+run_uuid: 2f8ddb6ce6be46bda102f0d00af08e19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676870982804
+status: 3
+tags: []
+user_id: louibo

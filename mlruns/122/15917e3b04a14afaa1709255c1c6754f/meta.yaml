@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/122/15917e3b04a14afaa1709255c1c6754f/artifacts
+end_time: 1676759131936
+entry_point_name: ''
+experiment_id: '122'
+lifecycle_stage: active
+run_id: 15917e3b04a14afaa1709255c1c6754f
+run_name: luminous-stoat-532
+run_uuid: 15917e3b04a14afaa1709255c1c6754f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676759115484
+status: 3
+tags: []
+user_id: louibo

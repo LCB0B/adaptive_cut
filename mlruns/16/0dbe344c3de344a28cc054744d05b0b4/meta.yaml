@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/16/0dbe344c3de344a28cc054744d05b0b4/artifacts
+end_time: 1673983486705
+entry_point_name: ''
+experiment_id: '16'
+lifecycle_stage: active
+run_id: 0dbe344c3de344a28cc054744d05b0b4
+run_name: delicate-rat-698
+run_uuid: 0dbe344c3de344a28cc054744d05b0b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673983268312
+status: 3
+tags: []
+user_id: louibo

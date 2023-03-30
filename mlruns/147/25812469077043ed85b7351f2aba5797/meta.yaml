@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/147/25812469077043ed85b7351f2aba5797/artifacts
+end_time: 1676898932370
+entry_point_name: ''
+experiment_id: '147'
+lifecycle_stage: active
+run_id: 25812469077043ed85b7351f2aba5797
+run_name: gentle-seal-625
+run_uuid: 25812469077043ed85b7351f2aba5797
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676898919470
+status: 3
+tags: []
+user_id: louibo

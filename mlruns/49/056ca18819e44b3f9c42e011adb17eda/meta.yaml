@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/49/056ca18819e44b3f9c42e011adb17eda/artifacts
+end_time: 1674089762165
+entry_point_name: ''
+experiment_id: '49'
+lifecycle_stage: active
+run_id: 056ca18819e44b3f9c42e011adb17eda
+run_name: valuable-sow-846
+run_uuid: 056ca18819e44b3f9c42e011adb17eda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674089282031
+status: 3
+tags: []
+user_id: louibo

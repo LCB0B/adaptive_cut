@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/127/3a3c8282d26a4d1392516931a2e6a63c/artifacts
+end_time: 1676754355223
+entry_point_name: ''
+experiment_id: '127'
+lifecycle_stage: active
+run_id: 3a3c8282d26a4d1392516931a2e6a63c
+run_name: adorable-stag-45
+run_uuid: 3a3c8282d26a4d1392516931a2e6a63c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676754135720
+status: 3
+tags: []
+user_id: louibo

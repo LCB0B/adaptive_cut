@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/10/64dd78210f774f9487ebd10e8a663717/artifacts
+end_time: 1673974984587
+entry_point_name: ''
+experiment_id: '10'
+lifecycle_stage: active
+run_id: 64dd78210f774f9487ebd10e8a663717
+run_name: nebulous-dog-759
+run_uuid: 64dd78210f774f9487ebd10e8a663717
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673974970352
+status: 3
+tags: []
+user_id: louibo

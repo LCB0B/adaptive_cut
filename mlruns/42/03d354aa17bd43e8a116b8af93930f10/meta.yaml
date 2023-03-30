@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/42/03d354aa17bd43e8a116b8af93930f10/artifacts
+end_time: 1676877333477
+entry_point_name: ''
+experiment_id: '42'
+lifecycle_stage: active
+run_id: 03d354aa17bd43e8a116b8af93930f10
+run_name: mysterious-koi-325
+run_uuid: 03d354aa17bd43e8a116b8af93930f10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676877293326
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/49/200d5794b7654d03829cb9d2e1be3ac8/artifacts
+end_time: 1674089542882
+entry_point_name: ''
+experiment_id: '49'
+lifecycle_stage: active
+run_id: 200d5794b7654d03829cb9d2e1be3ac8
+run_name: popular-panda-89
+run_uuid: 200d5794b7654d03829cb9d2e1be3ac8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674089520753
+status: 3
+tags: []
+user_id: louibo

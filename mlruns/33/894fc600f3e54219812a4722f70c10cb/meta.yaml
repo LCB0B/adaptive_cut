@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/33/894fc600f3e54219812a4722f70c10cb/artifacts
+end_time: 1673737111765
+entry_point_name: ''
+experiment_id: '33'
+lifecycle_stage: active
+run_id: 894fc600f3e54219812a4722f70c10cb
+run_name: colorful-flea-126
+run_uuid: 894fc600f3e54219812a4722f70c10cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673737097149
+status: 3
+tags: []
+user_id: louibo

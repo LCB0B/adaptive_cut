@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/74/16a6f06533ab42f381cbd709e7c8df49/artifacts
+end_time: 1676862686087
+entry_point_name: ''
+experiment_id: '74'
+lifecycle_stage: active
+run_id: 16a6f06533ab42f381cbd709e7c8df49
+run_name: brawny-jay-370
+run_uuid: 16a6f06533ab42f381cbd709e7c8df49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676862683988
+status: 3
+tags: []
+user_id: louibo

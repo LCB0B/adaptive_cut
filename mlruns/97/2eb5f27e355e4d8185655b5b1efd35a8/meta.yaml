@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/97/2eb5f27e355e4d8185655b5b1efd35a8/artifacts
+end_time: 1676923296361
+entry_point_name: ''
+experiment_id: '97'
+lifecycle_stage: active
+run_id: 2eb5f27e355e4d8185655b5b1efd35a8
+run_name: overjoyed-robin-164
+run_uuid: 2eb5f27e355e4d8185655b5b1efd35a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676923295696
+status: 3
+tags: []
+user_id: louibo

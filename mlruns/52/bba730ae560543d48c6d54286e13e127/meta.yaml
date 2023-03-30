@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/52/bba730ae560543d48c6d54286e13e127/artifacts
+end_time: 1676850280790
+entry_point_name: ''
+experiment_id: '52'
+lifecycle_stage: active
+run_id: bba730ae560543d48c6d54286e13e127
+run_name: dashing-croc-292
+run_uuid: bba730ae560543d48c6d54286e13e127
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676849153536
+status: 3
+tags: []
+user_id: louibo

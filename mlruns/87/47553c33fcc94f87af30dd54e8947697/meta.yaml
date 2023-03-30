@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/87/47553c33fcc94f87af30dd54e8947697/artifacts
+end_time: 1676866047752
+entry_point_name: ''
+experiment_id: '87'
+lifecycle_stage: active
+run_id: 47553c33fcc94f87af30dd54e8947697
+run_name: polite-foal-872
+run_uuid: 47553c33fcc94f87af30dd54e8947697
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676866018264
+status: 3
+tags: []
+user_id: louibo

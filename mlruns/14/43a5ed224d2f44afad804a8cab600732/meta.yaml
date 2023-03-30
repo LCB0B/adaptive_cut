@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/14/43a5ed224d2f44afad804a8cab600732/artifacts
+end_time: 1673983252809
+entry_point_name: ''
+experiment_id: '14'
+lifecycle_stage: active
+run_id: 43a5ed224d2f44afad804a8cab600732
+run_name: traveling-eel-505
+run_uuid: 43a5ed224d2f44afad804a8cab600732
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673983200246
+status: 3
+tags: []
+user_id: louibo

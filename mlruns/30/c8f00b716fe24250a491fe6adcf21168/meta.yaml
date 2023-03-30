@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/30/c8f00b716fe24250a491fe6adcf21168/artifacts
+end_time: 1676870116098
+entry_point_name: ''
+experiment_id: '30'
+lifecycle_stage: active
+run_id: c8f00b716fe24250a491fe6adcf21168
+run_name: masked-crow-175
+run_uuid: c8f00b716fe24250a491fe6adcf21168
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676870110848
+status: 3
+tags: []
+user_id: louibo

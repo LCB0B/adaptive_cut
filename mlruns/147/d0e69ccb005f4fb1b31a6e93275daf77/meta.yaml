@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/147/d0e69ccb005f4fb1b31a6e93275daf77/artifacts
+end_time: 1676772291041
+entry_point_name: ''
+experiment_id: '147'
+lifecycle_stage: active
+run_id: d0e69ccb005f4fb1b31a6e93275daf77
+run_name: adaptable-fly-491
+run_uuid: d0e69ccb005f4fb1b31a6e93275daf77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676772278749
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/32/23e5da2df6e849ce8ad3d213c1f63083/artifacts
+end_time: 1676983603578
+entry_point_name: ''
+experiment_id: '32'
+lifecycle_stage: active
+run_id: 23e5da2df6e849ce8ad3d213c1f63083
+run_name: likeable-loon-233
+run_uuid: 23e5da2df6e849ce8ad3d213c1f63083
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676983595465
+status: 3
+tags: []
+user_id: louibo

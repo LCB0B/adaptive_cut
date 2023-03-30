@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/138/f6b533f294904c9095b14676a2e84454/artifacts
+end_time: 1676897382917
+entry_point_name: ''
+experiment_id: '138'
+lifecycle_stage: active
+run_id: f6b533f294904c9095b14676a2e84454
+run_name: powerful-snail-148
+run_uuid: f6b533f294904c9095b14676a2e84454
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676897285798
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/103/e39fd73063ef431ca255d96ce472697a/artifacts
+end_time: 1676865964152
+entry_point_name: ''
+experiment_id: '103'
+lifecycle_stage: active
+run_id: e39fd73063ef431ca255d96ce472697a
+run_name: nimble-frog-513
+run_uuid: e39fd73063ef431ca255d96ce472697a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676865926762
+status: 3
+tags: []
+user_id: louibo

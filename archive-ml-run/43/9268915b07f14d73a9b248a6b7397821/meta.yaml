@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/43/9268915b07f14d73a9b248a6b7397821/artifacts
+end_time: 1673992440996
+entry_point_name: ''
+experiment_id: '43'
+lifecycle_stage: active
+run_id: 9268915b07f14d73a9b248a6b7397821
+run_name: amazing-lynx-914
+run_uuid: 9268915b07f14d73a9b248a6b7397821
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673991795139
+status: 3
+tags: []
+user_id: louibo

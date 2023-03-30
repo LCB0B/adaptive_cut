@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/10/10da1701026b46b6aada548ba8b1959c/artifacts
+end_time: 1674472050051
+entry_point_name: ''
+experiment_id: '10'
+lifecycle_stage: active
+run_id: 10da1701026b46b6aada548ba8b1959c
+run_name: big-horse-245
+run_uuid: 10da1701026b46b6aada548ba8b1959c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674472035821
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/32/1118cd8ffa094142b03b50022f880d7a/artifacts
+end_time: 1674091366420
+entry_point_name: ''
+experiment_id: '32'
+lifecycle_stage: active
+run_id: 1118cd8ffa094142b03b50022f880d7a
+run_name: classy-steed-74
+run_uuid: 1118cd8ffa094142b03b50022f880d7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674091363641
+status: 3
+tags: []
+user_id: louibo

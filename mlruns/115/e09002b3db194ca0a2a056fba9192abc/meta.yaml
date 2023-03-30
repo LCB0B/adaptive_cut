@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/115/e09002b3db194ca0a2a056fba9192abc/artifacts
+end_time: 1676761536421
+entry_point_name: ''
+experiment_id: '115'
+lifecycle_stage: active
+run_id: e09002b3db194ca0a2a056fba9192abc
+run_name: youthful-gnat-675
+run_uuid: e09002b3db194ca0a2a056fba9192abc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676761536339
+status: 4
+tags: []
+user_id: louibo

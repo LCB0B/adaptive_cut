@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/14/45fea48e22b64733998b47d609e6e305/artifacts
+end_time: 1673744938382
+entry_point_name: ''
+experiment_id: '14'
+lifecycle_stage: active
+run_id: 45fea48e22b64733998b47d609e6e305
+run_name: gaudy-smelt-667
+run_uuid: 45fea48e22b64733998b47d609e6e305
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673744900501
+status: 3
+tags: []
+user_id: louibo

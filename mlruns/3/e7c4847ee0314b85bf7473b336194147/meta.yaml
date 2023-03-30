@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/3/e7c4847ee0314b85bf7473b336194147/artifacts
+end_time: 1670248306602
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+run_id: e7c4847ee0314b85bf7473b336194147
+run_name: merciful-smelt-940
+run_uuid: e7c4847ee0314b85bf7473b336194147
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670248306594
+status: 4
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/6/ce52df82738842ec8b337346bd1ad437/artifacts
+end_time: 1674051113026
+entry_point_name: ''
+experiment_id: '6'
+lifecycle_stage: active
+run_id: ce52df82738842ec8b337346bd1ad437
+run_name: burly-goat-203
+run_uuid: ce52df82738842ec8b337346bd1ad437
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674050972901
+status: 3
+tags: []
+user_id: louibo

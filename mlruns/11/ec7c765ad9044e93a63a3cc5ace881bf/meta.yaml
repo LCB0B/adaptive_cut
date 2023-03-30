@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/11/ec7c765ad9044e93a63a3cc5ace881bf/artifacts
+end_time: 1673980857983
+entry_point_name: ''
+experiment_id: '11'
+lifecycle_stage: active
+run_id: ec7c765ad9044e93a63a3cc5ace881bf
+run_name: charming-fly-126
+run_uuid: ec7c765ad9044e93a63a3cc5ace881bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673980660655
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/4/53826b0fb14d4aa6af3fd5bbec3f2074/artifacts
+end_time: 1673977695736
+entry_point_name: ''
+experiment_id: '4'
+lifecycle_stage: active
+run_id: 53826b0fb14d4aa6af3fd5bbec3f2074
+run_name: agreeable-crane-621
+run_uuid: 53826b0fb14d4aa6af3fd5bbec3f2074
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673977679526
+status: 3
+tags: []
+user_id: louibo

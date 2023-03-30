@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/4/a6d01924189047008c7259dcade09f36/artifacts
+end_time: 1674050119897
+entry_point_name: ''
+experiment_id: '4'
+lifecycle_stage: active
+run_id: a6d01924189047008c7259dcade09f36
+run_name: handsome-eel-88
+run_uuid: a6d01924189047008c7259dcade09f36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674050115331
+status: 4
+tags: []
+user_id: louibo

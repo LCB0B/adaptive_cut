@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/32/823959bc534f48128b15a802c7854e85/artifacts
+end_time: 1673990075597
+entry_point_name: ''
+experiment_id: '32'
+lifecycle_stage: active
+run_id: 823959bc534f48128b15a802c7854e85
+run_name: efficient-robin-437
+run_uuid: 823959bc534f48128b15a802c7854e85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673990072951
+status: 3
+tags: []
+user_id: louibo

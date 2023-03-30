@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/85/44c5d9c9b6fa4028aebd0266271cdf5c/artifacts
+end_time: 1676746465291
+entry_point_name: ''
+experiment_id: '85'
+lifecycle_stage: active
+run_id: 44c5d9c9b6fa4028aebd0266271cdf5c
+run_name: selective-mouse-211
+run_uuid: 44c5d9c9b6fa4028aebd0266271cdf5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676746401101
+status: 3
+tags: []
+user_id: louibo

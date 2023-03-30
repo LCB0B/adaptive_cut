@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/128/caebc73196fb4175a0104b8454a7757f/artifacts
+end_time: 1676891226652
+entry_point_name: ''
+experiment_id: '128'
+lifecycle_stage: active
+run_id: caebc73196fb4175a0104b8454a7757f
+run_name: funny-toad-773
+run_uuid: caebc73196fb4175a0104b8454a7757f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676891215201
+status: 3
+tags: []
+user_id: louibo

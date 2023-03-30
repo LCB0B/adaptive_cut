@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/99/98a7784e7f3549aebfb5606a0de86be2/artifacts
+end_time: 1676755618917
+entry_point_name: ''
+experiment_id: '99'
+lifecycle_stage: active
+run_id: 98a7784e7f3549aebfb5606a0de86be2
+run_name: brawny-steed-984
+run_uuid: 98a7784e7f3549aebfb5606a0de86be2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676755616355
+status: 3
+tags: []
+user_id: louibo

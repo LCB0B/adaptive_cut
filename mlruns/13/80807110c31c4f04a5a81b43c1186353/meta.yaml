@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/13/80807110c31c4f04a5a81b43c1186353/artifacts
+end_time: 1676852620504
+entry_point_name: ''
+experiment_id: '13'
+lifecycle_stage: active
+run_id: 80807110c31c4f04a5a81b43c1186353
+run_name: vaunted-newt-480
+run_uuid: 80807110c31c4f04a5a81b43c1186353
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676852296120
+status: 3
+tags: []
+user_id: louibo

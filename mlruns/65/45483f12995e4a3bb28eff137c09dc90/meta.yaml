@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/65/45483f12995e4a3bb28eff137c09dc90/artifacts
+end_time: 1676850987750
+entry_point_name: ''
+experiment_id: '65'
+lifecycle_stage: active
+run_id: 45483f12995e4a3bb28eff137c09dc90
+run_name: stately-slug-998
+run_uuid: 45483f12995e4a3bb28eff137c09dc90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676850986591
+status: 3
+tags: []
+user_id: louibo

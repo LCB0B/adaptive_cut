@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/138/9e69a5b755d0423e8a6e073c74df328f/artifacts
+end_time: 1676894349090
+entry_point_name: ''
+experiment_id: '138'
+lifecycle_stage: active
+run_id: 9e69a5b755d0423e8a6e073c74df328f
+run_name: marvelous-ox-541
+run_uuid: 9e69a5b755d0423e8a6e073c74df328f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676894335315
+status: 3
+tags: []
+user_id: louibo

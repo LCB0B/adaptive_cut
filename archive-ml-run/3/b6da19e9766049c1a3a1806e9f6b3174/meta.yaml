@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/3/b6da19e9766049c1a3a1806e9f6b3174/artifacts
+end_time: 1670251384936
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+run_id: b6da19e9766049c1a3a1806e9f6b3174
+run_name: unleashed-fox-448
+run_uuid: b6da19e9766049c1a3a1806e9f6b3174
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670251384928
+status: 4
+tags: []
+user_id: louibo

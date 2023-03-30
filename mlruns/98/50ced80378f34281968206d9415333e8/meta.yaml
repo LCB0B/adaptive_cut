@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/98/50ced80378f34281968206d9415333e8/artifacts
+end_time: 1676877120277
+entry_point_name: ''
+experiment_id: '98'
+lifecycle_stage: active
+run_id: 50ced80378f34281968206d9415333e8
+run_name: gaudy-loon-808
+run_uuid: 50ced80378f34281968206d9415333e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676877066343
+status: 3
+tags: []
+user_id: louibo

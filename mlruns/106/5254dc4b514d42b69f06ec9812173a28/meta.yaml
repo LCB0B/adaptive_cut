@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/106/5254dc4b514d42b69f06ec9812173a28/artifacts
+end_time: 1676755777623
+entry_point_name: ''
+experiment_id: '106'
+lifecycle_stage: active
+run_id: 5254dc4b514d42b69f06ec9812173a28
+run_name: flawless-rook-574
+run_uuid: 5254dc4b514d42b69f06ec9812173a28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676755771816
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/90/098d1d0538a44561a9dc7e1d7e5f8e11/artifacts
+end_time: 1676901752779
+entry_point_name: ''
+experiment_id: '90'
+lifecycle_stage: active
+run_id: 098d1d0538a44561a9dc7e1d7e5f8e11
+run_name: upset-mole-595
+run_uuid: 098d1d0538a44561a9dc7e1d7e5f8e11
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676901744893
+status: 3
+tags: []
+user_id: louibo

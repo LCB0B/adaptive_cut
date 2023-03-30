@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/85/7bd8441fc2b8493282d02a5aeaa735e8/artifacts
+end_time: 1676913869021
+entry_point_name: ''
+experiment_id: '85'
+lifecycle_stage: active
+run_id: 7bd8441fc2b8493282d02a5aeaa735e8
+run_name: secretive-seal-846
+run_uuid: 7bd8441fc2b8493282d02a5aeaa735e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676913807779
+status: 3
+tags: []
+user_id: louibo

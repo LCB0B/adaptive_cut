@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/cf5637bd2a3c47cdbf4b56c3a10b7c00/artifacts
+end_time: 1670249052612
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: cf5637bd2a3c47cdbf4b56c3a10b7c00
+run_name: bouncy-fawn-353
+run_uuid: cf5637bd2a3c47cdbf4b56c3a10b7c00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670249049839
+status: 3
+tags: []
+user_id: louibo

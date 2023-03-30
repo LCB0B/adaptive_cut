@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/1c3d692e319a45529b6d454e5bf5906e/artifacts
+end_time: 1670251622640
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 1c3d692e319a45529b6d454e5bf5906e
+run_name: likeable-shoat-179
+run_uuid: 1c3d692e319a45529b6d454e5bf5906e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670251621415
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/105/fd3b512cb5254c2880962701b0b0ccb5/artifacts
+end_time: 1676862754232
+entry_point_name: ''
+experiment_id: '105'
+lifecycle_stage: active
+run_id: fd3b512cb5254c2880962701b0b0ccb5
+run_name: casual-robin-648
+run_uuid: fd3b512cb5254c2880962701b0b0ccb5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676862413412
+status: 3
+tags: []
+user_id: louibo

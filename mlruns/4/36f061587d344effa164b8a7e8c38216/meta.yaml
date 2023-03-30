@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/4/36f061587d344effa164b8a7e8c38216/artifacts
+end_time: 1673980771782
+entry_point_name: ''
+experiment_id: '4'
+lifecycle_stage: active
+run_id: 36f061587d344effa164b8a7e8c38216
+run_name: overjoyed-cod-481
+run_uuid: 36f061587d344effa164b8a7e8c38216
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673980743900
+status: 3
+tags: []
+user_id: louibo

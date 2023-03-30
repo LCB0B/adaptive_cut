@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/10/cb86fec5f10947f0b1540fc2fad6ae01/artifacts
+end_time: 1674053633607
+entry_point_name: ''
+experiment_id: '10'
+lifecycle_stage: active
+run_id: cb86fec5f10947f0b1540fc2fad6ae01
+run_name: zealous-midge-906
+run_uuid: cb86fec5f10947f0b1540fc2fad6ae01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674053609737
+status: 3
+tags: []
+user_id: louibo

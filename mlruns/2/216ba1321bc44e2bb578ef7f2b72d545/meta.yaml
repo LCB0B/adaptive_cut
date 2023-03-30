@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/216ba1321bc44e2bb578ef7f2b72d545/artifacts
+end_time: 1670251448283
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 216ba1321bc44e2bb578ef7f2b72d545
+run_name: loud-lamb-505
+run_uuid: 216ba1321bc44e2bb578ef7f2b72d545
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670251445324
+status: 3
+tags: []
+user_id: louibo

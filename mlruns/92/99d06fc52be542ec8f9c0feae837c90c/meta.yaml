@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/92/99d06fc52be542ec8f9c0feae837c90c/artifacts
+end_time: 1676902118501
+entry_point_name: ''
+experiment_id: '92'
+lifecycle_stage: active
+run_id: 99d06fc52be542ec8f9c0feae837c90c
+run_name: amazing-shrew-670
+run_uuid: 99d06fc52be542ec8f9c0feae837c90c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676902050540
+status: 3
+tags: []
+user_id: louibo

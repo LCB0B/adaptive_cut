@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/4/9760cebb63844bfd8df02106ea11806a/artifacts
+end_time: 1674732320453
+entry_point_name: ''
+experiment_id: '4'
+lifecycle_stage: active
+run_id: 9760cebb63844bfd8df02106ea11806a
+run_name: rebellious-perch-547
+run_uuid: 9760cebb63844bfd8df02106ea11806a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674732302849
+status: 3
+tags: []
+user_id: louibo

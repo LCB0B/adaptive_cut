@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/28/950ae223264241cdad8d66426958ba85/artifacts
+end_time: 1676769022406
+entry_point_name: ''
+experiment_id: '28'
+lifecycle_stage: active
+run_id: 950ae223264241cdad8d66426958ba85
+run_name: sneaky-mouse-792
+run_uuid: 950ae223264241cdad8d66426958ba85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676769011679
+status: 3
+tags: []
+user_id: louibo

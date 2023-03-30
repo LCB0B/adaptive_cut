@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/150/082c0d96845f40c4b70fa1d6bf46c136/artifacts
+end_time: 1676871747020
+entry_point_name: ''
+experiment_id: '150'
+lifecycle_stage: active
+run_id: 082c0d96845f40c4b70fa1d6bf46c136
+run_name: fun-fawn-782
+run_uuid: 082c0d96845f40c4b70fa1d6bf46c136
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676871678363
+status: 3
+tags: []
+user_id: louibo

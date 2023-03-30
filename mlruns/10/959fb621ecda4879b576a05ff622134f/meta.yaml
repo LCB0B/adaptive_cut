@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/10/959fb621ecda4879b576a05ff622134f/artifacts
+end_time: 1673976937085
+entry_point_name: ''
+experiment_id: '10'
+lifecycle_stage: active
+run_id: 959fb621ecda4879b576a05ff622134f
+run_name: rumbling-hen-436
+run_uuid: 959fb621ecda4879b576a05ff622134f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673976922938
+status: 3
+tags: []
+user_id: louibo

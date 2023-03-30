@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/41/aa0f610bb6c04e6b8975bc6c00e6de02/artifacts
+end_time: 1674759082960
+entry_point_name: ''
+experiment_id: '41'
+lifecycle_stage: active
+run_id: aa0f610bb6c04e6b8975bc6c00e6de02
+run_name: silent-elk-976
+run_uuid: aa0f610bb6c04e6b8975bc6c00e6de02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674759067300
+status: 3
+tags: []
+user_id: louibo

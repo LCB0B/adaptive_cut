@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/39/d130d6c763454b51a559d31eabe2abaa/artifacts
+end_time: 1673987891047
+entry_point_name: ''
+experiment_id: '39'
+lifecycle_stage: active
+run_id: d130d6c763454b51a559d31eabe2abaa
+run_name: dapper-finch-589
+run_uuid: d130d6c763454b51a559d31eabe2abaa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673987889859
+status: 3
+tags: []
+user_id: louibo

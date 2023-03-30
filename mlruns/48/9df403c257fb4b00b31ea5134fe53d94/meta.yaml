@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/48/9df403c257fb4b00b31ea5134fe53d94/artifacts
+end_time: 1674081439203
+entry_point_name: ''
+experiment_id: '48'
+lifecycle_stage: active
+run_id: 9df403c257fb4b00b31ea5134fe53d94
+run_name: casual-eel-343
+run_uuid: 9df403c257fb4b00b31ea5134fe53d94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674081388827
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/6/4d17a38ba10b4ba9a709f15afbfcf3b6/artifacts
+end_time: 1676739282504
+entry_point_name: ''
+experiment_id: '6'
+lifecycle_stage: active
+run_id: 4d17a38ba10b4ba9a709f15afbfcf3b6
+run_name: bold-wolf-380
+run_uuid: 4d17a38ba10b4ba9a709f15afbfcf3b6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676739063378
+status: 3
+tags: []
+user_id: louibo

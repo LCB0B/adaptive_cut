@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/12/c68df4e77f214cc5a4a59fb71fe9ecb4/artifacts
+end_time: 1676854334322
+entry_point_name: ''
+experiment_id: '12'
+lifecycle_stage: active
+run_id: c68df4e77f214cc5a4a59fb71fe9ecb4
+run_name: thoughtful-dove-534
+run_uuid: c68df4e77f214cc5a4a59fb71fe9ecb4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676854328754
+status: 3
+tags: []
+user_id: louibo

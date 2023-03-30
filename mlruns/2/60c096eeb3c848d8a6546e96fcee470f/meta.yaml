@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/60c096eeb3c848d8a6546e96fcee470f/artifacts
+end_time: 1674760257074
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 60c096eeb3c848d8a6546e96fcee470f
+run_name: blushing-midge-206
+run_uuid: 60c096eeb3c848d8a6546e96fcee470f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674760255993
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/33/205fa63a3f904634b4fdcdd415a166ef/artifacts
+end_time: 1672599399027
+entry_point_name: ''
+experiment_id: '33'
+lifecycle_stage: active
+run_id: 205fa63a3f904634b4fdcdd415a166ef
+run_name: smiling-quail-542
+run_uuid: 205fa63a3f904634b4fdcdd415a166ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672599394810
+status: 4
+tags: []
+user_id: louibo

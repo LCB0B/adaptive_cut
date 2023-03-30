@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/74/f7b890da0cc34ab38de481a5c5c73027/artifacts
+end_time: 1676906833721
+entry_point_name: ''
+experiment_id: '74'
+lifecycle_stage: active
+run_id: f7b890da0cc34ab38de481a5c5c73027
+run_name: illustrious-deer-634
+run_uuid: f7b890da0cc34ab38de481a5c5c73027
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676906831912
+status: 3
+tags: []
+user_id: louibo

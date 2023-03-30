@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/137/5d8ccfa881ce434abd7e64ffc8cef8af/artifacts
+end_time: 1676768865208
+entry_point_name: ''
+experiment_id: '137'
+lifecycle_stage: active
+run_id: 5d8ccfa881ce434abd7e64ffc8cef8af
+run_name: popular-lark-488
+run_uuid: 5d8ccfa881ce434abd7e64ffc8cef8af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676768853165
+status: 3
+tags: []
+user_id: louibo

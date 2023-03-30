@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/31/5702a00536d34e6baf682ccf61c9d8cc/artifacts
+end_time: 1674068016935
+entry_point_name: ''
+experiment_id: '31'
+lifecycle_stage: active
+run_id: 5702a00536d34e6baf682ccf61c9d8cc
+run_name: fearless-flea-834
+run_uuid: 5702a00536d34e6baf682ccf61c9d8cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674068011129
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/46/16e3f45859dc4339b1dbdfc8a297a3bd/artifacts
+end_time: 1674090272919
+entry_point_name: ''
+experiment_id: '46'
+lifecycle_stage: active
+run_id: 16e3f45859dc4339b1dbdfc8a297a3bd
+run_name: trusting-shrew-506
+run_uuid: 16e3f45859dc4339b1dbdfc8a297a3bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674090211917
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/118/b1cd04f8a10d4a0a8a59017fb9c78beb/artifacts
+end_time: 1676763515572
+entry_point_name: ''
+experiment_id: '118'
+lifecycle_stage: active
+run_id: b1cd04f8a10d4a0a8a59017fb9c78beb
+run_name: fortunate-hen-767
+run_uuid: b1cd04f8a10d4a0a8a59017fb9c78beb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676763483669
+status: 3
+tags: []
+user_id: louibo

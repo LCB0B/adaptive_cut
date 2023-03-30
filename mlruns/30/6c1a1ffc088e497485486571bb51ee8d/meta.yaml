@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/30/6c1a1ffc088e497485486571bb51ee8d/artifacts
+end_time: 1674079347635
+entry_point_name: ''
+experiment_id: '30'
+lifecycle_stage: active
+run_id: 6c1a1ffc088e497485486571bb51ee8d
+run_name: invincible-doe-377
+run_uuid: 6c1a1ffc088e497485486571bb51ee8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674079345810
+status: 3
+tags: []
+user_id: louibo

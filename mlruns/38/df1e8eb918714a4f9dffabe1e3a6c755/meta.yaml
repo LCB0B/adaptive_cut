@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/38/df1e8eb918714a4f9dffabe1e3a6c755/artifacts
+end_time: 1674751420470
+entry_point_name: ''
+experiment_id: '38'
+lifecycle_stage: active
+run_id: df1e8eb918714a4f9dffabe1e3a6c755
+run_name: painted-donkey-894
+run_uuid: df1e8eb918714a4f9dffabe1e3a6c755
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674751404421
+status: 3
+tags: []
+user_id: louibo

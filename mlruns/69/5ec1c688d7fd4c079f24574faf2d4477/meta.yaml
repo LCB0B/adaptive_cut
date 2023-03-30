@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/69/5ec1c688d7fd4c079f24574faf2d4477/artifacts
+end_time: 1676741655196
+entry_point_name: ''
+experiment_id: '69'
+lifecycle_stage: active
+run_id: 5ec1c688d7fd4c079f24574faf2d4477
+run_name: learned-sponge-11
+run_uuid: 5ec1c688d7fd4c079f24574faf2d4477
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676741654786
+status: 4
+tags: []
+user_id: louibo

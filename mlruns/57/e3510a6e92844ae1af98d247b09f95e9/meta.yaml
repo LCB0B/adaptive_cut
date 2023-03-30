@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/57/e3510a6e92844ae1af98d247b09f95e9/artifacts
+end_time: 1676735042912
+entry_point_name: ''
+experiment_id: '57'
+lifecycle_stage: active
+run_id: e3510a6e92844ae1af98d247b09f95e9
+run_name: unruly-gnat-864
+run_uuid: e3510a6e92844ae1af98d247b09f95e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676735042507
+status: 4
+tags: []
+user_id: louibo

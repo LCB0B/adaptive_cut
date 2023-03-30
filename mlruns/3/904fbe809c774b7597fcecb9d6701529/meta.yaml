@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/3/904fbe809c774b7597fcecb9d6701529/artifacts
+end_time: 1672596181553
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+run_id: 904fbe809c774b7597fcecb9d6701529
+run_name: hilarious-fowl-100
+run_uuid: 904fbe809c774b7597fcecb9d6701529
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672596181540
+status: 4
+tags: []
+user_id: louibo

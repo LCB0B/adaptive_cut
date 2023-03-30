@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/119/d57c81bbed6e4ca6ac40046cfa0b06a3/artifacts
+end_time: 1676753739785
+entry_point_name: ''
+experiment_id: '119'
+lifecycle_stage: active
+run_id: d57c81bbed6e4ca6ac40046cfa0b06a3
+run_name: merciful-wolf-770
+run_uuid: d57c81bbed6e4ca6ac40046cfa0b06a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676753702977
+status: 3
+tags: []
+user_id: louibo

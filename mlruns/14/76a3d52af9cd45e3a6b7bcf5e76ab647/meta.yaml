@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/14/76a3d52af9cd45e3a6b7bcf5e76ab647/artifacts
+end_time: 1674738867982
+entry_point_name: ''
+experiment_id: '14'
+lifecycle_stage: active
+run_id: 76a3d52af9cd45e3a6b7bcf5e76ab647
+run_name: gregarious-duck-758
+run_uuid: 76a3d52af9cd45e3a6b7bcf5e76ab647
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674738514888
+status: 3
+tags: []
+user_id: louibo

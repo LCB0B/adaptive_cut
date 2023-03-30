@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/654b8228b65f405dbe05d44422dc70d9/artifacts
+end_time: 1672594857715
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 654b8228b65f405dbe05d44422dc70d9
+run_name: selective-crow-156
+run_uuid: 654b8228b65f405dbe05d44422dc70d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672594850928
+status: 3
+tags: []
+user_id: louibo

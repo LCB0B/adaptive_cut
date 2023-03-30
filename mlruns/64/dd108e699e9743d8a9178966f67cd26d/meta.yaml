@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/64/dd108e699e9743d8a9178966f67cd26d/artifacts
+end_time: 1676855629300
+entry_point_name: ''
+experiment_id: '64'
+lifecycle_stage: active
+run_id: dd108e699e9743d8a9178966f67cd26d
+run_name: hilarious-auk-800
+run_uuid: dd108e699e9743d8a9178966f67cd26d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676852815308
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/33/ed034a8a77dd490abfd7058a4d1471bf/artifacts
+end_time: 1673735932030
+entry_point_name: ''
+experiment_id: '33'
+lifecycle_stage: active
+run_id: ed034a8a77dd490abfd7058a4d1471bf
+run_name: tasteful-stag-674
+run_uuid: ed034a8a77dd490abfd7058a4d1471bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673735918823
+status: 3
+tags: []
+user_id: louibo

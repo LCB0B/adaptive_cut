@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/14/e7dbc9ec1c1141dcbf40f5f2e9d64396/artifacts
+end_time: 1673787797135
+entry_point_name: ''
+experiment_id: '14'
+lifecycle_stage: active
+run_id: e7dbc9ec1c1141dcbf40f5f2e9d64396
+run_name: enthused-moth-159
+run_uuid: e7dbc9ec1c1141dcbf40f5f2e9d64396
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673787759376
+status: 3
+tags: []
+user_id: louibo

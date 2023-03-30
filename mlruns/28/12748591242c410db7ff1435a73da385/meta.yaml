@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/28/12748591242c410db7ff1435a73da385/artifacts
+end_time: 1674069746443
+entry_point_name: ''
+experiment_id: '28'
+lifecycle_stage: active
+run_id: 12748591242c410db7ff1435a73da385
+run_name: casual-goat-42
+run_uuid: 12748591242c410db7ff1435a73da385
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674069724733
+status: 3
+tags: []
+user_id: louibo

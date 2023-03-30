@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/3/4418d1c4d4864118826d93a37cce2444/artifacts
+end_time: 1672595933791
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+run_id: 4418d1c4d4864118826d93a37cce2444
+run_name: defiant-crab-209
+run_uuid: 4418d1c4d4864118826d93a37cce2444
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672595933778
+status: 4
+tags: []
+user_id: louibo

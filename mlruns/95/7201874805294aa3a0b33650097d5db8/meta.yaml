@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/95/7201874805294aa3a0b33650097d5db8/artifacts
+end_time: 1676754266930
+entry_point_name: ''
+experiment_id: '95'
+lifecycle_stage: active
+run_id: 7201874805294aa3a0b33650097d5db8
+run_name: nimble-gnat-400
+run_uuid: 7201874805294aa3a0b33650097d5db8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676754266891
+status: 4
+tags: []
+user_id: louibo

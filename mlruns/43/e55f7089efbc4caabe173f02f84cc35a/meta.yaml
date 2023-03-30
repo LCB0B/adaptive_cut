@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/43/e55f7089efbc4caabe173f02f84cc35a/artifacts
+end_time: 1676883081162
+entry_point_name: ''
+experiment_id: '43'
+lifecycle_stage: active
+run_id: e55f7089efbc4caabe173f02f84cc35a
+run_name: upset-crab-555
+run_uuid: e55f7089efbc4caabe173f02f84cc35a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676882831357
+status: 3
+tags: []
+user_id: louibo

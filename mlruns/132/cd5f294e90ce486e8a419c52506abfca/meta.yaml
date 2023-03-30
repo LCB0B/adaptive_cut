@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/132/cd5f294e90ce486e8a419c52506abfca/artifacts
+end_time: 1676920973949
+entry_point_name: ''
+experiment_id: '132'
+lifecycle_stage: active
+run_id: cd5f294e90ce486e8a419c52506abfca
+run_name: enchanting-croc-257
+run_uuid: cd5f294e90ce486e8a419c52506abfca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676920966640
+status: 3
+tags: []
+user_id: louibo

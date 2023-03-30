@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/54/e9d1569aa16f453cb91f82e7bdeee025/artifacts
+end_time: 1676849400089
+entry_point_name: ''
+experiment_id: '54'
+lifecycle_stage: active
+run_id: e9d1569aa16f453cb91f82e7bdeee025
+run_name: grandiose-duck-162
+run_uuid: e9d1569aa16f453cb91f82e7bdeee025
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676849350803
+status: 3
+tags: []
+user_id: louibo

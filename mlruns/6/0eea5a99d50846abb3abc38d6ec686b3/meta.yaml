@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/6/0eea5a99d50846abb3abc38d6ec686b3/artifacts
+end_time: 1674051276640
+entry_point_name: ''
+experiment_id: '6'
+lifecycle_stage: active
+run_id: 0eea5a99d50846abb3abc38d6ec686b3
+run_name: upbeat-snake-30
+run_uuid: 0eea5a99d50846abb3abc38d6ec686b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674051137145
+status: 3
+tags: []
+user_id: louibo

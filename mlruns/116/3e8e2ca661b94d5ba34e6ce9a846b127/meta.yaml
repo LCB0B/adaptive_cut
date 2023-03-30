@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/116/3e8e2ca661b94d5ba34e6ce9a846b127/artifacts
+end_time: 1676763457576
+entry_point_name: ''
+experiment_id: '116'
+lifecycle_stage: active
+run_id: 3e8e2ca661b94d5ba34e6ce9a846b127
+run_name: invincible-hound-104
+run_uuid: 3e8e2ca661b94d5ba34e6ce9a846b127
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676763422177
+status: 3
+tags: []
+user_id: louibo

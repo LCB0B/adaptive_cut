@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/10/804cbc56c38d44fdacbdf3a914a790d2/artifacts
+end_time: 1673975930611
+entry_point_name: ''
+experiment_id: '10'
+lifecycle_stage: active
+run_id: 804cbc56c38d44fdacbdf3a914a790d2
+run_name: overjoyed-auk-316
+run_uuid: 804cbc56c38d44fdacbdf3a914a790d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673975547444
+status: 4
+tags: []
+user_id: louibo

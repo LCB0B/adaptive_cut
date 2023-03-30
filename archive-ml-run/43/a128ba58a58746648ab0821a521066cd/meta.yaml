@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/43/a128ba58a58746648ab0821a521066cd/artifacts
+end_time: 1673989874822
+entry_point_name: ''
+experiment_id: '43'
+lifecycle_stage: active
+run_id: a128ba58a58746648ab0821a521066cd
+run_name: painted-shrike-345
+run_uuid: a128ba58a58746648ab0821a521066cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673989380164
+status: 3
+tags: []
+user_id: louibo

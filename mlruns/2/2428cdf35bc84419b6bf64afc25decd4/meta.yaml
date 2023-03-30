@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/2428cdf35bc84419b6bf64afc25decd4/artifacts
+end_time: 1670264558964
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 2428cdf35bc84419b6bf64afc25decd4
+run_name: sincere-whale-346
+run_uuid: 2428cdf35bc84419b6bf64afc25decd4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670264558948
+status: 4
+tags: []
+user_id: louibo

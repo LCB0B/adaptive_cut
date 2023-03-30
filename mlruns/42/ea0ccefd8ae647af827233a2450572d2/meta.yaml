@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/42/ea0ccefd8ae647af827233a2450572d2/artifacts
+end_time: 1674067515023
+entry_point_name: ''
+experiment_id: '42'
+lifecycle_stage: active
+run_id: ea0ccefd8ae647af827233a2450572d2
+run_name: wise-vole-890
+run_uuid: ea0ccefd8ae647af827233a2450572d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674067351075
+status: 3
+tags: []
+user_id: louibo

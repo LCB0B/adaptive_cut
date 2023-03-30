@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/137/6e86088bda684ee79739504730892506/artifacts
+end_time: 1676869751127
+entry_point_name: ''
+experiment_id: '137'
+lifecycle_stage: active
+run_id: 6e86088bda684ee79739504730892506
+run_name: tasteful-shrew-673
+run_uuid: 6e86088bda684ee79739504730892506
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676869737928
+status: 3
+tags: []
+user_id: louibo

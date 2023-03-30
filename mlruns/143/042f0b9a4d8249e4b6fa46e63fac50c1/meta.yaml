@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/143/042f0b9a4d8249e4b6fa46e63fac50c1/artifacts
+end_time: 1676920515946
+entry_point_name: ''
+experiment_id: '143'
+lifecycle_stage: active
+run_id: 042f0b9a4d8249e4b6fa46e63fac50c1
+run_name: clumsy-snipe-749
+run_uuid: 042f0b9a4d8249e4b6fa46e63fac50c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676920514738
+status: 3
+tags: []
+user_id: louibo

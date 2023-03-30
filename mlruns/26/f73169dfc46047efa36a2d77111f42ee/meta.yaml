@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/26/f73169dfc46047efa36a2d77111f42ee/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '26'
+lifecycle_stage: active
+run_id: f73169dfc46047efa36a2d77111f42ee
+run_name: stylish-crow-459
+run_uuid: f73169dfc46047efa36a2d77111f42ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670259368765
+status: 1
+tags: []
+user_id: louibo

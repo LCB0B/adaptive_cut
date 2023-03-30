@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/69/59450be829144327a20cfe6a0488db4f/artifacts
+end_time: 1676897341096
+entry_point_name: ''
+experiment_id: '69'
+lifecycle_stage: active
+run_id: 59450be829144327a20cfe6a0488db4f
+run_name: omniscient-crab-834
+run_uuid: 59450be829144327a20cfe6a0488db4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676897329677
+status: 3
+tags: []
+user_id: louibo

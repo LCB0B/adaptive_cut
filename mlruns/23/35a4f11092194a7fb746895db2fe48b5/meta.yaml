@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/23/35a4f11092194a7fb746895db2fe48b5/artifacts
+end_time: 1674059540556
+entry_point_name: ''
+experiment_id: '23'
+lifecycle_stage: active
+run_id: 35a4f11092194a7fb746895db2fe48b5
+run_name: spiffy-trout-520
+run_uuid: 35a4f11092194a7fb746895db2fe48b5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674059454115
+status: 3
+tags: []
+user_id: louibo

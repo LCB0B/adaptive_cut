@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/134/04d102efb51940fb92f716d64c5cf821/artifacts
+end_time: 1676917248610
+entry_point_name: ''
+experiment_id: '134'
+lifecycle_stage: active
+run_id: 04d102efb51940fb92f716d64c5cf821
+run_name: invincible-ray-209
+run_uuid: 04d102efb51940fb92f716d64c5cf821
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676913741704
+status: 3
+tags: []
+user_id: louibo

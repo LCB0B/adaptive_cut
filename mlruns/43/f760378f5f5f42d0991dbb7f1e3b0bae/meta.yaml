@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/43/f760378f5f5f42d0991dbb7f1e3b0bae/artifacts
+end_time: 1676938443320
+entry_point_name: ''
+experiment_id: '43'
+lifecycle_stage: active
+run_id: f760378f5f5f42d0991dbb7f1e3b0bae
+run_name: valuable-fox-756
+run_uuid: f760378f5f5f42d0991dbb7f1e3b0bae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676935702797
+status: 3
+tags: []
+user_id: louibo

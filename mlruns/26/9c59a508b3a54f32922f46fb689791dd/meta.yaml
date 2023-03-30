@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/26/9c59a508b3a54f32922f46fb689791dd/artifacts
+end_time: 1676906823333
+entry_point_name: ''
+experiment_id: '26'
+lifecycle_stage: active
+run_id: 9c59a508b3a54f32922f46fb689791dd
+run_name: silent-newt-543
+run_uuid: 9c59a508b3a54f32922f46fb689791dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676906306913
+status: 3
+tags: []
+user_id: louibo

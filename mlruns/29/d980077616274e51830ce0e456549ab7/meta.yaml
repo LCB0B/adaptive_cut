@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/29/d980077616274e51830ce0e456549ab7/artifacts
+end_time: 1676865019629
+entry_point_name: ''
+experiment_id: '29'
+lifecycle_stage: active
+run_id: d980077616274e51830ce0e456549ab7
+run_name: monumental-finch-621
+run_uuid: d980077616274e51830ce0e456549ab7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676864910695
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/62/c966db5fb2a047279bde19900fa42d8b/artifacts
+end_time: 1676850069725
+entry_point_name: ''
+experiment_id: '62'
+lifecycle_stage: active
+run_id: c966db5fb2a047279bde19900fa42d8b
+run_name: stylish-bug-587
+run_uuid: c966db5fb2a047279bde19900fa42d8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676850063265
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/11/be640a48c33d435da67d15df47e150a4/artifacts
+end_time: 1674054159778
+entry_point_name: ''
+experiment_id: '11'
+lifecycle_stage: active
+run_id: be640a48c33d435da67d15df47e150a4
+run_name: useful-bear-813
+run_uuid: be640a48c33d435da67d15df47e150a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674053677239
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/39/01b549fd5c184f19b33140f637d59369/artifacts
+end_time: 1674757632455
+entry_point_name: ''
+experiment_id: '39'
+lifecycle_stage: active
+run_id: 01b549fd5c184f19b33140f637d59369
+run_name: loud-grub-875
+run_uuid: 01b549fd5c184f19b33140f637d59369
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674757630997
+status: 3
+tags: []
+user_id: louibo

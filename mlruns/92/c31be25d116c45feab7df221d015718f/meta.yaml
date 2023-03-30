@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/92/c31be25d116c45feab7df221d015718f/artifacts
+end_time: 1676860819945
+entry_point_name: ''
+experiment_id: '92'
+lifecycle_stage: active
+run_id: c31be25d116c45feab7df221d015718f
+run_name: shivering-bass-873
+run_uuid: c31be25d116c45feab7df221d015718f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676860756264
+status: 3
+tags: []
+user_id: louibo

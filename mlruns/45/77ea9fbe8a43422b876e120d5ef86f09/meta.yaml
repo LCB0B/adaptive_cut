@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/45/77ea9fbe8a43422b876e120d5ef86f09/artifacts
+end_time: 1676865560422
+entry_point_name: ''
+experiment_id: '45'
+lifecycle_stage: active
+run_id: 77ea9fbe8a43422b876e120d5ef86f09
+run_name: mercurial-whale-283
+run_uuid: 77ea9fbe8a43422b876e120d5ef86f09
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676865554954
+status: 3
+tags: []
+user_id: louibo

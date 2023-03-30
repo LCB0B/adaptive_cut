@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/103/64a6a6350b4f49c88de22d1f8be295a7/artifacts
+end_time: 1676877193069
+entry_point_name: ''
+experiment_id: '103'
+lifecycle_stage: active
+run_id: 64a6a6350b4f49c88de22d1f8be295a7
+run_name: abundant-stork-670
+run_uuid: 64a6a6350b4f49c88de22d1f8be295a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676877042383
+status: 3
+tags: []
+user_id: louibo

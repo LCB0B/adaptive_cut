@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/111/8d835051570a4ca5a9e0af48c88f197b/artifacts
+end_time: 1676756309043
+entry_point_name: ''
+experiment_id: '111'
+lifecycle_stage: active
+run_id: 8d835051570a4ca5a9e0af48c88f197b
+run_name: placid-panda-573
+run_uuid: 8d835051570a4ca5a9e0af48c88f197b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676756295659
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/69/d1c1bd017ac7430c9e9b7ef4cc7487a8/artifacts
+end_time: 1676741573709
+entry_point_name: ''
+experiment_id: '69'
+lifecycle_stage: active
+run_id: d1c1bd017ac7430c9e9b7ef4cc7487a8
+run_name: enchanting-fox-161
+run_uuid: d1c1bd017ac7430c9e9b7ef4cc7487a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676741573495
+status: 4
+tags: []
+user_id: louibo

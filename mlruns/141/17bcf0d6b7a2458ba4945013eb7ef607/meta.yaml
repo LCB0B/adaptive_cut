@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/141/17bcf0d6b7a2458ba4945013eb7ef607/artifacts
+end_time: 1676894806060
+entry_point_name: ''
+experiment_id: '141'
+lifecycle_stage: active
+run_id: 17bcf0d6b7a2458ba4945013eb7ef607
+run_name: likeable-kite-486
+run_uuid: 17bcf0d6b7a2458ba4945013eb7ef607
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676894602115
+status: 3
+tags: []
+user_id: louibo

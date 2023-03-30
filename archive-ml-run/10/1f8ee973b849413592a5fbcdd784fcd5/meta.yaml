@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/10/1f8ee973b849413592a5fbcdd784fcd5/artifacts
+end_time: 1673975499947
+entry_point_name: ''
+experiment_id: '10'
+lifecycle_stage: active
+run_id: 1f8ee973b849413592a5fbcdd784fcd5
+run_name: painted-yak-128
+run_uuid: 1f8ee973b849413592a5fbcdd784fcd5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673975490156
+status: 4
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/9/93db0c9ba994447da697a3dccee58827/artifacts
+end_time: 1674053609533
+entry_point_name: ''
+experiment_id: '9'
+lifecycle_stage: active
+run_id: 93db0c9ba994447da697a3dccee58827
+run_name: colorful-shark-555
+run_uuid: 93db0c9ba994447da697a3dccee58827
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674053587206
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/118/e237d96748b1469eaf783038c66a19f9/artifacts
+end_time: 1676870278470
+entry_point_name: ''
+experiment_id: '118'
+lifecycle_stage: active
+run_id: e237d96748b1469eaf783038c66a19f9
+run_name: capricious-fly-877
+run_uuid: e237d96748b1469eaf783038c66a19f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676870244652
+status: 3
+tags: []
+user_id: louibo

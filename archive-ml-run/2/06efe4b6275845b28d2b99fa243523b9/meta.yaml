@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/06efe4b6275845b28d2b99fa243523b9/artifacts
+end_time: 1670250049117
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 06efe4b6275845b28d2b99fa243523b9
+run_name: redolent-cod-62
+run_uuid: 06efe4b6275845b28d2b99fa243523b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670250047859
+status: 3
+tags: []
+user_id: louibo

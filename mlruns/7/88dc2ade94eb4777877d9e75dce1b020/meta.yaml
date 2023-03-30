@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/7/88dc2ade94eb4777877d9e75dce1b020/artifacts
+end_time: 1674733136716
+entry_point_name: ''
+experiment_id: '7'
+lifecycle_stage: active
+run_id: 88dc2ade94eb4777877d9e75dce1b020
+run_name: skillful-conch-47
+run_uuid: 88dc2ade94eb4777877d9e75dce1b020
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674732738719
+status: 3
+tags: []
+user_id: louibo

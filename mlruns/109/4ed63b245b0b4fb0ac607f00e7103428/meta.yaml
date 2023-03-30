@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/109/4ed63b245b0b4fb0ac607f00e7103428/artifacts
+end_time: 1676761057821
+entry_point_name: ''
+experiment_id: '109'
+lifecycle_stage: active
+run_id: 4ed63b245b0b4fb0ac607f00e7103428
+run_name: clean-bear-804
+run_uuid: 4ed63b245b0b4fb0ac607f00e7103428
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676761045139
+status: 3
+tags: []
+user_id: louibo

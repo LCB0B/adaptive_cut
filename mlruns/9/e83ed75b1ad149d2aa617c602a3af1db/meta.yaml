@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/9/e83ed75b1ad149d2aa617c602a3af1db/artifacts
+end_time: 1676895596534
+entry_point_name: ''
+experiment_id: '9'
+lifecycle_stage: active
+run_id: e83ed75b1ad149d2aa617c602a3af1db
+run_name: awesome-roo-248
+run_uuid: e83ed75b1ad149d2aa617c602a3af1db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676895577377
+status: 3
+tags: []
+user_id: louibo

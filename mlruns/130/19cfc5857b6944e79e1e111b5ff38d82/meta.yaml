@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/130/19cfc5857b6944e79e1e111b5ff38d82/artifacts
+end_time: 1676912491780
+entry_point_name: ''
+experiment_id: '130'
+lifecycle_stage: active
+run_id: 19cfc5857b6944e79e1e111b5ff38d82
+run_name: nosy-fowl-345
+run_uuid: 19cfc5857b6944e79e1e111b5ff38d82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676911972166
+status: 3
+tags: []
+user_id: louibo

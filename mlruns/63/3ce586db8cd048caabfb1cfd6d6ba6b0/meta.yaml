@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/63/3ce586db8cd048caabfb1cfd6d6ba6b0/artifacts
+end_time: 1676852585885
+entry_point_name: ''
+experiment_id: '63'
+lifecycle_stage: active
+run_id: 3ce586db8cd048caabfb1cfd6d6ba6b0
+run_name: unruly-carp-116
+run_uuid: 3ce586db8cd048caabfb1cfd6d6ba6b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676851345562
+status: 3
+tags: []
+user_id: louibo

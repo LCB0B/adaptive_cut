@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/14/a82859f65775435d95e73fb2598fc616/artifacts
+end_time: 1673745337512
+entry_point_name: ''
+experiment_id: '14'
+lifecycle_stage: active
+run_id: a82859f65775435d95e73fb2598fc616
+run_name: classy-chimp-219
+run_uuid: a82859f65775435d95e73fb2598fc616
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673745335358
+status: 4
+tags: []
+user_id: louibo

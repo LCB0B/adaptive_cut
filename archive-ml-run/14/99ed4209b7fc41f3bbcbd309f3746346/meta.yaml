@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/14/99ed4209b7fc41f3bbcbd309f3746346/artifacts
+end_time: 1673802817131
+entry_point_name: ''
+experiment_id: '14'
+lifecycle_stage: active
+run_id: 99ed4209b7fc41f3bbcbd309f3746346
+run_name: beautiful-sow-949
+run_uuid: 99ed4209b7fc41f3bbcbd309f3746346
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673802780339
+status: 3
+tags: []
+user_id: louibo

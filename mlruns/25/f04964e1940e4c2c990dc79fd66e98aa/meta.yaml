@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/25/f04964e1940e4c2c990dc79fd66e98aa/artifacts
+end_time: 1674060726192
+entry_point_name: ''
+experiment_id: '25'
+lifecycle_stage: active
+run_id: f04964e1940e4c2c990dc79fd66e98aa
+run_name: charming-yak-296
+run_uuid: f04964e1940e4c2c990dc79fd66e98aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674060579023
+status: 3
+tags: []
+user_id: louibo

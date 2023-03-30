@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/109/8df1ba62a42a4e16ba7b45bbf6fb2f12/artifacts
+end_time: 1676756239677
+entry_point_name: ''
+experiment_id: '109'
+lifecycle_stage: active
+run_id: 8df1ba62a42a4e16ba7b45bbf6fb2f12
+run_name: orderly-elk-848
+run_uuid: 8df1ba62a42a4e16ba7b45bbf6fb2f12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676756227021
+status: 3
+tags: []
+user_id: louibo

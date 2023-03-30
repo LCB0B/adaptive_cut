@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/31/b36f54404cd9414b8da699278bac3699/artifacts
+end_time: 1672599394489
+entry_point_name: ''
+experiment_id: '31'
+lifecycle_stage: active
+run_id: b36f54404cd9414b8da699278bac3699
+run_name: agreeable-finch-912
+run_uuid: b36f54404cd9414b8da699278bac3699
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672599394322
+status: 4
+tags: []
+user_id: louibo

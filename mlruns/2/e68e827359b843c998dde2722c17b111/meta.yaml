@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/e68e827359b843c998dde2722c17b111/artifacts
+end_time: 1670247590745
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: e68e827359b843c998dde2722c17b111
+run_name: popular-ant-34
+run_uuid: e68e827359b843c998dde2722c17b111
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670247587598
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/128/c062ed69b0c94f198d62a8e3fb6b46bf/artifacts
+end_time: 1676759995871
+entry_point_name: ''
+experiment_id: '128'
+lifecycle_stage: active
+run_id: c062ed69b0c94f198d62a8e3fb6b46bf
+run_name: selective-fox-938
+run_uuid: c062ed69b0c94f198d62a8e3fb6b46bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676759995756
+status: 4
+tags: []
+user_id: louibo

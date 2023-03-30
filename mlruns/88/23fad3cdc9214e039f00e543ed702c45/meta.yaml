@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/88/23fad3cdc9214e039f00e543ed702c45/artifacts
+end_time: 1676903774992
+entry_point_name: ''
+experiment_id: '88'
+lifecycle_stage: active
+run_id: 23fad3cdc9214e039f00e543ed702c45
+run_name: carefree-crab-791
+run_uuid: 23fad3cdc9214e039f00e543ed702c45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676903753755
+status: 3
+tags: []
+user_id: louibo

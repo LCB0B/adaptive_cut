@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/39/ad9b4e11969a4cd6899d8a39f7e4bd2b/artifacts
+end_time: 1674062298115
+entry_point_name: ''
+experiment_id: '39'
+lifecycle_stage: active
+run_id: ad9b4e11969a4cd6899d8a39f7e4bd2b
+run_name: dazzling-hawk-767
+run_uuid: ad9b4e11969a4cd6899d8a39f7e4bd2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674062296650
+status: 3
+tags: []
+user_id: louibo

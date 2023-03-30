@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/14/2be45c7b97ca4282ae8731a1b8c9f42c/artifacts
+end_time: 1673785881861
+entry_point_name: ''
+experiment_id: '14'
+lifecycle_stage: active
+run_id: 2be45c7b97ca4282ae8731a1b8c9f42c
+run_name: zealous-penguin-498
+run_uuid: 2be45c7b97ca4282ae8731a1b8c9f42c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673785843098
+status: 3
+tags: []
+user_id: louibo

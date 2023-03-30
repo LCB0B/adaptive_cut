@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/41/c4e5e75c862c41d6b59e6946460da6d1/artifacts
+end_time: 1674475635169
+entry_point_name: ''
+experiment_id: '41'
+lifecycle_stage: active
+run_id: c4e5e75c862c41d6b59e6946460da6d1
+run_name: awesome-bee-308
+run_uuid: c4e5e75c862c41d6b59e6946460da6d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674475618854
+status: 3
+tags: []
+user_id: louibo

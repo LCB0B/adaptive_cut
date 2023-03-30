@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/83/8aee86a833f84d3ca8aa083c2a08d11b/artifacts
+end_time: 1676911205567
+entry_point_name: ''
+experiment_id: '83'
+lifecycle_stage: active
+run_id: 8aee86a833f84d3ca8aa083c2a08d11b
+run_name: marvelous-vole-545
+run_uuid: 8aee86a833f84d3ca8aa083c2a08d11b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676911202647
+status: 3
+tags: []
+user_id: louibo

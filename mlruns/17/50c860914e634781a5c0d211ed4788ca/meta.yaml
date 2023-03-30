@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/17/50c860914e634781a5c0d211ed4788ca/artifacts
+end_time: 1674737963770
+entry_point_name: ''
+experiment_id: '17'
+lifecycle_stage: active
+run_id: 50c860914e634781a5c0d211ed4788ca
+run_name: amazing-shark-774
+run_uuid: 50c860914e634781a5c0d211ed4788ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674737947960
+status: 3
+tags: []
+user_id: louibo

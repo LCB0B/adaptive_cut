@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/13/a073c28e10bf477694658508f7bf8fe7/artifacts
+end_time: 1676855025873
+entry_point_name: ''
+experiment_id: '13'
+lifecycle_stage: active
+run_id: a073c28e10bf477694658508f7bf8fe7
+run_name: agreeable-mare-189
+run_uuid: a073c28e10bf477694658508f7bf8fe7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676854785480
+status: 3
+tags: []
+user_id: louibo

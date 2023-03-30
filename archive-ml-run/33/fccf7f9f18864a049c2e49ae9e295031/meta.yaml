@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/33/fccf7f9f18864a049c2e49ae9e295031/artifacts
+end_time: 1673737093439
+entry_point_name: ''
+experiment_id: '33'
+lifecycle_stage: active
+run_id: fccf7f9f18864a049c2e49ae9e295031
+run_name: crawling-zebra-529
+run_uuid: fccf7f9f18864a049c2e49ae9e295031
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673737078879
+status: 3
+tags: []
+user_id: louibo

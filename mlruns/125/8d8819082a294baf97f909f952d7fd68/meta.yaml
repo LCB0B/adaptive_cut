@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/125/8d8819082a294baf97f909f952d7fd68/artifacts
+end_time: 1676763826186
+entry_point_name: ''
+experiment_id: '125'
+lifecycle_stage: active
+run_id: 8d8819082a294baf97f909f952d7fd68
+run_name: caring-lark-827
+run_uuid: 8d8819082a294baf97f909f952d7fd68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676763826082
+status: 4
+tags: []
+user_id: louibo

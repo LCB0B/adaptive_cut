@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/10/17cadbc1fe9d4e47b5aed13876ba49ed/artifacts
+end_time: 1676738683733
+entry_point_name: ''
+experiment_id: '10'
+lifecycle_stage: active
+run_id: 17cadbc1fe9d4e47b5aed13876ba49ed
+run_name: blushing-lamb-536
+run_uuid: 17cadbc1fe9d4e47b5aed13876ba49ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676738646787
+status: 3
+tags: []
+user_id: louibo

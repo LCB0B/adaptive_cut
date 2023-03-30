@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/22/82a6112cdb5c49f4a74264cf91c21bbd/artifacts
+end_time: 1676867573063
+entry_point_name: ''
+experiment_id: '22'
+lifecycle_stage: active
+run_id: 82a6112cdb5c49f4a74264cf91c21bbd
+run_name: polite-flea-655
+run_uuid: 82a6112cdb5c49f4a74264cf91c21bbd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676866527818
+status: 3
+tags: []
+user_id: louibo

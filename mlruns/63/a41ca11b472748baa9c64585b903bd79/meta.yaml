@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/63/a41ca11b472748baa9c64585b903bd79/artifacts
+end_time: 1676850285224
+entry_point_name: ''
+experiment_id: '63'
+lifecycle_stage: active
+run_id: a41ca11b472748baa9c64585b903bd79
+run_name: calm-crow-585
+run_uuid: a41ca11b472748baa9c64585b903bd79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676850167042
+status: 3
+tags: []
+user_id: louibo

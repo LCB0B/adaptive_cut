@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/42/7a385b21e8764408aa38f32f5531aeca/artifacts
+end_time: 1676906088705
+entry_point_name: ''
+experiment_id: '42'
+lifecycle_stage: active
+run_id: 7a385b21e8764408aa38f32f5531aeca
+run_name: enchanting-pig-684
+run_uuid: 7a385b21e8764408aa38f32f5531aeca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676906085189
+status: 3
+tags: []
+user_id: louibo

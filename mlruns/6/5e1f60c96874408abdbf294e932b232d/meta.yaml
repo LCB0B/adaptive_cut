@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/6/5e1f60c96874408abdbf294e932b232d/artifacts
+end_time: 1674051239069
+entry_point_name: ''
+experiment_id: '6'
+lifecycle_stage: active
+run_id: 5e1f60c96874408abdbf294e932b232d
+run_name: agreeable-shoat-415
+run_uuid: 5e1f60c96874408abdbf294e932b232d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674051113030
+status: 3
+tags: []
+user_id: louibo

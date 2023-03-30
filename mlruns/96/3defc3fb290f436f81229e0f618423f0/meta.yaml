@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/96/3defc3fb290f436f81229e0f618423f0/artifacts
+end_time: 1676746333254
+entry_point_name: ''
+experiment_id: '96'
+lifecycle_stage: active
+run_id: 3defc3fb290f436f81229e0f618423f0
+run_name: marvelous-cat-946
+run_uuid: 3defc3fb290f436f81229e0f618423f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676746274791
+status: 3
+tags: []
+user_id: louibo

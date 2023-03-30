@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/34/6231ab1e45034c5fb70d1afde85503ad/artifacts
+end_time: 1674762817991
+entry_point_name: ''
+experiment_id: '34'
+lifecycle_stage: active
+run_id: 6231ab1e45034c5fb70d1afde85503ad
+run_name: big-ram-141
+run_uuid: 6231ab1e45034c5fb70d1afde85503ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674762523627
+status: 3
+tags: []
+user_id: louibo

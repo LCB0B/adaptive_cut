@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/20/89d24549a0d249c395dc6ce0483a7cb6/artifacts
+end_time: 1674741984986
+entry_point_name: ''
+experiment_id: '20'
+lifecycle_stage: active
+run_id: 89d24549a0d249c395dc6ce0483a7cb6
+run_name: orderly-goat-996
+run_uuid: 89d24549a0d249c395dc6ce0483a7cb6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674741972554
+status: 3
+tags: []
+user_id: louibo

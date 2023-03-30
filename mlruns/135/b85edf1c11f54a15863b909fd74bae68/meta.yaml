@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/135/b85edf1c11f54a15863b909fd74bae68/artifacts
+end_time: 1676757464105
+entry_point_name: ''
+experiment_id: '135'
+lifecycle_stage: active
+run_id: b85edf1c11f54a15863b909fd74bae68
+run_name: upbeat-stoat-829
+run_uuid: b85edf1c11f54a15863b909fd74bae68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676757464049
+status: 4
+tags: []
+user_id: louibo

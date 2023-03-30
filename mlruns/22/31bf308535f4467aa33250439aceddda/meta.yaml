@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/22/31bf308535f4467aa33250439aceddda/artifacts
+end_time: 1674059420371
+entry_point_name: ''
+experiment_id: '22'
+lifecycle_stage: active
+run_id: 31bf308535f4467aa33250439aceddda
+run_name: unruly-skink-281
+run_uuid: 31bf308535f4467aa33250439aceddda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674059020091
+status: 3
+tags: []
+user_id: louibo

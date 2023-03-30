@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/146/37c8848946c74c9bb7c787b7679d2039/artifacts
+end_time: 1676772153902
+entry_point_name: ''
+experiment_id: '146'
+lifecycle_stage: active
+run_id: 37c8848946c74c9bb7c787b7679d2039
+run_name: gaudy-mouse-178
+run_uuid: 37c8848946c74c9bb7c787b7679d2039
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676772153821
+status: 4
+tags: []
+user_id: louibo

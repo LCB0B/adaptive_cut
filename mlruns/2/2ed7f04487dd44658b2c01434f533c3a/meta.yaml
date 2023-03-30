@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/2ed7f04487dd44658b2c01434f533c3a/artifacts
+end_time: 1670250175179
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 2ed7f04487dd44658b2c01434f533c3a
+run_name: puzzled-shrew-519
+run_uuid: 2ed7f04487dd44658b2c01434f533c3a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670250173935
+status: 3
+tags: []
+user_id: louibo

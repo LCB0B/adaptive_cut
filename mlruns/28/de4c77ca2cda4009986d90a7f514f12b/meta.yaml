@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/28/de4c77ca2cda4009986d90a7f514f12b/artifacts
+end_time: 1674762412244
+entry_point_name: ''
+experiment_id: '28'
+lifecycle_stage: active
+run_id: de4c77ca2cda4009986d90a7f514f12b
+run_name: merciful-shark-458
+run_uuid: de4c77ca2cda4009986d90a7f514f12b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674762390785
+status: 3
+tags: []
+user_id: louibo

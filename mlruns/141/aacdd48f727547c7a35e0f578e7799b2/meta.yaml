@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/141/aacdd48f727547c7a35e0f578e7799b2/artifacts
+end_time: 1676769198129
+entry_point_name: ''
+experiment_id: '141'
+lifecycle_stage: active
+run_id: aacdd48f727547c7a35e0f578e7799b2
+run_name: amusing-fox-650
+run_uuid: aacdd48f727547c7a35e0f578e7799b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676768920637
+status: 3
+tags: []
+user_id: louibo

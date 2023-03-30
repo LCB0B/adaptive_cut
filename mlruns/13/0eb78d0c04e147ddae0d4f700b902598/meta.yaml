@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/13/0eb78d0c04e147ddae0d4f700b902598/artifacts
+end_time: 1676743148802
+entry_point_name: ''
+experiment_id: '13'
+lifecycle_stage: active
+run_id: 0eb78d0c04e147ddae0d4f700b902598
+run_name: judicious-lynx-315
+run_uuid: 0eb78d0c04e147ddae0d4f700b902598
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676742081022
+status: 3
+tags: []
+user_id: louibo

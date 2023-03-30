@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/33/320695b741404336ba221befe6a0ea9c/artifacts
+end_time: 1673734978942
+entry_point_name: ''
+experiment_id: '33'
+lifecycle_stage: active
+run_id: 320695b741404336ba221befe6a0ea9c
+run_name: silent-dove-576
+run_uuid: 320695b741404336ba221befe6a0ea9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673734964277
+status: 3
+tags: []
+user_id: louibo

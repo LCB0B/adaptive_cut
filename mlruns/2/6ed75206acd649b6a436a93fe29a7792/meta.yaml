@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/6ed75206acd649b6a436a93fe29a7792/artifacts
+end_time: 1670246634412
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 6ed75206acd649b6a436a93fe29a7792
+run_name: stately-bat-426
+run_uuid: 6ed75206acd649b6a436a93fe29a7792
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670246631164
+status: 3
+tags: []
+user_id: louibo

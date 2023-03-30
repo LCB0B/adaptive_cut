@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/58/5b49d6a1fffd4dd59da49c812615c8db/artifacts
+end_time: 1676892671723
+entry_point_name: ''
+experiment_id: '58'
+lifecycle_stage: active
+run_id: 5b49d6a1fffd4dd59da49c812615c8db
+run_name: carefree-newt-990
+run_uuid: 5b49d6a1fffd4dd59da49c812615c8db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676892649410
+status: 3
+tags: []
+user_id: louibo

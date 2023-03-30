@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/5/237285cb2fce4fb2b771ece4083770ab/artifacts
+end_time: 1676852590690
+entry_point_name: ''
+experiment_id: '5'
+lifecycle_stage: active
+run_id: 237285cb2fce4fb2b771ece4083770ab
+run_name: valuable-snipe-99
+run_uuid: 237285cb2fce4fb2b771ece4083770ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676852586544
+status: 3
+tags: []
+user_id: louibo

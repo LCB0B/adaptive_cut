@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/84/dcff5fe441bb4e0b909165e2c969f058/artifacts
+end_time: 1676746372741
+entry_point_name: ''
+experiment_id: '84'
+lifecycle_stage: active
+run_id: dcff5fe441bb4e0b909165e2c969f058
+run_name: painted-turtle-227
+run_uuid: dcff5fe441bb4e0b909165e2c969f058
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676745979810
+status: 3
+tags: []
+user_id: louibo

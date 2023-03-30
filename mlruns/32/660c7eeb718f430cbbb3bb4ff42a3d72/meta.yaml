@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/32/660c7eeb718f430cbbb3bb4ff42a3d72/artifacts
+end_time: 1674080401686
+entry_point_name: ''
+experiment_id: '32'
+lifecycle_stage: active
+run_id: 660c7eeb718f430cbbb3bb4ff42a3d72
+run_name: righteous-kite-922
+run_uuid: 660c7eeb718f430cbbb3bb4ff42a3d72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674080393482
+status: 3
+tags: []
+user_id: louibo

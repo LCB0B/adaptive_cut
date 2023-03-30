@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/33/d526cc903f8545338538b7a964581273/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '33'
+lifecycle_stage: active
+run_id: d526cc903f8545338538b7a964581273
+run_name: monumental-mare-736
+run_uuid: d526cc903f8545338538b7a964581273
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673733607990
+status: 1
+tags: []
+user_id: louibo

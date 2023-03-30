@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/39/decdcd93a43d4d27961381698c239e7f/artifacts
+end_time: 1676755410183
+entry_point_name: ''
+experiment_id: '39'
+lifecycle_stage: active
+run_id: decdcd93a43d4d27961381698c239e7f
+run_name: sneaky-croc-567
+run_uuid: decdcd93a43d4d27961381698c239e7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676755409604
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/150/f0ff6e225ce94f5c8ee11c3fcfc4a4a8/artifacts
+end_time: 1676795299645
+entry_point_name: ''
+experiment_id: '150'
+lifecycle_stage: active
+run_id: f0ff6e225ce94f5c8ee11c3fcfc4a4a8
+run_name: puzzled-dolphin-992
+run_uuid: f0ff6e225ce94f5c8ee11c3fcfc4a4a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676795156755
+status: 3
+tags: []
+user_id: louibo

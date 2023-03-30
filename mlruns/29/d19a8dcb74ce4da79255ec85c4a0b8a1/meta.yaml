@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/29/d19a8dcb74ce4da79255ec85c4a0b8a1/artifacts
+end_time: 1677014267384
+entry_point_name: ''
+experiment_id: '29'
+lifecycle_stage: active
+run_id: d19a8dcb74ce4da79255ec85c4a0b8a1
+run_name: colorful-stoat-877
+run_uuid: d19a8dcb74ce4da79255ec85c4a0b8a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677012045944
+status: 3
+tags: []
+user_id: louibo

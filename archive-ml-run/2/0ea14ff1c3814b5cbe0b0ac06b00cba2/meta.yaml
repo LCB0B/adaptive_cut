@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/0ea14ff1c3814b5cbe0b0ac06b00cba2/artifacts
+end_time: 1672596659275
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 0ea14ff1c3814b5cbe0b0ac06b00cba2
+run_name: fearless-deer-438
+run_uuid: 0ea14ff1c3814b5cbe0b0ac06b00cba2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672596642717
+status: 3
+tags: []
+user_id: louibo

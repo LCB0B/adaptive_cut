@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/27/1b8ecd6a79974501a5a8dac9efd27eaa/artifacts
+end_time: 1676761107937
+entry_point_name: ''
+experiment_id: '27'
+lifecycle_stage: active
+run_id: 1b8ecd6a79974501a5a8dac9efd27eaa
+run_name: hilarious-stag-339
+run_uuid: 1b8ecd6a79974501a5a8dac9efd27eaa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676761093187
+status: 3
+tags: []
+user_id: louibo

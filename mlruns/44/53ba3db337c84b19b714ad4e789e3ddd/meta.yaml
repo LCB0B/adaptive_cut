@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/44/53ba3db337c84b19b714ad4e789e3ddd/artifacts
+end_time: 1674069556745
+entry_point_name: ''
+experiment_id: '44'
+lifecycle_stage: active
+run_id: 53ba3db337c84b19b714ad4e789e3ddd
+run_name: vaunted-robin-804
+run_uuid: 53ba3db337c84b19b714ad4e789e3ddd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674069552993
+status: 3
+tags: []
+user_id: louibo

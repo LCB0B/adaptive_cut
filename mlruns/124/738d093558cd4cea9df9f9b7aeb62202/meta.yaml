@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/124/738d093558cd4cea9df9f9b7aeb62202/artifacts
+end_time: 1676916975851
+entry_point_name: ''
+experiment_id: '124'
+lifecycle_stage: active
+run_id: 738d093558cd4cea9df9f9b7aeb62202
+run_name: vaunted-fly-841
+run_uuid: 738d093558cd4cea9df9f9b7aeb62202
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676916972805
+status: 3
+tags: []
+user_id: louibo

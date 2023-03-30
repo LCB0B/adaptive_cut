@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/41/ff41d9c5e78b449e80ee58851f40a5fa/artifacts
+end_time: 1676752645591
+entry_point_name: ''
+experiment_id: '41'
+lifecycle_stage: active
+run_id: ff41d9c5e78b449e80ee58851f40a5fa
+run_name: merciful-kite-897
+run_uuid: ff41d9c5e78b449e80ee58851f40a5fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676752628217
+status: 3
+tags: []
+user_id: louibo

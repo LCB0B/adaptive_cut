@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/33/740d116358e54a7ab925c6dcabe33545/artifacts
+end_time: 1673737154215
+entry_point_name: ''
+experiment_id: '33'
+lifecycle_stage: active
+run_id: 740d116358e54a7ab925c6dcabe33545
+run_name: skillful-shrike-524
+run_uuid: 740d116358e54a7ab925c6dcabe33545
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673737144894
+status: 3
+tags: []
+user_id: louibo

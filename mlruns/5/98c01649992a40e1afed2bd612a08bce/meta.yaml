@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/5/98c01649992a40e1afed2bd612a08bce/artifacts
+end_time: 1676735767935
+entry_point_name: ''
+experiment_id: '5'
+lifecycle_stage: active
+run_id: 98c01649992a40e1afed2bd612a08bce
+run_name: indecisive-worm-57
+run_uuid: 98c01649992a40e1afed2bd612a08bce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676735766085
+status: 3
+tags: []
+user_id: louibo

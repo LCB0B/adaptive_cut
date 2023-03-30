@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/10/fe390d3f07a14c39b4fe05724a438552/artifacts
+end_time: 1676738646781
+entry_point_name: ''
+experiment_id: '10'
+lifecycle_stage: active
+run_id: fe390d3f07a14c39b4fe05724a438552
+run_name: rebellious-crow-65
+run_uuid: fe390d3f07a14c39b4fe05724a438552
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676738631991
+status: 3
+tags: []
+user_id: louibo

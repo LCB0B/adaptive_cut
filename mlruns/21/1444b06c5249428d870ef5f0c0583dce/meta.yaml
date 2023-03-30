@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/21/1444b06c5249428d870ef5f0c0583dce/artifacts
+end_time: 1674742051270
+entry_point_name: ''
+experiment_id: '21'
+lifecycle_stage: active
+run_id: 1444b06c5249428d870ef5f0c0583dce
+run_name: beautiful-bird-618
+run_uuid: 1444b06c5249428d870ef5f0c0583dce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674742009658
+status: 3
+tags: []
+user_id: louibo

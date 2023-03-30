@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/24/7ddf5282d2954b528f2e99d83092dc1d/artifacts
+end_time: 1676868065304
+entry_point_name: ''
+experiment_id: '24'
+lifecycle_stage: active
+run_id: 7ddf5282d2954b528f2e99d83092dc1d
+run_name: unique-bee-327
+run_uuid: 7ddf5282d2954b528f2e99d83092dc1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676867668543
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/33/698eaec00a9c48ccb1ebb5d2ef9ade65/artifacts
+end_time: 1673736830831
+entry_point_name: ''
+experiment_id: '33'
+lifecycle_stage: active
+run_id: 698eaec00a9c48ccb1ebb5d2ef9ade65
+run_name: colorful-elk-924
+run_uuid: 698eaec00a9c48ccb1ebb5d2ef9ade65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673736816253
+status: 3
+tags: []
+user_id: louibo

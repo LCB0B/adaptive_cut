@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/8/db5845c2e61d487cb86db7d25772768d/artifacts
+end_time: 1676858457642
+entry_point_name: ''
+experiment_id: '8'
+lifecycle_stage: active
+run_id: db5845c2e61d487cb86db7d25772768d
+run_name: painted-doe-610
+run_uuid: db5845c2e61d487cb86db7d25772768d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676858348415
+status: 3
+tags: []
+user_id: louibo

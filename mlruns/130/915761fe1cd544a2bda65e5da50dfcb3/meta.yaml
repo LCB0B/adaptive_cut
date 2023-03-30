@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/130/915761fe1cd544a2bda65e5da50dfcb3/artifacts
+end_time: 1676866739546
+entry_point_name: ''
+experiment_id: '130'
+lifecycle_stage: active
+run_id: 915761fe1cd544a2bda65e5da50dfcb3
+run_name: abundant-tern-44
+run_uuid: 915761fe1cd544a2bda65e5da50dfcb3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676866145313
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/128/f026e4ba7c5a405d9249d19a3f9d92c5/artifacts
+end_time: 1676871332374
+entry_point_name: ''
+experiment_id: '128'
+lifecycle_stage: active
+run_id: f026e4ba7c5a405d9249d19a3f9d92c5
+run_name: smiling-moose-728
+run_uuid: f026e4ba7c5a405d9249d19a3f9d92c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676871271860
+status: 3
+tags: []
+user_id: louibo

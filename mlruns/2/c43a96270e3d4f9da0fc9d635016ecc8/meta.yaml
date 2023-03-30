@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/c43a96270e3d4f9da0fc9d635016ecc8/artifacts
+end_time: 1673744329541
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: c43a96270e3d4f9da0fc9d635016ecc8
+run_name: big-shark-202
+run_uuid: c43a96270e3d4f9da0fc9d635016ecc8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673744328266
+status: 3
+tags: []
+user_id: louibo

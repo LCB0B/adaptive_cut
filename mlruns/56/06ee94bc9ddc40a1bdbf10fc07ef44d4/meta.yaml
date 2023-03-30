@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/56/06ee94bc9ddc40a1bdbf10fc07ef44d4/artifacts
+end_time: 1676892378082
+entry_point_name: ''
+experiment_id: '56'
+lifecycle_stage: active
+run_id: 06ee94bc9ddc40a1bdbf10fc07ef44d4
+run_name: illustrious-rook-624
+run_uuid: 06ee94bc9ddc40a1bdbf10fc07ef44d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676892375284
+status: 3
+tags: []
+user_id: louibo

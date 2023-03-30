@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/20/549b4a82363c439c8bc2446f323553f3/artifacts
+end_time: 1673737336727
+entry_point_name: ''
+experiment_id: '20'
+lifecycle_stage: active
+run_id: 549b4a82363c439c8bc2446f323553f3
+run_name: loud-stag-62
+run_uuid: 549b4a82363c439c8bc2446f323553f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673737331192
+status: 3
+tags: []
+user_id: louibo

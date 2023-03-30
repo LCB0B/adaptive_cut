@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/25/019d118db7c0486a863e65dd9414883f/artifacts
+end_time: 1674085508522
+entry_point_name: ''
+experiment_id: '25'
+lifecycle_stage: active
+run_id: 019d118db7c0486a863e65dd9414883f
+run_name: silent-bat-481
+run_uuid: 019d118db7c0486a863e65dd9414883f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674085326839
+status: 3
+tags: []
+user_id: louibo

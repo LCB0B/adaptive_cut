@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/23/eb4dd27c42754f38a0ca126e0c205a67/artifacts
+end_time: 1674058580294
+entry_point_name: ''
+experiment_id: '23'
+lifecycle_stage: active
+run_id: eb4dd27c42754f38a0ca126e0c205a67
+run_name: big-roo-730
+run_uuid: eb4dd27c42754f38a0ca126e0c205a67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674058552585
+status: 3
+tags: []
+user_id: louibo

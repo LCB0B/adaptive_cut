@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/33/459f69e53e9843448c6a8b3329057f0a/artifacts
+end_time: 1673737012727
+entry_point_name: ''
+experiment_id: '33'
+lifecycle_stage: active
+run_id: 459f69e53e9843448c6a8b3329057f0a
+run_name: delightful-shrew-788
+run_uuid: 459f69e53e9843448c6a8b3329057f0a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673737003674
+status: 3
+tags: []
+user_id: louibo

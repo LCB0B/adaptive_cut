@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/39/5663b05360564cf0bd55e62f7a25017b/artifacts
+end_time: 1674064292991
+entry_point_name: ''
+experiment_id: '39'
+lifecycle_stage: active
+run_id: 5663b05360564cf0bd55e62f7a25017b
+run_name: omniscient-trout-782
+run_uuid: 5663b05360564cf0bd55e62f7a25017b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674064292485
+status: 3
+tags: []
+user_id: louibo

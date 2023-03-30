@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/95/655b4deeb0ab451c8f630fa9b490adba/artifacts
+end_time: 1676875457480
+entry_point_name: ''
+experiment_id: '95'
+lifecycle_stage: active
+run_id: 655b4deeb0ab451c8f630fa9b490adba
+run_name: charming-shad-936
+run_uuid: 655b4deeb0ab451c8f630fa9b490adba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676874285880
+status: 3
+tags: []
+user_id: louibo

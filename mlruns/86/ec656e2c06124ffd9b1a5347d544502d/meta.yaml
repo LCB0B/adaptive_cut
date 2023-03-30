@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/86/ec656e2c06124ffd9b1a5347d544502d/artifacts
+end_time: 1676902845033
+entry_point_name: ''
+experiment_id: '86'
+lifecycle_stage: active
+run_id: ec656e2c06124ffd9b1a5347d544502d
+run_name: indecisive-boar-53
+run_uuid: ec656e2c06124ffd9b1a5347d544502d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676902793297
+status: 3
+tags: []
+user_id: louibo

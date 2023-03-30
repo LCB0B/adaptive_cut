@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/70/3b5eec0d88a24abda21a666f8c9ff5ce/artifacts
+end_time: 1676738606445
+entry_point_name: ''
+experiment_id: '70'
+lifecycle_stage: active
+run_id: 3b5eec0d88a24abda21a666f8c9ff5ce
+run_name: serious-wasp-663
+run_uuid: 3b5eec0d88a24abda21a666f8c9ff5ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676738606385
+status: 4
+tags: []
+user_id: louibo

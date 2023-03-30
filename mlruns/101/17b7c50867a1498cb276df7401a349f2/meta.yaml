@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/101/17b7c50867a1498cb276df7401a349f2/artifacts
+end_time: 1676864417257
+entry_point_name: ''
+experiment_id: '101'
+lifecycle_stage: active
+run_id: 17b7c50867a1498cb276df7401a349f2
+run_name: defiant-hen-969
+run_uuid: 17b7c50867a1498cb276df7401a349f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676864401649
+status: 3
+tags: []
+user_id: louibo

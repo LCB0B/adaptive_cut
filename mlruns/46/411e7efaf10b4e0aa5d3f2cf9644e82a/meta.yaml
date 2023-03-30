@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/46/411e7efaf10b4e0aa5d3f2cf9644e82a/artifacts
+end_time: 1674068172341
+entry_point_name: ''
+experiment_id: '46'
+lifecycle_stage: active
+run_id: 411e7efaf10b4e0aa5d3f2cf9644e82a
+run_name: colorful-toad-921
+run_uuid: 411e7efaf10b4e0aa5d3f2cf9644e82a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674068148198
+status: 3
+tags: []
+user_id: louibo

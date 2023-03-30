@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/33/1cc451ece61f4cb3ba3e128df889b77b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '33'
+lifecycle_stage: active
+run_id: 1cc451ece61f4cb3ba3e128df889b77b
+run_name: respected-frog-535
+run_uuid: 1cc451ece61f4cb3ba3e128df889b77b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673734961810
+status: 1
+tags: []
+user_id: louibo

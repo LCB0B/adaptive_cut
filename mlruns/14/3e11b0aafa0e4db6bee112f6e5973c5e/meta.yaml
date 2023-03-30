@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/14/3e11b0aafa0e4db6bee112f6e5973c5e/artifacts
+end_time: 1673803687094
+entry_point_name: ''
+experiment_id: '14'
+lifecycle_stage: active
+run_id: 3e11b0aafa0e4db6bee112f6e5973c5e
+run_name: nosy-koi-253
+run_uuid: 3e11b0aafa0e4db6bee112f6e5973c5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673803649409
+status: 3
+tags: []
+user_id: louibo

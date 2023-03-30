@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/10/7aaac944c4d549fc89af71d2dc58146c/artifacts
+end_time: 1676858726669
+entry_point_name: ''
+experiment_id: '10'
+lifecycle_stage: active
+run_id: 7aaac944c4d549fc89af71d2dc58146c
+run_name: bemused-dove-46
+run_uuid: 7aaac944c4d549fc89af71d2dc58146c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676858722422
+status: 3
+tags: []
+user_id: louibo

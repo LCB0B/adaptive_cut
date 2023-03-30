@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/100/6da70fc3bb6b4964b63ea34a67bb223a/artifacts
+end_time: 1676877182881
+entry_point_name: ''
+experiment_id: '100'
+lifecycle_stage: active
+run_id: 6da70fc3bb6b4964b63ea34a67bb223a
+run_name: suave-horse-137
+run_uuid: 6da70fc3bb6b4964b63ea34a67bb223a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676877133723
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/136/560002d68c93439788abd05cb375d9a4/artifacts
+end_time: 1676917263454
+entry_point_name: ''
+experiment_id: '136'
+lifecycle_stage: active
+run_id: 560002d68c93439788abd05cb375d9a4
+run_name: flawless-mouse-992
+run_uuid: 560002d68c93439788abd05cb375d9a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676917263044
+status: 3
+tags: []
+user_id: louibo

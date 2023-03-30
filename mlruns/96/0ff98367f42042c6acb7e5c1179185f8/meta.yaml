@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/96/0ff98367f42042c6acb7e5c1179185f8/artifacts
+end_time: 1676923263333
+entry_point_name: ''
+experiment_id: '96'
+lifecycle_stage: active
+run_id: 0ff98367f42042c6acb7e5c1179185f8
+run_name: brawny-dolphin-406
+run_uuid: 0ff98367f42042c6acb7e5c1179185f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676923100948
+status: 3
+tags: []
+user_id: louibo

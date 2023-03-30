@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/3/cfda2069add5454ab2d61f2881b6eccb/artifacts
+end_time: 1673980435766
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+run_id: cfda2069add5454ab2d61f2881b6eccb
+run_name: popular-cod-763
+run_uuid: cfda2069add5454ab2d61f2881b6eccb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673980435743
+status: 4
+tags: []
+user_id: louibo

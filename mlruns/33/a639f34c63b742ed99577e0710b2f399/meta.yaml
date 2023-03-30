@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/33/a639f34c63b742ed99577e0710b2f399/artifacts
+end_time: 1673737062980
+entry_point_name: ''
+experiment_id: '33'
+lifecycle_stage: active
+run_id: a639f34c63b742ed99577e0710b2f399
+run_name: skillful-jay-104
+run_uuid: a639f34c63b742ed99577e0710b2f399
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673737048415
+status: 3
+tags: []
+user_id: louibo

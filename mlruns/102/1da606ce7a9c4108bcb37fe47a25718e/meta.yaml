@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/102/1da606ce7a9c4108bcb37fe47a25718e/artifacts
+end_time: 1676878448756
+entry_point_name: ''
+experiment_id: '102'
+lifecycle_stage: active
+run_id: 1da606ce7a9c4108bcb37fe47a25718e
+run_name: sneaky-dolphin-226
+run_uuid: 1da606ce7a9c4108bcb37fe47a25718e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676878416384
+status: 3
+tags: []
+user_id: louibo

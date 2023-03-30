@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/33/19cb0f228ee4466aa4410824687ba392/artifacts
+end_time: 1673734815178
+entry_point_name: ''
+experiment_id: '33'
+lifecycle_stage: active
+run_id: 19cb0f228ee4466aa4410824687ba392
+run_name: incongruous-cub-536
+run_uuid: 19cb0f228ee4466aa4410824687ba392
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673734800496
+status: 3
+tags: []
+user_id: louibo

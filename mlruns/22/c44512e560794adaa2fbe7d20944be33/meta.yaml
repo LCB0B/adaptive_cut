@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/22/c44512e560794adaa2fbe7d20944be33/artifacts
+end_time: 1676870203358
+entry_point_name: ''
+experiment_id: '22'
+lifecycle_stage: active
+run_id: c44512e560794adaa2fbe7d20944be33
+run_name: debonair-asp-48
+run_uuid: c44512e560794adaa2fbe7d20944be33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676869149427
+status: 3
+tags: []
+user_id: louibo

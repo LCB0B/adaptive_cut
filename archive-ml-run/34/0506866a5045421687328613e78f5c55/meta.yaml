@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/34/0506866a5045421687328613e78f5c55/artifacts
+end_time: 1673992677276
+entry_point_name: ''
+experiment_id: '34'
+lifecycle_stage: active
+run_id: 0506866a5045421687328613e78f5c55
+run_name: beautiful-jay-857
+run_uuid: 0506866a5045421687328613e78f5c55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673992626502
+status: 3
+tags: []
+user_id: louibo

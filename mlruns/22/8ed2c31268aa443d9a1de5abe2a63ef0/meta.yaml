@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/22/8ed2c31268aa443d9a1de5abe2a63ef0/artifacts
+end_time: 1674067607221
+entry_point_name: ''
+experiment_id: '22'
+lifecycle_stage: active
+run_id: 8ed2c31268aa443d9a1de5abe2a63ef0
+run_name: wise-boar-292
+run_uuid: 8ed2c31268aa443d9a1de5abe2a63ef0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674067088039
+status: 3
+tags: []
+user_id: louibo

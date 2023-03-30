@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/147/04d35779053e406da190d73a52fff720/artifacts
+end_time: 1676761179906
+entry_point_name: ''
+experiment_id: '147'
+lifecycle_stage: active
+run_id: 04d35779053e406da190d73a52fff720
+run_name: gaudy-finch-669
+run_uuid: 04d35779053e406da190d73a52fff720
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676761163389
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/106/ad0be120759a433c804963e64e68abad/artifacts
+end_time: 1676882166682
+entry_point_name: ''
+experiment_id: '106'
+lifecycle_stage: active
+run_id: ad0be120759a433c804963e64e68abad
+run_name: stylish-hawk-906
+run_uuid: ad0be120759a433c804963e64e68abad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676882165654
+status: 3
+tags: []
+user_id: louibo

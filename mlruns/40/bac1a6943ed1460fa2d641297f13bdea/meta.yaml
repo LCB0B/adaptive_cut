@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/40/bac1a6943ed1460fa2d641297f13bdea/artifacts
+end_time: 1674754116206
+entry_point_name: ''
+experiment_id: '40'
+lifecycle_stage: active
+run_id: bac1a6943ed1460fa2d641297f13bdea
+run_name: receptive-shark-672
+run_uuid: bac1a6943ed1460fa2d641297f13bdea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674754102235
+status: 3
+tags: []
+user_id: louibo

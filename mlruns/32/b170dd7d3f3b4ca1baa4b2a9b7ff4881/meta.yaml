@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/32/b170dd7d3f3b4ca1baa4b2a9b7ff4881/artifacts
+end_time: 1676772232173
+entry_point_name: ''
+experiment_id: '32'
+lifecycle_stage: active
+run_id: b170dd7d3f3b4ca1baa4b2a9b7ff4881
+run_name: rare-gull-940
+run_uuid: b170dd7d3f3b4ca1baa4b2a9b7ff4881
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676772224182
+status: 3
+tags: []
+user_id: louibo

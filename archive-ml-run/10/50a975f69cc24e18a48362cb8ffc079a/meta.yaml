@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/10/50a975f69cc24e18a48362cb8ffc079a/artifacts
+end_time: 1673979608188
+entry_point_name: ''
+experiment_id: '10'
+lifecycle_stage: active
+run_id: 50a975f69cc24e18a48362cb8ffc079a
+run_name: exultant-wren-651
+run_uuid: 50a975f69cc24e18a48362cb8ffc079a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673979586107
+status: 3
+tags: []
+user_id: louibo

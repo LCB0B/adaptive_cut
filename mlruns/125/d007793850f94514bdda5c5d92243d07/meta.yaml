@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/125/d007793850f94514bdda5c5d92243d07/artifacts
+end_time: 1676763826071
+entry_point_name: ''
+experiment_id: '125'
+lifecycle_stage: active
+run_id: d007793850f94514bdda5c5d92243d07
+run_name: illustrious-calf-420
+run_uuid: d007793850f94514bdda5c5d92243d07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676763823687
+status: 3
+tags: []
+user_id: louibo

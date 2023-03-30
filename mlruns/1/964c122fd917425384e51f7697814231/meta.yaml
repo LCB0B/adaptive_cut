@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/1/964c122fd917425384e51f7697814231/artifacts
+end_time: 1674057908606
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 964c122fd917425384e51f7697814231
+run_name: receptive-fowl-942
+run_uuid: 964c122fd917425384e51f7697814231
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674057426028
+status: 3
+tags: []
+user_id: louibo

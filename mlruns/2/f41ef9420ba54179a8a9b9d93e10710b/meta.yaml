@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/f41ef9420ba54179a8a9b9d93e10710b/artifacts
+end_time: 1670249048336
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: f41ef9420ba54179a8a9b9d93e10710b
+run_name: enchanting-snake-283
+run_uuid: f41ef9420ba54179a8a9b9d93e10710b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670249047077
+status: 3
+tags: []
+user_id: louibo

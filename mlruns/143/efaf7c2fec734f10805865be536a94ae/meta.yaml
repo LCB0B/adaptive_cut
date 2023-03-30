@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/143/efaf7c2fec734f10805865be536a94ae/artifacts
+end_time: 1676772168506
+entry_point_name: ''
+experiment_id: '143'
+lifecycle_stage: active
+run_id: efaf7c2fec734f10805865be536a94ae
+run_name: shivering-robin-607
+run_uuid: efaf7c2fec734f10805865be536a94ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676772167189
+status: 3
+tags: []
+user_id: louibo

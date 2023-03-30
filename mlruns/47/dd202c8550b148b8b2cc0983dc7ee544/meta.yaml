@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/47/dd202c8550b148b8b2cc0983dc7ee544/artifacts
+end_time: 1674080382881
+entry_point_name: ''
+experiment_id: '47'
+lifecycle_stage: active
+run_id: dd202c8550b148b8b2cc0983dc7ee544
+run_name: thundering-colt-182
+run_uuid: dd202c8550b148b8b2cc0983dc7ee544
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674080379983
+status: 3
+tags: []
+user_id: louibo

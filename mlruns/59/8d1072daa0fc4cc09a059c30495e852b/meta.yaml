@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/59/8d1072daa0fc4cc09a059c30495e852b/artifacts
+end_time: 1676849636161
+entry_point_name: ''
+experiment_id: '59'
+lifecycle_stage: active
+run_id: 8d1072daa0fc4cc09a059c30495e852b
+run_name: bemused-squirrel-523
+run_uuid: 8d1072daa0fc4cc09a059c30495e852b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676849630095
+status: 3
+tags: []
+user_id: louibo

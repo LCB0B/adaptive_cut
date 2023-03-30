@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/12/86105ec6c5d54bc09d81caa1bb90b563/artifacts
+end_time: 1676741610591
+entry_point_name: ''
+experiment_id: '12'
+lifecycle_stage: active
+run_id: 86105ec6c5d54bc09d81caa1bb90b563
+run_name: dapper-yak-351
+run_uuid: 86105ec6c5d54bc09d81caa1bb90b563
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676741540187
+status: 3
+tags: []
+user_id: louibo

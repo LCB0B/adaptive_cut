@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/15/96cda9bd79b143c0b1707a6201604cd6/artifacts
+end_time: 1674738208183
+entry_point_name: ''
+experiment_id: '15'
+lifecycle_stage: active
+run_id: 96cda9bd79b143c0b1707a6201604cd6
+run_name: unruly-cub-56
+run_uuid: 96cda9bd79b143c0b1707a6201604cd6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674738205229
+status: 3
+tags: []
+user_id: louibo

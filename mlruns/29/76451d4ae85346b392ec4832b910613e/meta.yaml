@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/29/76451d4ae85346b392ec4832b910613e/artifacts
+end_time: 1673960368184
+entry_point_name: ''
+experiment_id: '29'
+lifecycle_stage: active
+run_id: 76451d4ae85346b392ec4832b910613e
+run_name: marvelous-horse-19
+run_uuid: 76451d4ae85346b392ec4832b910613e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673960249499
+status: 3
+tags: []
+user_id: louibo

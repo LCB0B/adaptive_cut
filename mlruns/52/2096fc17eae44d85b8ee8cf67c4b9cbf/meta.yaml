@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/52/2096fc17eae44d85b8ee8cf67c4b9cbf/artifacts
+end_time: 1676734816394
+entry_point_name: ''
+experiment_id: '52'
+lifecycle_stage: active
+run_id: 2096fc17eae44d85b8ee8cf67c4b9cbf
+run_name: intelligent-flea-565
+run_uuid: 2096fc17eae44d85b8ee8cf67c4b9cbf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676734688561
+status: 3
+tags: []
+user_id: louibo

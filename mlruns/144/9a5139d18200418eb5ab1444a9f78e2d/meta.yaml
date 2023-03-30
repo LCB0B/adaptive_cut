@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/144/9a5139d18200418eb5ab1444a9f78e2d/artifacts
+end_time: 1676926380717
+entry_point_name: ''
+experiment_id: '144'
+lifecycle_stage: active
+run_id: 9a5139d18200418eb5ab1444a9f78e2d
+run_name: able-sow-338
+run_uuid: 9a5139d18200418eb5ab1444a9f78e2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676926370456
+status: 3
+tags: []
+user_id: louibo

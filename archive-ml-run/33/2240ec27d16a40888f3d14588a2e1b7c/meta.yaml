@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/33/2240ec27d16a40888f3d14588a2e1b7c/artifacts
+end_time: 1673736916754
+entry_point_name: ''
+experiment_id: '33'
+lifecycle_stage: active
+run_id: 2240ec27d16a40888f3d14588a2e1b7c
+run_name: clean-crab-639
+run_uuid: 2240ec27d16a40888f3d14588a2e1b7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673736901825
+status: 3
+tags: []
+user_id: louibo

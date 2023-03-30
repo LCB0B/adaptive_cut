@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/51/04c1bb1a361642f0b06e85d059274d2a/artifacts
+end_time: 1676891998331
+entry_point_name: ''
+experiment_id: '51'
+lifecycle_stage: active
+run_id: 04c1bb1a361642f0b06e85d059274d2a
+run_name: unique-jay-175
+run_uuid: 04c1bb1a361642f0b06e85d059274d2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676891991916
+status: 3
+tags: []
+user_id: louibo

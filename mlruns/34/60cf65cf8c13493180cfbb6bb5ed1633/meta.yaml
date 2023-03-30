@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/34/60cf65cf8c13493180cfbb6bb5ed1633/artifacts
+end_time: 1676764372234
+entry_point_name: ''
+experiment_id: '34'
+lifecycle_stage: active
+run_id: 60cf65cf8c13493180cfbb6bb5ed1633
+run_name: big-croc-308
+run_uuid: 60cf65cf8c13493180cfbb6bb5ed1633
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676764308689
+status: 3
+tags: []
+user_id: louibo

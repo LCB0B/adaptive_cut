@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/6/fc22efefe7544f47b180e3393395dd6c/artifacts
+end_time: 1674055949124
+entry_point_name: ''
+experiment_id: '6'
+lifecycle_stage: active
+run_id: fc22efefe7544f47b180e3393395dd6c
+run_name: fun-grub-971
+run_uuid: fc22efefe7544f47b180e3393395dd6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674055434607
+status: 3
+tags: []
+user_id: louibo

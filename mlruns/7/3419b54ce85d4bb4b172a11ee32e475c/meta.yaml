@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/7/3419b54ce85d4bb4b172a11ee32e475c/artifacts
+end_time: 1673730334345
+entry_point_name: ''
+experiment_id: '7'
+lifecycle_stage: active
+run_id: 3419b54ce85d4bb4b172a11ee32e475c
+run_name: unleashed-crow-984
+run_uuid: 3419b54ce85d4bb4b172a11ee32e475c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673730334329
+status: 4
+tags: []
+user_id: louibo

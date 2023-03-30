@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/5/b3f22149b78b47b0b7ef304751305fe9/artifacts
+end_time: 1676851400273
+entry_point_name: ''
+experiment_id: '5'
+lifecycle_stage: active
+run_id: b3f22149b78b47b0b7ef304751305fe9
+run_name: rare-fawn-212
+run_uuid: b3f22149b78b47b0b7ef304751305fe9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676851399898
+status: 3
+tags: []
+user_id: louibo

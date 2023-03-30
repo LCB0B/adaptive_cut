@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/104/13bdd74af82f4621b81febb715f52aec/artifacts
+end_time: 1676906028941
+entry_point_name: ''
+experiment_id: '104'
+lifecycle_stage: active
+run_id: 13bdd74af82f4621b81febb715f52aec
+run_name: masked-elk-892
+run_uuid: 13bdd74af82f4621b81febb715f52aec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676906000256
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/33/71404b64d04f417f8eb5333cebf94eb0/artifacts
+end_time: 1676761130310
+entry_point_name: ''
+experiment_id: '33'
+lifecycle_stage: active
+run_id: 71404b64d04f417f8eb5333cebf94eb0
+run_name: efficient-grouse-41
+run_uuid: 71404b64d04f417f8eb5333cebf94eb0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676761115425
+status: 3
+tags: []
+user_id: louibo

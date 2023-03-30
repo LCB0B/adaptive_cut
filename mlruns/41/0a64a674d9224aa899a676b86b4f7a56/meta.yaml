@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/41/0a64a674d9224aa899a676b86b4f7a56/artifacts
+end_time: 1674743963286
+entry_point_name: ''
+experiment_id: '41'
+lifecycle_stage: active
+run_id: 0a64a674d9224aa899a676b86b4f7a56
+run_name: legendary-mole-283
+run_uuid: 0a64a674d9224aa899a676b86b4f7a56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674743946815
+status: 3
+tags: []
+user_id: louibo

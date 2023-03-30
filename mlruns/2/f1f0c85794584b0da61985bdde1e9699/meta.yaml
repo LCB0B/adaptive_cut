@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/f1f0c85794584b0da61985bdde1e9699/artifacts
+end_time: 1673732492264
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: f1f0c85794584b0da61985bdde1e9699
+run_name: valuable-whale-16
+run_uuid: f1f0c85794584b0da61985bdde1e9699
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673732484941
+status: 3
+tags: []
+user_id: louibo

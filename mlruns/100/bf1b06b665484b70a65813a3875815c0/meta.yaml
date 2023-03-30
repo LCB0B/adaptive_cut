@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/100/bf1b06b665484b70a65813a3875815c0/artifacts
+end_time: 1676755631804
+entry_point_name: ''
+experiment_id: '100'
+lifecycle_stage: active
+run_id: bf1b06b665484b70a65813a3875815c0
+run_name: delicate-koi-265
+run_uuid: bf1b06b665484b70a65813a3875815c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676755630886
+status: 4
+tags: []
+user_id: louibo

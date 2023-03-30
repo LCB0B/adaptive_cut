@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/34/1d9d6e6dee944f99a2f559a9983c6b71/artifacts
+end_time: 1674757359200
+entry_point_name: ''
+experiment_id: '34'
+lifecycle_stage: active
+run_id: 1d9d6e6dee944f99a2f559a9983c6b71
+run_name: gaudy-conch-615
+run_uuid: 1d9d6e6dee944f99a2f559a9983c6b71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674757310826
+status: 3
+tags: []
+user_id: louibo

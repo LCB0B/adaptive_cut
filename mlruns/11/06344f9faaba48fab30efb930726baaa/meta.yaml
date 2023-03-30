@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/11/06344f9faaba48fab30efb930726baaa/artifacts
+end_time: 1673980660616
+entry_point_name: ''
+experiment_id: '11'
+lifecycle_stage: active
+run_id: 06344f9faaba48fab30efb930726baaa
+run_name: abrasive-wren-103
+run_uuid: 06344f9faaba48fab30efb930726baaa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673980238507
+status: 3
+tags: []
+user_id: louibo

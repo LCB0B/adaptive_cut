@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/78/3da239797b1b49c19a52d4ab6b51165f/artifacts
+end_time: 1676745366799
+entry_point_name: ''
+experiment_id: '78'
+lifecycle_stage: active
+run_id: 3da239797b1b49c19a52d4ab6b51165f
+run_name: stylish-pig-793
+run_uuid: 3da239797b1b49c19a52d4ab6b51165f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676745365139
+status: 3
+tags: []
+user_id: louibo

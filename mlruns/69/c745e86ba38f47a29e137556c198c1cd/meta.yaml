@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/69/c745e86ba38f47a29e137556c198c1cd/artifacts
+end_time: 1676853542091
+entry_point_name: ''
+experiment_id: '69'
+lifecycle_stage: active
+run_id: c745e86ba38f47a29e137556c198c1cd
+run_name: grandiose-hen-421
+run_uuid: c745e86ba38f47a29e137556c198c1cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676853530650
+status: 3
+tags: []
+user_id: louibo

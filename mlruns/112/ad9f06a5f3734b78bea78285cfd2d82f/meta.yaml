@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/112/ad9f06a5f3734b78bea78285cfd2d82f/artifacts
+end_time: 1676913661458
+entry_point_name: ''
+experiment_id: '112'
+lifecycle_stage: active
+run_id: ad9f06a5f3734b78bea78285cfd2d82f
+run_name: resilient-stork-480
+run_uuid: ad9f06a5f3734b78bea78285cfd2d82f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676913656351
+status: 3
+tags: []
+user_id: louibo

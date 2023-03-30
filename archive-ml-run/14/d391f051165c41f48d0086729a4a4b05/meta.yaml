@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/14/d391f051165c41f48d0086729a4a4b05/artifacts
+end_time: 1673746196807
+entry_point_name: ''
+experiment_id: '14'
+lifecycle_stage: active
+run_id: d391f051165c41f48d0086729a4a4b05
+run_name: luminous-steed-980
+run_uuid: d391f051165c41f48d0086729a4a4b05
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673746158498
+status: 3
+tags: []
+user_id: louibo

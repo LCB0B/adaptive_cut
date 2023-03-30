@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/16/938dba23f5a9421ab77ef7a3f409504f/artifacts
+end_time: 1674740620463
+entry_point_name: ''
+experiment_id: '16'
+lifecycle_stage: active
+run_id: 938dba23f5a9421ab77ef7a3f409504f
+run_name: gregarious-ray-425
+run_uuid: 938dba23f5a9421ab77ef7a3f409504f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674739240191
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/10/7f75d06560c34a4e9639276065e056f8/artifacts
+end_time: 1676858768870
+entry_point_name: ''
+experiment_id: '10'
+lifecycle_stage: active
+run_id: 7f75d06560c34a4e9639276065e056f8
+run_name: merciful-ray-725
+run_uuid: 7f75d06560c34a4e9639276065e056f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676858726677
+status: 3
+tags: []
+user_id: louibo

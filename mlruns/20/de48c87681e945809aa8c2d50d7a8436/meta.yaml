@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/20/de48c87681e945809aa8c2d50d7a8436/artifacts
+end_time: 1674091266823
+entry_point_name: ''
+experiment_id: '20'
+lifecycle_stage: active
+run_id: de48c87681e945809aa8c2d50d7a8436
+run_name: sassy-skink-736
+run_uuid: de48c87681e945809aa8c2d50d7a8436
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674091261340
+status: 3
+tags: []
+user_id: louibo

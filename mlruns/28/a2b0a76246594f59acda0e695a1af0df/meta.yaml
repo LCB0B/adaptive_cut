@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/28/a2b0a76246594f59acda0e695a1af0df/artifacts
+end_time: 1673990015311
+entry_point_name: ''
+experiment_id: '28'
+lifecycle_stage: active
+run_id: a2b0a76246594f59acda0e695a1af0df
+run_name: likeable-shrimp-801
+run_uuid: a2b0a76246594f59acda0e695a1af0df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673990002455
+status: 3
+tags: []
+user_id: louibo

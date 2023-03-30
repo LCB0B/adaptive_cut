@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/12/597fc7ae2dac465e9841b638315335a2/artifacts
+end_time: 1673984498038
+entry_point_name: ''
+experiment_id: '12'
+lifecycle_stage: active
+run_id: 597fc7ae2dac465e9841b638315335a2
+run_name: adventurous-mole-205
+run_uuid: 597fc7ae2dac465e9841b638315335a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673984483645
+status: 3
+tags: []
+user_id: louibo

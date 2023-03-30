@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/82/8a81fc9f50c040cca9475411dbbed623/artifacts
+end_time: 1676857342679
+entry_point_name: ''
+experiment_id: '82'
+lifecycle_stage: active
+run_id: 8a81fc9f50c040cca9475411dbbed623
+run_name: awesome-worm-669
+run_uuid: 8a81fc9f50c040cca9475411dbbed623
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676857342400
+status: 3
+tags: []
+user_id: louibo

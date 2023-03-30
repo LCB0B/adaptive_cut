@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/115/a9e666a91437426dad2554a4d0d069a5/artifacts
+end_time: 1676761536330
+entry_point_name: ''
+experiment_id: '115'
+lifecycle_stage: active
+run_id: a9e666a91437426dad2554a4d0d069a5
+run_name: dashing-mouse-879
+run_uuid: a9e666a91437426dad2554a4d0d069a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676761531163
+status: 3
+tags: []
+user_id: louibo

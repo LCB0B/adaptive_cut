@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/1/28980d1e2da5407cbe57f6002c229c0a/artifacts
+end_time: 1674063426055
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 28980d1e2da5407cbe57f6002c229c0a
+run_name: merciful-stag-627
+run_uuid: 28980d1e2da5407cbe57f6002c229c0a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674062980076
+status: 3
+tags: []
+user_id: louibo

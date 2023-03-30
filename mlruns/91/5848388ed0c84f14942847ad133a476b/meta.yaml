@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/91/5848388ed0c84f14942847ad133a476b/artifacts
+end_time: 1676869102138
+entry_point_name: ''
+experiment_id: '91'
+lifecycle_stage: active
+run_id: 5848388ed0c84f14942847ad133a476b
+run_name: sassy-flea-970
+run_uuid: 5848388ed0c84f14942847ad133a476b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676869082189
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/22/822448db35f84044a37df14a4546af74/artifacts
+end_time: 1674068881377
+entry_point_name: ''
+experiment_id: '22'
+lifecycle_stage: active
+run_id: 822448db35f84044a37df14a4546af74
+run_name: bittersweet-bee-725
+run_uuid: 822448db35f84044a37df14a4546af74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674067607369
+status: 3
+tags: []
+user_id: louibo

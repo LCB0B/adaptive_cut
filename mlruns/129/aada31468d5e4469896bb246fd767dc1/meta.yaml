@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/129/aada31468d5e4469896bb246fd767dc1/artifacts
+end_time: 1676940814956
+entry_point_name: ''
+experiment_id: '129'
+lifecycle_stage: active
+run_id: aada31468d5e4469896bb246fd767dc1
+run_name: ambitious-calf-193
+run_uuid: aada31468d5e4469896bb246fd767dc1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676940814617
+status: 3
+tags: []
+user_id: louibo

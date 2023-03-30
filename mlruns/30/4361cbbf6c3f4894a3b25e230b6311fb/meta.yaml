@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/30/4361cbbf6c3f4894a3b25e230b6311fb/artifacts
+end_time: 1676884751060
+entry_point_name: ''
+experiment_id: '30'
+lifecycle_stage: active
+run_id: 4361cbbf6c3f4894a3b25e230b6311fb
+run_name: shivering-crow-909
+run_uuid: 4361cbbf6c3f4894a3b25e230b6311fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676884750700
+status: 3
+tags: []
+user_id: louibo

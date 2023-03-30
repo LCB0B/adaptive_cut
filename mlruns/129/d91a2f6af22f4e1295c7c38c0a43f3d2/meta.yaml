@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/129/d91a2f6af22f4e1295c7c38c0a43f3d2/artifacts
+end_time: 1676917724617
+entry_point_name: ''
+experiment_id: '129'
+lifecycle_stage: active
+run_id: d91a2f6af22f4e1295c7c38c0a43f3d2
+run_name: redolent-vole-227
+run_uuid: d91a2f6af22f4e1295c7c38c0a43f3d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676917716969
+status: 3
+tags: []
+user_id: louibo

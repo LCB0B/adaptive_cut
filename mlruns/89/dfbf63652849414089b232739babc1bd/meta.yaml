@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/89/dfbf63652849414089b232739babc1bd/artifacts
+end_time: 1676747628694
+entry_point_name: ''
+experiment_id: '89'
+lifecycle_stage: active
+run_id: dfbf63652849414089b232739babc1bd
+run_name: respected-fly-4
+run_uuid: dfbf63652849414089b232739babc1bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676747627685
+status: 3
+tags: []
+user_id: louibo

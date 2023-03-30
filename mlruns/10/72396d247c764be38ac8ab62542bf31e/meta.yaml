@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/10/72396d247c764be38ac8ab62542bf31e/artifacts
+end_time: 1676902668351
+entry_point_name: ''
+experiment_id: '10'
+lifecycle_stage: active
+run_id: 72396d247c764be38ac8ab62542bf31e
+run_name: nosy-bug-384
+run_uuid: 72396d247c764be38ac8ab62542bf31e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676902622917
+status: 3
+tags: []
+user_id: louibo

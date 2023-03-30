@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/110/c0f33a52dbb14cf3922faa255b6f2497/artifacts
+end_time: 1676863020084
+entry_point_name: ''
+experiment_id: '110'
+lifecycle_stage: active
+run_id: c0f33a52dbb14cf3922faa255b6f2497
+run_name: whimsical-ram-733
+run_uuid: c0f33a52dbb14cf3922faa255b6f2497
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676863013551
+status: 3
+tags: []
+user_id: louibo

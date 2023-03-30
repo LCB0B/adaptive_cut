@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/29/f11d3fa4c0b44342aba5bd628d8e9975/artifacts
+end_time: 1673969604287
+entry_point_name: ''
+experiment_id: '29'
+lifecycle_stage: active
+run_id: f11d3fa4c0b44342aba5bd628d8e9975
+run_name: honorable-snail-450
+run_uuid: f11d3fa4c0b44342aba5bd628d8e9975
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673969517151
+status: 4
+tags: []
+user_id: louibo

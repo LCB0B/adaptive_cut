@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/31/7aeb64af04b748c28818fdd9689cbaf4/artifacts
+end_time: 1676916517156
+entry_point_name: ''
+experiment_id: '31'
+lifecycle_stage: active
+run_id: 7aeb64af04b748c28818fdd9689cbaf4
+run_name: carefree-yak-534
+run_uuid: 7aeb64af04b748c28818fdd9689cbaf4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676916516740
+status: 3
+tags: []
+user_id: louibo

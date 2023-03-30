@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/48/17c6f3cbebf94cfabb5224ec5b7bf63f/artifacts
+end_time: 1674081419243
+entry_point_name: ''
+experiment_id: '48'
+lifecycle_stage: active
+run_id: 17c6f3cbebf94cfabb5224ec5b7bf63f
+run_name: delicate-stork-771
+run_uuid: 17c6f3cbebf94cfabb5224ec5b7bf63f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674081333324
+status: 3
+tags: []
+user_id: louibo

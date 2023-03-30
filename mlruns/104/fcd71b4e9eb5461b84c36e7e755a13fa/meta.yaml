@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/104/fcd71b4e9eb5461b84c36e7e755a13fa/artifacts
+end_time: 1676749431234
+entry_point_name: ''
+experiment_id: '104'
+lifecycle_stage: active
+run_id: fcd71b4e9eb5461b84c36e7e755a13fa
+run_name: delightful-wasp-72
+run_uuid: fcd71b4e9eb5461b84c36e7e755a13fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676749402481
+status: 3
+tags: []
+user_id: louibo

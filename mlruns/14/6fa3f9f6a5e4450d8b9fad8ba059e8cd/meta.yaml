@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/14/6fa3f9f6a5e4450d8b9fad8ba059e8cd/artifacts
+end_time: 1674738433946
+entry_point_name: ''
+experiment_id: '14'
+lifecycle_stage: active
+run_id: 6fa3f9f6a5e4450d8b9fad8ba059e8cd
+run_name: enthused-robin-362
+run_uuid: 6fa3f9f6a5e4450d8b9fad8ba059e8cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674738394861
+status: 3
+tags: []
+user_id: louibo

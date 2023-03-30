@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/7/24c0a4da235743e5a9f241bf7b676a3d/artifacts
+end_time: 1674064289187
+entry_point_name: ''
+experiment_id: '7'
+lifecycle_stage: active
+run_id: 24c0a4da235743e5a9f241bf7b676a3d
+run_name: popular-sloth-540
+run_uuid: 24c0a4da235743e5a9f241bf7b676a3d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674063686734
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/122/72aa1cf8ad67442abaa0158617907afc/artifacts
+end_time: 1676870471689
+entry_point_name: ''
+experiment_id: '122'
+lifecycle_stage: active
+run_id: 72aa1cf8ad67442abaa0158617907afc
+run_name: unruly-owl-982
+run_uuid: 72aa1cf8ad67442abaa0158617907afc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676870468154
+status: 3
+tags: []
+user_id: louibo

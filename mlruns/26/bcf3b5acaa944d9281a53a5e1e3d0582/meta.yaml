@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/26/bcf3b5acaa944d9281a53a5e1e3d0582/artifacts
+end_time: 1676873259406
+entry_point_name: ''
+experiment_id: '26'
+lifecycle_stage: active
+run_id: bcf3b5acaa944d9281a53a5e1e3d0582
+run_name: unequaled-lynx-640
+run_uuid: bcf3b5acaa944d9281a53a5e1e3d0582
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676872970428
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/bfda36c2430c4f5491efd2445c92076c/artifacts
+end_time: 1674751569448
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: bfda36c2430c4f5491efd2445c92076c
+run_name: handsome-snake-444
+run_uuid: bfda36c2430c4f5491efd2445c92076c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674751566428
+status: 3
+tags: []
+user_id: louibo

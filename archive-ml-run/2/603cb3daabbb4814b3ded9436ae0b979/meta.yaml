@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/603cb3daabbb4814b3ded9436ae0b979/artifacts
+end_time: 1670249903410
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 603cb3daabbb4814b3ded9436ae0b979
+run_name: polite-ram-155
+run_uuid: 603cb3daabbb4814b3ded9436ae0b979
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670249902134
+status: 3
+tags: []
+user_id: louibo

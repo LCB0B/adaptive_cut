@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/88/54f7565ed369454294dfc693482eb2da/artifacts
+end_time: 1676751042532
+entry_point_name: ''
+experiment_id: '88'
+lifecycle_stage: active
+run_id: 54f7565ed369454294dfc693482eb2da
+run_name: capricious-carp-133
+run_uuid: 54f7565ed369454294dfc693482eb2da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676751038846
+status: 3
+tags: []
+user_id: louibo

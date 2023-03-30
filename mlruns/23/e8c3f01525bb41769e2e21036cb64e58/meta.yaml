@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/23/e8c3f01525bb41769e2e21036cb64e58/artifacts
+end_time: 1674058621450
+entry_point_name: ''
+experiment_id: '23'
+lifecycle_stage: active
+run_id: e8c3f01525bb41769e2e21036cb64e58
+run_name: suave-mule-815
+run_uuid: e8c3f01525bb41769e2e21036cb64e58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674058580993
+status: 3
+tags: []
+user_id: louibo

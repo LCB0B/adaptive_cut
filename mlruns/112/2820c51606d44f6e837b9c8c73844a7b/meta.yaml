@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/112/2820c51606d44f6e837b9c8c73844a7b/artifacts
+end_time: 1676756313101
+entry_point_name: ''
+experiment_id: '112'
+lifecycle_stage: active
+run_id: 2820c51606d44f6e837b9c8c73844a7b
+run_name: omniscient-croc-571
+run_uuid: 2820c51606d44f6e837b9c8c73844a7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676756313039
+status: 4
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/74/02a96bb9eb4d4086b2ec0d6a7e323a40/artifacts
+end_time: 1676853235705
+entry_point_name: ''
+experiment_id: '74'
+lifecycle_stage: active
+run_id: 02a96bb9eb4d4086b2ec0d6a7e323a40
+run_name: aged-dog-451
+run_uuid: 02a96bb9eb4d4086b2ec0d6a7e323a40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676853233740
+status: 3
+tags: []
+user_id: louibo

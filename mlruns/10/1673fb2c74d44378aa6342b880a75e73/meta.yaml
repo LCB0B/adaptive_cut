@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/10/1673fb2c74d44378aa6342b880a75e73/artifacts
+end_time: 1674734996704
+entry_point_name: ''
+experiment_id: '10'
+lifecycle_stage: active
+run_id: 1673fb2c74d44378aa6342b880a75e73
+run_name: skittish-fly-433
+run_uuid: 1673fb2c74d44378aa6342b880a75e73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674734977630
+status: 3
+tags: []
+user_id: louibo

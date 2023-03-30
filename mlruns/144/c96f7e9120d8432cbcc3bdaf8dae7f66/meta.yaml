@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/144/c96f7e9120d8432cbcc3bdaf8dae7f66/artifacts
+end_time: 1676983131478
+entry_point_name: ''
+experiment_id: '144'
+lifecycle_stage: active
+run_id: c96f7e9120d8432cbcc3bdaf8dae7f66
+run_name: bemused-trout-230
+run_uuid: c96f7e9120d8432cbcc3bdaf8dae7f66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676983130613
+status: 3
+tags: []
+user_id: louibo

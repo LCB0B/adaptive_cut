@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/37/435c7f7ab53f4ef1a15f5ac1c400b1e7/artifacts
+end_time: 1673990709593
+entry_point_name: ''
+experiment_id: '37'
+lifecycle_stage: active
+run_id: 435c7f7ab53f4ef1a15f5ac1c400b1e7
+run_name: fearless-quail-14
+run_uuid: 435c7f7ab53f4ef1a15f5ac1c400b1e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673990252123
+status: 3
+tags: []
+user_id: louibo

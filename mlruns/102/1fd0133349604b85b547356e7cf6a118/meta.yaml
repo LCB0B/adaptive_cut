@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/102/1fd0133349604b85b547356e7cf6a118/artifacts
+end_time: 1676864433657
+entry_point_name: ''
+experiment_id: '102'
+lifecycle_stage: active
+run_id: 1fd0133349604b85b547356e7cf6a118
+run_name: glamorous-hen-590
+run_uuid: 1fd0133349604b85b547356e7cf6a118
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676864419104
+status: 3
+tags: []
+user_id: louibo

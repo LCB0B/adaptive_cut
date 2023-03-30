@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/94/1fe27356649441dbb162e1ab5e159334/artifacts
+end_time: 1676919942569
+entry_point_name: ''
+experiment_id: '94'
+lifecycle_stage: active
+run_id: 1fe27356649441dbb162e1ab5e159334
+run_name: aged-hare-8
+run_uuid: 1fe27356649441dbb162e1ab5e159334
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676919905345
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/40/6a1b9f9141284102a810df8b9c0560ee/artifacts
+end_time: 1674073215158
+entry_point_name: ''
+experiment_id: '40'
+lifecycle_stage: active
+run_id: 6a1b9f9141284102a810df8b9c0560ee
+run_name: casual-squirrel-69
+run_uuid: 6a1b9f9141284102a810df8b9c0560ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674073203826
+status: 3
+tags: []
+user_id: louibo

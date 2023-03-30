@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/9224e08a3a1249898447b6f0e126a3d3/artifacts
+end_time: 1672597314611
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 9224e08a3a1249898447b6f0e126a3d3
+run_name: bald-roo-122
+run_uuid: 9224e08a3a1249898447b6f0e126a3d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672597313203
+status: 3
+tags: []
+user_id: louibo

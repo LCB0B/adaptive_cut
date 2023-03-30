@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/14/43399193d9f946a5883924294e297c86/artifacts
+end_time: 1673803263822
+entry_point_name: ''
+experiment_id: '14'
+lifecycle_stage: active
+run_id: 43399193d9f946a5883924294e297c86
+run_name: smiling-dove-367
+run_uuid: 43399193d9f946a5883924294e297c86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673803224776
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/46/40644e72a02243cf92337f06835ff8c5/artifacts
+end_time: 1674069712204
+entry_point_name: ''
+experiment_id: '46'
+lifecycle_stage: active
+run_id: 40644e72a02243cf92337f06835ff8c5
+run_name: agreeable-conch-277
+run_uuid: 40644e72a02243cf92337f06835ff8c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674069687401
+status: 3
+tags: []
+user_id: louibo

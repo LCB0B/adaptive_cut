@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/42/78e4b6174ff047459650ad91b6a7c835/artifacts
+end_time: 1674078106138
+entry_point_name: ''
+experiment_id: '42'
+lifecycle_stage: active
+run_id: 78e4b6174ff047459650ad91b6a7c835
+run_name: rogue-auk-183
+run_uuid: 78e4b6174ff047459650ad91b6a7c835
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674078068456
+status: 3
+tags: []
+user_id: louibo

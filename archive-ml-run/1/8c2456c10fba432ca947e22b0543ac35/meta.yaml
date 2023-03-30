@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/1/8c2456c10fba432ca947e22b0543ac35/artifacts
+end_time: 1673989208816
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8c2456c10fba432ca947e22b0543ac35
+run_name: gifted-gnat-296
+run_uuid: 8c2456c10fba432ca947e22b0543ac35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673988789246
+status: 3
+tags: []
+user_id: louibo

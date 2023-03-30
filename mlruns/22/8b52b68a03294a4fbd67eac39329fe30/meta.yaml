@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/22/8b52b68a03294a4fbd67eac39329fe30/artifacts
+end_time: 1674060836859
+entry_point_name: ''
+experiment_id: '22'
+lifecycle_stage: active
+run_id: 8b52b68a03294a4fbd67eac39329fe30
+run_name: handsome-cow-293
+run_uuid: 8b52b68a03294a4fbd67eac39329fe30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674060199171
+status: 3
+tags: []
+user_id: louibo

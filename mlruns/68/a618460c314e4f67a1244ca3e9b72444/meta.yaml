@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/68/a618460c314e4f67a1244ca3e9b72444/artifacts
+end_time: 1676858458797
+entry_point_name: ''
+experiment_id: '68'
+lifecycle_stage: active
+run_id: a618460c314e4f67a1244ca3e9b72444
+run_name: languid-hen-690
+run_uuid: a618460c314e4f67a1244ca3e9b72444
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676858458044
+status: 3
+tags: []
+user_id: louibo

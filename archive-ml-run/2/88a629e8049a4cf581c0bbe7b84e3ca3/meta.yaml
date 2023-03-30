@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/88a629e8049a4cf581c0bbe7b84e3ca3/artifacts
+end_time: 1670247584927
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 88a629e8049a4cf581c0bbe7b84e3ca3
+run_name: grandiose-tern-515
+run_uuid: 88a629e8049a4cf581c0bbe7b84e3ca3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670247581997
+status: 3
+tags: []
+user_id: louibo

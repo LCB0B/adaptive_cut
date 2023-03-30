@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/50/3aa8fb4eecc14c5a9f37ba72e9de0648/artifacts
+end_time: 1676875791196
+entry_point_name: ''
+experiment_id: '50'
+lifecycle_stage: active
+run_id: 3aa8fb4eecc14c5a9f37ba72e9de0648
+run_name: burly-squid-671
+run_uuid: 3aa8fb4eecc14c5a9f37ba72e9de0648
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676875766774
+status: 3
+tags: []
+user_id: louibo

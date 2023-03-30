@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/105/3edabeb35df8428cab213616d5c6831f/artifacts
+end_time: 1676750957547
+entry_point_name: ''
+experiment_id: '105'
+lifecycle_stage: active
+run_id: 3edabeb35df8428cab213616d5c6831f
+run_name: omniscient-yak-373
+run_uuid: 3edabeb35df8428cab213616d5c6831f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676749483292
+status: 3
+tags: []
+user_id: louibo

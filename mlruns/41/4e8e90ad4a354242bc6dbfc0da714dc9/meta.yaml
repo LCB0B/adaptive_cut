@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/41/4e8e90ad4a354242bc6dbfc0da714dc9/artifacts
+end_time: 1676860040661
+entry_point_name: ''
+experiment_id: '41'
+lifecycle_stage: active
+run_id: 4e8e90ad4a354242bc6dbfc0da714dc9
+run_name: unequaled-sheep-982
+run_uuid: 4e8e90ad4a354242bc6dbfc0da714dc9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676860034196
+status: 3
+tags: []
+user_id: louibo

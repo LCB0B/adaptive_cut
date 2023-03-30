@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/81/3d2539bfccca454aa5d00efd7de30a8c/artifacts
+end_time: 1676898057963
+entry_point_name: ''
+experiment_id: '81'
+lifecycle_stage: active
+run_id: 3d2539bfccca454aa5d00efd7de30a8c
+run_name: clumsy-slug-744
+run_uuid: 3d2539bfccca454aa5d00efd7de30a8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676898008186
+status: 3
+tags: []
+user_id: louibo

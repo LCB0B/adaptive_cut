@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/132/58363c1818024aa7a3a4996dd1a29f9d/artifacts
+end_time: 1676970509338
+entry_point_name: ''
+experiment_id: '132'
+lifecycle_stage: active
+run_id: 58363c1818024aa7a3a4996dd1a29f9d
+run_name: blushing-perch-877
+run_uuid: 58363c1818024aa7a3a4996dd1a29f9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676970220401
+status: 3
+tags: []
+user_id: louibo

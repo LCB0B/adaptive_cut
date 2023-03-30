@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/14/dea9f42aa4b3411f8f0eafca38352f59/artifacts
+end_time: 1674053833831
+entry_point_name: ''
+experiment_id: '14'
+lifecycle_stage: active
+run_id: dea9f42aa4b3411f8f0eafca38352f59
+run_name: honorable-pig-965
+run_uuid: dea9f42aa4b3411f8f0eafca38352f59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674053771931
+status: 3
+tags: []
+user_id: louibo

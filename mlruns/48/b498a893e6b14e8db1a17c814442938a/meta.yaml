@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/48/b498a893e6b14e8db1a17c814442938a/artifacts
+end_time: 1674811919297
+entry_point_name: ''
+experiment_id: '48'
+lifecycle_stage: active
+run_id: b498a893e6b14e8db1a17c814442938a
+run_name: classy-goat-675
+run_uuid: b498a893e6b14e8db1a17c814442938a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674811810280
+status: 3
+tags: []
+user_id: louibo

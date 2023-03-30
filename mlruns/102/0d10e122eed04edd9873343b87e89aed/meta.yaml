@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/102/0d10e122eed04edd9873343b87e89aed/artifacts
+end_time: 1676904875796
+entry_point_name: ''
+experiment_id: '102'
+lifecycle_stage: active
+run_id: 0d10e122eed04edd9873343b87e89aed
+run_name: merciful-koi-981
+run_uuid: 0d10e122eed04edd9873343b87e89aed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676904874031
+status: 3
+tags: []
+user_id: louibo

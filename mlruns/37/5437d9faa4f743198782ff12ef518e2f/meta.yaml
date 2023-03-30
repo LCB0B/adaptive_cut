@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/37/5437d9faa4f743198782ff12ef518e2f/artifacts
+end_time: 1674062638342
+entry_point_name: ''
+experiment_id: '37'
+lifecycle_stage: active
+run_id: 5437d9faa4f743198782ff12ef518e2f
+run_name: redolent-turtle-561
+run_uuid: 5437d9faa4f743198782ff12ef518e2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674062333672
+status: 3
+tags: []
+user_id: louibo

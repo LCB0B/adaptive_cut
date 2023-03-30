@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/47/b1b119bda2d841e08ae30540419084d3/artifacts
+end_time: 1676772036902
+entry_point_name: ''
+experiment_id: '47'
+lifecycle_stage: active
+run_id: b1b119bda2d841e08ae30540419084d3
+run_name: zealous-eel-472
+run_uuid: b1b119bda2d841e08ae30540419084d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676772033193
+status: 3
+tags: []
+user_id: louibo

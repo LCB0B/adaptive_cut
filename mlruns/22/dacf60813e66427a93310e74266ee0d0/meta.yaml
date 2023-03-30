@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/22/dacf60813e66427a93310e74266ee0d0/artifacts
+end_time: 1674745370032
+entry_point_name: ''
+experiment_id: '22'
+lifecycle_stage: active
+run_id: dacf60813e66427a93310e74266ee0d0
+run_name: exultant-bear-953
+run_uuid: dacf60813e66427a93310e74266ee0d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674743024095
+status: 3
+tags: []
+user_id: louibo

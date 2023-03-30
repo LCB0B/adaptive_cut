@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/4/db672df894d54885bce79e8ccc44fdd7/artifacts
+end_time: 1676894045558
+entry_point_name: ''
+experiment_id: '4'
+lifecycle_stage: active
+run_id: db672df894d54885bce79e8ccc44fdd7
+run_name: charming-hen-525
+run_uuid: db672df894d54885bce79e8ccc44fdd7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676894039906
+status: 3
+tags: []
+user_id: louibo

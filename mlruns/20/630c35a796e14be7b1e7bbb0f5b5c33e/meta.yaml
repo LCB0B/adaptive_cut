@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/20/630c35a796e14be7b1e7bbb0f5b5c33e/artifacts
+end_time: 1673737235555
+entry_point_name: ''
+experiment_id: '20'
+lifecycle_stage: active
+run_id: 630c35a796e14be7b1e7bbb0f5b5c33e
+run_name: worried-kit-557
+run_uuid: 630c35a796e14be7b1e7bbb0f5b5c33e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673737229871
+status: 3
+tags: []
+user_id: louibo

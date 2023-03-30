@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/113/7b90452ad66a47bcad328a2236b4ec2f/artifacts
+end_time: 1676761144677
+entry_point_name: ''
+experiment_id: '113'
+lifecycle_stage: active
+run_id: 7b90452ad66a47bcad328a2236b4ec2f
+run_name: mysterious-deer-183
+run_uuid: 7b90452ad66a47bcad328a2236b4ec2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676761132758
+status: 3
+tags: []
+user_id: louibo

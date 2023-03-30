@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/7/a1f351df654340c68b8f98b3d6b74f2c/artifacts
+end_time: 1673832610777
+entry_point_name: ''
+experiment_id: '7'
+lifecycle_stage: active
+run_id: a1f351df654340c68b8f98b3d6b74f2c
+run_name: fearless-goose-72
+run_uuid: a1f351df654340c68b8f98b3d6b74f2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673832210545
+status: 3
+tags: []
+user_id: louibo

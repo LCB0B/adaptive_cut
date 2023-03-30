@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/81/9bca27ae102749238a260c26eda4f4b3/artifacts
+end_time: 1676853666957
+entry_point_name: ''
+experiment_id: '81'
+lifecycle_stage: active
+run_id: 9bca27ae102749238a260c26eda4f4b3
+run_name: youthful-worm-687
+run_uuid: 9bca27ae102749238a260c26eda4f4b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676853662972
+status: 3
+tags: []
+user_id: louibo

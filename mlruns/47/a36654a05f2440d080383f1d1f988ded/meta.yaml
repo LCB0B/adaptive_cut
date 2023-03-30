@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/47/a36654a05f2440d080383f1d1f988ded/artifacts
+end_time: 1674088691282
+entry_point_name: ''
+experiment_id: '47'
+lifecycle_stage: active
+run_id: a36654a05f2440d080383f1d1f988ded
+run_name: vaunted-cub-29
+run_uuid: a36654a05f2440d080383f1d1f988ded
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674088687840
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/27/5d733ad6435246aebf1679993fa4c7f6/artifacts
+end_time: 1674752668620
+entry_point_name: ''
+experiment_id: '27'
+lifecycle_stage: active
+run_id: 5d733ad6435246aebf1679993fa4c7f6
+run_name: fearless-pig-678
+run_uuid: 5d733ad6435246aebf1679993fa4c7f6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674752649394
+status: 3
+tags: []
+user_id: louibo

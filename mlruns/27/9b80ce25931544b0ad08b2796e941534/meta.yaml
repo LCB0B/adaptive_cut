@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/27/9b80ce25931544b0ad08b2796e941534/artifacts
+end_time: 1674751550250
+entry_point_name: ''
+experiment_id: '27'
+lifecycle_stage: active
+run_id: 9b80ce25931544b0ad08b2796e941534
+run_name: youthful-flea-352
+run_uuid: 9b80ce25931544b0ad08b2796e941534
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674751542985
+status: 3
+tags: []
+user_id: louibo

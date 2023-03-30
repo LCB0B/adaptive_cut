@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/33/c075ed0c87854cc6beba79b9bcee42ce/artifacts
+end_time: 1676871025073
+entry_point_name: ''
+experiment_id: '33'
+lifecycle_stage: active
+run_id: c075ed0c87854cc6beba79b9bcee42ce
+run_name: gentle-kite-257
+run_uuid: c075ed0c87854cc6beba79b9bcee42ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676870996685
+status: 3
+tags: []
+user_id: louibo

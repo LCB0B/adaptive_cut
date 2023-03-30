@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/31/6e14f8d295074f299cf6bf28d371641b/artifacts
+end_time: 1674760811554
+entry_point_name: ''
+experiment_id: '31'
+lifecycle_stage: active
+run_id: 6e14f8d295074f299cf6bf28d371641b
+run_name: vaunted-bird-0
+run_uuid: 6e14f8d295074f299cf6bf28d371641b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674760805856
+status: 3
+tags: []
+user_id: louibo

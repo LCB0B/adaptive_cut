@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/12/7cdaebc889874054bb9503afc6c40212/artifacts
+end_time: 1673988668350
+entry_point_name: ''
+experiment_id: '12'
+lifecycle_stage: active
+run_id: 7cdaebc889874054bb9503afc6c40212
+run_name: rebellious-asp-415
+run_uuid: 7cdaebc889874054bb9503afc6c40212
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673988536648
+status: 3
+tags: []
+user_id: louibo

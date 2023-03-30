@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/89/88e89e362695471297e1d8f2aeb5d1e0/artifacts
+end_time: 1676856511876
+entry_point_name: ''
+experiment_id: '89'
+lifecycle_stage: active
+run_id: 88e89e362695471297e1d8f2aeb5d1e0
+run_name: traveling-hog-238
+run_uuid: 88e89e362695471297e1d8f2aeb5d1e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676856511152
+status: 3
+tags: []
+user_id: louibo

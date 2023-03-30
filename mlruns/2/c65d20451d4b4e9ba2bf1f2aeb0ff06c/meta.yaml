@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/c65d20451d4b4e9ba2bf1f2aeb0ff06c/artifacts
+end_time: 1673744701228
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: c65d20451d4b4e9ba2bf1f2aeb0ff06c
+run_name: intelligent-bee-166
+run_uuid: c65d20451d4b4e9ba2bf1f2aeb0ff06c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673744570905
+status: 4
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/109960a862e64817a88316363afb1efc/artifacts
+end_time: 1670269156987
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 109960a862e64817a88316363afb1efc
+run_name: salty-shrimp-363
+run_uuid: 109960a862e64817a88316363afb1efc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670269147712
+status: 3
+tags: []
+user_id: louibo

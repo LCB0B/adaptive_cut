@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/48/ec6af7129ab545ccb8a09c156644a8a4/artifacts
+end_time: 1674081089044
+entry_point_name: ''
+experiment_id: '48'
+lifecycle_stage: active
+run_id: ec6af7129ab545ccb8a09c156644a8a4
+run_name: polite-lamb-78
+run_uuid: ec6af7129ab545ccb8a09c156644a8a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674081051126
+status: 4
+tags: []
+user_id: louibo

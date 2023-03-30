@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/54/ad374708d66d4a27b024c7ffc1a622a3/artifacts
+end_time: 1676734965654
+entry_point_name: ''
+experiment_id: '54'
+lifecycle_stage: active
+run_id: ad374708d66d4a27b024c7ffc1a622a3
+run_name: crawling-dog-516
+run_uuid: ad374708d66d4a27b024c7ffc1a622a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676734945495
+status: 3
+tags: []
+user_id: louibo

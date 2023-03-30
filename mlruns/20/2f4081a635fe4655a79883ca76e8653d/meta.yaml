@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/20/2f4081a635fe4655a79883ca76e8653d/artifacts
+end_time: 1673722910492
+entry_point_name: ''
+experiment_id: '20'
+lifecycle_stage: active
+run_id: 2f4081a635fe4655a79883ca76e8653d
+run_name: redolent-ram-432
+run_uuid: 2f4081a635fe4655a79883ca76e8653d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673722893419
+status: 3
+tags: []
+user_id: louibo

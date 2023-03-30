@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/45/d8f90c1fdac94fcc9edb634e153cb844/artifacts
+end_time: 1674007879982
+entry_point_name: ''
+experiment_id: '45'
+lifecycle_stage: active
+run_id: d8f90c1fdac94fcc9edb634e153cb844
+run_name: delicate-bear-681
+run_uuid: d8f90c1fdac94fcc9edb634e153cb844
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674007724958
+status: 3
+tags: []
+user_id: louibo

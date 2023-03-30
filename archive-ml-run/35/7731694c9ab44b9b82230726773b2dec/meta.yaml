@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/35/7731694c9ab44b9b82230726773b2dec/artifacts
+end_time: 1673990830581
+entry_point_name: ''
+experiment_id: '35'
+lifecycle_stage: active
+run_id: 7731694c9ab44b9b82230726773b2dec
+run_name: suave-frog-608
+run_uuid: 7731694c9ab44b9b82230726773b2dec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673990795272
+status: 3
+tags: []
+user_id: louibo

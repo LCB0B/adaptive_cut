@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/41/82b07d0d5c0a4679a31ca94ea6fda47c/artifacts
+end_time: 1674744016138
+entry_point_name: ''
+experiment_id: '41'
+lifecycle_stage: active
+run_id: 82b07d0d5c0a4679a31ca94ea6fda47c
+run_name: grandiose-grub-647
+run_uuid: 82b07d0d5c0a4679a31ca94ea6fda47c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674743964389
+status: 3
+tags: []
+user_id: louibo

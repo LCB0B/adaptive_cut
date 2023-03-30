@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/26/310f26a6047741fda1a49b7a53bd5f49/artifacts
+end_time: 1673723303612
+entry_point_name: ''
+experiment_id: '26'
+lifecycle_stage: active
+run_id: 310f26a6047741fda1a49b7a53bd5f49
+run_name: orderly-carp-70
+run_uuid: 310f26a6047741fda1a49b7a53bd5f49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673723303594
+status: 4
+tags: []
+user_id: louibo

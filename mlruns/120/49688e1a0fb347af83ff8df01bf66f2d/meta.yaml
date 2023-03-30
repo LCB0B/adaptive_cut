@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/120/49688e1a0fb347af83ff8df01bf66f2d/artifacts
+end_time: 1676870448361
+entry_point_name: ''
+experiment_id: '120'
+lifecycle_stage: active
+run_id: 49688e1a0fb347af83ff8df01bf66f2d
+run_name: calm-ox-640
+run_uuid: 49688e1a0fb347af83ff8df01bf66f2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676870445130
+status: 3
+tags: []
+user_id: louibo

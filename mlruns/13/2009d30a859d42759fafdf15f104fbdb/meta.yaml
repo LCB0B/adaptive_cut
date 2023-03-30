@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/13/2009d30a859d42759fafdf15f104fbdb/artifacts
+end_time: 1676742080942
+entry_point_name: ''
+experiment_id: '13'
+lifecycle_stage: active
+run_id: 2009d30a859d42759fafdf15f104fbdb
+run_name: painted-pig-64
+run_uuid: 2009d30a859d42759fafdf15f104fbdb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676741610692
+status: 3
+tags: []
+user_id: louibo

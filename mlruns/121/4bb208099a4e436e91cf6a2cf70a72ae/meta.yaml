@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/121/4bb208099a4e436e91cf6a2cf70a72ae/artifacts
+end_time: 1676938920841
+entry_point_name: ''
+experiment_id: '121'
+lifecycle_stage: active
+run_id: 4bb208099a4e436e91cf6a2cf70a72ae
+run_name: spiffy-carp-284
+run_uuid: 4bb208099a4e436e91cf6a2cf70a72ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676938880478
+status: 3
+tags: []
+user_id: louibo

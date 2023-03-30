@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/26/75a319a7d24549de8554b366e069a8be/artifacts
+end_time: 1673990157445
+entry_point_name: ''
+experiment_id: '26'
+lifecycle_stage: active
+run_id: 75a319a7d24549de8554b366e069a8be
+run_name: unleashed-donkey-115
+run_uuid: 75a319a7d24549de8554b366e069a8be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673989948408
+status: 3
+tags: []
+user_id: louibo

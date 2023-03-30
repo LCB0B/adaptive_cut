@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/22/2cf77295f1cb48fba4d576c19d5e86d5/artifacts
+end_time: 1676750940233
+entry_point_name: ''
+experiment_id: '22'
+lifecycle_stage: active
+run_id: 2cf77295f1cb48fba4d576c19d5e86d5
+run_name: mysterious-smelt-24
+run_uuid: 2cf77295f1cb48fba4d576c19d5e86d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676749865522
+status: 3
+tags: []
+user_id: louibo

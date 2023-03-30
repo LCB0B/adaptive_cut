@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/129/b0072da3456b46b6a75b406fea043028/artifacts
+end_time: 1676865655749
+entry_point_name: ''
+experiment_id: '129'
+lifecycle_stage: active
+run_id: b0072da3456b46b6a75b406fea043028
+run_name: illustrious-gnat-796
+run_uuid: b0072da3456b46b6a75b406fea043028
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676865655400
+status: 3
+tags: []
+user_id: louibo

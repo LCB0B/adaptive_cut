@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/4/2fcef44d4efd412fafab9f7b016ccdcd/artifacts
+end_time: 1673978969816
+entry_point_name: ''
+experiment_id: '4'
+lifecycle_stage: active
+run_id: 2fcef44d4efd412fafab9f7b016ccdcd
+run_name: mercurial-sloth-904
+run_uuid: 2fcef44d4efd412fafab9f7b016ccdcd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673978952322
+status: 3
+tags: []
+user_id: louibo

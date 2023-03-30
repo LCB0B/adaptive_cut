@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/118/9784f22595fe4389ac95145ab5afc73a/artifacts
+end_time: 1676759014808
+entry_point_name: ''
+experiment_id: '118'
+lifecycle_stage: active
+run_id: 9784f22595fe4389ac95145ab5afc73a
+run_name: blushing-ant-426
+run_uuid: 9784f22595fe4389ac95145ab5afc73a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676758978116
+status: 3
+tags: []
+user_id: louibo

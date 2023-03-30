@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/4/429a1e8789b34cca9d835045944f9386/artifacts
+end_time: 1674091654668
+entry_point_name: ''
+experiment_id: '4'
+lifecycle_stage: active
+run_id: 429a1e8789b34cca9d835045944f9386
+run_name: funny-loon-532
+run_uuid: 429a1e8789b34cca9d835045944f9386
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674091637763
+status: 3
+tags: []
+user_id: louibo

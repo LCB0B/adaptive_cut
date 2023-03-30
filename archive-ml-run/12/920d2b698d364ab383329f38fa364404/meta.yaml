@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/12/920d2b698d364ab383329f38fa364404/artifacts
+end_time: 1673973185163
+entry_point_name: ''
+experiment_id: '12'
+lifecycle_stage: active
+run_id: 920d2b698d364ab383329f38fa364404
+run_name: orderly-steed-836
+run_uuid: 920d2b698d364ab383329f38fa364404
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673973171513
+status: 3
+tags: []
+user_id: louibo

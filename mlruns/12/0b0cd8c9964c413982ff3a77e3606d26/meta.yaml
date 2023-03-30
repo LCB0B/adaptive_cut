@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/12/0b0cd8c9964c413982ff3a77e3606d26/artifacts
+end_time: 1676860284569
+entry_point_name: ''
+experiment_id: '12'
+lifecycle_stage: active
+run_id: 0b0cd8c9964c413982ff3a77e3606d26
+run_name: grandiose-slug-756
+run_uuid: 0b0cd8c9964c413982ff3a77e3606d26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676860211063
+status: 3
+tags: []
+user_id: louibo

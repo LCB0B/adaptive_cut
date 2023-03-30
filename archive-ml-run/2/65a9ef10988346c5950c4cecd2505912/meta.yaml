@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/65a9ef10988346c5950c4cecd2505912/artifacts
+end_time: 1670248312495
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 65a9ef10988346c5950c4cecd2505912
+run_name: funny-stoat-712
+run_uuid: 65a9ef10988346c5950c4cecd2505912
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670248310989
+status: 3
+tags: []
+user_id: louibo

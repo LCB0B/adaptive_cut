@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/107/e5080888737947918352b985c3355b98/artifacts
+end_time: 1676862851224
+entry_point_name: ''
+experiment_id: '107'
+lifecycle_stage: active
+run_id: e5080888737947918352b985c3355b98
+run_name: trusting-pig-238
+run_uuid: e5080888737947918352b985c3355b98
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676862766787
+status: 3
+tags: []
+user_id: louibo

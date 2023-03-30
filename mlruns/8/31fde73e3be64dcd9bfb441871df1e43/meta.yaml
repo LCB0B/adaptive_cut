@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/8/31fde73e3be64dcd9bfb441871df1e43/artifacts
+end_time: 1673987306883
+entry_point_name: ''
+experiment_id: '8'
+lifecycle_stage: active
+run_id: 31fde73e3be64dcd9bfb441871df1e43
+run_name: languid-bear-98
+run_uuid: 31fde73e3be64dcd9bfb441871df1e43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673987112314
+status: 3
+tags: []
+user_id: louibo

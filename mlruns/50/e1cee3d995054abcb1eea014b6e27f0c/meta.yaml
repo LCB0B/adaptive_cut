@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/50/e1cee3d995054abcb1eea014b6e27f0c/artifacts
+end_time: 1676864513349
+entry_point_name: ''
+experiment_id: '50'
+lifecycle_stage: active
+run_id: e1cee3d995054abcb1eea014b6e27f0c
+run_name: handsome-fawn-918
+run_uuid: e1cee3d995054abcb1eea014b6e27f0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676864488700
+status: 3
+tags: []
+user_id: louibo

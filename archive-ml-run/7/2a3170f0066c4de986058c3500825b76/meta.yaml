@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/7/2a3170f0066c4de986058c3500825b76/artifacts
+end_time: 1673805584907
+entry_point_name: ''
+experiment_id: '7'
+lifecycle_stage: active
+run_id: 2a3170f0066c4de986058c3500825b76
+run_name: fearless-shoat-490
+run_uuid: 2a3170f0066c4de986058c3500825b76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673805237111
+status: 3
+tags: []
+user_id: louibo

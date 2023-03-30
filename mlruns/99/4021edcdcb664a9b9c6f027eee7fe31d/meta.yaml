@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/99/4021edcdcb664a9b9c6f027eee7fe31d/artifacts
+end_time: 1676907305811
+entry_point_name: ''
+experiment_id: '99'
+lifecycle_stage: active
+run_id: 4021edcdcb664a9b9c6f027eee7fe31d
+run_name: rumbling-seal-931
+run_uuid: 4021edcdcb664a9b9c6f027eee7fe31d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676907305323
+status: 3
+tags: []
+user_id: louibo

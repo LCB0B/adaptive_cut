@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/3/ed068d1c423a4fa8a89a2f4d09d49237/artifacts
+end_time: 1673980616856
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+run_id: ed068d1c423a4fa8a89a2f4d09d49237
+run_name: abrasive-crab-692
+run_uuid: ed068d1c423a4fa8a89a2f4d09d49237
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673980616834
+status: 4
+tags: []
+user_id: louibo

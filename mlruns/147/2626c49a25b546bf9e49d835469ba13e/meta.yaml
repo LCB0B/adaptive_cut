@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/147/2626c49a25b546bf9e49d835469ba13e/artifacts
+end_time: 1676983660256
+entry_point_name: ''
+experiment_id: '147'
+lifecycle_stage: active
+run_id: 2626c49a25b546bf9e49d835469ba13e
+run_name: salty-stag-391
+run_uuid: 2626c49a25b546bf9e49d835469ba13e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676983647949
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/29/953eca1ee46f48ba83a38497a5a36a75/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '29'
+lifecycle_stage: active
+run_id: 953eca1ee46f48ba83a38497a5a36a75
+run_name: angry-snake-901
+run_uuid: 953eca1ee46f48ba83a38497a5a36a75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677004805509
+status: 1
+tags: []
+user_id: louibo

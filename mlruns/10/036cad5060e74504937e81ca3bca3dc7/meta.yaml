@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/10/036cad5060e74504937e81ca3bca3dc7/artifacts
+end_time: 1674053880491
+entry_point_name: ''
+experiment_id: '10'
+lifecycle_stage: active
+run_id: 036cad5060e74504937e81ca3bca3dc7
+run_name: welcoming-squid-737
+run_uuid: 036cad5060e74504937e81ca3bca3dc7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674053831427
+status: 3
+tags: []
+user_id: louibo

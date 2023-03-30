@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/19/756c7d6b8750444bb3962bb15972e58c/artifacts
+end_time: 1676865732160
+entry_point_name: ''
+experiment_id: '19'
+lifecycle_stage: active
+run_id: 756c7d6b8750444bb3962bb15972e58c
+run_name: glamorous-pig-612
+run_uuid: 756c7d6b8750444bb3962bb15972e58c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676865365388
+status: 3
+tags: []
+user_id: louibo

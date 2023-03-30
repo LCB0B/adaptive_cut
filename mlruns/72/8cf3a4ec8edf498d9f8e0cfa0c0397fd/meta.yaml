@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/72/8cf3a4ec8edf498d9f8e0cfa0c0397fd/artifacts
+end_time: 1676738631862
+entry_point_name: ''
+experiment_id: '72'
+lifecycle_stage: active
+run_id: 8cf3a4ec8edf498d9f8e0cfa0c0397fd
+run_name: abundant-frog-882
+run_uuid: 8cf3a4ec8edf498d9f8e0cfa0c0397fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676738624335
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/37/35ce8b0c0488492f95b2b7b007e0cc76/artifacts
+end_time: 1676859757554
+entry_point_name: ''
+experiment_id: '37'
+lifecycle_stage: active
+run_id: 35ce8b0c0488492f95b2b7b007e0cc76
+run_name: bedecked-mink-499
+run_uuid: 35ce8b0c0488492f95b2b7b007e0cc76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676859611489
+status: 3
+tags: []
+user_id: louibo

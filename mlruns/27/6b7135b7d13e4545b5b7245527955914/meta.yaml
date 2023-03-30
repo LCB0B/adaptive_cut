@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/27/6b7135b7d13e4545b5b7245527955914/artifacts
+end_time: 1674065096533
+entry_point_name: ''
+experiment_id: '27'
+lifecycle_stage: active
+run_id: 6b7135b7d13e4545b5b7245527955914
+run_name: angry-deer-608
+run_uuid: 6b7135b7d13e4545b5b7245527955914
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674065080198
+status: 3
+tags: []
+user_id: louibo

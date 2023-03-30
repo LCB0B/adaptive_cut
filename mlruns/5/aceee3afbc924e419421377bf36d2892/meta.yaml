@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/5/aceee3afbc924e419421377bf36d2892/artifacts
+end_time: 1674471434407
+entry_point_name: ''
+experiment_id: '5'
+lifecycle_stage: active
+run_id: aceee3afbc924e419421377bf36d2892
+run_name: gregarious-worm-368
+run_uuid: aceee3afbc924e419421377bf36d2892
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674471432574
+status: 3
+tags: []
+user_id: louibo

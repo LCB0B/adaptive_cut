@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/51/682bc66b0e9c4033aa72841dd75b6e4e/artifacts
+end_time: 1676824037802
+entry_point_name: ''
+experiment_id: '51'
+lifecycle_stage: active
+run_id: 682bc66b0e9c4033aa72841dd75b6e4e
+run_name: merciful-sheep-482
+run_uuid: 682bc66b0e9c4033aa72841dd75b6e4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676824031192
+status: 3
+tags: []
+user_id: louibo

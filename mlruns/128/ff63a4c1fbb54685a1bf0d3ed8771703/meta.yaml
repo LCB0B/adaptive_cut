@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/128/ff63a4c1fbb54685a1bf0d3ed8771703/artifacts
+end_time: 1676940764474
+entry_point_name: ''
+experiment_id: '128'
+lifecycle_stage: active
+run_id: ff63a4c1fbb54685a1bf0d3ed8771703
+run_name: bemused-stag-161
+run_uuid: ff63a4c1fbb54685a1bf0d3ed8771703
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676940753120
+status: 3
+tags: []
+user_id: louibo

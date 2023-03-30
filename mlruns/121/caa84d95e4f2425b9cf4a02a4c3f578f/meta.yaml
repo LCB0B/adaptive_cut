@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/121/caa84d95e4f2425b9cf4a02a4c3f578f/artifacts
+end_time: 1676890403680
+entry_point_name: ''
+experiment_id: '121'
+lifecycle_stage: active
+run_id: caa84d95e4f2425b9cf4a02a4c3f578f
+run_name: fortunate-goose-272
+run_uuid: caa84d95e4f2425b9cf4a02a4c3f578f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676890401900
+status: 3
+tags: []
+user_id: louibo

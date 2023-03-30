@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/110/d21ac29c6fd04943a38eb5648bfbcc1d/artifacts
+end_time: 1676935033957
+entry_point_name: ''
+experiment_id: '110'
+lifecycle_stage: active
+run_id: d21ac29c6fd04943a38eb5648bfbcc1d
+run_name: loud-cow-280
+run_uuid: d21ac29c6fd04943a38eb5648bfbcc1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676934996224
+status: 3
+tags: []
+user_id: louibo

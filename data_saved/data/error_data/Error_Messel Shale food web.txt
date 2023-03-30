@@ -1,0 +1,1 @@
+local variable 'curr_D' referenced before assignment

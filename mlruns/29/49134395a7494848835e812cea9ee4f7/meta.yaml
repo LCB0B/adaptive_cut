@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/29/49134395a7494848835e812cea9ee4f7/artifacts
+end_time: 1676748583344
+entry_point_name: ''
+experiment_id: '29'
+lifecycle_stage: active
+run_id: 49134395a7494848835e812cea9ee4f7
+run_name: nimble-yak-851
+run_uuid: 49134395a7494848835e812cea9ee4f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676748318336
+status: 3
+tags: []
+user_id: louibo

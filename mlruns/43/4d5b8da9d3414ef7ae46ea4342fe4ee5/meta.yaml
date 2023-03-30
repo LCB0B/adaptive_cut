@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/43/4d5b8da9d3414ef7ae46ea4342fe4ee5/artifacts
+end_time: 1674007684564
+entry_point_name: ''
+experiment_id: '43'
+lifecycle_stage: active
+run_id: 4d5b8da9d3414ef7ae46ea4342fe4ee5
+run_name: capricious-foal-857
+run_uuid: 4d5b8da9d3414ef7ae46ea4342fe4ee5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674004297983
+status: 3
+tags: []
+user_id: louibo

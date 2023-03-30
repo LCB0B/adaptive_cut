@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/36/09768c387579457c9a27d0235a707c12/artifacts
+end_time: 1673723355944
+entry_point_name: ''
+experiment_id: '36'
+lifecycle_stage: active
+run_id: 09768c387579457c9a27d0235a707c12
+run_name: monumental-boar-863
+run_uuid: 09768c387579457c9a27d0235a707c12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673723355932
+status: 4
+tags: []
+user_id: louibo

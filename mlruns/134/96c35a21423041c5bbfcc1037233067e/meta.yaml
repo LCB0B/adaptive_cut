@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/134/96c35a21423041c5bbfcc1037233067e/artifacts
+end_time: 1676767693411
+entry_point_name: ''
+experiment_id: '134'
+lifecycle_stage: active
+run_id: 96c35a21423041c5bbfcc1037233067e
+run_name: charming-rook-33
+run_uuid: 96c35a21423041c5bbfcc1037233067e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676767664971
+status: 3
+tags: []
+user_id: louibo

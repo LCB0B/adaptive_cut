@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/57/3eb4ee2cef5449fab068aa4a6523349c/artifacts
+end_time: 1676735396056
+entry_point_name: ''
+experiment_id: '57'
+lifecycle_stage: active
+run_id: 3eb4ee2cef5449fab068aa4a6523349c
+run_name: rebellious-owl-843
+run_uuid: 3eb4ee2cef5449fab068aa4a6523349c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676735346207
+status: 4
+tags: []
+user_id: louibo

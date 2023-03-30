@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/20/fde5686ed6e241fea7576bf00c31b526/artifacts
+end_time: 1674742567314
+entry_point_name: ''
+experiment_id: '20'
+lifecycle_stage: active
+run_id: fde5686ed6e241fea7576bf00c31b526
+run_name: wistful-pig-805
+run_uuid: fde5686ed6e241fea7576bf00c31b526
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674742552521
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/25/f7c84ccb415c48eebbee35ca9545953f/artifacts
+end_time: 1674752346280
+entry_point_name: ''
+experiment_id: '25'
+lifecycle_stage: active
+run_id: f7c84ccb415c48eebbee35ca9545953f
+run_name: salty-trout-838
+run_uuid: f7c84ccb415c48eebbee35ca9545953f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674752225264
+status: 3
+tags: []
+user_id: louibo

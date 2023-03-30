@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/32/226b2af443b747e3a87a20102c26f827/artifacts
+end_time: 1674757259976
+entry_point_name: ''
+experiment_id: '32'
+lifecycle_stage: active
+run_id: 226b2af443b747e3a87a20102c26f827
+run_name: chill-carp-284
+run_uuid: 226b2af443b747e3a87a20102c26f827
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674757257549
+status: 3
+tags: []
+user_id: louibo

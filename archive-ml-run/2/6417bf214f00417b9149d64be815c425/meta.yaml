@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/6417bf214f00417b9149d64be815c425/artifacts
+end_time: 1670261642945
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 6417bf214f00417b9149d64be815c425
+run_name: gaudy-sheep-288
+run_uuid: 6417bf214f00417b9149d64be815c425
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670261640238
+status: 3
+tags: []
+user_id: louibo

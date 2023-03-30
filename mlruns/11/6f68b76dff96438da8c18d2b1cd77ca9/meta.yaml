@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/11/6f68b76dff96438da8c18d2b1cd77ca9/artifacts
+end_time: 1673981015612
+entry_point_name: ''
+experiment_id: '11'
+lifecycle_stage: active
+run_id: 6f68b76dff96438da8c18d2b1cd77ca9
+run_name: nimble-trout-705
+run_uuid: 6f68b76dff96438da8c18d2b1cd77ca9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673980578467
+status: 3
+tags: []
+user_id: louibo

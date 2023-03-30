@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/62/ee2935cc200d4d3f8b6ea12f67b12526/artifacts
+end_time: 1676892832867
+entry_point_name: ''
+experiment_id: '62'
+lifecycle_stage: active
+run_id: ee2935cc200d4d3f8b6ea12f67b12526
+run_name: defiant-lynx-449
+run_uuid: ee2935cc200d4d3f8b6ea12f67b12526
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676892832314
+status: 3
+tags: []
+user_id: louibo

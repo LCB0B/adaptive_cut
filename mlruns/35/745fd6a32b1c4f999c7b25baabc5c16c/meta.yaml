@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/35/745fd6a32b1c4f999c7b25baabc5c16c/artifacts
+end_time: 1673988575778
+entry_point_name: ''
+experiment_id: '35'
+lifecycle_stage: active
+run_id: 745fd6a32b1c4f999c7b25baabc5c16c
+run_name: nosy-finch-615
+run_uuid: 745fd6a32b1c4f999c7b25baabc5c16c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673988546411
+status: 3
+tags: []
+user_id: louibo

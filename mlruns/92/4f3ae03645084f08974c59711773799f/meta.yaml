@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/92/4f3ae03645084f08974c59711773799f/artifacts
+end_time: 1676744367267
+entry_point_name: ''
+experiment_id: '92'
+lifecycle_stage: active
+run_id: 4f3ae03645084f08974c59711773799f
+run_name: bald-bass-788
+run_uuid: 4f3ae03645084f08974c59711773799f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676744366995
+status: 4
+tags: []
+user_id: louibo

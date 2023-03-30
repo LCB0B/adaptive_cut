@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/14/4622a741f709465f8aebb4d0354caf2b/artifacts
+end_time: 1673745515069
+entry_point_name: ''
+experiment_id: '14'
+lifecycle_stage: active
+run_id: 4622a741f709465f8aebb4d0354caf2b
+run_name: skillful-robin-18
+run_uuid: 4622a741f709465f8aebb4d0354caf2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673745446534
+status: 3
+tags: []
+user_id: louibo

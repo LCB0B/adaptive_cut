@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/23/4dd6e0e54628446dabdfa4343edbf342/artifacts
+end_time: 1673986645646
+entry_point_name: ''
+experiment_id: '23'
+lifecycle_stage: active
+run_id: 4dd6e0e54628446dabdfa4343edbf342
+run_name: wise-finch-923
+run_uuid: 4dd6e0e54628446dabdfa4343edbf342
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673986624897
+status: 3
+tags: []
+user_id: louibo

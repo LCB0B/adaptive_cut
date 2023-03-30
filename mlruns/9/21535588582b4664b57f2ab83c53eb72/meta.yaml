@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/9/21535588582b4664b57f2ab83c53eb72/artifacts
+end_time: 1674053587114
+entry_point_name: ''
+experiment_id: '9'
+lifecycle_stage: active
+run_id: 21535588582b4664b57f2ab83c53eb72
+run_name: exultant-mouse-157
+run_uuid: 21535588582b4664b57f2ab83c53eb72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674053577203
+status: 3
+tags: []
+user_id: louibo

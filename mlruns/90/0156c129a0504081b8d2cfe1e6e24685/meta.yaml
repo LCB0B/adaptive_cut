@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/90/0156c129a0504081b8d2cfe1e6e24685/artifacts
+end_time: 1676917601725
+entry_point_name: ''
+experiment_id: '90'
+lifecycle_stage: active
+run_id: 0156c129a0504081b8d2cfe1e6e24685
+run_name: capricious-skink-653
+run_uuid: 0156c129a0504081b8d2cfe1e6e24685
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676917593229
+status: 3
+tags: []
+user_id: louibo

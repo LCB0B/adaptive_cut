@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/25/5bb8ded53eef43deba78371134eb8855/artifacts
+end_time: 1676860646268
+entry_point_name: ''
+experiment_id: '25'
+lifecycle_stage: active
+run_id: 5bb8ded53eef43deba78371134eb8855
+run_name: popular-dove-549
+run_uuid: 5bb8ded53eef43deba78371134eb8855
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676860571811
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/142/69d893cf1c444e228ec0d6481adca27d/artifacts
+end_time: 1676771947050
+entry_point_name: ''
+experiment_id: '142'
+lifecycle_stage: active
+run_id: 69d893cf1c444e228ec0d6481adca27d
+run_name: colorful-vole-375
+run_uuid: 69d893cf1c444e228ec0d6481adca27d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676771507536
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/15/8339a990acf84729bebe049bebc4adbf/artifacts
+end_time: 1673985271511
+entry_point_name: ''
+experiment_id: '15'
+lifecycle_stage: active
+run_id: 8339a990acf84729bebe049bebc4adbf
+run_name: awesome-smelt-23
+run_uuid: 8339a990acf84729bebe049bebc4adbf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673985270479
+status: 3
+tags: []
+user_id: louibo

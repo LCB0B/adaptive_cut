@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/118/ec0cea1edcd0499ea6248181fab1bfa5/artifacts
+end_time: 1676885003022
+entry_point_name: ''
+experiment_id: '118'
+lifecycle_stage: active
+run_id: ec0cea1edcd0499ea6248181fab1bfa5
+run_name: powerful-owl-802
+run_uuid: ec0cea1edcd0499ea6248181fab1bfa5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676884997956
+status: 3
+tags: []
+user_id: louibo

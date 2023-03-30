@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/88/1d77df2f20314eada765178b7f8dd000/artifacts
+end_time: 1676867655374
+entry_point_name: ''
+experiment_id: '88'
+lifecycle_stage: active
+run_id: 1d77df2f20314eada765178b7f8dd000
+run_name: crawling-chimp-965
+run_uuid: 1d77df2f20314eada765178b7f8dd000
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676867654823
+status: 3
+tags: []
+user_id: louibo

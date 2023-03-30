@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/10/921f95bad3d04bbd8dcdaef98eb826d5/artifacts
+end_time: 1673974163473
+entry_point_name: ''
+experiment_id: '10'
+lifecycle_stage: active
+run_id: 921f95bad3d04bbd8dcdaef98eb826d5
+run_name: bustling-quail-755
+run_uuid: 921f95bad3d04bbd8dcdaef98eb826d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673974149076
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/46/b1ddad8f01164c7c9883e244bc5ac547/artifacts
+end_time: 1674090206179
+entry_point_name: ''
+experiment_id: '46'
+lifecycle_stage: active
+run_id: b1ddad8f01164c7c9883e244bc5ac547
+run_name: unleashed-shrike-540
+run_uuid: b1ddad8f01164c7c9883e244bc5ac547
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674090194059
+status: 3
+tags: []
+user_id: louibo

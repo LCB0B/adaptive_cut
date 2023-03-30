@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/12/c9138a05aa2841ffa8019d96f0ee45a6/artifacts
+end_time: 1674054893477
+entry_point_name: ''
+experiment_id: '12'
+lifecycle_stage: active
+run_id: c9138a05aa2841ffa8019d96f0ee45a6
+run_name: burly-pig-109
+run_uuid: c9138a05aa2841ffa8019d96f0ee45a6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674054813988
+status: 3
+tags: []
+user_id: louibo

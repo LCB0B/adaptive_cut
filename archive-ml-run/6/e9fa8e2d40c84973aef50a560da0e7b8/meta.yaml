@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/6/e9fa8e2d40c84973aef50a560da0e7b8/artifacts
+end_time: 1673979201007
+entry_point_name: ''
+experiment_id: '6'
+lifecycle_stage: active
+run_id: e9fa8e2d40c84973aef50a560da0e7b8
+run_name: luxuriant-hawk-289
+run_uuid: e9fa8e2d40c84973aef50a560da0e7b8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673979098829
+status: 3
+tags: []
+user_id: louibo

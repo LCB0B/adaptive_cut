@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/47/e0553ab6f33b480592482c129a7c703b/artifacts
+end_time: 1673990047455
+entry_point_name: ''
+experiment_id: '47'
+lifecycle_stage: active
+run_id: e0553ab6f33b480592482c129a7c703b
+run_name: loud-wren-794
+run_uuid: e0553ab6f33b480592482c129a7c703b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673990040347
+status: 3
+tags: []
+user_id: louibo

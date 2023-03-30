@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/61/cae30cfa935147b7b248d40248e0d4fb/artifacts
+end_time: 1676894709731
+entry_point_name: ''
+experiment_id: '61'
+lifecycle_stage: active
+run_id: cae30cfa935147b7b248d40248e0d4fb
+run_name: delicate-toad-408
+run_uuid: cae30cfa935147b7b248d40248e0d4fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676894365578
+status: 3
+tags: []
+user_id: louibo

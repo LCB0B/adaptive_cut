@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/105/8ebc6e1624454b95bc94184d6d8ca780/artifacts
+end_time: 1676867120446
+entry_point_name: ''
+experiment_id: '105'
+lifecycle_stage: active
+run_id: 8ebc6e1624454b95bc94184d6d8ca780
+run_name: casual-shark-309
+run_uuid: 8ebc6e1624454b95bc94184d6d8ca780
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676866104239
+status: 3
+tags: []
+user_id: louibo

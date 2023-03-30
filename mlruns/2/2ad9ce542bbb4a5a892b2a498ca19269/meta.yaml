@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/2ad9ce542bbb4a5a892b2a498ca19269/artifacts
+end_time: 1673744226475
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 2ad9ce542bbb4a5a892b2a498ca19269
+run_name: wistful-owl-154
+run_uuid: 2ad9ce542bbb4a5a892b2a498ca19269
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673744221644
+status: 4
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/0/7938b342d2324d04a5e127aa4507744b/artifacts
+end_time: 1674050132342
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7938b342d2324d04a5e127aa4507744b
+run_name: monumental-owl-567
+run_uuid: 7938b342d2324d04a5e127aa4507744b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674050130618
+status: 3
+tags: []
+user_id: louibo

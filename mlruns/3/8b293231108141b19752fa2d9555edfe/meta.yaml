@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/3/8b293231108141b19752fa2d9555edfe/artifacts
+end_time: 1676854425307
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+run_id: 8b293231108141b19752fa2d9555edfe
+run_name: serious-duck-880
+run_uuid: 8b293231108141b19752fa2d9555edfe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676854425230
+status: 4
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/7/3518996b08dc4635882a0204bfff72ac/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '7'
+lifecycle_stage: active
+run_id: 3518996b08dc4635882a0204bfff72ac
+run_name: nebulous-hog-317
+run_uuid: 3518996b08dc4635882a0204bfff72ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673729816642
+status: 1
+tags: []
+user_id: louibo

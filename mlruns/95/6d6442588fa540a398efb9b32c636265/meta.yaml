@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/95/6d6442588fa540a398efb9b32c636265/artifacts
+end_time: 1676862346235
+entry_point_name: ''
+experiment_id: '95'
+lifecycle_stage: active
+run_id: 6d6442588fa540a398efb9b32c636265
+run_name: amusing-bat-700
+run_uuid: 6d6442588fa540a398efb9b32c636265
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676861996402
+status: 3
+tags: []
+user_id: louibo

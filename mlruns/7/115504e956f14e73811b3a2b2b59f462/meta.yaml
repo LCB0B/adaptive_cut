@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/7/115504e956f14e73811b3a2b2b59f462/artifacts
+end_time: 1674733386272
+entry_point_name: ''
+experiment_id: '7'
+lifecycle_stage: active
+run_id: 115504e956f14e73811b3a2b2b59f462
+run_name: glamorous-horse-127
+run_uuid: 115504e956f14e73811b3a2b2b59f462
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674732982271
+status: 3
+tags: []
+user_id: louibo

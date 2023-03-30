@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/133/c1b9646993884505bf7fcdb7ba9550cc/artifacts
+end_time: 1676895973522
+entry_point_name: ''
+experiment_id: '133'
+lifecycle_stage: active
+run_id: c1b9646993884505bf7fcdb7ba9550cc
+run_name: adorable-goose-597
+run_uuid: c1b9646993884505bf7fcdb7ba9550cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676895722780
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/4/544b748697c84caebd0df876b9792eaf/artifacts
+end_time: 1674051003766
+entry_point_name: ''
+experiment_id: '4'
+lifecycle_stage: active
+run_id: 544b748697c84caebd0df876b9792eaf
+run_name: fortunate-shrike-727
+run_uuid: 544b748697c84caebd0df876b9792eaf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674050941464
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/1/5595cad4451f4a9491c362fc480d4c7f/artifacts
+end_time: 1674003721226
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5595cad4451f4a9491c362fc480d4c7f
+run_name: colorful-hen-666
+run_uuid: 5595cad4451f4a9491c362fc480d4c7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674003387835
+status: 3
+tags: []
+user_id: louibo

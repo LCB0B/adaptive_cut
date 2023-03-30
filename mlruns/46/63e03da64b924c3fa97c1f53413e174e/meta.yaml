@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/46/63e03da64b924c3fa97c1f53413e174e/artifacts
+end_time: 1676875326637
+entry_point_name: ''
+experiment_id: '46'
+lifecycle_stage: active
+run_id: 63e03da64b924c3fa97c1f53413e174e
+run_name: bemused-shrimp-675
+run_uuid: 63e03da64b924c3fa97c1f53413e174e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676875322865
+status: 3
+tags: []
+user_id: louibo

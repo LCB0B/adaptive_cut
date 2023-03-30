@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/19/1c76529721b84428ae551c93d443f18f/artifacts
+end_time: 1674055505977
+entry_point_name: ''
+experiment_id: '19'
+lifecycle_stage: active
+run_id: 1c76529721b84428ae551c93d443f18f
+run_name: silent-crane-241
+run_uuid: 1c76529721b84428ae551c93d443f18f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674055212758
+status: 3
+tags: []
+user_id: louibo

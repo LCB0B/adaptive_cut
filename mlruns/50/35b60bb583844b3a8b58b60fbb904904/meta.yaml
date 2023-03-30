@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/50/35b60bb583844b3a8b58b60fbb904904/artifacts
+end_time: 1676908871286
+entry_point_name: ''
+experiment_id: '50'
+lifecycle_stage: active
+run_id: 35b60bb583844b3a8b58b60fbb904904
+run_name: crawling-tern-605
+run_uuid: 35b60bb583844b3a8b58b60fbb904904
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676908844885
+status: 3
+tags: []
+user_id: louibo

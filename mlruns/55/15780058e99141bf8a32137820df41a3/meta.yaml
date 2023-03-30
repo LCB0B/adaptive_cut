@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/55/15780058e99141bf8a32137820df41a3/artifacts
+end_time: 1676892411655
+entry_point_name: ''
+experiment_id: '55'
+lifecycle_stage: active
+run_id: 15780058e99141bf8a32137820df41a3
+run_name: worried-moose-948
+run_uuid: 15780058e99141bf8a32137820df41a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676892403724
+status: 3
+tags: []
+user_id: louibo

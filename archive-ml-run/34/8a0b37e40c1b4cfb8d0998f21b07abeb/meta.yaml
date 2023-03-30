@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/34/8a0b37e40c1b4cfb8d0998f21b07abeb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '34'
+lifecycle_stage: active
+run_id: 8a0b37e40c1b4cfb8d0998f21b07abeb
+run_name: valuable-colt-228
+run_uuid: 8a0b37e40c1b4cfb8d0998f21b07abeb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673728588970
+status: 1
+tags: []
+user_id: louibo

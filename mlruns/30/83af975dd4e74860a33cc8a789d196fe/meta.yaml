@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/30/83af975dd4e74860a33cc8a789d196fe/artifacts
+end_time: 1674493427122
+entry_point_name: ''
+experiment_id: '30'
+lifecycle_stage: active
+run_id: 83af975dd4e74860a33cc8a789d196fe
+run_name: redolent-shrike-317
+run_uuid: 83af975dd4e74860a33cc8a789d196fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674493425162
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/42/4e51f289224b4cc68454cdb2de924ecb/artifacts
+end_time: 1673991523958
+entry_point_name: ''
+experiment_id: '42'
+lifecycle_stage: active
+run_id: 4e51f289224b4cc68454cdb2de924ecb
+run_name: valuable-stoat-728
+run_uuid: 4e51f289224b4cc68454cdb2de924ecb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673991514315
+status: 3
+tags: []
+user_id: louibo

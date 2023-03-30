@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/109/3dfee2a749e648d78a8a4203153a460b/artifacts
+end_time: 1676761233737
+entry_point_name: ''
+experiment_id: '109'
+lifecycle_stage: active
+run_id: 3dfee2a749e648d78a8a4203153a460b
+run_name: unequaled-hare-804
+run_uuid: 3dfee2a749e648d78a8a4203153a460b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676761187767
+status: 3
+tags: []
+user_id: louibo

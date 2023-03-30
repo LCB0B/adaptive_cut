@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/7/3989c8b7227c4c26ad545daacb461aed/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '7'
+lifecycle_stage: active
+run_id: 3989c8b7227c4c26ad545daacb461aed
+run_name: funny-croc-267
+run_uuid: 3989c8b7227c4c26ad545daacb461aed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673825038857
+status: 1
+tags: []
+user_id: louibo

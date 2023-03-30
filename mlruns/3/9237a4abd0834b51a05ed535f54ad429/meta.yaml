@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/3/9237a4abd0834b51a05ed535f54ad429/artifacts
+end_time: 1676736082434
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+run_id: 9237a4abd0834b51a05ed535f54ad429
+run_name: capricious-sheep-286
+run_uuid: 9237a4abd0834b51a05ed535f54ad429
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676736082390
+status: 4
+tags: []
+user_id: louibo

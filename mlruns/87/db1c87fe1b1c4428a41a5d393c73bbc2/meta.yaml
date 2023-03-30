@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/87/db1c87fe1b1c4428a41a5d393c73bbc2/artifacts
+end_time: 1676742617789
+entry_point_name: ''
+experiment_id: '87'
+lifecycle_stage: active
+run_id: db1c87fe1b1c4428a41a5d393c73bbc2
+run_name: ambitious-flea-940
+run_uuid: db1c87fe1b1c4428a41a5d393c73bbc2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676742528360
+status: 3
+tags: []
+user_id: louibo

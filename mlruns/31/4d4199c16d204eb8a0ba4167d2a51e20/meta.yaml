@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/31/4d4199c16d204eb8a0ba4167d2a51e20/artifacts
+end_time: 1676885037937
+entry_point_name: ''
+experiment_id: '31'
+lifecycle_stage: active
+run_id: 4d4199c16d204eb8a0ba4167d2a51e20
+run_name: funny-sheep-178
+run_uuid: 4d4199c16d204eb8a0ba4167d2a51e20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676885037585
+status: 3
+tags: []
+user_id: louibo

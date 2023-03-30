@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/3/aa5d33555da146dba177a313c2e5c729/artifacts
+end_time: 1674050989197
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+run_id: aa5d33555da146dba177a313c2e5c729
+run_name: stylish-ant-196
+run_uuid: aa5d33555da146dba177a313c2e5c729
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674050989168
+status: 4
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/138/f2803ea7794d43ee9f4e7b0ea1e302e5/artifacts
+end_time: 1676764786971
+entry_point_name: ''
+experiment_id: '138'
+lifecycle_stage: active
+run_id: f2803ea7794d43ee9f4e7b0ea1e302e5
+run_name: peaceful-slug-912
+run_uuid: f2803ea7794d43ee9f4e7b0ea1e302e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676764786245
+status: 4
+tags: []
+user_id: louibo

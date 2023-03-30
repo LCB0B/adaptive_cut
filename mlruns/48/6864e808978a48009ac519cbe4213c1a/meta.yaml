@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/48/6864e808978a48009ac519cbe4213c1a/artifacts
+end_time: 1674083932880
+entry_point_name: ''
+experiment_id: '48'
+lifecycle_stage: active
+run_id: 6864e808978a48009ac519cbe4213c1a
+run_name: sincere-sow-140
+run_uuid: 6864e808978a48009ac519cbe4213c1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674083883190
+status: 3
+tags: []
+user_id: louibo

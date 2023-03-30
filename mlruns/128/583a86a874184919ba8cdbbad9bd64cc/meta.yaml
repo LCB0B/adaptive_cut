@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/128/583a86a874184919ba8cdbbad9bd64cc/artifacts
+end_time: 1676754423786
+entry_point_name: ''
+experiment_id: '128'
+lifecycle_stage: active
+run_id: 583a86a874184919ba8cdbbad9bd64cc
+run_name: handsome-cub-42
+run_uuid: 583a86a874184919ba8cdbbad9bd64cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676754405651
+status: 3
+tags: []
+user_id: louibo

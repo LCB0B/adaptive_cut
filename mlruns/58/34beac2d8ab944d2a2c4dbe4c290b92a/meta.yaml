@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/58/34beac2d8ab944d2a2c4dbe4c290b92a/artifacts
+end_time: 1676892561799
+entry_point_name: ''
+experiment_id: '58'
+lifecycle_stage: active
+run_id: 34beac2d8ab944d2a2c4dbe4c290b92a
+run_name: zealous-seal-897
+run_uuid: 34beac2d8ab944d2a2c4dbe4c290b92a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676892544989
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/91/4fd2c24a1a3043878d5fb5b87b76b3a4/artifacts
+end_time: 1676857221750
+entry_point_name: ''
+experiment_id: '91'
+lifecycle_stage: active
+run_id: 4fd2c24a1a3043878d5fb5b87b76b3a4
+run_name: powerful-stork-783
+run_uuid: 4fd2c24a1a3043878d5fb5b87b76b3a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676857172322
+status: 3
+tags: []
+user_id: louibo

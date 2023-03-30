@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/130/762a38a290504542a1bc0cff04caf1f7/artifacts
+end_time: 1676756272903
+entry_point_name: ''
+experiment_id: '130'
+lifecycle_stage: active
+run_id: 762a38a290504542a1bc0cff04caf1f7
+run_name: legendary-auk-912
+run_uuid: 762a38a290504542a1bc0cff04caf1f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676755045492
+status: 3
+tags: []
+user_id: louibo

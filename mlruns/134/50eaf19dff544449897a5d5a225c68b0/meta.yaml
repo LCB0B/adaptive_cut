@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/134/50eaf19dff544449897a5d5a225c68b0/artifacts
+end_time: 1676893058018
+entry_point_name: ''
+experiment_id: '134'
+lifecycle_stage: active
+run_id: 50eaf19dff544449897a5d5a225c68b0
+run_name: casual-gnu-855
+run_uuid: 50eaf19dff544449897a5d5a225c68b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676893046900
+status: 3
+tags: []
+user_id: louibo

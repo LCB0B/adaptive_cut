@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/69/2a3f91feaedf471aa7bc0fefc28f613c/artifacts
+end_time: 1676902352103
+entry_point_name: ''
+experiment_id: '69'
+lifecycle_stage: active
+run_id: 2a3f91feaedf471aa7bc0fefc28f613c
+run_name: marvelous-worm-776
+run_uuid: 2a3f91feaedf471aa7bc0fefc28f613c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676902339775
+status: 3
+tags: []
+user_id: louibo

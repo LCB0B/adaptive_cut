@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/10/d6131cc9b0964c0f883f20d923788572/artifacts
+end_time: 1673975257702
+entry_point_name: ''
+experiment_id: '10'
+lifecycle_stage: active
+run_id: d6131cc9b0964c0f883f20d923788572
+run_name: treasured-swan-346
+run_uuid: d6131cc9b0964c0f883f20d923788572
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673975243254
+status: 3
+tags: []
+user_id: louibo

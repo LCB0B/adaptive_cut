@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/29/e7b5270cbf4a4eab99668ae792700563/artifacts
+end_time: 1677003454238
+entry_point_name: ''
+experiment_id: '29'
+lifecycle_stage: active
+run_id: e7b5270cbf4a4eab99668ae792700563
+run_name: big-ox-43
+run_uuid: e7b5270cbf4a4eab99668ae792700563
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677003445717
+status: 4
+tags: []
+user_id: louibo

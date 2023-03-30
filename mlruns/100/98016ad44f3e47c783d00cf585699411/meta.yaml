@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/100/98016ad44f3e47c783d00cf585699411/artifacts
+end_time: 1676904484499
+entry_point_name: ''
+experiment_id: '100'
+lifecycle_stage: active
+run_id: 98016ad44f3e47c783d00cf585699411
+run_name: flawless-midge-988
+run_uuid: 98016ad44f3e47c783d00cf585699411
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676904481295
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/44/8201f0d1601b4c108e6f7b9908ef10d3/artifacts
+end_time: 1676758907901
+entry_point_name: ''
+experiment_id: '44'
+lifecycle_stage: active
+run_id: 8201f0d1601b4c108e6f7b9908ef10d3
+run_name: charming-toad-264
+run_uuid: 8201f0d1601b4c108e6f7b9908ef10d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676758902822
+status: 3
+tags: []
+user_id: louibo

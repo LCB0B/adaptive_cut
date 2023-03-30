@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/8d14d31d16bb44a5925aa8f5616dc558/artifacts
+end_time: 1670266025130
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 8d14d31d16bb44a5925aa8f5616dc558
+run_name: industrious-swan-793
+run_uuid: 8d14d31d16bb44a5925aa8f5616dc558
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670266022049
+status: 3
+tags: []
+user_id: louibo

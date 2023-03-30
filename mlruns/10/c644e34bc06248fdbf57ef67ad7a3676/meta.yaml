@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/10/c644e34bc06248fdbf57ef67ad7a3676/artifacts
+end_time: 1674734979927
+entry_point_name: ''
+experiment_id: '10'
+lifecycle_stage: active
+run_id: c644e34bc06248fdbf57ef67ad7a3676
+run_name: abundant-stoat-795
+run_uuid: c644e34bc06248fdbf57ef67ad7a3676
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674734961425
+status: 3
+tags: []
+user_id: louibo

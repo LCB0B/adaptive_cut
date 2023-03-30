@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/11/3f213099fdbf4c4caee1255752240c9a/artifacts
+end_time: 1673984291211
+entry_point_name: ''
+experiment_id: '11'
+lifecycle_stage: active
+run_id: 3f213099fdbf4c4caee1255752240c9a
+run_name: rogue-fawn-699
+run_uuid: 3f213099fdbf4c4caee1255752240c9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673983860082
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/1/f7896b5a3b7e4388bcb23bba52201695/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: f7896b5a3b7e4388bcb23bba52201695
+run_name: stylish-hound-59
+run_uuid: f7896b5a3b7e4388bcb23bba52201695
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674001914350
+status: 1
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/9/1c5a3a5a710241308c44c075a4c8c05b/artifacts
+end_time: 1676897309723
+entry_point_name: ''
+experiment_id: '9'
+lifecycle_stage: active
+run_id: 1c5a3a5a710241308c44c075a4c8c05b
+run_name: bemused-grouse-978
+run_uuid: 1c5a3a5a710241308c44c075a4c8c05b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676897306730
+status: 3
+tags: []
+user_id: louibo

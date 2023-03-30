@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/25/02c68cdf8ce549928cb277d136a96754/artifacts
+end_time: 1676918383332
+entry_point_name: ''
+experiment_id: '25'
+lifecycle_stage: active
+run_id: 02c68cdf8ce549928cb277d136a96754
+run_name: brawny-moose-41
+run_uuid: 02c68cdf8ce549928cb277d136a96754
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676918000996
+status: 3
+tags: []
+user_id: louibo

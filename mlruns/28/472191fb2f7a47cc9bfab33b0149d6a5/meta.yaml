@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/28/472191fb2f7a47cc9bfab33b0149d6a5/artifacts
+end_time: 1676757506297
+entry_point_name: ''
+experiment_id: '28'
+lifecycle_stage: active
+run_id: 472191fb2f7a47cc9bfab33b0149d6a5
+run_name: rebellious-croc-254
+run_uuid: 472191fb2f7a47cc9bfab33b0149d6a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676757495135
+status: 3
+tags: []
+user_id: louibo

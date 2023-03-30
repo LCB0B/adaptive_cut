@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/64/151c2d1fa6514969810296b98e0f1cd3/artifacts
+end_time: 1676736081049
+entry_point_name: ''
+experiment_id: '64'
+lifecycle_stage: active
+run_id: 151c2d1fa6514969810296b98e0f1cd3
+run_name: learned-horse-931
+run_uuid: 151c2d1fa6514969810296b98e0f1cd3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676736042166
+status: 4
+tags: []
+user_id: louibo

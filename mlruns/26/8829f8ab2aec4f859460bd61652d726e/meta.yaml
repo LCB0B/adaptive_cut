@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/26/8829f8ab2aec4f859460bd61652d726e/artifacts
+end_time: 1674742316445
+entry_point_name: ''
+experiment_id: '26'
+lifecycle_stage: active
+run_id: 8829f8ab2aec4f859460bd61652d726e
+run_name: bouncy-mink-431
+run_uuid: 8829f8ab2aec4f859460bd61652d726e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674742005173
+status: 3
+tags: []
+user_id: louibo

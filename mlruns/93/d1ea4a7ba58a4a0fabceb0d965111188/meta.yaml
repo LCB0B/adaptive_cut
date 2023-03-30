@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/93/d1ea4a7ba58a4a0fabceb0d965111188/artifacts
+end_time: 1676753409690
+entry_point_name: ''
+experiment_id: '93'
+lifecycle_stage: active
+run_id: d1ea4a7ba58a4a0fabceb0d965111188
+run_name: skillful-worm-189
+run_uuid: d1ea4a7ba58a4a0fabceb0d965111188
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676753409626
+status: 4
+tags: []
+user_id: louibo

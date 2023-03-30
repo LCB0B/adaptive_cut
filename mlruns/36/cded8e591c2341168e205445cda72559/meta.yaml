@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/36/cded8e591c2341168e205445cda72559/artifacts
+end_time: 1674762654566
+entry_point_name: ''
+experiment_id: '36'
+lifecycle_stage: active
+run_id: cded8e591c2341168e205445cda72559
+run_name: unleashed-zebra-642
+run_uuid: cded8e591c2341168e205445cda72559
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674762652552
+status: 3
+tags: []
+user_id: louibo

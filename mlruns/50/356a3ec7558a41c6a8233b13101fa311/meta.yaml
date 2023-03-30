@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/50/356a3ec7558a41c6a8233b13101fa311/artifacts
+end_time: 1676675303966
+entry_point_name: ''
+experiment_id: '50'
+lifecycle_stage: active
+run_id: 356a3ec7558a41c6a8233b13101fa311
+run_name: whimsical-mink-748
+run_uuid: 356a3ec7558a41c6a8233b13101fa311
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676675296402
+status: 3
+tags: []
+user_id: louibo

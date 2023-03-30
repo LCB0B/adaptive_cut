@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/101/b0a750673db4402ab7863139daa46195/artifacts
+end_time: 1676878414545
+entry_point_name: ''
+experiment_id: '101'
+lifecycle_stage: active
+run_id: b0a750673db4402ab7863139daa46195
+run_name: caring-auk-668
+run_uuid: b0a750673db4402ab7863139daa46195
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676878391952
+status: 3
+tags: []
+user_id: louibo

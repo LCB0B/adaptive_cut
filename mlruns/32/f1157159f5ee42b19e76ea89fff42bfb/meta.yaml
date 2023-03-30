@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/32/f1157159f5ee42b19e76ea89fff42bfb/artifacts
+end_time: 1676898862757
+entry_point_name: ''
+experiment_id: '32'
+lifecycle_stage: active
+run_id: f1157159f5ee42b19e76ea89fff42bfb
+run_name: stately-hound-591
+run_uuid: f1157159f5ee42b19e76ea89fff42bfb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676898862353
+status: 3
+tags: []
+user_id: louibo

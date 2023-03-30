@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/14/cbf099f1986a44d29ea8a1aef9a926ae/artifacts
+end_time: 1676743731797
+entry_point_name: ''
+experiment_id: '14'
+lifecycle_stage: active
+run_id: cbf099f1986a44d29ea8a1aef9a926ae
+run_name: rare-asp-57
+run_uuid: cbf099f1986a44d29ea8a1aef9a926ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676743454528
+status: 3
+tags: []
+user_id: louibo

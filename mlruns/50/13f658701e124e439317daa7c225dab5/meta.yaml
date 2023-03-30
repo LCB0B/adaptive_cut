@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/50/13f658701e124e439317daa7c225dab5/artifacts
+end_time: 1676676697336
+entry_point_name: ''
+experiment_id: '50'
+lifecycle_stage: active
+run_id: 13f658701e124e439317daa7c225dab5
+run_name: valuable-koi-357
+run_uuid: 13f658701e124e439317daa7c225dab5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676676370728
+status: 3
+tags: []
+user_id: louibo

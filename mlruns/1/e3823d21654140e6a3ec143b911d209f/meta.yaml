@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/1/e3823d21654140e6a3ec143b911d209f/artifacts
+end_time: 1673986886389
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e3823d21654140e6a3ec143b911d209f
+run_name: smiling-conch-819
+run_uuid: e3823d21654140e6a3ec143b911d209f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673986459720
+status: 3
+tags: []
+user_id: louibo

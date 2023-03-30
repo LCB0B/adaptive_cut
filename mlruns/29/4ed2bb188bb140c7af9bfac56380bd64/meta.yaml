@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/29/4ed2bb188bb140c7af9bfac56380bd64/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '29'
+lifecycle_stage: active
+run_id: 4ed2bb188bb140c7af9bfac56380bd64
+run_name: defiant-bass-882
+run_uuid: 4ed2bb188bb140c7af9bfac56380bd64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677002349956
+status: 1
+tags: []
+user_id: louibo

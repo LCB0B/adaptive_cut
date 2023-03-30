@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/3/89167b0ee9524f62b5012f2d6aeae21f/artifacts
+end_time: 1672596751515
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+run_id: 89167b0ee9524f62b5012f2d6aeae21f
+run_name: casual-croc-303
+run_uuid: 89167b0ee9524f62b5012f2d6aeae21f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672596751487
+status: 4
+tags: []
+user_id: louibo

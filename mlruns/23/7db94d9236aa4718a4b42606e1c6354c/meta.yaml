@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/23/7db94d9236aa4718a4b42606e1c6354c/artifacts
+end_time: 1676743312656
+entry_point_name: ''
+experiment_id: '23'
+lifecycle_stage: active
+run_id: 7db94d9236aa4718a4b42606e1c6354c
+run_name: receptive-duck-661
+run_uuid: 7db94d9236aa4718a4b42606e1c6354c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676743278889
+status: 3
+tags: []
+user_id: louibo

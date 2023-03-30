@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/14/66451a7f18cf416ebf16a4dc73ef4d6e/artifacts
+end_time: 1673737866213
+entry_point_name: ''
+experiment_id: '14'
+lifecycle_stage: active
+run_id: 66451a7f18cf416ebf16a4dc73ef4d6e
+run_name: shivering-loon-603
+run_uuid: 66451a7f18cf416ebf16a4dc73ef4d6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673737827506
+status: 3
+tags: []
+user_id: louibo

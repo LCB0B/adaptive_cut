@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/46/016812aa81ae4444b251ef75aed8c2f5/artifacts
+end_time: 1674090532861
+entry_point_name: ''
+experiment_id: '46'
+lifecycle_stage: active
+run_id: 016812aa81ae4444b251ef75aed8c2f5
+run_name: gregarious-skunk-519
+run_uuid: 016812aa81ae4444b251ef75aed8c2f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674090509666
+status: 3
+tags: []
+user_id: louibo

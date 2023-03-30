@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/8/ce5310fa54244d3084bf2d4f2cec5d6b/artifacts
+end_time: 1674052882571
+entry_point_name: ''
+experiment_id: '8'
+lifecycle_stage: active
+run_id: ce5310fa54244d3084bf2d4f2cec5d6b
+run_name: bold-crab-484
+run_uuid: ce5310fa54244d3084bf2d4f2cec5d6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674052830368
+status: 3
+tags: []
+user_id: louibo

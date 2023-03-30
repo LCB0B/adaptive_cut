@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/62/7646256ae4534c2089d099cba0b97ea0/artifacts
+end_time: 1676735667852
+entry_point_name: ''
+experiment_id: '62'
+lifecycle_stage: active
+run_id: 7646256ae4534c2089d099cba0b97ea0
+run_name: loud-kite-556
+run_uuid: 7646256ae4534c2089d099cba0b97ea0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676735666403
+status: 3
+tags: []
+user_id: louibo

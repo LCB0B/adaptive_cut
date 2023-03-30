@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/1/1c0ebddecf7f4878b8a4b04aa26fa560/artifacts
+end_time: 1676871128556
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1c0ebddecf7f4878b8a4b04aa26fa560
+run_name: sincere-bat-729
+run_uuid: 1c0ebddecf7f4878b8a4b04aa26fa560
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676870085374
+status: 3
+tags: []
+user_id: louibo

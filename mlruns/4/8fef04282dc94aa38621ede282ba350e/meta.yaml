@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/4/8fef04282dc94aa38621ede282ba350e/artifacts
+end_time: 1674050896280
+entry_point_name: ''
+experiment_id: '4'
+lifecycle_stage: active
+run_id: 8fef04282dc94aa38621ede282ba350e
+run_name: stately-carp-453
+run_uuid: 8fef04282dc94aa38621ede282ba350e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674050873470
+status: 3
+tags: []
+user_id: louibo

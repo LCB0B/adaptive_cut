@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/96/13c8dcc473444904b79de8401256965f/artifacts
+end_time: 1676923100904
+entry_point_name: ''
+experiment_id: '96'
+lifecycle_stage: active
+run_id: 13c8dcc473444904b79de8401256965f
+run_name: bold-dog-205
+run_uuid: 13c8dcc473444904b79de8401256965f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676923057581
+status: 3
+tags: []
+user_id: louibo

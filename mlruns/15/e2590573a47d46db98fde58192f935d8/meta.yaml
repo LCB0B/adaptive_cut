@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/15/e2590573a47d46db98fde58192f935d8/artifacts
+end_time: 1676907873803
+entry_point_name: ''
+experiment_id: '15'
+lifecycle_stage: active
+run_id: e2590573a47d46db98fde58192f935d8
+run_name: melodic-pug-935
+run_uuid: e2590573a47d46db98fde58192f935d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676907873475
+status: 3
+tags: []
+user_id: louibo

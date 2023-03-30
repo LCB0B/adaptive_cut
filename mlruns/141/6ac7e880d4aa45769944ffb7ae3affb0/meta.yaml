@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/141/6ac7e880d4aa45769944ffb7ae3affb0/artifacts
+end_time: 1676977005205
+entry_point_name: ''
+experiment_id: '141'
+lifecycle_stage: active
+run_id: 6ac7e880d4aa45769944ffb7ae3affb0
+run_name: abundant-smelt-645
+run_uuid: 6ac7e880d4aa45769944ffb7ae3affb0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676975145114
+status: 3
+tags: []
+user_id: louibo

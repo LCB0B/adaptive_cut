@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/12/4bb4a01768c64b4394986e00b44637a5/artifacts
+end_time: 1673973185457
+entry_point_name: ''
+experiment_id: '12'
+lifecycle_stage: active
+run_id: 4bb4a01768c64b4394986e00b44637a5
+run_name: luminous-bird-103
+run_uuid: 4bb4a01768c64b4394986e00b44637a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673973185188
+status: 4
+tags: []
+user_id: louibo

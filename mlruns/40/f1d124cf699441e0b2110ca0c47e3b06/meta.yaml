@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/40/f1d124cf699441e0b2110ca0c47e3b06/artifacts
+end_time: 1676859526740
+entry_point_name: ''
+experiment_id: '40'
+lifecycle_stage: active
+run_id: f1d124cf699441e0b2110ca0c47e3b06
+run_name: enthused-smelt-730
+run_uuid: f1d124cf699441e0b2110ca0c47e3b06
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676859523537
+status: 3
+tags: []
+user_id: louibo

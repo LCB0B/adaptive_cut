@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/126/2f3abb66920c4f4ba6f709714f2979e3/artifacts
+end_time: 1676911712172
+entry_point_name: ''
+experiment_id: '126'
+lifecycle_stage: active
+run_id: 2f3abb66920c4f4ba6f709714f2979e3
+run_name: sneaky-frog-37
+run_uuid: 2f3abb66920c4f4ba6f709714f2979e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676911691426
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/a7ca6567582f4b248dd64b7235efc75f/artifacts
+end_time: 1672599360675
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: a7ca6567582f4b248dd64b7235efc75f
+run_name: youthful-hawk-383
+run_uuid: a7ca6567582f4b248dd64b7235efc75f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672599359409
+status: 3
+tags: []
+user_id: louibo

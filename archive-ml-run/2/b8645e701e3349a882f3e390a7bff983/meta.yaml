@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/b8645e701e3349a882f3e390a7bff983/artifacts
+end_time: 1670264574950
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: b8645e701e3349a882f3e390a7bff983
+run_name: rumbling-calf-942
+run_uuid: b8645e701e3349a882f3e390a7bff983
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670264573509
+status: 3
+tags: []
+user_id: louibo

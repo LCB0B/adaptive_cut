@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/130/c5d5e08b3d4846dcbe3e96645f7888fa/artifacts
+end_time: 1676891026445
+entry_point_name: ''
+experiment_id: '130'
+lifecycle_stage: active
+run_id: c5d5e08b3d4846dcbe3e96645f7888fa
+run_name: treasured-moth-336
+run_uuid: c5d5e08b3d4846dcbe3e96645f7888fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676888929274
+status: 3
+tags: []
+user_id: louibo

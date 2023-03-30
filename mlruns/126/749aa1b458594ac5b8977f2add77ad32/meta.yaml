@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/126/749aa1b458594ac5b8977f2add77ad32/artifacts
+end_time: 1676917028158
+entry_point_name: ''
+experiment_id: '126'
+lifecycle_stage: active
+run_id: 749aa1b458594ac5b8977f2add77ad32
+run_name: abrasive-cow-384
+run_uuid: 749aa1b458594ac5b8977f2add77ad32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676917023905
+status: 3
+tags: []
+user_id: louibo

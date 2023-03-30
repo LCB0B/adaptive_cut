@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/45/10d6232fa2a24933b04adf8085ec6952/artifacts
+end_time: 1676871220396
+entry_point_name: ''
+experiment_id: '45'
+lifecycle_stage: active
+run_id: 10d6232fa2a24933b04adf8085ec6952
+run_name: handsome-sloth-473
+run_uuid: 10d6232fa2a24933b04adf8085ec6952
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676871214899
+status: 3
+tags: []
+user_id: louibo

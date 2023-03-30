@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/34/3a465cf7981e4aeebcb81fc5465b5168/artifacts
+end_time: 1676927131845
+entry_point_name: ''
+experiment_id: '34'
+lifecycle_stage: active
+run_id: 3a465cf7981e4aeebcb81fc5465b5168
+run_name: colorful-fowl-501
+run_uuid: 3a465cf7981e4aeebcb81fc5465b5168
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676927103104
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/47/72b0891dba904d558b8189d5182f7354/artifacts
+end_time: 1674088728883
+entry_point_name: ''
+experiment_id: '47'
+lifecycle_stage: active
+run_id: 72b0891dba904d558b8189d5182f7354
+run_name: valuable-grub-638
+run_uuid: 72b0891dba904d558b8189d5182f7354
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674088691287
+status: 3
+tags: []
+user_id: louibo

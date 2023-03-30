@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/9/cbede98e94aa4ec68fa6f1acf0786b42/artifacts
+end_time: 1674054119388
+entry_point_name: ''
+experiment_id: '9'
+lifecycle_stage: active
+run_id: cbede98e94aa4ec68fa6f1acf0786b42
+run_name: dashing-smelt-667
+run_uuid: cbede98e94aa4ec68fa6f1acf0786b42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674054094924
+status: 3
+tags: []
+user_id: louibo

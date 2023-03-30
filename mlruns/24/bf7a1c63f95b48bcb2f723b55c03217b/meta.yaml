@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/24/bf7a1c63f95b48bcb2f723b55c03217b/artifacts
+end_time: 1676751602336
+entry_point_name: ''
+experiment_id: '24'
+lifecycle_stage: active
+run_id: bf7a1c63f95b48bcb2f723b55c03217b
+run_name: stylish-wren-378
+run_uuid: bf7a1c63f95b48bcb2f723b55c03217b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676751050743
+status: 3
+tags: []
+user_id: louibo

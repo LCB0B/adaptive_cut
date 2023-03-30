@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/44/d34e7c766b4745fbb00942d81f99be7e/artifacts
+end_time: 1676889911719
+entry_point_name: ''
+experiment_id: '44'
+lifecycle_stage: active
+run_id: d34e7c766b4745fbb00942d81f99be7e
+run_name: skittish-steed-509
+run_uuid: d34e7c766b4745fbb00942d81f99be7e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676889908135
+status: 3
+tags: []
+user_id: louibo

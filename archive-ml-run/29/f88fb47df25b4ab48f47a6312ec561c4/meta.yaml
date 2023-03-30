@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/29/f88fb47df25b4ab48f47a6312ec561c4/artifacts
+end_time: 1673965247409
+entry_point_name: ''
+experiment_id: '29'
+lifecycle_stage: active
+run_id: f88fb47df25b4ab48f47a6312ec561c4
+run_name: nervous-ram-975
+run_uuid: f88fb47df25b4ab48f47a6312ec561c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673964998360
+status: 3
+tags: []
+user_id: louibo

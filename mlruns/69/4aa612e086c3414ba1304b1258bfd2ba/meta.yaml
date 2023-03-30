@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/69/4aa612e086c3414ba1304b1258bfd2ba/artifacts
+end_time: 1676895608558
+entry_point_name: ''
+experiment_id: '69'
+lifecycle_stage: active
+run_id: 4aa612e086c3414ba1304b1258bfd2ba
+run_name: hilarious-bass-978
+run_uuid: 4aa612e086c3414ba1304b1258bfd2ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676895596787
+status: 3
+tags: []
+user_id: louibo

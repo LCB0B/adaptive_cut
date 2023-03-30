@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/30/c7f6a190a9544697a2399f6e3ece0bf5/artifacts
+end_time: 1676938448727
+entry_point_name: ''
+experiment_id: '30'
+lifecycle_stage: active
+run_id: c7f6a190a9544697a2399f6e3ece0bf5
+run_name: carefree-rook-529
+run_uuid: c7f6a190a9544697a2399f6e3ece0bf5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676938443968
+status: 3
+tags: []
+user_id: louibo

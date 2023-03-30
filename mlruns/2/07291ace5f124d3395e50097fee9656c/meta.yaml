@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/07291ace5f124d3395e50097fee9656c/artifacts
+end_time: 1673744337194
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 07291ace5f124d3395e50097fee9656c
+run_name: tasteful-sponge-574
+run_uuid: 07291ace5f124d3395e50097fee9656c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673744242017
+status: 4
+tags: []
+user_id: louibo

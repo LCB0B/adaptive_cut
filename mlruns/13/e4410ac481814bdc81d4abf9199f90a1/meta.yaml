@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/13/e4410ac481814bdc81d4abf9199f90a1/artifacts
+end_time: 1676860474565
+entry_point_name: ''
+experiment_id: '13'
+lifecycle_stage: active
+run_id: e4410ac481814bdc81d4abf9199f90a1
+run_name: upbeat-bird-529
+run_uuid: e4410ac481814bdc81d4abf9199f90a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676859452456
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/4/05dc6bb5f2a7408b8c835ab96c2250d4/artifacts
+end_time: 1673980585759
+entry_point_name: ''
+experiment_id: '4'
+lifecycle_stage: active
+run_id: 05dc6bb5f2a7408b8c835ab96c2250d4
+run_name: popular-vole-223
+run_uuid: 05dc6bb5f2a7408b8c835ab96c2250d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673980568605
+status: 3
+tags: []
+user_id: louibo

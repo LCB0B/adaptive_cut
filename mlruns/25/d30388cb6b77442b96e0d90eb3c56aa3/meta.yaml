@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/25/d30388cb6b77442b96e0d90eb3c56aa3/artifacts
+end_time: 1674084191287
+entry_point_name: ''
+experiment_id: '25'
+lifecycle_stage: active
+run_id: d30388cb6b77442b96e0d90eb3c56aa3
+run_name: worried-koi-156
+run_uuid: d30388cb6b77442b96e0d90eb3c56aa3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674084072855
+status: 3
+tags: []
+user_id: louibo

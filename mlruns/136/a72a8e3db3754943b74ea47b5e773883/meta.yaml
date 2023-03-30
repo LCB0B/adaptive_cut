@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/136/a72a8e3db3754943b74ea47b5e773883/artifacts
+end_time: 1676768978472
+entry_point_name: ''
+experiment_id: '136'
+lifecycle_stage: active
+run_id: a72a8e3db3754943b74ea47b5e773883
+run_name: funny-midge-628
+run_uuid: a72a8e3db3754943b74ea47b5e773883
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676768978411
+status: 4
+tags: []
+user_id: louibo

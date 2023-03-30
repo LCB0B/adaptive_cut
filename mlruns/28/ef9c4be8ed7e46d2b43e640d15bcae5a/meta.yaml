@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/28/ef9c4be8ed7e46d2b43e640d15bcae5a/artifacts
+end_time: 1676897102651
+entry_point_name: ''
+experiment_id: '28'
+lifecycle_stage: active
+run_id: ef9c4be8ed7e46d2b43e640d15bcae5a
+run_name: smiling-skunk-408
+run_uuid: ef9c4be8ed7e46d2b43e640d15bcae5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676897099211
+status: 3
+tags: []
+user_id: louibo

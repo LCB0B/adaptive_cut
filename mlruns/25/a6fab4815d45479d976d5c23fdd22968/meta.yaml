@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/25/a6fab4815d45479d976d5c23fdd22968/artifacts
+end_time: 1674081036327
+entry_point_name: ''
+experiment_id: '25'
+lifecycle_stage: active
+run_id: a6fab4815d45479d976d5c23fdd22968
+run_name: rumbling-mink-954
+run_uuid: a6fab4815d45479d976d5c23fdd22968
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674080940522
+status: 4
+tags: []
+user_id: louibo

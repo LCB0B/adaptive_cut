@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/104/5213a839fbb748e69dbe7a1423c6a45f/artifacts
+end_time: 1676749454592
+entry_point_name: ''
+experiment_id: '104'
+lifecycle_stage: active
+run_id: 5213a839fbb748e69dbe7a1423c6a45f
+run_name: industrious-newt-278
+run_uuid: 5213a839fbb748e69dbe7a1423c6a45f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676749431259
+status: 4
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/10/526469c0c4e54b94b0c66676c7f996be/artifacts
+end_time: 1673975338682
+entry_point_name: ''
+experiment_id: '10'
+lifecycle_stage: active
+run_id: 526469c0c4e54b94b0c66676c7f996be
+run_name: capricious-squid-111
+run_uuid: 526469c0c4e54b94b0c66676c7f996be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673975324251
+status: 3
+tags: []
+user_id: louibo

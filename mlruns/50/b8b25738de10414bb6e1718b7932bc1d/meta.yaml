@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/50/b8b25738de10414bb6e1718b7932bc1d/artifacts
+end_time: 1676860213148
+entry_point_name: ''
+experiment_id: '50'
+lifecycle_stage: active
+run_id: b8b25738de10414bb6e1718b7932bc1d
+run_name: upbeat-worm-673
+run_uuid: b8b25738de10414bb6e1718b7932bc1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676860098592
+status: 3
+tags: []
+user_id: louibo

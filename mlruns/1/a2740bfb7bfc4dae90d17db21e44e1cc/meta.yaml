@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/1/a2740bfb7bfc4dae90d17db21e44e1cc/artifacts
+end_time: 1674754045690
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a2740bfb7bfc4dae90d17db21e44e1cc
+run_name: brawny-bird-890
+run_uuid: a2740bfb7bfc4dae90d17db21e44e1cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674753123710
+status: 3
+tags: []
+user_id: louibo

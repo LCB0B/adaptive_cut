@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/4/df2d655f2c1a455d82c7ea9ce39e5996/artifacts
+end_time: 1674491708747
+entry_point_name: ''
+experiment_id: '4'
+lifecycle_stage: active
+run_id: df2d655f2c1a455d82c7ea9ce39e5996
+run_name: efficient-fowl-488
+run_uuid: df2d655f2c1a455d82c7ea9ce39e5996
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674491692577
+status: 3
+tags: []
+user_id: louibo

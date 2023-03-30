@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/3/e156c8ceaf6a4e90bde05005906c6982/artifacts
+end_time: 1670246365205
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+run_id: e156c8ceaf6a4e90bde05005906c6982
+run_name: thoughtful-cow-147
+run_uuid: e156c8ceaf6a4e90bde05005906c6982
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670246365188
+status: 4
+tags: []
+user_id: louibo

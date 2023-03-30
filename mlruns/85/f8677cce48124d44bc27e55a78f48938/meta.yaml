@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/85/f8677cce48124d44bc27e55a78f48938/artifacts
+end_time: 1676855679921
+entry_point_name: ''
+experiment_id: '85'
+lifecycle_stage: active
+run_id: f8677cce48124d44bc27e55a78f48938
+run_name: thoughtful-rat-797
+run_uuid: f8677cce48124d44bc27e55a78f48938
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676855446250
+status: 3
+tags: []
+user_id: louibo

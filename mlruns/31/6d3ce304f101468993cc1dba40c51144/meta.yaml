@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/31/6d3ce304f101468993cc1dba40c51144/artifacts
+end_time: 1676911111012
+entry_point_name: ''
+experiment_id: '31'
+lifecycle_stage: active
+run_id: 6d3ce304f101468993cc1dba40c51144
+run_name: nervous-gull-467
+run_uuid: 6d3ce304f101468993cc1dba40c51144
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676911110411
+status: 3
+tags: []
+user_id: louibo

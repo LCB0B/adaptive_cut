@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/14/54b7ab7d85d049c097396202c42f54dc/artifacts
+end_time: 1676856506881
+entry_point_name: ''
+experiment_id: '14'
+lifecycle_stage: active
+run_id: 54b7ab7d85d049c097396202c42f54dc
+run_name: nebulous-frog-417
+run_uuid: 54b7ab7d85d049c097396202c42f54dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676856190834
+status: 3
+tags: []
+user_id: louibo

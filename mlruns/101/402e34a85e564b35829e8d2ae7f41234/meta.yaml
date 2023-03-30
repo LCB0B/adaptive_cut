@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/101/402e34a85e564b35829e8d2ae7f41234/artifacts
+end_time: 1676752625484
+entry_point_name: ''
+experiment_id: '101'
+lifecycle_stage: active
+run_id: 402e34a85e564b35829e8d2ae7f41234
+run_name: dashing-stag-180
+run_uuid: 402e34a85e564b35829e8d2ae7f41234
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676752622661
+status: 3
+tags: []
+user_id: louibo

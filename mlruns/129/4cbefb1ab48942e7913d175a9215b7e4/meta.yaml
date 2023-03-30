@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/129/4cbefb1ab48942e7913d175a9215b7e4/artifacts
+end_time: 1676891283649
+entry_point_name: ''
+experiment_id: '129'
+lifecycle_stage: active
+run_id: 4cbefb1ab48942e7913d175a9215b7e4
+run_name: fortunate-yak-200
+run_uuid: 4cbefb1ab48942e7913d175a9215b7e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676891278535
+status: 3
+tags: []
+user_id: louibo

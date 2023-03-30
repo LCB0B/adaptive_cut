@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/24/6adffae7536647fd9df5595192df8a1e/artifacts
+end_time: 1674740608646
+entry_point_name: ''
+experiment_id: '24'
+lifecycle_stage: active
+run_id: 6adffae7536647fd9df5595192df8a1e
+run_name: fun-lamb-139
+run_uuid: 6adffae7536647fd9df5595192df8a1e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674740084319
+status: 3
+tags: []
+user_id: louibo

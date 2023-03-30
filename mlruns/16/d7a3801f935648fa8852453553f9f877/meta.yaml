@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/16/d7a3801f935648fa8852453553f9f877/artifacts
+end_time: 1676909650330
+entry_point_name: ''
+experiment_id: '16'
+lifecycle_stage: active
+run_id: d7a3801f935648fa8852453553f9f877
+run_name: suave-bat-378
+run_uuid: d7a3801f935648fa8852453553f9f877
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676908461072
+status: 3
+tags: []
+user_id: louibo

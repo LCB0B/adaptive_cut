@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/52/0619fef966b14f3cb7a02ffe832ae795/artifacts
+end_time: 1676824166733
+entry_point_name: ''
+experiment_id: '52'
+lifecycle_stage: active
+run_id: 0619fef966b14f3cb7a02ffe832ae795
+run_name: rumbling-chimp-499
+run_uuid: 0619fef966b14f3cb7a02ffe832ae795
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676824038030
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/1/dcc6929ef0444781949bf21ba49c29d4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: dcc6929ef0444781949bf21ba49c29d4
+run_name: popular-elk-810
+run_uuid: dcc6929ef0444781949bf21ba49c29d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1666886852841
+status: 1
+tags: []
+user_id: louibo

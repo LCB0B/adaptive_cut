@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/40/6daa4d5d491d403eaaa7dfdab22b3c9a/artifacts
+end_time: 1676874383777
+entry_point_name: ''
+experiment_id: '40'
+lifecycle_stage: active
+run_id: 6daa4d5d491d403eaaa7dfdab22b3c9a
+run_name: honorable-ray-1000
+run_uuid: 6daa4d5d491d403eaaa7dfdab22b3c9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676874380497
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/58/7f55cdf0a4fa40de9d42905e22d18abc/artifacts
+end_time: 1676734968027
+entry_point_name: ''
+experiment_id: '58'
+lifecycle_stage: active
+run_id: 7f55cdf0a4fa40de9d42905e22d18abc
+run_name: nervous-shrimp-125
+run_uuid: 7f55cdf0a4fa40de9d42905e22d18abc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676734967893
+status: 4
+tags: []
+user_id: louibo

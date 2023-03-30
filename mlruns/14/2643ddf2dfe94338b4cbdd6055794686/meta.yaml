@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/14/2643ddf2dfe94338b4cbdd6055794686/artifacts
+end_time: 1670257550730
+entry_point_name: ''
+experiment_id: '14'
+lifecycle_stage: active
+run_id: 2643ddf2dfe94338b4cbdd6055794686
+run_name: welcoming-robin-746
+run_uuid: 2643ddf2dfe94338b4cbdd6055794686
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670257534596
+status: 4
+tags: []
+user_id: louibo

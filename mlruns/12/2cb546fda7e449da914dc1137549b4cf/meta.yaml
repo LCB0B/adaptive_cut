@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/12/2cb546fda7e449da914dc1137549b4cf/artifacts
+end_time: 1674736778970
+entry_point_name: ''
+experiment_id: '12'
+lifecycle_stage: active
+run_id: 2cb546fda7e449da914dc1137549b4cf
+run_name: defiant-lamb-368
+run_uuid: 2cb546fda7e449da914dc1137549b4cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674736711343
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/86/96e109b9e22f402ea0874cb3663275e7/artifacts
+end_time: 1676865971201
+entry_point_name: ''
+experiment_id: '86'
+lifecycle_stage: active
+run_id: 96e109b9e22f402ea0874cb3663275e7
+run_name: valuable-horse-470
+run_uuid: 96e109b9e22f402ea0874cb3663275e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676865929423
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/6fade590d9444c38925a1db03ad30566/artifacts
+end_time: 1669219807286
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 6fade590d9444c38925a1db03ad30566
+run_name: puzzled-trout-398
+run_uuid: 6fade590d9444c38925a1db03ad30566
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669219805867
+status: 3
+tags: []
+user_id: louibo

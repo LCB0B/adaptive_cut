@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/54/63385065fac1403ea02214d26ab29dde/artifacts
+end_time: 1676735269104
+entry_point_name: ''
+experiment_id: '54'
+lifecycle_stage: active
+run_id: 63385065fac1403ea02214d26ab29dde
+run_name: gregarious-wasp-495
+run_uuid: 63385065fac1403ea02214d26ab29dde
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676735269054
+status: 4
+tags: []
+user_id: louibo

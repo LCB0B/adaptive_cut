@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/86/b3e48db8881345928957c442f75e6028/artifacts
+end_time: 1676742467026
+entry_point_name: ''
+experiment_id: '86'
+lifecycle_stage: active
+run_id: b3e48db8881345928957c442f75e6028
+run_name: treasured-deer-393
+run_uuid: b3e48db8881345928957c442f75e6028
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676742466982
+status: 4
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/20/54bf2d220f47435fad4d6dddc065d1a0/artifacts
+end_time: 1676749170982
+entry_point_name: ''
+experiment_id: '20'
+lifecycle_stage: active
+run_id: 54bf2d220f47435fad4d6dddc065d1a0
+run_name: thundering-hog-808
+run_uuid: 54bf2d220f47435fad4d6dddc065d1a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676749164993
+status: 3
+tags: []
+user_id: louibo

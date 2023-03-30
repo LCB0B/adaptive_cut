@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/64/9e996e1743f148adb288991edaa25e69/artifacts
+end_time: 1676850300925
+entry_point_name: ''
+experiment_id: '64'
+lifecycle_stage: active
+run_id: 9e996e1743f148adb288991edaa25e69
+run_name: bold-crow-530
+run_uuid: 9e996e1743f148adb288991edaa25e69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676850108006
+status: 3
+tags: []
+user_id: louibo

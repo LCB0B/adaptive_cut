@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/48/dadc449dc6704e5a8ddb992da78ac610/artifacts
+end_time: 1674811668400
+entry_point_name: ''
+experiment_id: '48'
+lifecycle_stage: active
+run_id: dadc449dc6704e5a8ddb992da78ac610
+run_name: industrious-carp-556
+run_uuid: dadc449dc6704e5a8ddb992da78ac610
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674811594128
+status: 3
+tags: []
+user_id: louibo

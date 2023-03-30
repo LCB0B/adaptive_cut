@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/11/95acfed0966c477681f808b77404729e/artifacts
+end_time: 1676852264769
+entry_point_name: ''
+experiment_id: '11'
+lifecycle_stage: active
+run_id: 95acfed0966c477681f808b77404729e
+run_name: honorable-dove-195
+run_uuid: 95acfed0966c477681f808b77404729e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676852049880
+status: 3
+tags: []
+user_id: louibo

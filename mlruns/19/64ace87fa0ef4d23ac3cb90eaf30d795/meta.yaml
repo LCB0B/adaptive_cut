@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/19/64ace87fa0ef4d23ac3cb90eaf30d795/artifacts
+end_time: 1674057256111
+entry_point_name: ''
+experiment_id: '19'
+lifecycle_stage: active
+run_id: 64ace87fa0ef4d23ac3cb90eaf30d795
+run_name: exultant-hare-506
+run_uuid: 64ace87fa0ef4d23ac3cb90eaf30d795
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674056771996
+status: 3
+tags: []
+user_id: louibo

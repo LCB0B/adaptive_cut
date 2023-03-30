@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/8/18deb8eafcf64df9981599e3b57f1247/artifacts
+end_time: 1673979543143
+entry_point_name: ''
+experiment_id: '8'
+lifecycle_stage: active
+run_id: 18deb8eafcf64df9981599e3b57f1247
+run_name: smiling-fowl-476
+run_uuid: 18deb8eafcf64df9981599e3b57f1247
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673979482679
+status: 3
+tags: []
+user_id: louibo

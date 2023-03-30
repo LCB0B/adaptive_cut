@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/22/69a860aab0ad498b8f1f184f4cccd440/artifacts
+end_time: 1673985379085
+entry_point_name: ''
+experiment_id: '22'
+lifecycle_stage: active
+run_id: 69a860aab0ad498b8f1f184f4cccd440
+run_name: tasteful-dog-843
+run_uuid: 69a860aab0ad498b8f1f184f4cccd440
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673985189975
+status: 3
+tags: []
+user_id: louibo

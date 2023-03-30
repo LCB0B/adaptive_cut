@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/12/d39971a9938a4c578b7078536ab1e127/artifacts
+end_time: 1674735928398
+entry_point_name: ''
+experiment_id: '12'
+lifecycle_stage: active
+run_id: d39971a9938a4c578b7078536ab1e127
+run_name: gifted-quail-466
+run_uuid: d39971a9938a4c578b7078536ab1e127
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674735849992
+status: 3
+tags: []
+user_id: louibo

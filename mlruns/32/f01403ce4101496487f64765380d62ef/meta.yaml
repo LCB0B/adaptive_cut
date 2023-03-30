@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/32/f01403ce4101496487f64765380d62ef/artifacts
+end_time: 1673990081244
+entry_point_name: ''
+experiment_id: '32'
+lifecycle_stage: active
+run_id: f01403ce4101496487f64765380d62ef
+run_name: brawny-doe-644
+run_uuid: f01403ce4101496487f64765380d62ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673990075600
+status: 3
+tags: []
+user_id: louibo

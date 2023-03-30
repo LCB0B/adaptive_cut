@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/15/76ed5b4bb33647bbb2bf96bd0b39944a/artifacts
+end_time: 1674736895431
+entry_point_name: ''
+experiment_id: '15'
+lifecycle_stage: active
+run_id: 76ed5b4bb33647bbb2bf96bd0b39944a
+run_name: glamorous-trout-484
+run_uuid: 76ed5b4bb33647bbb2bf96bd0b39944a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674736894351
+status: 3
+tags: []
+user_id: louibo

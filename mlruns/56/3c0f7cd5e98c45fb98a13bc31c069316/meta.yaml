@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/56/3c0f7cd5e98c45fb98a13bc31c069316/artifacts
+end_time: 1676893743787
+entry_point_name: ''
+experiment_id: '56'
+lifecycle_stage: active
+run_id: 3c0f7cd5e98c45fb98a13bc31c069316
+run_name: melodic-bear-571
+run_uuid: 3c0f7cd5e98c45fb98a13bc31c069316
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676893740950
+status: 3
+tags: []
+user_id: louibo

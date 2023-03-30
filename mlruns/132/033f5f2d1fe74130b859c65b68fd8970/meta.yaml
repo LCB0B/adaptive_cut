@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/132/033f5f2d1fe74130b859c65b68fd8970/artifacts
+end_time: 1676913640786
+entry_point_name: ''
+experiment_id: '132'
+lifecycle_stage: active
+run_id: 033f5f2d1fe74130b859c65b68fd8970
+run_name: abundant-jay-211
+run_uuid: 033f5f2d1fe74130b859c65b68fd8970
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676913632795
+status: 3
+tags: []
+user_id: louibo

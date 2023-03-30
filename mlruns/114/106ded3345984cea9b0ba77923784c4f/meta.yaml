@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/114/106ded3345984cea9b0ba77923784c4f/artifacts
+end_time: 1676756587248
+entry_point_name: ''
+experiment_id: '114'
+lifecycle_stage: active
+run_id: 106ded3345984cea9b0ba77923784c4f
+run_name: carefree-bass-300
+run_uuid: 106ded3345984cea9b0ba77923784c4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676756580306
+status: 3
+tags: []
+user_id: louibo

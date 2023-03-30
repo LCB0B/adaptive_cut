@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/10/85096fcc00854d4083d4a23daf6f1452/artifacts
+end_time: 1673974107922
+entry_point_name: ''
+experiment_id: '10'
+lifecycle_stage: active
+run_id: 85096fcc00854d4083d4a23daf6f1452
+run_name: bouncy-duck-757
+run_uuid: 85096fcc00854d4083d4a23daf6f1452
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673974107726
+status: 4
+tags: []
+user_id: louibo

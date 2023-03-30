@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/145/94d2db21ff1d440587c2997e53549569/artifacts
+end_time: 1676870982106
+entry_point_name: ''
+experiment_id: '145'
+lifecycle_stage: active
+run_id: 94d2db21ff1d440587c2997e53549569
+run_name: wise-elk-203
+run_uuid: 94d2db21ff1d440587c2997e53549569
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676870908883
+status: 3
+tags: []
+user_id: louibo

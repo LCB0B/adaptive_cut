@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/67/734c890327c54b638a9450a43d69f18b/artifacts
+end_time: 1676851253937
+entry_point_name: ''
+experiment_id: '67'
+lifecycle_stage: active
+run_id: 734c890327c54b638a9450a43d69f18b
+run_name: dashing-dolphin-565
+run_uuid: 734c890327c54b638a9450a43d69f18b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676851231233
+status: 3
+tags: []
+user_id: louibo

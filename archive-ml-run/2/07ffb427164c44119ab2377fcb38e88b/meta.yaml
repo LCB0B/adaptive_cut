@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/07ffb427164c44119ab2377fcb38e88b/artifacts
+end_time: 1673733051568
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 07ffb427164c44119ab2377fcb38e88b
+run_name: honorable-colt-827
+run_uuid: 07ffb427164c44119ab2377fcb38e88b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673733032920
+status: 3
+tags: []
+user_id: louibo

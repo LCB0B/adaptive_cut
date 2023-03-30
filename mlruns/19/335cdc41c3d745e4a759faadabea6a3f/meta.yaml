@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/19/335cdc41c3d745e4a759faadabea6a3f/artifacts
+end_time: 1670258153883
+entry_point_name: ''
+experiment_id: '19'
+lifecycle_stage: active
+run_id: 335cdc41c3d745e4a759faadabea6a3f
+run_name: overjoyed-swan-93
+run_uuid: 335cdc41c3d745e4a759faadabea6a3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670257853646
+status: 4
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/11/d1e5d769f0b6450294464bec54930d4a/artifacts
+end_time: 1673973171475
+entry_point_name: ''
+experiment_id: '11'
+lifecycle_stage: active
+run_id: d1e5d769f0b6450294464bec54930d4a
+run_name: learned-goose-665
+run_uuid: d1e5d769f0b6450294464bec54930d4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673973168361
+status: 4
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/95/81873cab4c7c42e49ec49f844c0e46ae/artifacts
+end_time: 1676745493466
+entry_point_name: ''
+experiment_id: '95'
+lifecycle_stage: active
+run_id: 81873cab4c7c42e49ec49f844c0e46ae
+run_name: stately-trout-162
+run_uuid: 81873cab4c7c42e49ec49f844c0e46ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676745491978
+status: 4
+tags: []
+user_id: louibo

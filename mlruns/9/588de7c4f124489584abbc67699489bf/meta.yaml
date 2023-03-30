@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/9/588de7c4f124489584abbc67699489bf/artifacts
+end_time: 1676739956655
+entry_point_name: ''
+experiment_id: '9'
+lifecycle_stage: active
+run_id: 588de7c4f124489584abbc67699489bf
+run_name: vaunted-shrew-273
+run_uuid: 588de7c4f124489584abbc67699489bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676739937026
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/45/e444bfc2321343aa946fc045b5628630/artifacts
+end_time: 1674762569939
+entry_point_name: ''
+experiment_id: '45'
+lifecycle_stage: active
+run_id: e444bfc2321343aa946fc045b5628630
+run_name: sedate-colt-673
+run_uuid: e444bfc2321343aa946fc045b5628630
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674762554636
+status: 3
+tags: []
+user_id: louibo

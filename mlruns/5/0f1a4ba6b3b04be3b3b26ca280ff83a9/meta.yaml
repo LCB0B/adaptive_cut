@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/5/0f1a4ba6b3b04be3b3b26ca280ff83a9/artifacts
+end_time: 1676736545819
+entry_point_name: ''
+experiment_id: '5'
+lifecycle_stage: active
+run_id: 0f1a4ba6b3b04be3b3b26ca280ff83a9
+run_name: dashing-mink-704
+run_uuid: 0f1a4ba6b3b04be3b3b26ca280ff83a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676736541576
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/68/9c6e821342514a97a2bd233c2829a277/artifacts
+end_time: 1676738558296
+entry_point_name: ''
+experiment_id: '68'
+lifecycle_stage: active
+run_id: 9c6e821342514a97a2bd233c2829a277
+run_name: dashing-crow-598
+run_uuid: 9c6e821342514a97a2bd233c2829a277
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676738557739
+status: 3
+tags: []
+user_id: louibo

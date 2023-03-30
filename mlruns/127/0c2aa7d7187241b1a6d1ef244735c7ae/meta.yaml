@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/127/0c2aa7d7187241b1a6d1ef244735c7ae/artifacts
+end_time: 1676870762053
+entry_point_name: ''
+experiment_id: '127'
+lifecycle_stage: active
+run_id: 0c2aa7d7187241b1a6d1ef244735c7ae
+run_name: calm-slug-489
+run_uuid: 0c2aa7d7187241b1a6d1ef244735c7ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676870714340
+status: 3
+tags: []
+user_id: louibo

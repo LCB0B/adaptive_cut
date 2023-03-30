@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/5/36eebe97a42242b880133f869a0d6f64/artifacts
+end_time: 1674050901627
+entry_point_name: ''
+experiment_id: '5'
+lifecycle_stage: active
+run_id: 36eebe97a42242b880133f869a0d6f64
+run_name: secretive-horse-434
+run_uuid: 36eebe97a42242b880133f869a0d6f64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674050897817
+status: 3
+tags: []
+user_id: louibo

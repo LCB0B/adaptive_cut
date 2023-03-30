@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/41/805b2bb3c834447f812546629fe90f7e/artifacts
+end_time: 1676860073809
+entry_point_name: ''
+experiment_id: '41'
+lifecycle_stage: active
+run_id: 805b2bb3c834447f812546629fe90f7e
+run_name: fun-hare-1000
+run_uuid: 805b2bb3c834447f812546629fe90f7e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676860040680
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/3/820781ac5f91449a89ae778950e25daf/artifacts
+end_time: 1669221983081
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+run_id: 820781ac5f91449a89ae778950e25daf
+run_name: receptive-lynx-843
+run_uuid: 820781ac5f91449a89ae778950e25daf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669221983073
+status: 4
+tags: []
+user_id: louibo

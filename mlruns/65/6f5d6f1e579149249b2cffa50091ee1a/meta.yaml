@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/65/6f5d6f1e579149249b2cffa50091ee1a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '65'
+lifecycle_stage: active
+run_id: 6f5d6f1e579149249b2cffa50091ee1a
+run_name: sneaky-flea-390
+run_uuid: 6f5d6f1e579149249b2cffa50091ee1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676821190995
+status: 1
+tags: []
+user_id: louibo

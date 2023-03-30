@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/9/bc32d3a27d004db58dac70483afb20e5/artifacts
+end_time: 1674054094911
+entry_point_name: ''
+experiment_id: '9'
+lifecycle_stage: active
+run_id: bc32d3a27d004db58dac70483afb20e5
+run_name: beautiful-mule-821
+run_uuid: bc32d3a27d004db58dac70483afb20e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674054085163
+status: 3
+tags: []
+user_id: louibo

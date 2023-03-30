@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/25/79022db11af744e38ecb7ac7134c37b1/artifacts
+end_time: 1674071040601
+entry_point_name: ''
+experiment_id: '25'
+lifecycle_stage: active
+run_id: 79022db11af744e38ecb7ac7134c37b1
+run_name: aged-lamb-1
+run_uuid: 79022db11af744e38ecb7ac7134c37b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674070770752
+status: 3
+tags: []
+user_id: louibo

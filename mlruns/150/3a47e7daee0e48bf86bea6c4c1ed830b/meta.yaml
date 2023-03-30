@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/150/3a47e7daee0e48bf86bea6c4c1ed830b/artifacts
+end_time: 1676791190548
+entry_point_name: ''
+experiment_id: '150'
+lifecycle_stage: active
+run_id: 3a47e7daee0e48bf86bea6c4c1ed830b
+run_name: nervous-zebra-121
+run_uuid: 3a47e7daee0e48bf86bea6c4c1ed830b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676791166360
+status: 3
+tags: []
+user_id: louibo

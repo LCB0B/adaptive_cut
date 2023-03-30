@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/80/daf2554f3b534f4b8107584b66139605/artifacts
+end_time: 1676745376331
+entry_point_name: ''
+experiment_id: '80'
+lifecycle_stage: active
+run_id: daf2554f3b534f4b8107584b66139605
+run_name: big-boar-875
+run_uuid: daf2554f3b534f4b8107584b66139605
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676745376298
+status: 4
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/124/089332d9abab480bbc89356f693b5d3a/artifacts
+end_time: 1676890577157
+entry_point_name: ''
+experiment_id: '124'
+lifecycle_stage: active
+run_id: 089332d9abab480bbc89356f693b5d3a
+run_name: burly-hound-419
+run_uuid: 089332d9abab480bbc89356f693b5d3a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676890574427
+status: 3
+tags: []
+user_id: louibo

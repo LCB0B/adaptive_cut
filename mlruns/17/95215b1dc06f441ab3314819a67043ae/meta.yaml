@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/17/95215b1dc06f441ab3314819a67043ae/artifacts
+end_time: 1673984920463
+entry_point_name: ''
+experiment_id: '17'
+lifecycle_stage: active
+run_id: 95215b1dc06f441ab3314819a67043ae
+run_name: mercurial-worm-813
+run_uuid: 95215b1dc06f441ab3314819a67043ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673984916642
+status: 3
+tags: []
+user_id: louibo

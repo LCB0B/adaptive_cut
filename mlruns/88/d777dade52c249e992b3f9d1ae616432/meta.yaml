@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/88/d777dade52c249e992b3f9d1ae616432/artifacts
+end_time: 1676747627242
+entry_point_name: ''
+experiment_id: '88'
+lifecycle_stage: active
+run_id: d777dade52c249e992b3f9d1ae616432
+run_name: fearless-gnu-610
+run_uuid: d777dade52c249e992b3f9d1ae616432
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676747623672
+status: 3
+tags: []
+user_id: louibo

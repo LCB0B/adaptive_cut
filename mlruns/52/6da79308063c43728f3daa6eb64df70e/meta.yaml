@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/52/6da79308063c43728f3daa6eb64df70e/artifacts
+end_time: 1676892134956
+entry_point_name: ''
+experiment_id: '52'
+lifecycle_stage: active
+run_id: 6da79308063c43728f3daa6eb64df70e
+run_name: handsome-goat-23
+run_uuid: 6da79308063c43728f3daa6eb64df70e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676892006577
+status: 3
+tags: []
+user_id: louibo

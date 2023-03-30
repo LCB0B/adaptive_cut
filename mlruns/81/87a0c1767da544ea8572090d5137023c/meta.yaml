@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/81/87a0c1767da544ea8572090d5137023c/artifacts
+end_time: 1676853727363
+entry_point_name: ''
+experiment_id: '81'
+lifecycle_stage: active
+run_id: 87a0c1767da544ea8572090d5137023c
+run_name: stylish-mink-996
+run_uuid: 87a0c1767da544ea8572090d5137023c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676853666965
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/88/26810ea6818a418e92274aa4a5d7401f/artifacts
+end_time: 1676867667111
+entry_point_name: ''
+experiment_id: '88'
+lifecycle_stage: active
+run_id: 26810ea6818a418e92274aa4a5d7401f
+run_name: rumbling-hog-360
+run_uuid: 26810ea6818a418e92274aa4a5d7401f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676867655405
+status: 3
+tags: []
+user_id: louibo

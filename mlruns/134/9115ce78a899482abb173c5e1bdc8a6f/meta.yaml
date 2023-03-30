@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/134/9115ce78a899482abb173c5e1bdc8a6f/artifacts
+end_time: 1676763533628
+entry_point_name: ''
+experiment_id: '134'
+lifecycle_stage: active
+run_id: 9115ce78a899482abb173c5e1bdc8a6f
+run_name: bustling-moose-276
+run_uuid: 9115ce78a899482abb173c5e1bdc8a6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676763504113
+status: 3
+tags: []
+user_id: louibo

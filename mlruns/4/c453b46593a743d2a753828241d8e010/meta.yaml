@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/4/c453b46593a743d2a753828241d8e010/artifacts
+end_time: 1674091638791
+entry_point_name: ''
+experiment_id: '4'
+lifecycle_stage: active
+run_id: c453b46593a743d2a753828241d8e010
+run_name: popular-swan-33
+run_uuid: c453b46593a743d2a753828241d8e010
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674091622156
+status: 3
+tags: []
+user_id: louibo

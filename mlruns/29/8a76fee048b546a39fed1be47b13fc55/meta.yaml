@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/29/8a76fee048b546a39fed1be47b13fc55/artifacts
+end_time: 1673962676316
+entry_point_name: ''
+experiment_id: '29'
+lifecycle_stage: active
+run_id: 8a76fee048b546a39fed1be47b13fc55
+run_name: unequaled-carp-628
+run_uuid: 8a76fee048b546a39fed1be47b13fc55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673962563254
+status: 3
+tags: []
+user_id: louibo

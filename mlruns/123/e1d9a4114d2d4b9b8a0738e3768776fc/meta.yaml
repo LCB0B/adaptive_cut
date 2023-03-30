@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/123/e1d9a4114d2d4b9b8a0738e3768776fc/artifacts
+end_time: 1676911615650
+entry_point_name: ''
+experiment_id: '123'
+lifecycle_stage: active
+run_id: e1d9a4114d2d4b9b8a0738e3768776fc
+run_name: legendary-wren-712
+run_uuid: e1d9a4114d2d4b9b8a0738e3768776fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676911611416
+status: 3
+tags: []
+user_id: louibo

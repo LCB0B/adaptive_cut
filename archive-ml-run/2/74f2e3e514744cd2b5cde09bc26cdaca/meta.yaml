@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/74f2e3e514744cd2b5cde09bc26cdaca/artifacts
+end_time: 1670251164736
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 74f2e3e514744cd2b5cde09bc26cdaca
+run_name: melodic-mare-251
+run_uuid: 74f2e3e514744cd2b5cde09bc26cdaca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670251163286
+status: 3
+tags: []
+user_id: louibo

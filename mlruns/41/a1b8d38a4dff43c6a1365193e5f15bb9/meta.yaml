@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/41/a1b8d38a4dff43c6a1365193e5f15bb9/artifacts
+end_time: 1674075245516
+entry_point_name: ''
+experiment_id: '41'
+lifecycle_stage: active
+run_id: a1b8d38a4dff43c6a1365193e5f15bb9
+run_name: selective-frog-876
+run_uuid: a1b8d38a4dff43c6a1365193e5f15bb9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674075230723
+status: 3
+tags: []
+user_id: louibo

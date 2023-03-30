@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/113/7c824ec136e04a3f9b3bf1334ed9e2f4/artifacts
+end_time: 1676761390366
+entry_point_name: ''
+experiment_id: '113'
+lifecycle_stage: active
+run_id: 7c824ec136e04a3f9b3bf1334ed9e2f4
+run_name: loud-mare-98
+run_uuid: 7c824ec136e04a3f9b3bf1334ed9e2f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676761144689
+status: 3
+tags: []
+user_id: louibo

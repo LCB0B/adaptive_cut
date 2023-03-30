@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/46b68af400ca40e6aa0beca6b6fb7f1a/artifacts
+end_time: 1669211847764
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 46b68af400ca40e6aa0beca6b6fb7f1a
+run_name: able-quail-793
+run_uuid: 46b68af400ca40e6aa0beca6b6fb7f1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669211845331
+status: 3
+tags: []
+user_id: louibo

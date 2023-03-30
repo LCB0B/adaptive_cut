@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/84/ca90411689e642928cad6514b80de317/artifacts
+end_time: 1676899691928
+entry_point_name: ''
+experiment_id: '84'
+lifecycle_stage: active
+run_id: ca90411689e642928cad6514b80de317
+run_name: abrasive-bird-66
+run_uuid: ca90411689e642928cad6514b80de317
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676899295177
+status: 3
+tags: []
+user_id: louibo

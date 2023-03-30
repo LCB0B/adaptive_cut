@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/107/2b6794dc55334939a810882c795dd103/artifacts
+end_time: 1676760654390
+entry_point_name: ''
+experiment_id: '107'
+lifecycle_stage: active
+run_id: 2b6794dc55334939a810882c795dd103
+run_name: nervous-snake-282
+run_uuid: 2b6794dc55334939a810882c795dd103
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676760530292
+status: 3
+tags: []
+user_id: louibo

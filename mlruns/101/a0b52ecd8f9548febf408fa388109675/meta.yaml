@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/101/a0b52ecd8f9548febf408fa388109675/artifacts
+end_time: 1676757010431
+entry_point_name: ''
+experiment_id: '101'
+lifecycle_stage: active
+run_id: a0b52ecd8f9548febf408fa388109675
+run_name: mysterious-bee-475
+run_uuid: a0b52ecd8f9548febf408fa388109675
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676757010366
+status: 4
+tags: []
+user_id: louibo

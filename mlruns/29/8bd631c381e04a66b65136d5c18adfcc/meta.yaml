@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/29/8bd631c381e04a66b65136d5c18adfcc/artifacts
+end_time: 1676860506914
+entry_point_name: ''
+experiment_id: '29'
+lifecycle_stage: active
+run_id: 8bd631c381e04a66b65136d5c18adfcc
+run_name: clumsy-squid-214
+run_uuid: 8bd631c381e04a66b65136d5c18adfcc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676860256763
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/28/1131158037b746e795d402b3bd407656/artifacts
+end_time: 1676768833099
+entry_point_name: ''
+experiment_id: '28'
+lifecycle_stage: active
+run_id: 1131158037b746e795d402b3bd407656
+run_name: tasteful-calf-781
+run_uuid: 1131158037b746e795d402b3bd407656
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676768822316
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/50/af15761b05fc433bb99015f9ae3eea3c/artifacts
+end_time: 1676905032252
+entry_point_name: ''
+experiment_id: '50'
+lifecycle_stage: active
+run_id: af15761b05fc433bb99015f9ae3eea3c
+run_name: colorful-fawn-198
+run_uuid: af15761b05fc433bb99015f9ae3eea3c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676904954627
+status: 3
+tags: []
+user_id: louibo

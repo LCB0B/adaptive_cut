@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/47/4f35dc7293374d84b127067553d2b738/artifacts
+end_time: 1674088814845
+entry_point_name: ''
+experiment_id: '47'
+lifecycle_stage: active
+run_id: 4f35dc7293374d84b127067553d2b738
+run_name: mysterious-mule-154
+run_uuid: 4f35dc7293374d84b127067553d2b738
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674088745422
+status: 3
+tags: []
+user_id: louibo

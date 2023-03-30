@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/48/124058aa6d5c448db8291ada89126b48/artifacts
+end_time: 1674811594123
+entry_point_name: ''
+experiment_id: '48'
+lifecycle_stage: active
+run_id: 124058aa6d5c448db8291ada89126b48
+run_name: sedate-fish-7
+run_uuid: 124058aa6d5c448db8291ada89126b48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674811565393
+status: 3
+tags: []
+user_id: louibo

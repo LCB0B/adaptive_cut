@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/36/c470bb51da294c87881b6dfd33b64c7b/artifacts
+end_time: 1676875312792
+entry_point_name: ''
+experiment_id: '36'
+lifecycle_stage: active
+run_id: c470bb51da294c87881b6dfd33b64c7b
+run_name: auspicious-colt-520
+run_uuid: c470bb51da294c87881b6dfd33b64c7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676875312396
+status: 3
+tags: []
+user_id: louibo

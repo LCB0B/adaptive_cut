@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/21/ace7722e5ab440a9ae752e7d3a8f44d5/artifacts
+end_time: 1676868631758
+entry_point_name: ''
+experiment_id: '21'
+lifecycle_stage: active
+run_id: ace7722e5ab440a9ae752e7d3a8f44d5
+run_name: worried-lamb-769
+run_uuid: ace7722e5ab440a9ae752e7d3a8f44d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676868622535
+status: 3
+tags: []
+user_id: louibo

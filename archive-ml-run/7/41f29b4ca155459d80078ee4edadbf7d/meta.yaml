@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/7/41f29b4ca155459d80078ee4edadbf7d/artifacts
+end_time: 1673832588645
+entry_point_name: ''
+experiment_id: '7'
+lifecycle_stage: active
+run_id: 41f29b4ca155459d80078ee4edadbf7d
+run_name: carefree-dolphin-273
+run_uuid: 41f29b4ca155459d80078ee4edadbf7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673832190626
+status: 3
+tags: []
+user_id: louibo

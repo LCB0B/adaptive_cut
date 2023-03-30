@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/51/c3b96d255bb842b9b1dd510c8b2e1f5e/artifacts
+end_time: 1676849018294
+entry_point_name: ''
+experiment_id: '51'
+lifecycle_stage: active
+run_id: c3b96d255bb842b9b1dd510c8b2e1f5e
+run_name: intrigued-vole-798
+run_uuid: c3b96d255bb842b9b1dd510c8b2e1f5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676849011770
+status: 3
+tags: []
+user_id: louibo

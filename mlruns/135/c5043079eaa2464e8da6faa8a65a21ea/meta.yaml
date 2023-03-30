@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/135/c5043079eaa2464e8da6faa8a65a21ea/artifacts
+end_time: 1676757464045
+entry_point_name: ''
+experiment_id: '135'
+lifecycle_stage: active
+run_id: c5043079eaa2464e8da6faa8a65a21ea
+run_name: polite-loon-21
+run_uuid: c5043079eaa2464e8da6faa8a65a21ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676757463736
+status: 3
+tags: []
+user_id: louibo

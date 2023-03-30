@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/6/ca203fcb24c847e09c1cae820c74b42d/artifacts
+end_time: 1676737638691
+entry_point_name: ''
+experiment_id: '6'
+lifecycle_stage: active
+run_id: ca203fcb24c847e09c1cae820c74b42d
+run_name: skittish-moose-460
+run_uuid: ca203fcb24c847e09c1cae820c74b42d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676737225663
+status: 3
+tags: []
+user_id: louibo

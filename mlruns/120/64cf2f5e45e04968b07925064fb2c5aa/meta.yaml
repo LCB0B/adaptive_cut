@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/120/64cf2f5e45e04968b07925064fb2c5aa/artifacts
+end_time: 1676890401382
+entry_point_name: ''
+experiment_id: '120'
+lifecycle_stage: active
+run_id: 64cf2f5e45e04968b07925064fb2c5aa
+run_name: resilient-seal-685
+run_uuid: 64cf2f5e45e04968b07925064fb2c5aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676890330372
+status: 3
+tags: []
+user_id: louibo

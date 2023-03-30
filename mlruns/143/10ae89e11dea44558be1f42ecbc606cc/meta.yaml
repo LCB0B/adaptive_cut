@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/143/10ae89e11dea44558be1f42ecbc606cc/artifacts
+end_time: 1676901528417
+entry_point_name: ''
+experiment_id: '143'
+lifecycle_stage: active
+run_id: 10ae89e11dea44558be1f42ecbc606cc
+run_name: sassy-gull-225
+run_uuid: 10ae89e11dea44558be1f42ecbc606cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676901527118
+status: 3
+tags: []
+user_id: louibo

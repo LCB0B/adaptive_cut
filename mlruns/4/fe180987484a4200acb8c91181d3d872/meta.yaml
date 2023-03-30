@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/4/fe180987484a4200acb8c91181d3d872/artifacts
+end_time: 1674050873466
+entry_point_name: ''
+experiment_id: '4'
+lifecycle_stage: active
+run_id: fe180987484a4200acb8c91181d3d872
+run_name: delicate-fly-662
+run_uuid: fe180987484a4200acb8c91181d3d872
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674050857388
+status: 3
+tags: []
+user_id: louibo

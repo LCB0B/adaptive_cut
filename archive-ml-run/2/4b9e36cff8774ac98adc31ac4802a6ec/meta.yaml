@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/4b9e36cff8774ac98adc31ac4802a6ec/artifacts
+end_time: 1670250172448
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 4b9e36cff8774ac98adc31ac4802a6ec
+run_name: righteous-goose-381
+run_uuid: 4b9e36cff8774ac98adc31ac4802a6ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670250171001
+status: 3
+tags: []
+user_id: louibo

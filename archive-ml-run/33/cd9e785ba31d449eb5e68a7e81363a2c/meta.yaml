@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/33/cd9e785ba31d449eb5e68a7e81363a2c/artifacts
+end_time: 1673734644997
+entry_point_name: ''
+experiment_id: '33'
+lifecycle_stage: active
+run_id: cd9e785ba31d449eb5e68a7e81363a2c
+run_name: delightful-sloth-884
+run_uuid: cd9e785ba31d449eb5e68a7e81363a2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673734630295
+status: 3
+tags: []
+user_id: louibo

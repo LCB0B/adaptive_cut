@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/1/3252e327d62c4ad69c83e13288ac5c59/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3252e327d62c4ad69c83e13288ac5c59
+run_name: wistful-crane-471
+run_uuid: 3252e327d62c4ad69c83e13288ac5c59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674001898159
+status: 1
+tags: []
+user_id: louibo

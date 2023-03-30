@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/45/e0e0cdba8b6f4ffaa19e2d6e844feb45/artifacts
+end_time: 1676871260027
+entry_point_name: ''
+experiment_id: '45'
+lifecycle_stage: active
+run_id: e0e0cdba8b6f4ffaa19e2d6e844feb45
+run_name: merciful-goat-205
+run_uuid: e0e0cdba8b6f4ffaa19e2d6e844feb45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676871220410
+status: 3
+tags: []
+user_id: louibo

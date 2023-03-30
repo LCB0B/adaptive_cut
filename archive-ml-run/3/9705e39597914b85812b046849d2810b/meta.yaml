@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/3/9705e39597914b85812b046849d2810b/artifacts
+end_time: 1670259688366
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+run_id: 9705e39597914b85812b046849d2810b
+run_name: sincere-rat-389
+run_uuid: 9705e39597914b85812b046849d2810b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670259688354
+status: 4
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/125/0c7209e70f174dd58e847ddcd2d5e66a/artifacts
+end_time: 1676763895275
+entry_point_name: ''
+experiment_id: '125'
+lifecycle_stage: active
+run_id: 0c7209e70f174dd58e847ddcd2d5e66a
+run_name: nebulous-bee-728
+run_uuid: 0c7209e70f174dd58e847ddcd2d5e66a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676763895163
+status: 4
+tags: []
+user_id: louibo

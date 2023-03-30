@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/37/7eb8f4f7aaad4870a2081d1b10623a20/artifacts
+end_time: 1676756892097
+entry_point_name: ''
+experiment_id: '37'
+lifecycle_stage: active
+run_id: 7eb8f4f7aaad4870a2081d1b10623a20
+run_name: lyrical-swan-759
+run_uuid: 7eb8f4f7aaad4870a2081d1b10623a20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676755844729
+status: 3
+tags: []
+user_id: louibo

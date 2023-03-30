@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/23/6c24941ba52d479194534723ea6fbc23/artifacts
+end_time: 1673987608911
+entry_point_name: ''
+experiment_id: '23'
+lifecycle_stage: active
+run_id: 6c24941ba52d479194534723ea6fbc23
+run_name: abundant-goat-693
+run_uuid: 6c24941ba52d479194534723ea6fbc23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673987451975
+status: 3
+tags: []
+user_id: louibo

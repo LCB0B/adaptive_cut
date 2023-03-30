@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/101/514e32df3f1c469e8f7dec96a076bbf3/artifacts
+end_time: 1676878391753
+entry_point_name: ''
+experiment_id: '101'
+lifecycle_stage: active
+run_id: 514e32df3f1c469e8f7dec96a076bbf3
+run_name: melodic-ox-118
+run_uuid: 514e32df3f1c469e8f7dec96a076bbf3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676878389545
+status: 3
+tags: []
+user_id: louibo

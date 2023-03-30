@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/138/2aa43b222f454a2da398d570d0fe8ceb/artifacts
+end_time: 1676974564559
+entry_point_name: ''
+experiment_id: '138'
+lifecycle_stage: active
+run_id: 2aa43b222f454a2da398d570d0fe8ceb
+run_name: adorable-crow-719
+run_uuid: 2aa43b222f454a2da398d570d0fe8ceb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676974552456
+status: 3
+tags: []
+user_id: louibo

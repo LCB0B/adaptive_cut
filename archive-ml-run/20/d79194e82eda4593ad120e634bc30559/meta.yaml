@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/20/d79194e82eda4593ad120e634bc30559/artifacts
+end_time: 1673986647892
+entry_point_name: ''
+experiment_id: '20'
+lifecycle_stage: active
+run_id: d79194e82eda4593ad120e634bc30559
+run_name: languid-moose-46
+run_uuid: d79194e82eda4593ad120e634bc30559
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673986642812
+status: 3
+tags: []
+user_id: louibo

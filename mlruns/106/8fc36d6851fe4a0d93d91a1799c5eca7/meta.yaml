@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/106/8fc36d6851fe4a0d93d91a1799c5eca7/artifacts
+end_time: 1676908343396
+entry_point_name: ''
+experiment_id: '106'
+lifecycle_stage: active
+run_id: 8fc36d6851fe4a0d93d91a1799c5eca7
+run_name: wistful-rat-371
+run_uuid: 8fc36d6851fe4a0d93d91a1799c5eca7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676908334237
+status: 3
+tags: []
+user_id: louibo

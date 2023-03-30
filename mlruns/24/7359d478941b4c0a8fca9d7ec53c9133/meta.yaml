@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/24/7359d478941b4c0a8fca9d7ec53c9133/artifacts
+end_time: 1676917573658
+entry_point_name: ''
+experiment_id: '24'
+lifecycle_stage: active
+run_id: 7359d478941b4c0a8fca9d7ec53c9133
+run_name: learned-moth-841
+run_uuid: 7359d478941b4c0a8fca9d7ec53c9133
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676916330657
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/79/d58c7930b83a4e35b874de89d8ffbd49/artifacts
+end_time: 1676853661568
+entry_point_name: ''
+experiment_id: '79'
+lifecycle_stage: active
+run_id: d58c7930b83a4e35b874de89d8ffbd49
+run_name: thoughtful-pug-198
+run_uuid: d58c7930b83a4e35b874de89d8ffbd49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676853604230
+status: 3
+tags: []
+user_id: louibo

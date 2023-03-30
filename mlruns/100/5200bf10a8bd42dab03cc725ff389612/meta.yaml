@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/100/5200bf10a8bd42dab03cc725ff389612/artifacts
+end_time: 1676751348258
+entry_point_name: ''
+experiment_id: '100'
+lifecycle_stage: active
+run_id: 5200bf10a8bd42dab03cc725ff389612
+run_name: exultant-lark-970
+run_uuid: 5200bf10a8bd42dab03cc725ff389612
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676751345288
+status: 3
+tags: []
+user_id: louibo

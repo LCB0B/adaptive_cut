@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/30/ea1235c321814b49b424138a0630205f/artifacts
+end_time: 1673989877407
+entry_point_name: ''
+experiment_id: '30'
+lifecycle_stage: active
+run_id: ea1235c321814b49b424138a0630205f
+run_name: stately-mole-38
+run_uuid: ea1235c321814b49b424138a0630205f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673989874949
+status: 3
+tags: []
+user_id: louibo

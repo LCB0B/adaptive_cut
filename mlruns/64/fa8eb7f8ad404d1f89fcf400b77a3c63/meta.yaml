@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/64/fa8eb7f8ad404d1f89fcf400b77a3c63/artifacts
+end_time: 1676738907597
+entry_point_name: ''
+experiment_id: '64'
+lifecycle_stage: active
+run_id: fa8eb7f8ad404d1f89fcf400b77a3c63
+run_name: persistent-wren-144
+run_uuid: fa8eb7f8ad404d1f89fcf400b77a3c63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676735915287
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/100/62e1106069cd4c79ae78a280a11f93ec/artifacts
+end_time: 1676755636082
+entry_point_name: ''
+experiment_id: '100'
+lifecycle_stage: active
+run_id: 62e1106069cd4c79ae78a280a11f93ec
+run_name: languid-grouse-959
+run_uuid: 62e1106069cd4c79ae78a280a11f93ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676755633825
+status: 4
+tags: []
+user_id: louibo

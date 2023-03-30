@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/37/96fcfd78e92e4a6ca816487aaacb47a0/artifacts
+end_time: 1676904659142
+entry_point_name: ''
+experiment_id: '37'
+lifecycle_stage: active
+run_id: 96fcfd78e92e4a6ca816487aaacb47a0
+run_name: industrious-ant-970
+run_uuid: 96fcfd78e92e4a6ca816487aaacb47a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676904502278
+status: 3
+tags: []
+user_id: louibo

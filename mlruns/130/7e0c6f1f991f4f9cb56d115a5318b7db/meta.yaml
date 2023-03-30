@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/130/7e0c6f1f991f4f9cb56d115a5318b7db/artifacts
+end_time: 1676866145188
+entry_point_name: ''
+experiment_id: '130'
+lifecycle_stage: active
+run_id: 7e0c6f1f991f4f9cb56d115a5318b7db
+run_name: upset-seal-434
+run_uuid: 7e0c6f1f991f4f9cb56d115a5318b7db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676865662530
+status: 3
+tags: []
+user_id: louibo

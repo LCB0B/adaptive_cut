@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/33/65bfabdd739c4b0b88452c01e73e8a34/artifacts
+end_time: 1673735630015
+entry_point_name: ''
+experiment_id: '33'
+lifecycle_stage: active
+run_id: 65bfabdd739c4b0b88452c01e73e8a34
+run_name: spiffy-shoat-403
+run_uuid: 65bfabdd739c4b0b88452c01e73e8a34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673735628530
+status: 4
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/25/b34eb8cce00c4f34982a11ab9520c730/artifacts
+end_time: 1674752849069
+entry_point_name: ''
+experiment_id: '25'
+lifecycle_stage: active
+run_id: b34eb8cce00c4f34982a11ab9520c730
+run_name: rare-moth-116
+run_uuid: b34eb8cce00c4f34982a11ab9520c730
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674752562168
+status: 3
+tags: []
+user_id: louibo

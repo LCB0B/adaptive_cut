@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/16/574fe43027444a98b48e01f4e14004fd/artifacts
+end_time: 1676908461051
+entry_point_name: ''
+experiment_id: '16'
+lifecycle_stage: active
+run_id: 574fe43027444a98b48e01f4e14004fd
+run_name: upset-sloth-379
+run_uuid: 574fe43027444a98b48e01f4e14004fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676908072788
+status: 3
+tags: []
+user_id: louibo

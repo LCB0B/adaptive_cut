@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/141/3e7ae5f2890c4b7f9210ead2eb8d4c1a/artifacts
+end_time: 1676767182555
+entry_point_name: ''
+experiment_id: '141'
+lifecycle_stage: active
+run_id: 3e7ae5f2890c4b7f9210ead2eb8d4c1a
+run_name: angry-wren-676
+run_uuid: 3e7ae5f2890c4b7f9210ead2eb8d4c1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676765261915
+status: 3
+tags: []
+user_id: louibo

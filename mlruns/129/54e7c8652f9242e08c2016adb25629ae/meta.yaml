@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/129/54e7c8652f9242e08c2016adb25629ae/artifacts
+end_time: 1676888480124
+entry_point_name: ''
+experiment_id: '129'
+lifecycle_stage: active
+run_id: 54e7c8652f9242e08c2016adb25629ae
+run_name: luxuriant-chimp-749
+run_uuid: 54e7c8652f9242e08c2016adb25629ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676888474610
+status: 3
+tags: []
+user_id: louibo

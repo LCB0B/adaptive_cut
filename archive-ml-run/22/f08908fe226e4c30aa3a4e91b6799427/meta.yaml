@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/22/f08908fe226e4c30aa3a4e91b6799427/artifacts
+end_time: 1673985189788
+entry_point_name: ''
+experiment_id: '22'
+lifecycle_stage: active
+run_id: f08908fe226e4c30aa3a4e91b6799427
+run_name: respected-gull-624
+run_uuid: f08908fe226e4c30aa3a4e91b6799427
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673984737091
+status: 3
+tags: []
+user_id: louibo

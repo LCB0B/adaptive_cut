@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/62/5c448a418c3c435d8d74a4ad07aeb848/artifacts
+end_time: 1676735528110
+entry_point_name: ''
+experiment_id: '62'
+lifecycle_stage: active
+run_id: 5c448a418c3c435d8d74a4ad07aeb848
+run_name: serious-moth-716
+run_uuid: 5c448a418c3c435d8d74a4ad07aeb848
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676735528064
+status: 4
+tags: []
+user_id: louibo

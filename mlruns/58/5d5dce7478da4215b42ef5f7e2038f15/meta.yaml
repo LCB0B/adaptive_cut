@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/58/5d5dce7478da4215b42ef5f7e2038f15/artifacts
+end_time: 1676850798088
+entry_point_name: ''
+experiment_id: '58'
+lifecycle_stage: active
+run_id: 5d5dce7478da4215b42ef5f7e2038f15
+run_name: useful-wasp-890
+run_uuid: 5d5dce7478da4215b42ef5f7e2038f15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676850795876
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/16/79f889fcba374e969367f91318235dd6/artifacts
+end_time: 1674054368136
+entry_point_name: ''
+experiment_id: '16'
+lifecycle_stage: active
+run_id: 79f889fcba374e969367f91318235dd6
+run_name: orderly-grouse-0
+run_uuid: 79f889fcba374e969367f91318235dd6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674053838687
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/46de1a82657c4a0d9ebdc45ed858759b/artifacts
+end_time: 1676751827055
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 46de1a82657c4a0d9ebdc45ed858759b
+run_name: crawling-asp-825
+run_uuid: 46de1a82657c4a0d9ebdc45ed858759b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676751824051
+status: 3
+tags: []
+user_id: louibo

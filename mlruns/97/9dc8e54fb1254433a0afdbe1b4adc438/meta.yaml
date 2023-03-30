@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/97/9dc8e54fb1254433a0afdbe1b4adc438/artifacts
+end_time: 1676904267140
+entry_point_name: ''
+experiment_id: '97'
+lifecycle_stage: active
+run_id: 9dc8e54fb1254433a0afdbe1b4adc438
+run_name: useful-ape-614
+run_uuid: 9dc8e54fb1254433a0afdbe1b4adc438
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676904266458
+status: 3
+tags: []
+user_id: louibo

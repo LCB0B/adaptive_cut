@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/25/156df746922048d68b86728138c78a72/artifacts
+end_time: 1674084356729
+entry_point_name: ''
+experiment_id: '25'
+lifecycle_stage: active
+run_id: 156df746922048d68b86728138c78a72
+run_name: learned-ray-660
+run_uuid: 156df746922048d68b86728138c78a72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674084230631
+status: 3
+tags: []
+user_id: louibo

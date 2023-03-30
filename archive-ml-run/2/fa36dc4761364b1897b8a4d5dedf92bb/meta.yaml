@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/fa36dc4761364b1897b8a4d5dedf92bb/artifacts
+end_time: 1669219811413
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: fa36dc4761364b1897b8a4d5dedf92bb
+run_name: unruly-frog-910
+run_uuid: fa36dc4761364b1897b8a4d5dedf92bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669219809994
+status: 3
+tags: []
+user_id: louibo

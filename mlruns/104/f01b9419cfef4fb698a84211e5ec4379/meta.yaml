@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/104/f01b9419cfef4fb698a84211e5ec4379/artifacts
+end_time: 1676877290059
+entry_point_name: ''
+experiment_id: '104'
+lifecycle_stage: active
+run_id: f01b9419cfef4fb698a84211e5ec4379
+run_name: rumbling-skink-849
+run_uuid: f01b9419cfef4fb698a84211e5ec4379
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676877203530
+status: 3
+tags: []
+user_id: louibo

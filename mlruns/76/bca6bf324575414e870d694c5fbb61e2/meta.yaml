@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/76/bca6bf324575414e870d694c5fbb61e2/artifacts
+end_time: 1676897884869
+entry_point_name: ''
+experiment_id: '76'
+lifecycle_stage: active
+run_id: bca6bf324575414e870d694c5fbb61e2
+run_name: powerful-asp-710
+run_uuid: bca6bf324575414e870d694c5fbb61e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676897879252
+status: 3
+tags: []
+user_id: louibo

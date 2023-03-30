@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/3/3ba52f95c9fd4860afd602c065795c66/artifacts
+end_time: 1672661573196
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+run_id: 3ba52f95c9fd4860afd602c065795c66
+run_name: chill-croc-359
+run_uuid: 3ba52f95c9fd4860afd602c065795c66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672661573182
+status: 4
+tags: []
+user_id: louibo

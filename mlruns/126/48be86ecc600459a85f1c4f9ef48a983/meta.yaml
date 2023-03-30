@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/126/48be86ecc600459a85f1c4f9ef48a983/artifacts
+end_time: 1676763830053
+entry_point_name: ''
+experiment_id: '126'
+lifecycle_stage: active
+run_id: 48be86ecc600459a85f1c4f9ef48a983
+run_name: ambitious-finch-790
+run_uuid: 48be86ecc600459a85f1c4f9ef48a983
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676763826399
+status: 3
+tags: []
+user_id: louibo

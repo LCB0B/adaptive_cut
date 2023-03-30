@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/24/5174051501134391b615e1e83ebf45ee/artifacts
+end_time: 1674068556875
+entry_point_name: ''
+experiment_id: '24'
+lifecycle_stage: active
+run_id: 5174051501134391b615e1e83ebf45ee
+run_name: amazing-hog-554
+run_uuid: 5174051501134391b615e1e83ebf45ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674068095841
+status: 3
+tags: []
+user_id: louibo

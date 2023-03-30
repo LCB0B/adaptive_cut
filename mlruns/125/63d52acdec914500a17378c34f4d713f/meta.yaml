@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/125/63d52acdec914500a17378c34f4d713f/artifacts
+end_time: 1676939266205
+entry_point_name: ''
+experiment_id: '125'
+lifecycle_stage: active
+run_id: 63d52acdec914500a17378c34f4d713f
+run_name: puzzled-mink-585
+run_uuid: 63d52acdec914500a17378c34f4d713f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676939245321
+status: 3
+tags: []
+user_id: louibo

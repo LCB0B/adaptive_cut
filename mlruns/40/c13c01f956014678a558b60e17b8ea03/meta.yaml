@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/40/c13c01f956014678a558b60e17b8ea03/artifacts
+end_time: 1676755423717
+entry_point_name: ''
+experiment_id: '40'
+lifecycle_stage: active
+run_id: c13c01f956014678a558b60e17b8ea03
+run_name: grandiose-asp-138
+run_uuid: c13c01f956014678a558b60e17b8ea03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676755411804
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/21/cee1e125a1db4156b085755d41adcd5e/artifacts
+end_time: 1676749273317
+entry_point_name: ''
+experiment_id: '21'
+lifecycle_stage: active
+run_id: cee1e125a1db4156b085755d41adcd5e
+run_name: angry-flea-251
+run_uuid: cee1e125a1db4156b085755d41adcd5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676749252893
+status: 3
+tags: []
+user_id: louibo

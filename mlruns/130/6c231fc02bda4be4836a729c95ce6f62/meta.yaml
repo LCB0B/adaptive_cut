@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/130/6c231fc02bda4be4836a729c95ce6f62/artifacts
+end_time: 1676920408370
+entry_point_name: ''
+experiment_id: '130'
+lifecycle_stage: active
+run_id: 6c231fc02bda4be4836a729c95ce6f62
+run_name: angry-owl-685
+run_uuid: 6c231fc02bda4be4836a729c95ce6f62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676918249851
+status: 3
+tags: []
+user_id: louibo

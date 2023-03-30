@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/61/6b40af9c564c42449d6c3e5621e2482a/artifacts
+end_time: 1676735176985
+entry_point_name: ''
+experiment_id: '61'
+lifecycle_stage: active
+run_id: 6b40af9c564c42449d6c3e5621e2482a
+run_name: dapper-newt-307
+run_uuid: 6b40af9c564c42449d6c3e5621e2482a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676735127123
+status: 3
+tags: []
+user_id: louibo

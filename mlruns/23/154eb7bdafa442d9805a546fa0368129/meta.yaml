@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/23/154eb7bdafa442d9805a546fa0368129/artifacts
+end_time: 1674474119281
+entry_point_name: ''
+experiment_id: '23'
+lifecycle_stage: active
+run_id: 154eb7bdafa442d9805a546fa0368129
+run_name: defiant-cub-813
+run_uuid: 154eb7bdafa442d9805a546fa0368129
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674474098311
+status: 3
+tags: []
+user_id: louibo

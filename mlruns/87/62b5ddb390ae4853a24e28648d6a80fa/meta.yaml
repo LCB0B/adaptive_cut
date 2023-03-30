@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/87/62b5ddb390ae4853a24e28648d6a80fa/artifacts
+end_time: 1676855796193
+entry_point_name: ''
+experiment_id: '87'
+lifecycle_stage: active
+run_id: 62b5ddb390ae4853a24e28648d6a80fa
+run_name: puzzled-gnat-327
+run_uuid: 62b5ddb390ae4853a24e28648d6a80fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676855766902
+status: 3
+tags: []
+user_id: louibo

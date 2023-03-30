@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/4/978be07aee5e45958a739d5732027e03/artifacts
+end_time: 1674051068239
+entry_point_name: ''
+experiment_id: '4'
+lifecycle_stage: active
+run_id: 978be07aee5e45958a739d5732027e03
+run_name: bouncy-smelt-617
+run_uuid: 978be07aee5e45958a739d5732027e03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674051051224
+status: 3
+tags: []
+user_id: louibo

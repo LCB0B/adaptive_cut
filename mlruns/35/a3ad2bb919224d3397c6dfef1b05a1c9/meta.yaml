@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/35/a3ad2bb919224d3397c6dfef1b05a1c9/artifacts
+end_time: 1676757395080
+entry_point_name: ''
+experiment_id: '35'
+lifecycle_stage: active
+run_id: a3ad2bb919224d3397c6dfef1b05a1c9
+run_name: redolent-stork-86
+run_uuid: a3ad2bb919224d3397c6dfef1b05a1c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676757364647
+status: 3
+tags: []
+user_id: louibo

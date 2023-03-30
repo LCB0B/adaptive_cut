@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/1d09f93cbbac413db637f582a0fa43e6/artifacts
+end_time: 1673744221636
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 1d09f93cbbac413db637f582a0fa43e6
+run_name: monumental-snake-108
+run_uuid: 1d09f93cbbac413db637f582a0fa43e6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673744218995
+status: 3
+tags: []
+user_id: louibo

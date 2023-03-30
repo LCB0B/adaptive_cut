@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/1bdbfd307c9e4f4ba5344b361f1d007c/artifacts
+end_time: 1672595439955
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 1bdbfd307c9e4f4ba5344b361f1d007c
+run_name: traveling-moose-584
+run_uuid: 1bdbfd307c9e4f4ba5344b361f1d007c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672595438560
+status: 3
+tags: []
+user_id: louibo

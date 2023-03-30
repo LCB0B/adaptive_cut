@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/29/e9eb94cbe1a54687aa324156142df891/artifacts
+end_time: 1673991322290
+entry_point_name: ''
+experiment_id: '29'
+lifecycle_stage: active
+run_id: e9eb94cbe1a54687aa324156142df891
+run_name: bemused-finch-328
+run_uuid: e9eb94cbe1a54687aa324156142df891
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673991030084
+status: 3
+tags: []
+user_id: louibo

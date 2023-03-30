@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/78/bae49516998644e1962f4f4f3844b706/artifacts
+end_time: 1676853579564
+entry_point_name: ''
+experiment_id: '78'
+lifecycle_stage: active
+run_id: bae49516998644e1962f4f4f3844b706
+run_name: calm-stork-832
+run_uuid: bae49516998644e1962f4f4f3844b706
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676853578074
+status: 3
+tags: []
+user_id: louibo

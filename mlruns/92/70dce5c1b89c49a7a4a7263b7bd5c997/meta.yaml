@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/92/70dce5c1b89c49a7a4a7263b7bd5c997/artifacts
+end_time: 1676752091784
+entry_point_name: ''
+experiment_id: '92'
+lifecycle_stage: active
+run_id: 70dce5c1b89c49a7a4a7263b7bd5c997
+run_name: angry-conch-805
+run_uuid: 70dce5c1b89c49a7a4a7263b7bd5c997
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676752070609
+status: 3
+tags: []
+user_id: louibo

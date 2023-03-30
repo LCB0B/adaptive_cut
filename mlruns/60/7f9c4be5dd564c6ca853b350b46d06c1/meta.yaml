@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/60/7f9c4be5dd564c6ca853b350b46d06c1/artifacts
+end_time: 1676735278074
+entry_point_name: ''
+experiment_id: '60'
+lifecycle_stage: active
+run_id: 7f9c4be5dd564c6ca853b350b46d06c1
+run_name: puzzled-calf-916
+run_uuid: 7f9c4be5dd564c6ca853b350b46d06c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676735275570
+status: 3
+tags: []
+user_id: louibo

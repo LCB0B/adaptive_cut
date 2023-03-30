@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/10/7358e50f828447d2bb7907750a7a0a82/artifacts
+end_time: 1673974539853
+entry_point_name: ''
+experiment_id: '10'
+lifecycle_stage: active
+run_id: 7358e50f828447d2bb7907750a7a0a82
+run_name: mercurial-cat-155
+run_uuid: 7358e50f828447d2bb7907750a7a0a82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673974522025
+status: 3
+tags: []
+user_id: louibo

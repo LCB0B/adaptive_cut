@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/76/6fa5db62addd4256b34242a08f88df63/artifacts
+end_time: 1676862012698
+entry_point_name: ''
+experiment_id: '76'
+lifecycle_stage: active
+run_id: 6fa5db62addd4256b34242a08f88df63
+run_name: upset-hound-750
+run_uuid: 6fa5db62addd4256b34242a08f88df63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676862007401
+status: 3
+tags: []
+user_id: louibo

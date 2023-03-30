@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/16/827afabe86d04c53ac550456b616db23/artifacts
+end_time: 1676745965971
+entry_point_name: ''
+experiment_id: '16'
+lifecycle_stage: active
+run_id: 827afabe86d04c53ac550456b616db23
+run_name: chill-cat-52
+run_uuid: 827afabe86d04c53ac550456b616db23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676745447047
+status: 3
+tags: []
+user_id: louibo

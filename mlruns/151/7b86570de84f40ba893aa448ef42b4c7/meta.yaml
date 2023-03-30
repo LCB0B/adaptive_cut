@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/151/7b86570de84f40ba893aa448ef42b4c7/artifacts
+end_time: 1676927096379
+entry_point_name: ''
+experiment_id: '151'
+lifecycle_stage: active
+run_id: 7b86570de84f40ba893aa448ef42b4c7
+run_name: classy-frog-463
+run_uuid: 7b86570de84f40ba893aa448ef42b4c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676927096033
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/2b34f404b894446f999cae6965e54557/artifacts
+end_time: 1673743717484
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 2b34f404b894446f999cae6965e54557
+run_name: welcoming-panda-443
+run_uuid: 2b34f404b894446f999cae6965e54557
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673743717460
+status: 4
+tags: []
+user_id: louibo

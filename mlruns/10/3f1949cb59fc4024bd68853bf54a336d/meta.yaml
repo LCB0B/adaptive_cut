@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/10/3f1949cb59fc4024bd68853bf54a336d/artifacts
+end_time: 1673977084896
+entry_point_name: ''
+experiment_id: '10'
+lifecycle_stage: active
+run_id: 3f1949cb59fc4024bd68853bf54a336d
+run_name: shivering-fish-357
+run_uuid: 3f1949cb59fc4024bd68853bf54a336d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673977070432
+status: 3
+tags: []
+user_id: louibo

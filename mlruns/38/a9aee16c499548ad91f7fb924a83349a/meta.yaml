@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/38/a9aee16c499548ad91f7fb924a83349a/artifacts
+end_time: 1676752405486
+entry_point_name: ''
+experiment_id: '38'
+lifecycle_stage: active
+run_id: a9aee16c499548ad91f7fb924a83349a
+run_name: abundant-fowl-505
+run_uuid: a9aee16c499548ad91f7fb924a83349a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676752397107
+status: 3
+tags: []
+user_id: louibo

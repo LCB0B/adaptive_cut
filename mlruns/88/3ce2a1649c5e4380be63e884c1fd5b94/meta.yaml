@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/88/3ce2a1649c5e4380be63e884c1fd5b94/artifacts
+end_time: 1676859721190
+entry_point_name: ''
+experiment_id: '88'
+lifecycle_stage: active
+run_id: 3ce2a1649c5e4380be63e884c1fd5b94
+run_name: tasteful-hare-160
+run_uuid: 3ce2a1649c5e4380be63e884c1fd5b94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676859720678
+status: 3
+tags: []
+user_id: louibo

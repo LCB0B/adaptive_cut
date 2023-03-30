@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/68/67d35d551c654967a3f1279ab9d0091a/artifacts
+end_time: 1676853505815
+entry_point_name: ''
+experiment_id: '68'
+lifecycle_stage: active
+run_id: 67d35d551c654967a3f1279ab9d0091a
+run_name: bouncy-horse-846
+run_uuid: 67d35d551c654967a3f1279ab9d0091a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676853505708
+status: 3
+tags: []
+user_id: louibo

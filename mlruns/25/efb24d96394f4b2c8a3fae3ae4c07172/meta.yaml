@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/25/efb24d96394f4b2c8a3fae3ae4c07172/artifacts
+end_time: 1674062210991
+entry_point_name: ''
+experiment_id: '25'
+lifecycle_stage: active
+run_id: efb24d96394f4b2c8a3fae3ae4c07172
+run_name: classy-ray-964
+run_uuid: efb24d96394f4b2c8a3fae3ae4c07172
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674062091675
+status: 3
+tags: []
+user_id: louibo

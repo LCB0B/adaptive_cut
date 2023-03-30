@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/42/29b5f5c4006f4e9f97c580fe3ef7ebf0/artifacts
+end_time: 1676749465386
+entry_point_name: ''
+experiment_id: '42'
+lifecycle_stage: active
+run_id: 29b5f5c4006f4e9f97c580fe3ef7ebf0
+run_name: loud-seal-279
+run_uuid: 29b5f5c4006f4e9f97c580fe3ef7ebf0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676749454744
+status: 3
+tags: []
+user_id: louibo

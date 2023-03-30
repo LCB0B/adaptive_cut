@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/7/8aab759bcf2f48e9ad7b08c6098ed6d9/artifacts
+end_time: 1673821331465
+entry_point_name: ''
+experiment_id: '7'
+lifecycle_stage: active
+run_id: 8aab759bcf2f48e9ad7b08c6098ed6d9
+run_name: casual-midge-930
+run_uuid: 8aab759bcf2f48e9ad7b08c6098ed6d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673821014615
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/24/0988ae5ab3f8462aa6c7c1e178ddbb7d/artifacts
+end_time: 1674062066600
+entry_point_name: ''
+experiment_id: '24'
+lifecycle_stage: active
+run_id: 0988ae5ab3f8462aa6c7c1e178ddbb7d
+run_name: thoughtful-sheep-119
+run_uuid: 0988ae5ab3f8462aa6c7c1e178ddbb7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674061473013
+status: 3
+tags: []
+user_id: louibo

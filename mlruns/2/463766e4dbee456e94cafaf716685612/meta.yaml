@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/463766e4dbee456e94cafaf716685612/artifacts
+end_time: 1670248733332
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 463766e4dbee456e94cafaf716685612
+run_name: bright-mare-697
+run_uuid: 463766e4dbee456e94cafaf716685612
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670248731896
+status: 3
+tags: []
+user_id: louibo

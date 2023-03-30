@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/27/5f05268a7a134baba0bc68b502334820/artifacts
+end_time: 1674067547156
+entry_point_name: ''
+experiment_id: '27'
+lifecycle_stage: active
+run_id: 5f05268a7a134baba0bc68b502334820
+run_name: capable-fish-742
+run_uuid: 5f05268a7a134baba0bc68b502334820
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674067526303
+status: 3
+tags: []
+user_id: louibo

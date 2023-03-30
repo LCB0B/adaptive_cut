@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/14/4dc48bf84841434d8663a0df0c00df54/artifacts
+end_time: 1673722887024
+entry_point_name: ''
+experiment_id: '14'
+lifecycle_stage: active
+run_id: 4dc48bf84841434d8663a0df0c00df54
+run_name: bustling-fawn-216
+run_uuid: 4dc48bf84841434d8663a0df0c00df54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673721672509
+status: 3
+tags: []
+user_id: louibo

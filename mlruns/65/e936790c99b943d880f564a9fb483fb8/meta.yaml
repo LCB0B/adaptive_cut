@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/65/e936790c99b943d880f564a9fb483fb8/artifacts
+end_time: 1676899512126
+entry_point_name: ''
+experiment_id: '65'
+lifecycle_stage: active
+run_id: e936790c99b943d880f564a9fb483fb8
+run_name: clean-mule-630
+run_uuid: e936790c99b943d880f564a9fb483fb8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676899510925
+status: 3
+tags: []
+user_id: louibo

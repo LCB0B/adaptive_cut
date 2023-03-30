@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/146/4bbfa9630a4740e2ab4ea4e491f37df1/artifacts
+end_time: 1676768370339
+entry_point_name: ''
+experiment_id: '146'
+lifecycle_stage: active
+run_id: 4bbfa9630a4740e2ab4ea4e491f37df1
+run_name: industrious-crab-518
+run_uuid: 4bbfa9630a4740e2ab4ea4e491f37df1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676768370244
+status: 4
+tags: []
+user_id: louibo

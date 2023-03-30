@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/65/160fb6b95ed94ae5a8d7c49ee453ed0c/artifacts
+end_time: 1676850998814
+entry_point_name: ''
+experiment_id: '65'
+lifecycle_stage: active
+run_id: 160fb6b95ed94ae5a8d7c49ee453ed0c
+run_name: suave-asp-162
+run_uuid: 160fb6b95ed94ae5a8d7c49ee453ed0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676850987779
+status: 3
+tags: []
+user_id: louibo

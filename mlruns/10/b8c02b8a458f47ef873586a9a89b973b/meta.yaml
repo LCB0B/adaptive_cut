@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/10/b8c02b8a458f47ef873586a9a89b973b/artifacts
+end_time: 1674735035881
+entry_point_name: ''
+experiment_id: '10'
+lifecycle_stage: active
+run_id: b8c02b8a458f47ef873586a9a89b973b
+run_name: abrasive-zebra-678
+run_uuid: b8c02b8a458f47ef873586a9a89b973b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674734996717
+status: 3
+tags: []
+user_id: louibo

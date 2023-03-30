@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/108/5edb4b8c3a9f4d74b2c7ad20eed96598/artifacts
+end_time: 1676867670779
+entry_point_name: ''
+experiment_id: '108'
+lifecycle_stage: active
+run_id: 5edb4b8c3a9f4d74b2c7ad20eed96598
+run_name: masked-ox-198
+run_uuid: 5edb4b8c3a9f4d74b2c7ad20eed96598
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676867668709
+status: 3
+tags: []
+user_id: louibo

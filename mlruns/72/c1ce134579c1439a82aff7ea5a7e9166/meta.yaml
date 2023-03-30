@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/72/c1ce134579c1439a82aff7ea5a7e9166/artifacts
+end_time: 1676851666719
+entry_point_name: ''
+experiment_id: '72'
+lifecycle_stage: active
+run_id: c1ce134579c1439a82aff7ea5a7e9166
+run_name: carefree-kit-497
+run_uuid: c1ce134579c1439a82aff7ea5a7e9166
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676851662599
+status: 3
+tags: []
+user_id: louibo

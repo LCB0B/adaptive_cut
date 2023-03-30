@@ -1,0 +1,4 @@
+import graph_tool.all as gt
+
+
+g = gt.collection.ns["copenhagen/sms"]

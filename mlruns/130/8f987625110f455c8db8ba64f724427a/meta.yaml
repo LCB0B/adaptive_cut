@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/130/8f987625110f455c8db8ba64f724427a/artifacts
+end_time: 1676913337455
+entry_point_name: ''
+experiment_id: '130'
+lifecycle_stage: active
+run_id: 8f987625110f455c8db8ba64f724427a
+run_name: indecisive-mole-473
+run_uuid: 8f987625110f455c8db8ba64f724427a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676912491797
+status: 3
+tags: []
+user_id: louibo

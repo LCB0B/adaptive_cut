@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/37/e58a84b043574acdbe7576a8780747aa/artifacts
+end_time: 1676923570215
+entry_point_name: ''
+experiment_id: '37'
+lifecycle_stage: active
+run_id: e58a84b043574acdbe7576a8780747aa
+run_name: selective-moth-575
+run_uuid: e58a84b043574acdbe7576a8780747aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676923422216
+status: 3
+tags: []
+user_id: louibo

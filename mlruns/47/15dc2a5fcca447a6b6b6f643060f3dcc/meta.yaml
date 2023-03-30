@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/47/15dc2a5fcca447a6b6b6f643060f3dcc/artifacts
+end_time: 1676926347416
+entry_point_name: ''
+experiment_id: '47'
+lifecycle_stage: active
+run_id: 15dc2a5fcca447a6b6b6f643060f3dcc
+run_name: resilient-fish-846
+run_uuid: 15dc2a5fcca447a6b6b6f643060f3dcc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676926338274
+status: 3
+tags: []
+user_id: louibo

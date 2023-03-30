@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/90/c3493d785ea9466dbe5e04901c93bad5/artifacts
+end_time: 1676901782376
+entry_point_name: ''
+experiment_id: '90'
+lifecycle_stage: active
+run_id: c3493d785ea9466dbe5e04901c93bad5
+run_name: wise-koi-953
+run_uuid: c3493d785ea9466dbe5e04901c93bad5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676901752791
+status: 3
+tags: []
+user_id: louibo

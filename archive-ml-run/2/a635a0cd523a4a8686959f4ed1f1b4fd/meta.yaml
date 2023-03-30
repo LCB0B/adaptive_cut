@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/a635a0cd523a4a8686959f4ed1f1b4fd/artifacts
+end_time: 1670251626767
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: a635a0cd523a4a8686959f4ed1f1b4fd
+run_name: able-seal-943
+run_uuid: a635a0cd523a4a8686959f4ed1f1b4fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670251624103
+status: 3
+tags: []
+user_id: louibo

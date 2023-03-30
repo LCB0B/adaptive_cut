@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/43/9befef92e37341ceaf198a62cdc7847e/artifacts
+end_time: 1674080189814
+entry_point_name: ''
+experiment_id: '43'
+lifecycle_stage: active
+run_id: 9befef92e37341ceaf198a62cdc7847e
+run_name: luxuriant-ape-995
+run_uuid: 9befef92e37341ceaf198a62cdc7847e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674078531183
+status: 3
+tags: []
+user_id: louibo

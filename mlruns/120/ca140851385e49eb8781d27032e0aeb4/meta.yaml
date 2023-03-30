@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/120/ca140851385e49eb8781d27032e0aeb4/artifacts
+end_time: 1676911354166
+entry_point_name: ''
+experiment_id: '120'
+lifecycle_stage: active
+run_id: ca140851385e49eb8781d27032e0aeb4
+run_name: upbeat-panda-435
+run_uuid: ca140851385e49eb8781d27032e0aeb4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676911332178
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/34/29bf15f3213548c7bc53ad958c36503b/artifacts
+end_time: 1676927429533
+entry_point_name: ''
+experiment_id: '34'
+lifecycle_stage: active
+run_id: 29bf15f3213548c7bc53ad958c36503b
+run_name: traveling-jay-644
+run_uuid: 29bf15f3213548c7bc53ad958c36503b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676927131886
+status: 3
+tags: []
+user_id: louibo

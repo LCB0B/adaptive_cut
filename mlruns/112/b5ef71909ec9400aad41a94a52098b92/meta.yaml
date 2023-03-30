@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/112/b5ef71909ec9400aad41a94a52098b92/artifacts
+end_time: 1676935082220
+entry_point_name: ''
+experiment_id: '112'
+lifecycle_stage: active
+run_id: b5ef71909ec9400aad41a94a52098b92
+run_name: exultant-cub-571
+run_uuid: b5ef71909ec9400aad41a94a52098b92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676935052496
+status: 3
+tags: []
+user_id: louibo

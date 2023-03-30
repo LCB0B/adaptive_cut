@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/11/584a72ec1ef645c0921199a8172e5af2/artifacts
+end_time: 1673988509004
+entry_point_name: ''
+experiment_id: '11'
+lifecycle_stage: active
+run_id: 584a72ec1ef645c0921199a8172e5af2
+run_name: magnificent-shad-112
+run_uuid: 584a72ec1ef645c0921199a8172e5af2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673987919703
+status: 3
+tags: []
+user_id: louibo

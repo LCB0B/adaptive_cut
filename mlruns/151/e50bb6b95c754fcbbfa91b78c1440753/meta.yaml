@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/151/e50bb6b95c754fcbbfa91b78c1440753/artifacts
+end_time: 1676764259106
+entry_point_name: ''
+experiment_id: '151'
+lifecycle_stage: active
+run_id: e50bb6b95c754fcbbfa91b78c1440753
+run_name: intrigued-kit-557
+run_uuid: e50bb6b95c754fcbbfa91b78c1440753
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676764258850
+status: 3
+tags: []
+user_id: louibo

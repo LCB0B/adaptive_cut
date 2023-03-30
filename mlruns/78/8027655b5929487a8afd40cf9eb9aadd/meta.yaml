@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/78/8027655b5929487a8afd40cf9eb9aadd/artifacts
+end_time: 1676744149323
+entry_point_name: ''
+experiment_id: '78'
+lifecycle_stage: active
+run_id: 8027655b5929487a8afd40cf9eb9aadd
+run_name: shivering-sheep-956
+run_uuid: 8027655b5929487a8afd40cf9eb9aadd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676744149208
+status: 4
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/59/aac4cf01a5474dfeb7b2febd52336e3a/artifacts
+end_time: 1676736049308
+entry_point_name: ''
+experiment_id: '59'
+lifecycle_stage: active
+run_id: aac4cf01a5474dfeb7b2febd52336e3a
+run_name: dazzling-snipe-440
+run_uuid: aac4cf01a5474dfeb7b2febd52336e3a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676735914565
+status: 3
+tags: []
+user_id: louibo

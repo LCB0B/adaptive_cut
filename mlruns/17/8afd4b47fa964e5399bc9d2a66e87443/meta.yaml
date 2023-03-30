@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/17/8afd4b47fa964e5399bc9d2a66e87443/artifacts
+end_time: 1674064281971
+entry_point_name: ''
+experiment_id: '17'
+lifecycle_stage: active
+run_id: 8afd4b47fa964e5399bc9d2a66e87443
+run_name: bedecked-wren-889
+run_uuid: 8afd4b47fa964e5399bc9d2a66e87443
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674064278223
+status: 3
+tags: []
+user_id: louibo

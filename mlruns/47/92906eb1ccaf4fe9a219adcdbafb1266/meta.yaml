@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/47/92906eb1ccaf4fe9a219adcdbafb1266/artifacts
+end_time: 1674762424720
+entry_point_name: ''
+experiment_id: '47'
+lifecycle_stage: active
+run_id: 92906eb1ccaf4fe9a219adcdbafb1266
+run_name: incongruous-lynx-624
+run_uuid: 92906eb1ccaf4fe9a219adcdbafb1266
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674762415785
+status: 3
+tags: []
+user_id: louibo

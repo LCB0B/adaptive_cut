@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/5/a7e08ed410bc4fb9acb2c61ee95f2bb2/artifacts
+end_time: 1674732397539
+entry_point_name: ''
+experiment_id: '5'
+lifecycle_stage: active
+run_id: a7e08ed410bc4fb9acb2c61ee95f2bb2
+run_name: exultant-gnat-381
+run_uuid: a7e08ed410bc4fb9acb2c61ee95f2bb2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674732393217
+status: 3
+tags: []
+user_id: louibo

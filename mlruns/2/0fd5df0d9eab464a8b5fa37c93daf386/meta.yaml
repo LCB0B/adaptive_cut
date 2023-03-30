@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/0fd5df0d9eab464a8b5fa37c93daf386/artifacts
+end_time: 1670251619933
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 0fd5df0d9eab464a8b5fa37c93daf386
+run_name: unequaled-deer-355
+run_uuid: 0fd5df0d9eab464a8b5fa37c93daf386
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670251618486
+status: 3
+tags: []
+user_id: louibo

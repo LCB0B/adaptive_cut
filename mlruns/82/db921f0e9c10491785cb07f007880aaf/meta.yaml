@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/82/db921f0e9c10491785cb07f007880aaf/artifacts
+end_time: 1676865346764
+entry_point_name: ''
+experiment_id: '82'
+lifecycle_stage: active
+run_id: db921f0e9c10491785cb07f007880aaf
+run_name: honorable-sponge-529
+run_uuid: db921f0e9c10491785cb07f007880aaf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676865343652
+status: 3
+tags: []
+user_id: louibo

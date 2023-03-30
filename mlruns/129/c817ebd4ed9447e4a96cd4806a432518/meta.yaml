@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/129/c817ebd4ed9447e4a96cd4806a432518/artifacts
+end_time: 1676891278528
+entry_point_name: ''
+experiment_id: '129'
+lifecycle_stage: active
+run_id: c817ebd4ed9447e4a96cd4806a432518
+run_name: skittish-sheep-528
+run_uuid: c817ebd4ed9447e4a96cd4806a432518
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676891278194
+status: 3
+tags: []
+user_id: louibo

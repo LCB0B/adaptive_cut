@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/32/ae996583ac0746b59fa5d088850e23d7/artifacts
+end_time: 1676761106560
+entry_point_name: ''
+experiment_id: '32'
+lifecycle_stage: active
+run_id: ae996583ac0746b59fa5d088850e23d7
+run_name: efficient-mole-178
+run_uuid: ae996583ac0746b59fa5d088850e23d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676761103598
+status: 3
+tags: []
+user_id: louibo

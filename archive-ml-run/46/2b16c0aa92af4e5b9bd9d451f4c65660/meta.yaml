@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/46/2b16c0aa92af4e5b9bd9d451f4c65660/artifacts
+end_time: 1673990035872
+entry_point_name: ''
+experiment_id: '46'
+lifecycle_stage: active
+run_id: 2b16c0aa92af4e5b9bd9d451f4c65660
+run_name: enthused-conch-174
+run_uuid: 2b16c0aa92af4e5b9bd9d451f4c65660
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673990012978
+status: 3
+tags: []
+user_id: louibo

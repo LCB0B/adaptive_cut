@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/86/930b69ee74f04709bdc1bdc12b61505e/artifacts
+end_time: 1676858881182
+entry_point_name: ''
+experiment_id: '86'
+lifecycle_stage: active
+run_id: 930b69ee74f04709bdc1bdc12b61505e
+run_name: enchanting-shad-308
+run_uuid: 930b69ee74f04709bdc1bdc12b61505e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676858826606
+status: 3
+tags: []
+user_id: louibo

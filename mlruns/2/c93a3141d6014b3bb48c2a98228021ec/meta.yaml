@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/c93a3141d6014b3bb48c2a98228021ec/artifacts
+end_time: 1676868094418
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: c93a3141d6014b3bb48c2a98228021ec
+run_name: serious-fawn-357
+run_uuid: c93a3141d6014b3bb48c2a98228021ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676868094061
+status: 3
+tags: []
+user_id: louibo

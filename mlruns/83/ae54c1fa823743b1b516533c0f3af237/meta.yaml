@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/83/ae54c1fa823743b1b516533c0f3af237/artifacts
+end_time: 1676741996074
+entry_point_name: ''
+experiment_id: '83'
+lifecycle_stage: active
+run_id: ae54c1fa823743b1b516533c0f3af237
+run_name: sincere-snipe-125
+run_uuid: ae54c1fa823743b1b516533c0f3af237
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676741993506
+status: 3
+tags: []
+user_id: louibo

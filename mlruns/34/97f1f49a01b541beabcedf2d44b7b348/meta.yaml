@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/34/97f1f49a01b541beabcedf2d44b7b348/artifacts
+end_time: 1674080764350
+entry_point_name: ''
+experiment_id: '34'
+lifecycle_stage: active
+run_id: 97f1f49a01b541beabcedf2d44b7b348
+run_name: colorful-perch-811
+run_uuid: 97f1f49a01b541beabcedf2d44b7b348
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674080485672
+status: 3
+tags: []
+user_id: louibo

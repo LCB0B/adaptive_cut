@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/4/bdcdeb9c15264c53b35a4d049bd1c465/artifacts
+end_time: 1673978934688
+entry_point_name: ''
+experiment_id: '4'
+lifecycle_stage: active
+run_id: bdcdeb9c15264c53b35a4d049bd1c465
+run_name: stylish-owl-731
+run_uuid: bdcdeb9c15264c53b35a4d049bd1c465
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673978918007
+status: 3
+tags: []
+user_id: louibo

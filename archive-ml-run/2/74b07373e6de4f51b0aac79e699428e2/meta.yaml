@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/74b07373e6de4f51b0aac79e699428e2/artifacts
+end_time: 1670246158183
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 74b07373e6de4f51b0aac79e699428e2
+run_name: debonair-panda-328
+run_uuid: 74b07373e6de4f51b0aac79e699428e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670246154957
+status: 3
+tags: []
+user_id: louibo

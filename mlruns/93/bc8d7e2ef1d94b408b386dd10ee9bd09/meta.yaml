@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/93/bc8d7e2ef1d94b408b386dd10ee9bd09/artifacts
+end_time: 1676902821245
+entry_point_name: ''
+experiment_id: '93'
+lifecycle_stage: active
+run_id: bc8d7e2ef1d94b408b386dd10ee9bd09
+run_name: defiant-foal-383
+run_uuid: bc8d7e2ef1d94b408b386dd10ee9bd09
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676902777334
+status: 3
+tags: []
+user_id: louibo

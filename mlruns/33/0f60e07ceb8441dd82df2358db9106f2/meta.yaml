@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/33/0f60e07ceb8441dd82df2358db9106f2/artifacts
+end_time: 1674069782592
+entry_point_name: ''
+experiment_id: '33'
+lifecycle_stage: active
+run_id: 0f60e07ceb8441dd82df2358db9106f2
+run_name: righteous-snail-839
+run_uuid: 0f60e07ceb8441dd82df2358db9106f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674069769553
+status: 3
+tags: []
+user_id: louibo

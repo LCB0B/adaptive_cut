@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/146/ded10eb73549454ab5c3b02fd082f32f/artifacts
+end_time: 1676772275323
+entry_point_name: ''
+experiment_id: '146'
+lifecycle_stage: active
+run_id: ded10eb73549454ab5c3b02fd082f32f
+run_name: respected-midge-534
+run_uuid: ded10eb73549454ab5c3b02fd082f32f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676772275223
+status: 4
+tags: []
+user_id: louibo

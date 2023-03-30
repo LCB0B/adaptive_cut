@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/14/d872213e5ec24a2c9b97d5e0fb64e6d8/artifacts
+end_time: 1674737035540
+entry_point_name: ''
+experiment_id: '14'
+lifecycle_stage: active
+run_id: d872213e5ec24a2c9b97d5e0fb64e6d8
+run_name: luminous-mole-217
+run_uuid: d872213e5ec24a2c9b97d5e0fb64e6d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674736749531
+status: 3
+tags: []
+user_id: louibo

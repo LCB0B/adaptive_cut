@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/5/e6b6e512129c446e823ac51b8d77884a/artifacts
+end_time: 1674056070537
+entry_point_name: ''
+experiment_id: '5'
+lifecycle_stage: active
+run_id: e6b6e512129c446e823ac51b8d77884a
+run_name: classy-koi-78
+run_uuid: e6b6e512129c446e823ac51b8d77884a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674056064506
+status: 3
+tags: []
+user_id: louibo

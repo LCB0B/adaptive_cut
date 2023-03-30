@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/41/c8c3a96bb35f40ff8e825a10eac6c71f/artifacts
+end_time: 1674751355627
+entry_point_name: ''
+experiment_id: '41'
+lifecycle_stage: active
+run_id: c8c3a96bb35f40ff8e825a10eac6c71f
+run_name: enthused-loon-881
+run_uuid: c8c3a96bb35f40ff8e825a10eac6c71f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674751337475
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/43/94a3e9ffa55d4e9a83de3a084184f189/artifacts
+end_time: 1674078531174
+entry_point_name: ''
+experiment_id: '43'
+lifecycle_stage: active
+run_id: 94a3e9ffa55d4e9a83de3a084184f189
+run_name: bright-donkey-134
+run_uuid: 94a3e9ffa55d4e9a83de3a084184f189
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674078219801
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/52/803a9fa12bbc479687ac533f30532654/artifacts
+end_time: 1676734803426
+entry_point_name: ''
+experiment_id: '52'
+lifecycle_stage: active
+run_id: 803a9fa12bbc479687ac533f30532654
+run_name: serious-hen-94
+run_uuid: 803a9fa12bbc479687ac533f30532654
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676734675740
+status: 3
+tags: []
+user_id: louibo

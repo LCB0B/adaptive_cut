@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/14/6b6f9d08d21747d89c54a594ec34ac30/artifacts
+end_time: 1673746461108
+entry_point_name: ''
+experiment_id: '14'
+lifecycle_stage: active
+run_id: 6b6f9d08d21747d89c54a594ec34ac30
+run_name: beautiful-skink-806
+run_uuid: 6b6f9d08d21747d89c54a594ec34ac30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673746442062
+status: 3
+tags: []
+user_id: louibo

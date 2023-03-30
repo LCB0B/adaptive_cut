@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/27/2694032233ff4268b21e91562905495d/artifacts
+end_time: 1676760970780
+entry_point_name: ''
+experiment_id: '27'
+lifecycle_stage: active
+run_id: 2694032233ff4268b21e91562905495d
+run_name: burly-owl-429
+run_uuid: 2694032233ff4268b21e91562905495d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676760955535
+status: 3
+tags: []
+user_id: louibo

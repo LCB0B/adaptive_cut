@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/97/827444bc585d4790a366c02dec15b012/artifacts
+end_time: 1676874417327
+entry_point_name: ''
+experiment_id: '97'
+lifecycle_stage: active
+run_id: 827444bc585d4790a366c02dec15b012
+run_name: respected-stoat-120
+run_uuid: 827444bc585d4790a366c02dec15b012
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676874408219
+status: 3
+tags: []
+user_id: louibo

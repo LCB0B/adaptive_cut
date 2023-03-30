@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/105/bbc7829878d447c39299d3dd3ea44632/artifacts
+end_time: 1676881032790
+entry_point_name: ''
+experiment_id: '105'
+lifecycle_stage: active
+run_id: bbc7829878d447c39299d3dd3ea44632
+run_name: skillful-whale-587
+run_uuid: bbc7829878d447c39299d3dd3ea44632
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676880068992
+status: 3
+tags: []
+user_id: louibo

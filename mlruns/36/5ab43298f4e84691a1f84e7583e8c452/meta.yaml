@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/36/5ab43298f4e84691a1f84e7583e8c452/artifacts
+end_time: 1674080319740
+entry_point_name: ''
+experiment_id: '36'
+lifecycle_stage: active
+run_id: 5ab43298f4e84691a1f84e7583e8c452
+run_name: fearless-slug-691
+run_uuid: 5ab43298f4e84691a1f84e7583e8c452
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674080313929
+status: 3
+tags: []
+user_id: louibo

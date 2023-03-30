@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/42/4f03617d45154b979fd40dfa98a93470/artifacts
+end_time: 1676877293318
+entry_point_name: ''
+experiment_id: '42'
+lifecycle_stage: active
+run_id: 4f03617d45154b979fd40dfa98a93470
+run_name: selective-colt-962
+run_uuid: 4f03617d45154b979fd40dfa98a93470
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676877290368
+status: 3
+tags: []
+user_id: louibo

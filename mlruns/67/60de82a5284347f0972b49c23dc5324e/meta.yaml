@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/67/60de82a5284347f0972b49c23dc5324e/artifacts
+end_time: 1676893955416
+entry_point_name: ''
+experiment_id: '67'
+lifecycle_stage: active
+run_id: 60de82a5284347f0972b49c23dc5324e
+run_name: able-calf-4
+run_uuid: 60de82a5284347f0972b49c23dc5324e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676893824317
+status: 3
+tags: []
+user_id: louibo

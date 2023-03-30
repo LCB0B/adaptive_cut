@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/8/d8641d7ab79f42cd9ac7240c90b9f5a5/artifacts
+end_time: 1673983746214
+entry_point_name: ''
+experiment_id: '8'
+lifecycle_stage: active
+run_id: d8641d7ab79f42cd9ac7240c90b9f5a5
+run_name: charming-wasp-111
+run_uuid: d8641d7ab79f42cd9ac7240c90b9f5a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673983692546
+status: 3
+tags: []
+user_id: louibo

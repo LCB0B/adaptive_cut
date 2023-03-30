@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/24/41f759d4fd644e3e9f56a28ecc9c7f82/artifacts
+end_time: 1673997001461
+entry_point_name: ''
+experiment_id: '24'
+lifecycle_stage: active
+run_id: 41f759d4fd644e3e9f56a28ecc9c7f82
+run_name: resilient-fawn-737
+run_uuid: 41f759d4fd644e3e9f56a28ecc9c7f82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673996176565
+status: 3
+tags: []
+user_id: louibo

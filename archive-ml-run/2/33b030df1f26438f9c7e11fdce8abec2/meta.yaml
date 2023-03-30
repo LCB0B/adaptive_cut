@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/33b030df1f26438f9c7e11fdce8abec2/artifacts
+end_time: 1672597139914
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 33b030df1f26438f9c7e11fdce8abec2
+run_name: wise-doe-448
+run_uuid: 33b030df1f26438f9c7e11fdce8abec2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672597138467
+status: 3
+tags: []
+user_id: louibo

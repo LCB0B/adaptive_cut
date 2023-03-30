@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/42/f63160ca4e224bc7aa936de34ecbda0e/artifacts
+end_time: 1676754264575
+entry_point_name: ''
+experiment_id: '42'
+lifecycle_stage: active
+run_id: f63160ca4e224bc7aa936de34ecbda0e
+run_name: judicious-penguin-36
+run_uuid: f63160ca4e224bc7aa936de34ecbda0e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676754252749
+status: 3
+tags: []
+user_id: louibo

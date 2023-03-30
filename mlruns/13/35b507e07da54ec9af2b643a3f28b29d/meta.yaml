@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/13/35b507e07da54ec9af2b643a3f28b29d/artifacts
+end_time: 1674736528051
+entry_point_name: ''
+experiment_id: '13'
+lifecycle_stage: active
+run_id: 35b507e07da54ec9af2b643a3f28b29d
+run_name: abundant-shrimp-217
+run_uuid: 35b507e07da54ec9af2b643a3f28b29d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674736214031
+status: 3
+tags: []
+user_id: louibo

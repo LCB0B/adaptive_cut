@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/50/df8a979655fb4d9f86cb736be43144dc/artifacts
+end_time: 1676878870185
+entry_point_name: ''
+experiment_id: '50'
+lifecycle_stage: active
+run_id: df8a979655fb4d9f86cb736be43144dc
+run_name: illustrious-fawn-116
+run_uuid: df8a979655fb4d9f86cb736be43144dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676878527699
+status: 3
+tags: []
+user_id: louibo

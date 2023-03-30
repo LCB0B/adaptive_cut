@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/14/38d789662c0d4b64906d323288713594/artifacts
+end_time: 1673746606733
+entry_point_name: ''
+experiment_id: '14'
+lifecycle_stage: active
+run_id: 38d789662c0d4b64906d323288713594
+run_name: invincible-deer-499
+run_uuid: 38d789662c0d4b64906d323288713594
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673746569482
+status: 3
+tags: []
+user_id: louibo

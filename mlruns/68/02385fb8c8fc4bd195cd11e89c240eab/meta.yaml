@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/68/02385fb8c8fc4bd195cd11e89c240eab/artifacts
+end_time: 1676897306507
+entry_point_name: ''
+experiment_id: '68'
+lifecycle_stage: active
+run_id: 02385fb8c8fc4bd195cd11e89c240eab
+run_name: calm-dog-928
+run_uuid: 02385fb8c8fc4bd195cd11e89c240eab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676897297680
+status: 3
+tags: []
+user_id: louibo

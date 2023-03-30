@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/149/deaa6631a9db43cbade019e67a01f029/artifacts
+end_time: 1676871652434
+entry_point_name: ''
+experiment_id: '149'
+lifecycle_stage: active
+run_id: deaa6631a9db43cbade019e67a01f029
+run_name: masked-turtle-264
+run_uuid: deaa6631a9db43cbade019e67a01f029
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676871628435
+status: 3
+tags: []
+user_id: louibo

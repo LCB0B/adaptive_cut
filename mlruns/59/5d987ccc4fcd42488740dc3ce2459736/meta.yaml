@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/59/5d987ccc4fcd42488740dc3ce2459736/artifacts
+end_time: 1676894146952
+entry_point_name: ''
+experiment_id: '59'
+lifecycle_stage: active
+run_id: 5d987ccc4fcd42488740dc3ce2459736
+run_name: rambunctious-deer-2
+run_uuid: 5d987ccc4fcd42488740dc3ce2459736
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676894131613
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/19/b3cf5e50c2c544859bab1e7bc730cddf/artifacts
+end_time: 1676865080729
+entry_point_name: ''
+experiment_id: '19'
+lifecycle_stage: active
+run_id: b3cf5e50c2c544859bab1e7bc730cddf
+run_name: silent-moose-113
+run_uuid: b3cf5e50c2c544859bab1e7bc730cddf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676864133943
+status: 3
+tags: []
+user_id: louibo

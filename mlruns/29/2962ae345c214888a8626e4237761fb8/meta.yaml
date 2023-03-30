@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/29/2962ae345c214888a8626e4237761fb8/artifacts
+end_time: 1677014931816
+entry_point_name: ''
+experiment_id: '29'
+lifecycle_stage: active
+run_id: 2962ae345c214888a8626e4237761fb8
+run_name: debonair-gnu-480
+run_uuid: 2962ae345c214888a8626e4237761fb8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677014724162
+status: 3
+tags: []
+user_id: louibo

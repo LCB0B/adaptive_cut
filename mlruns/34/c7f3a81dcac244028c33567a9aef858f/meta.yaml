@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/34/c7f3a81dcac244028c33567a9aef858f/artifacts
+end_time: 1676871772802
+entry_point_name: ''
+experiment_id: '34'
+lifecycle_stage: active
+run_id: c7f3a81dcac244028c33567a9aef858f
+run_name: thoughtful-dog-71
+run_uuid: c7f3a81dcac244028c33567a9aef858f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676871747613
+status: 3
+tags: []
+user_id: louibo

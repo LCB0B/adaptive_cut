@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/79/c16e5cad97054dcd82a902666f19d09c/artifacts
+end_time: 1676897959166
+entry_point_name: ''
+experiment_id: '79'
+lifecycle_stage: active
+run_id: c16e5cad97054dcd82a902666f19d09c
+run_name: suave-hawk-480
+run_uuid: c16e5cad97054dcd82a902666f19d09c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676897953080
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/111/b1b4136fe5524bddabeec3dd39d3bb45/artifacts
+end_time: 1676863065755
+entry_point_name: ''
+experiment_id: '111'
+lifecycle_stage: active
+run_id: b1b4136fe5524bddabeec3dd39d3bb45
+run_name: zealous-squirrel-123
+run_uuid: b1b4136fe5524bddabeec3dd39d3bb45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676863059550
+status: 3
+tags: []
+user_id: louibo

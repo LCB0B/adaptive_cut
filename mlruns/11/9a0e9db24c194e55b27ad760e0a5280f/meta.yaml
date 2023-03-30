@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/11/9a0e9db24c194e55b27ad760e0a5280f/artifacts
+end_time: 1674735468806
+entry_point_name: ''
+experiment_id: '11'
+lifecycle_stage: active
+run_id: 9a0e9db24c194e55b27ad760e0a5280f
+run_name: sincere-dog-249
+run_uuid: 9a0e9db24c194e55b27ad760e0a5280f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674735035989
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/114/5d898a70f8a145bcb6115dd34f8c8ba7/artifacts
+end_time: 1676761391715
+entry_point_name: ''
+experiment_id: '114'
+lifecycle_stage: active
+run_id: 5d898a70f8a145bcb6115dd34f8c8ba7
+run_name: mysterious-colt-829
+run_uuid: 5d898a70f8a145bcb6115dd34f8c8ba7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676761390617
+status: 3
+tags: []
+user_id: louibo

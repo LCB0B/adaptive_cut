@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/24/43a4716b4fd04e138f5b8136af094ecd/artifacts
+end_time: 1674740111883
+entry_point_name: ''
+experiment_id: '24'
+lifecycle_stage: active
+run_id: 43a4716b4fd04e138f5b8136af094ecd
+run_name: carefree-flea-94
+run_uuid: 43a4716b4fd04e138f5b8136af094ecd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674739551258
+status: 3
+tags: []
+user_id: louibo

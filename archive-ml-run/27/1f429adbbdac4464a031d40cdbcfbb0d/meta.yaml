@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/27/1f429adbbdac4464a031d40cdbcfbb0d/artifacts
+end_time: 1673991545627
+entry_point_name: ''
+experiment_id: '27'
+lifecycle_stage: active
+run_id: 1f429adbbdac4464a031d40cdbcfbb0d
+run_name: bold-squirrel-763
+run_uuid: 1f429adbbdac4464a031d40cdbcfbb0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673991538328
+status: 3
+tags: []
+user_id: louibo

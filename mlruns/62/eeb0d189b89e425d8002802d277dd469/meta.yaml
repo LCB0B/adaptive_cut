@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/62/eeb0d189b89e425d8002802d277dd469/artifacts
+end_time: 1676892839616
+entry_point_name: ''
+experiment_id: '62'
+lifecycle_stage: active
+run_id: eeb0d189b89e425d8002802d277dd469
+run_name: monumental-loon-293
+run_uuid: eeb0d189b89e425d8002802d277dd469
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676892832883
+status: 3
+tags: []
+user_id: louibo

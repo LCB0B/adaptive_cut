@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/79/a79594f90591483b99837f3ccb425689/artifacts
+end_time: 1676900519793
+entry_point_name: ''
+experiment_id: '79'
+lifecycle_stage: active
+run_id: a79594f90591483b99837f3ccb425689
+run_name: dazzling-rat-362
+run_uuid: a79594f90591483b99837f3ccb425689
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676900478361
+status: 3
+tags: []
+user_id: louibo

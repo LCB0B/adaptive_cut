@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/3/24353add0fc846738c661389ee8a2e06/artifacts
+end_time: 1670250170997
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+run_id: 24353add0fc846738c661389ee8a2e06
+run_name: sneaky-hog-934
+run_uuid: 24353add0fc846738c661389ee8a2e06
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670250170989
+status: 4
+tags: []
+user_id: louibo

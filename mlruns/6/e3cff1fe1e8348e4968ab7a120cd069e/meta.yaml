@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/6/e3cff1fe1e8348e4968ab7a120cd069e/artifacts
+end_time: 1674051150361
+entry_point_name: ''
+experiment_id: '6'
+lifecycle_stage: active
+run_id: e3cff1fe1e8348e4968ab7a120cd069e
+run_name: wistful-turtle-959
+run_uuid: e3cff1fe1e8348e4968ab7a120cd069e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674051009838
+status: 3
+tags: []
+user_id: louibo

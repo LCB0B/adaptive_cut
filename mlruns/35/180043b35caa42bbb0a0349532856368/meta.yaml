@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/35/180043b35caa42bbb0a0349532856368/artifacts
+end_time: 1674074603948
+entry_point_name: ''
+experiment_id: '35'
+lifecycle_stage: active
+run_id: 180043b35caa42bbb0a0349532856368
+run_name: charming-fox-591
+run_uuid: 180043b35caa42bbb0a0349532856368
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674074578948
+status: 3
+tags: []
+user_id: louibo

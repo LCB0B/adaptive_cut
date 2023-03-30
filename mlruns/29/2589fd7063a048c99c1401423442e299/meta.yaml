@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/29/2589fd7063a048c99c1401423442e299/artifacts
+end_time: 1673964214880
+entry_point_name: ''
+experiment_id: '29'
+lifecycle_stage: active
+run_id: 2589fd7063a048c99c1401423442e299
+run_name: skillful-gull-609
+run_uuid: 2589fd7063a048c99c1401423442e299
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673964156922
+status: 4
+tags: []
+user_id: louibo

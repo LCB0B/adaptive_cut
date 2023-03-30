@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/41/448a9078d74b45e4bfa6c0ea66672922/artifacts
+end_time: 1676864440102
+entry_point_name: ''
+experiment_id: '41'
+lifecycle_stage: active
+run_id: 448a9078d74b45e4bfa6c0ea66672922
+run_name: likeable-pig-914
+run_uuid: 448a9078d74b45e4bfa6c0ea66672922
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676864433898
+status: 3
+tags: []
+user_id: louibo

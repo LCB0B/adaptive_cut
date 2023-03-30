@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/114/14419d4d44f34a088fd59a2a9d575a68/artifacts
+end_time: 1676751822603
+entry_point_name: ''
+experiment_id: '114'
+lifecycle_stage: active
+run_id: 14419d4d44f34a088fd59a2a9d575a68
+run_name: salty-dolphin-862
+run_uuid: 14419d4d44f34a088fd59a2a9d575a68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676751815983
+status: 3
+tags: []
+user_id: louibo

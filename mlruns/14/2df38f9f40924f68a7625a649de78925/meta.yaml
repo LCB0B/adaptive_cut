@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/14/2df38f9f40924f68a7625a649de78925/artifacts
+end_time: 1674055891137
+entry_point_name: ''
+experiment_id: '14'
+lifecycle_stage: active
+run_id: 2df38f9f40924f68a7625a649de78925
+run_name: beautiful-mole-987
+run_uuid: 2df38f9f40924f68a7625a649de78925
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674055843405
+status: 3
+tags: []
+user_id: louibo

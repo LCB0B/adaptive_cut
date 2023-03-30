@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/139/401c5b61c1ea48afbe2507dd0cf9ec1b/artifacts
+end_time: 1676897516945
+entry_point_name: ''
+experiment_id: '139'
+lifecycle_stage: active
+run_id: 401c5b61c1ea48afbe2507dd0cf9ec1b
+run_name: righteous-loon-389
+run_uuid: 401c5b61c1ea48afbe2507dd0cf9ec1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676897394954
+status: 3
+tags: []
+user_id: louibo

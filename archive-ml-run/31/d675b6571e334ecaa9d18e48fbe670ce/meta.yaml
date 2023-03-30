@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/31/d675b6571e334ecaa9d18e48fbe670ce/artifacts
+end_time: 1673992452964
+entry_point_name: ''
+experiment_id: '31'
+lifecycle_stage: active
+run_id: d675b6571e334ecaa9d18e48fbe670ce
+run_name: stylish-fly-848
+run_uuid: d675b6571e334ecaa9d18e48fbe670ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673992451292
+status: 3
+tags: []
+user_id: louibo

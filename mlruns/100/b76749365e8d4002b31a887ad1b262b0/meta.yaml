@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/100/b76749365e8d4002b31a887ad1b262b0/artifacts
+end_time: 1676863180100
+entry_point_name: ''
+experiment_id: '100'
+lifecycle_stage: active
+run_id: b76749365e8d4002b31a887ad1b262b0
+run_name: spiffy-deer-694
+run_uuid: b76749365e8d4002b31a887ad1b262b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676863177255
+status: 3
+tags: []
+user_id: louibo

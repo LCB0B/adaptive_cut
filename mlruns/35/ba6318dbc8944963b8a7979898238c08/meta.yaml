@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/35/ba6318dbc8944963b8a7979898238c08/artifacts
+end_time: 1674757636684
+entry_point_name: ''
+experiment_id: '35'
+lifecycle_stage: active
+run_id: ba6318dbc8944963b8a7979898238c08
+run_name: beautiful-shoat-720
+run_uuid: ba6318dbc8944963b8a7979898238c08
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674757610434
+status: 3
+tags: []
+user_id: louibo

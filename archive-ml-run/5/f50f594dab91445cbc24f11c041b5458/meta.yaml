@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/5/f50f594dab91445cbc24f11c041b5458/artifacts
+end_time: 1672656155428
+entry_point_name: ''
+experiment_id: '5'
+lifecycle_stage: active
+run_id: f50f594dab91445cbc24f11c041b5458
+run_name: magnificent-bat-327
+run_uuid: f50f594dab91445cbc24f11c041b5458
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672656153358
+status: 3
+tags: []
+user_id: louibo

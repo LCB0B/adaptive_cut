@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/42/f43c2cc62c0a4b53a468c7db9a73a7d5/artifacts
+end_time: 1673991538256
+entry_point_name: ''
+experiment_id: '42'
+lifecycle_stage: active
+run_id: f43c2cc62c0a4b53a468c7db9a73a7d5
+run_name: stylish-skink-121
+run_uuid: f43c2cc62c0a4b53a468c7db9a73a7d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673991524012
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/127/193122e55d6748f5bdabe830ba3c5bcf/artifacts
+end_time: 1676887928302
+entry_point_name: ''
+experiment_id: '127'
+lifecycle_stage: active
+run_id: 193122e55d6748f5bdabe830ba3c5bcf
+run_name: classy-hound-427
+run_uuid: 193122e55d6748f5bdabe830ba3c5bcf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676887283353
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/11/ad7b2880ce654fc0bfe7cf607798b888/artifacts
+end_time: 1673984483598
+entry_point_name: ''
+experiment_id: '11'
+lifecycle_stage: active
+run_id: ad7b2880ce654fc0bfe7cf607798b888
+run_name: judicious-gull-199
+run_uuid: ad7b2880ce654fc0bfe7cf607798b888
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673984291294
+status: 3
+tags: []
+user_id: louibo

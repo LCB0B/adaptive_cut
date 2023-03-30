@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/73/b8720f37123a4787912b10730a709043/artifacts
+end_time: 1676852924893
+entry_point_name: ''
+experiment_id: '73'
+lifecycle_stage: active
+run_id: b8720f37123a4787912b10730a709043
+run_name: sincere-fowl-878
+run_uuid: b8720f37123a4787912b10730a709043
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676852824272
+status: 3
+tags: []
+user_id: louibo

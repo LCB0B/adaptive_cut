@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/56/9fbe76aa6b884d23b6739c479fae62ce/artifacts
+end_time: 1676849394416
+entry_point_name: ''
+experiment_id: '56'
+lifecycle_stage: active
+run_id: 9fbe76aa6b884d23b6739c479fae62ce
+run_name: serious-squid-291
+run_uuid: 9fbe76aa6b884d23b6739c479fae62ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676849381631
+status: 3
+tags: []
+user_id: louibo

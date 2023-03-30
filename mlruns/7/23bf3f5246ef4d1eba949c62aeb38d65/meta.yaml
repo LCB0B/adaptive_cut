@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/7/23bf3f5246ef4d1eba949c62aeb38d65/artifacts
+end_time: 1673806017544
+entry_point_name: ''
+experiment_id: '7'
+lifecycle_stage: active
+run_id: 23bf3f5246ef4d1eba949c62aeb38d65
+run_name: secretive-quail-531
+run_uuid: 23bf3f5246ef4d1eba949c62aeb38d65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673805625093
+status: 3
+tags: []
+user_id: louibo

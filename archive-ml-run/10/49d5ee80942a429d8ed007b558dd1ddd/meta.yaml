@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/10/49d5ee80942a429d8ed007b558dd1ddd/artifacts
+end_time: 1673974293472
+entry_point_name: ''
+experiment_id: '10'
+lifecycle_stage: active
+run_id: 49d5ee80942a429d8ed007b558dd1ddd
+run_name: righteous-snake-826
+run_uuid: 49d5ee80942a429d8ed007b558dd1ddd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673974279108
+status: 3
+tags: []
+user_id: louibo

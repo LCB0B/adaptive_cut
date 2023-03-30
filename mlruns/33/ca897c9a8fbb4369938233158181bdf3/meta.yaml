@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/33/ca897c9a8fbb4369938233158181bdf3/artifacts
+end_time: 1673736785288
+entry_point_name: ''
+experiment_id: '33'
+lifecycle_stage: active
+run_id: ca897c9a8fbb4369938233158181bdf3
+run_name: melodic-crow-671
+run_uuid: ca897c9a8fbb4369938233158181bdf3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673736773178
+status: 3
+tags: []
+user_id: louibo

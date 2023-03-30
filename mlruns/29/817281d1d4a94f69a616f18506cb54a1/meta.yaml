@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/29/817281d1d4a94f69a616f18506cb54a1/artifacts
+end_time: 1676876283115
+entry_point_name: ''
+experiment_id: '29'
+lifecycle_stage: active
+run_id: 817281d1d4a94f69a616f18506cb54a1
+run_name: bedecked-panda-433
+run_uuid: 817281d1d4a94f69a616f18506cb54a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676876176962
+status: 3
+tags: []
+user_id: louibo

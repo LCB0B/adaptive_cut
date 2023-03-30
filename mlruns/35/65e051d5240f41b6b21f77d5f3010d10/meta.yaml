@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/35/65e051d5240f41b6b21f77d5f3010d10/artifacts
+end_time: 1676905079344
+entry_point_name: ''
+experiment_id: '35'
+lifecycle_stage: active
+run_id: 65e051d5240f41b6b21f77d5f3010d10
+run_name: gifted-bug-464
+run_uuid: 65e051d5240f41b6b21f77d5f3010d10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676905048065
+status: 3
+tags: []
+user_id: louibo

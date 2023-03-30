@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/23/ec209e6095eb4d74a3d109246e3eed4e/artifacts
+end_time: 1674060860528
+entry_point_name: ''
+experiment_id: '23'
+lifecycle_stage: active
+run_id: ec209e6095eb4d74a3d109246e3eed4e
+run_name: agreeable-ox-271
+run_uuid: ec209e6095eb4d74a3d109246e3eed4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674060837032
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/97/eb8b9913a4194427bb52899f193a222a/artifacts
+end_time: 1676746382871
+entry_point_name: ''
+experiment_id: '97'
+lifecycle_stage: active
+run_id: eb8b9913a4194427bb52899f193a222a
+run_name: debonair-gnat-25
+run_uuid: eb8b9913a4194427bb52899f193a222a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676746373804
+status: 3
+tags: []
+user_id: louibo

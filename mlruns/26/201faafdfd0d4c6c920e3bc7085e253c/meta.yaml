@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/26/201faafdfd0d4c6c920e3bc7085e253c/artifacts
+end_time: 1674757952193
+entry_point_name: ''
+experiment_id: '26'
+lifecycle_stage: active
+run_id: 201faafdfd0d4c6c920e3bc7085e253c
+run_name: magnificent-bear-650
+run_uuid: 201faafdfd0d4c6c920e3bc7085e253c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674754749165
+status: 3
+tags: []
+user_id: louibo

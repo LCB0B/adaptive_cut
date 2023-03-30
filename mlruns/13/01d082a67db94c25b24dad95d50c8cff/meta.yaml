@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/13/01d082a67db94c25b24dad95d50c8cff/artifacts
+end_time: 1674737196632
+entry_point_name: ''
+experiment_id: '13'
+lifecycle_stage: active
+run_id: 01d082a67db94c25b24dad95d50c8cff
+run_name: suave-dog-100
+run_uuid: 01d082a67db94c25b24dad95d50c8cff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674736779041
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/14/bdc056116edd40e8bf97a4c29abdbb5e/artifacts
+end_time: 1673989772216
+entry_point_name: ''
+experiment_id: '14'
+lifecycle_stage: active
+run_id: bdc056116edd40e8bf97a4c29abdbb5e
+run_name: classy-fish-469
+run_uuid: bdc056116edd40e8bf97a4c29abdbb5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673989732891
+status: 3
+tags: []
+user_id: louibo

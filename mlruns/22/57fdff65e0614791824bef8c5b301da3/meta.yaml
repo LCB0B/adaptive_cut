@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/22/57fdff65e0614791824bef8c5b301da3/artifacts
+end_time: 1673987425510
+entry_point_name: ''
+experiment_id: '22'
+lifecycle_stage: active
+run_id: 57fdff65e0614791824bef8c5b301da3
+run_name: fortunate-ox-196
+run_uuid: 57fdff65e0614791824bef8c5b301da3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673987245219
+status: 3
+tags: []
+user_id: louibo

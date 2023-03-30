@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/63/ae82d59c069942fc9c84f3d1df239b4d/artifacts
+end_time: 1676893067928
+entry_point_name: ''
+experiment_id: '63'
+lifecycle_stage: active
+run_id: ae82d59c069942fc9c84f3d1df239b4d
+run_name: fortunate-fly-943
+run_uuid: ae82d59c069942fc9c84f3d1df239b4d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676892938277
+status: 3
+tags: []
+user_id: louibo

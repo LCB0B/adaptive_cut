@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/9/608acdc35f504663907b7a2d42b1c52e/artifacts
+end_time: 1674734956343
+entry_point_name: ''
+experiment_id: '9'
+lifecycle_stage: active
+run_id: 608acdc35f504663907b7a2d42b1c52e
+run_name: trusting-trout-717
+run_uuid: 608acdc35f504663907b7a2d42b1c52e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674734946930
+status: 3
+tags: []
+user_id: louibo

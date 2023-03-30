@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/59/06f98f3d6e174aa3a3794fe743610776/artifacts
+end_time: 1676892856037
+entry_point_name: ''
+experiment_id: '59'
+lifecycle_stage: active
+run_id: 06f98f3d6e174aa3a3794fe743610776
+run_name: rebellious-sow-457
+run_uuid: 06f98f3d6e174aa3a3794fe743610776
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676892687066
+status: 3
+tags: []
+user_id: louibo

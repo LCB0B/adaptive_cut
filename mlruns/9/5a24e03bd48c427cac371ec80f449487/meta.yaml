@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/9/5a24e03bd48c427cac371ec80f449487/artifacts
+end_time: 1674058686161
+entry_point_name: ''
+experiment_id: '9'
+lifecycle_stage: active
+run_id: 5a24e03bd48c427cac371ec80f449487
+run_name: delicate-sponge-582
+run_uuid: 5a24e03bd48c427cac371ec80f449487
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674058656962
+status: 3
+tags: []
+user_id: louibo

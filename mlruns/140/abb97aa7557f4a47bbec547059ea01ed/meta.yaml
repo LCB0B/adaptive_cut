@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/140/abb97aa7557f4a47bbec547059ea01ed/artifacts
+end_time: 1676768920392
+entry_point_name: ''
+experiment_id: '140'
+lifecycle_stage: active
+run_id: abb97aa7557f4a47bbec547059ea01ed
+run_name: unequaled-quail-709
+run_uuid: abb97aa7557f4a47bbec547059ea01ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676768899118
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/151/184fbc3e8f554dd49f3725425e3bb531/artifacts
+end_time: 1676920858520
+entry_point_name: ''
+experiment_id: '151'
+lifecycle_stage: active
+run_id: 184fbc3e8f554dd49f3725425e3bb531
+run_name: placid-carp-964
+run_uuid: 184fbc3e8f554dd49f3725425e3bb531
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676920858243
+status: 3
+tags: []
+user_id: louibo

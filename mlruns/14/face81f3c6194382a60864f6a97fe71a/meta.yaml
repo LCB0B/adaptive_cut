@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/14/face81f3c6194382a60864f6a97fe71a/artifacts
+end_time: 1674054778574
+entry_point_name: ''
+experiment_id: '14'
+lifecycle_stage: active
+run_id: face81f3c6194382a60864f6a97fe71a
+run_name: colorful-goose-119
+run_uuid: face81f3c6194382a60864f6a97fe71a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674054650923
+status: 3
+tags: []
+user_id: louibo

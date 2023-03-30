@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/51/2c64aa4db2bd4c52afbff0ea1d49ffe1/artifacts
+end_time: 1676734793046
+entry_point_name: ''
+experiment_id: '51'
+lifecycle_stage: active
+run_id: 2c64aa4db2bd4c52afbff0ea1d49ffe1
+run_name: resilient-sow-73
+run_uuid: 2c64aa4db2bd4c52afbff0ea1d49ffe1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676734790713
+status: 3
+tags: []
+user_id: louibo

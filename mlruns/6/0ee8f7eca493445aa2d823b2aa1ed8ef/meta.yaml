@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/6/0ee8f7eca493445aa2d823b2aa1ed8ef/artifacts
+end_time: 1674732498766
+entry_point_name: ''
+experiment_id: '6'
+lifecycle_stage: active
+run_id: 0ee8f7eca493445aa2d823b2aa1ed8ef
+run_name: victorious-bee-558
+run_uuid: 0ee8f7eca493445aa2d823b2aa1ed8ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674732361598
+status: 3
+tags: []
+user_id: louibo

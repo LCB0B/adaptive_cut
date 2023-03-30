@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/47/d5a7083fe77b4d5e962ae6590bcb9bfd/artifacts
+end_time: 1676898683245
+entry_point_name: ''
+experiment_id: '47'
+lifecycle_stage: active
+run_id: d5a7083fe77b4d5e962ae6590bcb9bfd
+run_name: unleashed-rat-787
+run_uuid: d5a7083fe77b4d5e962ae6590bcb9bfd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676898682496
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/95/cfc89dad7a3d49abb6b544630f0b28bc/artifacts
+end_time: 1676903274696
+entry_point_name: ''
+experiment_id: '95'
+lifecycle_stage: active
+run_id: cfc89dad7a3d49abb6b544630f0b28bc
+run_name: bittersweet-lark-494
+run_uuid: cfc89dad7a3d49abb6b544630f0b28bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676902960139
+status: 3
+tags: []
+user_id: louibo

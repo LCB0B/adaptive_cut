@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/5/6b4a8ffa89b045e7b281b3594dc382ea/artifacts
+end_time: 1676893482291
+entry_point_name: ''
+experiment_id: '5'
+lifecycle_stage: active
+run_id: 6b4a8ffa89b045e7b281b3594dc382ea
+run_name: upbeat-cow-165
+run_uuid: 6b4a8ffa89b045e7b281b3594dc382ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676893481878
+status: 3
+tags: []
+user_id: louibo

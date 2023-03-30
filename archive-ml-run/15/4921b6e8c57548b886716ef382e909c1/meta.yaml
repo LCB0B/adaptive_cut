@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/15/4921b6e8c57548b886716ef382e909c1/artifacts
+end_time: 1673990376918
+entry_point_name: ''
+experiment_id: '15'
+lifecycle_stage: active
+run_id: 4921b6e8c57548b886716ef382e909c1
+run_name: sneaky-fish-187
+run_uuid: 4921b6e8c57548b886716ef382e909c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673990371687
+status: 3
+tags: []
+user_id: louibo

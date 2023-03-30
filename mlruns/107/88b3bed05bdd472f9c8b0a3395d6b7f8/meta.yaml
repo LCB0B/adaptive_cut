@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/107/88b3bed05bdd472f9c8b0a3395d6b7f8/artifacts
+end_time: 1676882252179
+entry_point_name: ''
+experiment_id: '107'
+lifecycle_stage: active
+run_id: 88b3bed05bdd472f9c8b0a3395d6b7f8
+run_name: defiant-shoat-976
+run_uuid: 88b3bed05bdd472f9c8b0a3395d6b7f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676882175752
+status: 3
+tags: []
+user_id: louibo

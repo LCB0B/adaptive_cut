@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/65/e213d902d61841fea7ce3262cd1a004a/artifacts
+end_time: 1676820164487
+entry_point_name: ''
+experiment_id: '65'
+lifecycle_stage: active
+run_id: e213d902d61841fea7ce3262cd1a004a
+run_name: hilarious-ant-85
+run_uuid: e213d902d61841fea7ce3262cd1a004a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676819739432
+status: 3
+tags: []
+user_id: louibo

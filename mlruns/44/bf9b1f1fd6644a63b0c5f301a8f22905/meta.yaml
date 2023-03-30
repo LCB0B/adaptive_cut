@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/44/bf9b1f1fd6644a63b0c5f301a8f22905/artifacts
+end_time: 1674080200400
+entry_point_name: ''
+experiment_id: '44'
+lifecycle_stage: active
+run_id: bf9b1f1fd6644a63b0c5f301a8f22905
+run_name: abundant-carp-359
+run_uuid: bf9b1f1fd6644a63b0c5f301a8f22905
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674080198820
+status: 3
+tags: []
+user_id: louibo

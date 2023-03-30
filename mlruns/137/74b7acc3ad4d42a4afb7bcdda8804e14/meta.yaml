@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/137/74b7acc3ad4d42a4afb7bcdda8804e14/artifacts
+end_time: 1676769055911
+entry_point_name: ''
+experiment_id: '137'
+lifecycle_stage: active
+run_id: 74b7acc3ad4d42a4afb7bcdda8804e14
+run_name: inquisitive-fawn-19
+run_uuid: 74b7acc3ad4d42a4afb7bcdda8804e14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676769054272
+status: 4
+tags: []
+user_id: louibo

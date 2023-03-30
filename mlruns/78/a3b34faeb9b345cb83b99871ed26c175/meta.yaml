@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/78/a3b34faeb9b345cb83b99871ed26c175/artifacts
+end_time: 1676856598234
+entry_point_name: ''
+experiment_id: '78'
+lifecycle_stage: active
+run_id: a3b34faeb9b345cb83b99871ed26c175
+run_name: orderly-colt-192
+run_uuid: a3b34faeb9b345cb83b99871ed26c175
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676856596691
+status: 3
+tags: []
+user_id: louibo

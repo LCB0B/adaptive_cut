@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/113/a06ab76bbd39429da0e3fdbc4ce021ce/artifacts
+end_time: 1676863530209
+entry_point_name: ''
+experiment_id: '113'
+lifecycle_stage: active
+run_id: a06ab76bbd39429da0e3fdbc4ce021ce
+run_name: blushing-ox-376
+run_uuid: a06ab76bbd39429da0e3fdbc4ce021ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676863092276
+status: 3
+tags: []
+user_id: louibo

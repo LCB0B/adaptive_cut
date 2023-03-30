@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/41/a584823145834aec87e17ecc5065a39d/artifacts
+end_time: 1676908794244
+entry_point_name: ''
+experiment_id: '41'
+lifecycle_stage: active
+run_id: a584823145834aec87e17ecc5065a39d
+run_name: marvelous-kit-629
+run_uuid: a584823145834aec87e17ecc5065a39d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676908788015
+status: 3
+tags: []
+user_id: louibo

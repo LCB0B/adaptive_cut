@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/79/ef4895ecf6a94f3bae4869dd24ab6997/artifacts
+end_time: 1676743815240
+entry_point_name: ''
+experiment_id: '79'
+lifecycle_stage: active
+run_id: ef4895ecf6a94f3bae4869dd24ab6997
+run_name: fearless-panda-903
+run_uuid: ef4895ecf6a94f3bae4869dd24ab6997
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676743806461
+status: 3
+tags: []
+user_id: louibo

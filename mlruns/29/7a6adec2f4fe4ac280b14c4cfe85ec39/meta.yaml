@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/29/7a6adec2f4fe4ac280b14c4cfe85ec39/artifacts
+end_time: 1674751495084
+entry_point_name: ''
+experiment_id: '29'
+lifecycle_stage: active
+run_id: 7a6adec2f4fe4ac280b14c4cfe85ec39
+run_name: legendary-worm-474
+run_uuid: 7a6adec2f4fe4ac280b14c4cfe85ec39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674750540915
+status: 3
+tags: []
+user_id: louibo

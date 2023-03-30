@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/4/cc8a52d34ccb422a8f93d8b6ab2c42e9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '4'
+lifecycle_stage: active
+run_id: cc8a52d34ccb422a8f93d8b6ab2c42e9
+run_name: marvelous-duck-611
+run_uuid: cc8a52d34ccb422a8f93d8b6ab2c42e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673980681692
+status: 1
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/120/d40a95ef4f78467c9b1579b15a1a3d66/artifacts
+end_time: 1676763571568
+entry_point_name: ''
+experiment_id: '120'
+lifecycle_stage: active
+run_id: d40a95ef4f78467c9b1579b15a1a3d66
+run_name: nimble-crow-79
+run_uuid: d40a95ef4f78467c9b1579b15a1a3d66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676763560671
+status: 3
+tags: []
+user_id: louibo

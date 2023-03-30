@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/37/88bd29793a3e42ed936c80f2969f601d/artifacts
+end_time: 1674742708187
+entry_point_name: ''
+experiment_id: '37'
+lifecycle_stage: active
+run_id: 88bd29793a3e42ed936c80f2969f601d
+run_name: receptive-dove-474
+run_uuid: 88bd29793a3e42ed936c80f2969f601d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674742447337
+status: 3
+tags: []
+user_id: louibo

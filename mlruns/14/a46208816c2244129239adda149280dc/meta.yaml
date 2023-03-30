@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/14/a46208816c2244129239adda149280dc/artifacts
+end_time: 1673990369204
+entry_point_name: ''
+experiment_id: '14'
+lifecycle_stage: active
+run_id: a46208816c2244129239adda149280dc
+run_name: upbeat-fish-215
+run_uuid: a46208816c2244129239adda149280dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673989772422
+status: 3
+tags: []
+user_id: louibo

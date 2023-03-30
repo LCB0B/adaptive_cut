@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/130/ee04b50c40c440dc9d456e80638d208d/artifacts
+end_time: 1676893884346
+entry_point_name: ''
+experiment_id: '130'
+lifecycle_stage: active
+run_id: ee04b50c40c440dc9d456e80638d208d
+run_name: clean-conch-178
+run_uuid: ee04b50c40c440dc9d456e80638d208d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676891735642
+status: 3
+tags: []
+user_id: louibo

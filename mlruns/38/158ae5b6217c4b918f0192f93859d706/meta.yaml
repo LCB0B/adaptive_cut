@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/38/158ae5b6217c4b918f0192f93859d706/artifacts
+end_time: 1673985822181
+entry_point_name: ''
+experiment_id: '38'
+lifecycle_stage: active
+run_id: 158ae5b6217c4b918f0192f93859d706
+run_name: righteous-cod-544
+run_uuid: 158ae5b6217c4b918f0192f93859d706
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673985813650
+status: 3
+tags: []
+user_id: louibo

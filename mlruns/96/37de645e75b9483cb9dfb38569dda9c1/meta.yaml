@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/96/37de645e75b9483cb9dfb38569dda9c1/artifacts
+end_time: 1676863070962
+entry_point_name: ''
+experiment_id: '96'
+lifecycle_stage: active
+run_id: 37de645e75b9483cb9dfb38569dda9c1
+run_name: zealous-crow-700
+run_uuid: 37de645e75b9483cb9dfb38569dda9c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676862997764
+status: 3
+tags: []
+user_id: louibo

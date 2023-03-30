@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/30/29c89233271c4167974859cac7c0d521/artifacts
+end_time: 1676763487781
+entry_point_name: ''
+experiment_id: '30'
+lifecycle_stage: active
+run_id: 29c89233271c4167974859cac7c0d521
+run_name: nosy-conch-513
+run_uuid: 29c89233271c4167974859cac7c0d521
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676763485734
+status: 3
+tags: []
+user_id: louibo

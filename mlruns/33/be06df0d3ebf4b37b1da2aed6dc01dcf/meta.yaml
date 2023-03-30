@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/33/be06df0d3ebf4b37b1da2aed6dc01dcf/artifacts
+end_time: 1674068240632
+entry_point_name: ''
+experiment_id: '33'
+lifecycle_stage: active
+run_id: be06df0d3ebf4b37b1da2aed6dc01dcf
+run_name: charming-fawn-678
+run_uuid: be06df0d3ebf4b37b1da2aed6dc01dcf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674068227359
+status: 3
+tags: []
+user_id: louibo

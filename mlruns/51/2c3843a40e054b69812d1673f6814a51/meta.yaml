@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/51/2c3843a40e054b69812d1673f6814a51/artifacts
+end_time: 1676734688513
+entry_point_name: ''
+experiment_id: '51'
+lifecycle_stage: active
+run_id: 2c3843a40e054b69812d1673f6814a51
+run_name: righteous-mouse-620
+run_uuid: 2c3843a40e054b69812d1673f6814a51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676734681989
+status: 3
+tags: []
+user_id: louibo

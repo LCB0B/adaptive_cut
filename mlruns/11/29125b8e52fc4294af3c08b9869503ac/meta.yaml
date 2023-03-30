@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/11/29125b8e52fc4294af3c08b9869503ac/artifacts
+end_time: 1674053769090
+entry_point_name: ''
+experiment_id: '11'
+lifecycle_stage: active
+run_id: 29125b8e52fc4294af3c08b9869503ac
+run_name: beautiful-skunk-659
+run_uuid: 29125b8e52fc4294af3c08b9869503ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674053480469
+status: 3
+tags: []
+user_id: louibo

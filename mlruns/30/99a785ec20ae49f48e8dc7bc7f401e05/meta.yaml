@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/30/99a785ec20ae49f48e8dc7bc7f401e05/artifacts
+end_time: 1674069551464
+entry_point_name: ''
+experiment_id: '30'
+lifecycle_stage: active
+run_id: 99a785ec20ae49f48e8dc7bc7f401e05
+run_name: dazzling-fawn-561
+run_uuid: 99a785ec20ae49f48e8dc7bc7f401e05
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674069546243
+status: 3
+tags: []
+user_id: louibo

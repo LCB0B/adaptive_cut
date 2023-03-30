@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/3/38f40fd276a84c68b175c9935608bb0c/artifacts
+end_time: 1672597554199
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+run_id: 38f40fd276a84c68b175c9935608bb0c
+run_name: handsome-doe-108
+run_uuid: 38f40fd276a84c68b175c9935608bb0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672597554187
+status: 4
+tags: []
+user_id: louibo

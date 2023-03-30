@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/34/3aa87da815cc4a438d1b1757aea4c02e/artifacts
+end_time: 1673728674258
+entry_point_name: ''
+experiment_id: '34'
+lifecycle_stage: active
+run_id: 3aa87da815cc4a438d1b1757aea4c02e
+run_name: industrious-boar-406
+run_uuid: 3aa87da815cc4a438d1b1757aea4c02e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673728622107
+status: 3
+tags: []
+user_id: louibo

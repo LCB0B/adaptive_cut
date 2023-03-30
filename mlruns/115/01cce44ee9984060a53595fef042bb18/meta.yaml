@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/115/01cce44ee9984060a53595fef042bb18/artifacts
+end_time: 1676909464420
+entry_point_name: ''
+experiment_id: '115'
+lifecycle_stage: active
+run_id: 01cce44ee9984060a53595fef042bb18
+run_name: shivering-hound-513
+run_uuid: 01cce44ee9984060a53595fef042bb18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676909439914
+status: 3
+tags: []
+user_id: louibo

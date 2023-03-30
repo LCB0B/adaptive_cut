@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/47/2973eaf16cad4ddc847707449c259486/artifacts
+end_time: 1676898692758
+entry_point_name: ''
+experiment_id: '47'
+lifecycle_stage: active
+run_id: 2973eaf16cad4ddc847707449c259486
+run_name: invincible-vole-142
+run_uuid: 2973eaf16cad4ddc847707449c259486
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676898683726
+status: 3
+tags: []
+user_id: louibo

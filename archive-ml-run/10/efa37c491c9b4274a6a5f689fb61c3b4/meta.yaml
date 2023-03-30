@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/10/efa37c491c9b4274a6a5f689fb61c3b4/artifacts
+end_time: 1673974798431
+entry_point_name: ''
+experiment_id: '10'
+lifecycle_stage: active
+run_id: efa37c491c9b4274a6a5f689fb61c3b4
+run_name: bemused-owl-600
+run_uuid: efa37c491c9b4274a6a5f689fb61c3b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673974784117
+status: 3
+tags: []
+user_id: louibo

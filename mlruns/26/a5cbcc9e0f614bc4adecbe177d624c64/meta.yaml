@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/26/a5cbcc9e0f614bc4adecbe177d624c64/artifacts
+end_time: 1676750768488
+entry_point_name: ''
+experiment_id: '26'
+lifecycle_stage: active
+run_id: a5cbcc9e0f614bc4adecbe177d624c64
+run_name: caring-kit-450
+run_uuid: a5cbcc9e0f614bc4adecbe177d624c64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676750293785
+status: 3
+tags: []
+user_id: louibo

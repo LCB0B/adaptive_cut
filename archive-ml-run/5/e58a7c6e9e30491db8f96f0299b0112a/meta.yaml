@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/5/e58a7c6e9e30491db8f96f0299b0112a/artifacts
+end_time: 1673978309779
+entry_point_name: ''
+experiment_id: '5'
+lifecycle_stage: active
+run_id: e58a7c6e9e30491db8f96f0299b0112a
+run_name: secretive-wren-973
+run_uuid: e58a7c6e9e30491db8f96f0299b0112a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673978306636
+status: 3
+tags: []
+user_id: louibo

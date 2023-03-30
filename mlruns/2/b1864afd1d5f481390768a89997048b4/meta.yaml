@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/b1864afd1d5f481390768a89997048b4/artifacts
+end_time: 1670249045564
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: b1864afd1d5f481390768a89997048b4
+run_name: delightful-kite-476
+run_uuid: b1864afd1d5f481390768a89997048b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670249044094
+status: 3
+tags: []
+user_id: louibo

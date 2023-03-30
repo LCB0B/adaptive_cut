@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/36/e826ae19734844c89efd584fd0e3b727/artifacts
+end_time: 1674068127735
+entry_point_name: ''
+experiment_id: '36'
+lifecycle_stage: active
+run_id: e826ae19734844c89efd584fd0e3b727
+run_name: bold-fowl-623
+run_uuid: e826ae19734844c89efd584fd0e3b727
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674068124973
+status: 3
+tags: []
+user_id: louibo

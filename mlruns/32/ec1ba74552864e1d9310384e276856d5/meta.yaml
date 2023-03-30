@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/32/ec1ba74552864e1d9310384e276856d5/artifacts
+end_time: 1674476221790
+entry_point_name: ''
+experiment_id: '32'
+lifecycle_stage: active
+run_id: ec1ba74552864e1d9310384e276856d5
+run_name: magnificent-seal-286
+run_uuid: ec1ba74552864e1d9310384e276856d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674476219212
+status: 3
+tags: []
+user_id: louibo

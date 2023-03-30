@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/31/908bca673b3b41eab55d4c08f7bc511b/artifacts
+end_time: 1673989806710
+entry_point_name: ''
+experiment_id: '31'
+lifecycle_stage: active
+run_id: 908bca673b3b41eab55d4c08f7bc511b
+run_name: omniscient-rook-538
+run_uuid: 908bca673b3b41eab55d4c08f7bc511b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673989804651
+status: 3
+tags: []
+user_id: louibo

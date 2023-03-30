@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/41/d48fad375b264ae3b0aa40a54b24eac3/artifacts
+end_time: 1676756955786
+entry_point_name: ''
+experiment_id: '41'
+lifecycle_stage: active
+run_id: d48fad375b264ae3b0aa40a54b24eac3
+run_name: stylish-turtle-314
+run_uuid: d48fad375b264ae3b0aa40a54b24eac3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676756916130
+status: 3
+tags: []
+user_id: louibo

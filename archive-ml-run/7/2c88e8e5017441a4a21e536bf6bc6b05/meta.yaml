@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/7/2c88e8e5017441a4a21e536bf6bc6b05/artifacts
+end_time: 1670260135177
+entry_point_name: ''
+experiment_id: '7'
+lifecycle_stage: active
+run_id: 2c88e8e5017441a4a21e536bf6bc6b05
+run_name: bouncy-seal-519
+run_uuid: 2c88e8e5017441a4a21e536bf6bc6b05
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670259734068
+status: 3
+tags: []
+user_id: louibo

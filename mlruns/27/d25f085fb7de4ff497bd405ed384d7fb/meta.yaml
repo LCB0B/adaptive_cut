@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/27/d25f085fb7de4ff497bd405ed384d7fb/artifacts
+end_time: 1670268176122
+entry_point_name: ''
+experiment_id: '27'
+lifecycle_stage: active
+run_id: d25f085fb7de4ff497bd405ed384d7fb
+run_name: orderly-fowl-182
+run_uuid: d25f085fb7de4ff497bd405ed384d7fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670268133798
+status: 3
+tags: []
+user_id: louibo

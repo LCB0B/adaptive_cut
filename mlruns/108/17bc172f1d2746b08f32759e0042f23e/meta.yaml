@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/108/17bc172f1d2746b08f32759e0042f23e/artifacts
+end_time: 1676761044934
+entry_point_name: ''
+experiment_id: '108'
+lifecycle_stage: active
+run_id: 17bc172f1d2746b08f32759e0042f23e
+run_name: omniscient-fly-466
+run_uuid: 17bc172f1d2746b08f32759e0042f23e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676761038868
+status: 4
+tags: []
+user_id: louibo

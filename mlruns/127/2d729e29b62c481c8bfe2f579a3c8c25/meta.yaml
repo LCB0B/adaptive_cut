@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/127/2d729e29b62c481c8bfe2f579a3c8c25/artifacts
+end_time: 1676917125836
+entry_point_name: ''
+experiment_id: '127'
+lifecycle_stage: active
+run_id: 2d729e29b62c481c8bfe2f579a3c8c25
+run_name: skittish-gnu-957
+run_uuid: 2d729e29b62c481c8bfe2f579a3c8c25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676917073189
+status: 3
+tags: []
+user_id: louibo

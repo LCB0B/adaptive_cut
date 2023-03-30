@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/22/8038d25fd90a45a9a23100e4704ca074/artifacts
+end_time: 1670258454877
+entry_point_name: ''
+experiment_id: '22'
+lifecycle_stage: active
+run_id: 8038d25fd90a45a9a23100e4704ca074
+run_name: powerful-yak-233
+run_uuid: 8038d25fd90a45a9a23100e4704ca074
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670258163519
+status: 4
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/29/d70c1166042b4d61afcf9ffeb37e74ce/artifacts
+end_time: 1677008110971
+entry_point_name: ''
+experiment_id: '29'
+lifecycle_stage: active
+run_id: d70c1166042b4d61afcf9ffeb37e74ce
+run_name: loud-skink-101
+run_uuid: d70c1166042b4d61afcf9ffeb37e74ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677007953577
+status: 3
+tags: []
+user_id: louibo

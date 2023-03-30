@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/4/5d9e6fe9cb77475aa7cbb3762897891b/artifacts
+end_time: 1673980427760
+entry_point_name: ''
+experiment_id: '4'
+lifecycle_stage: active
+run_id: 5d9e6fe9cb77475aa7cbb3762897891b
+run_name: aged-dove-575
+run_uuid: 5d9e6fe9cb77475aa7cbb3762897891b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673980314215
+status: 3
+tags: []
+user_id: louibo

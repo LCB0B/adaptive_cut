@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/79e1663a86024e19a1c344fe259d28ab/artifacts
+end_time: 1673744752701
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 79e1663a86024e19a1c344fe259d28ab
+run_name: entertaining-kite-73
+run_uuid: 79e1663a86024e19a1c344fe259d28ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673744751412
+status: 3
+tags: []
+user_id: louibo

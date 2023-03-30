@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/13/7431c21fc6734c3995f2a9a19a4beb8c/artifacts
+end_time: 1674737886238
+entry_point_name: ''
+experiment_id: '13'
+lifecycle_stage: active
+run_id: 7431c21fc6734c3995f2a9a19a4beb8c
+run_name: grandiose-fowl-289
+run_uuid: 7431c21fc6734c3995f2a9a19a4beb8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674736910735
+status: 3
+tags: []
+user_id: louibo

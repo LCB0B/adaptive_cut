@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/95/d9f937c12d8b449580356c4ba4480f27/artifacts
+end_time: 1676872970143
+entry_point_name: ''
+experiment_id: '95'
+lifecycle_stage: active
+run_id: d9f937c12d8b449580356c4ba4480f27
+run_name: legendary-slug-218
+run_uuid: d9f937c12d8b449580356c4ba4480f27
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676871687667
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/69/c40aaead5cfe4e46a5c1854448b12aea/artifacts
+end_time: 1676895644141
+entry_point_name: ''
+experiment_id: '69'
+lifecycle_stage: active
+run_id: c40aaead5cfe4e46a5c1854448b12aea
+run_name: chill-moth-41
+run_uuid: c40aaead5cfe4e46a5c1854448b12aea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676895608564
+status: 3
+tags: []
+user_id: louibo

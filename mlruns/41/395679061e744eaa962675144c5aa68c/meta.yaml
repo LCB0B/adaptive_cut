@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/41/395679061e744eaa962675144c5aa68c/artifacts
+end_time: 1674759132521
+entry_point_name: ''
+experiment_id: '41'
+lifecycle_stage: active
+run_id: 395679061e744eaa962675144c5aa68c
+run_name: dapper-midge-507
+run_uuid: 395679061e744eaa962675144c5aa68c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674759083203
+status: 3
+tags: []
+user_id: louibo

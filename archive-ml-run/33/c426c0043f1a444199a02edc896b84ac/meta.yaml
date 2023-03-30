@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/33/c426c0043f1a444199a02edc896b84ac/artifacts
+end_time: 1673734841603
+entry_point_name: ''
+experiment_id: '33'
+lifecycle_stage: active
+run_id: c426c0043f1a444199a02edc896b84ac
+run_name: adaptable-bug-261
+run_uuid: c426c0043f1a444199a02edc896b84ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673734815180
+status: 3
+tags: []
+user_id: louibo

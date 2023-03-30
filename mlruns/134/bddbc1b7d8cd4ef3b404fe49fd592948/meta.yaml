@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/134/bddbc1b7d8cd4ef3b404fe49fd592948/artifacts
+end_time: 1676764671872
+entry_point_name: ''
+experiment_id: '134'
+lifecycle_stage: active
+run_id: bddbc1b7d8cd4ef3b404fe49fd592948
+run_name: selective-boar-815
+run_uuid: bddbc1b7d8cd4ef3b404fe49fd592948
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676763533636
+status: 3
+tags: []
+user_id: louibo

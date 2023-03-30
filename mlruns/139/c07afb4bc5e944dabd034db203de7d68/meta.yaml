@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/139/c07afb4bc5e944dabd034db203de7d68/artifacts
+end_time: 1676769086563
+entry_point_name: ''
+experiment_id: '139'
+lifecycle_stage: active
+run_id: c07afb4bc5e944dabd034db203de7d68
+run_name: exultant-newt-133
+run_uuid: c07afb4bc5e944dabd034db203de7d68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676769084354
+status: 4
+tags: []
+user_id: louibo

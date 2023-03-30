@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/42/8214ec8f58ca491db58e333ced07011e/artifacts
+end_time: 1676758674455
+entry_point_name: ''
+experiment_id: '42'
+lifecycle_stage: active
+run_id: 8214ec8f58ca491db58e333ced07011e
+run_name: bald-seal-82
+run_uuid: 8214ec8f58ca491db58e333ced07011e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676758663183
+status: 3
+tags: []
+user_id: louibo

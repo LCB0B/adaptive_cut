@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/8/52257d2257854b35996f31a512668838/artifacts
+end_time: 1676851466031
+entry_point_name: ''
+experiment_id: '8'
+lifecycle_stage: active
+run_id: 52257d2257854b35996f31a512668838
+run_name: clean-vole-118
+run_uuid: 52257d2257854b35996f31a512668838
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676851441672
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/12/d345bd536a924cb49b4ba58821d23e5a/artifacts
+end_time: 1676739406305
+entry_point_name: ''
+experiment_id: '12'
+lifecycle_stage: active
+run_id: d345bd536a924cb49b4ba58821d23e5a
+run_name: abundant-ox-616
+run_uuid: d345bd536a924cb49b4ba58821d23e5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676739324971
+status: 3
+tags: []
+user_id: louibo

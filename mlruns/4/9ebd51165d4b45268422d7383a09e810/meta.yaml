@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/4/9ebd51165d4b45268422d7383a09e810/artifacts
+end_time: 1674732310873
+entry_point_name: ''
+experiment_id: '4'
+lifecycle_stage: active
+run_id: 9ebd51165d4b45268422d7383a09e810
+run_name: zealous-fly-448
+run_uuid: 9ebd51165d4b45268422d7383a09e810
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674732293429
+status: 3
+tags: []
+user_id: louibo

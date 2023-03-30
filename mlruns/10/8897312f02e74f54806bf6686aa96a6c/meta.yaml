@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/10/8897312f02e74f54806bf6686aa96a6c/artifacts
+end_time: 1676851735663
+entry_point_name: ''
+experiment_id: '10'
+lifecycle_stage: active
+run_id: 8897312f02e74f54806bf6686aa96a6c
+run_name: calm-colt-36
+run_uuid: 8897312f02e74f54806bf6686aa96a6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676851700995
+status: 3
+tags: []
+user_id: louibo

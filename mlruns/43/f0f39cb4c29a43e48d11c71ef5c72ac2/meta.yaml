@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/43/f0f39cb4c29a43e48d11c71ef5c72ac2/artifacts
+end_time: 1674762535822
+entry_point_name: ''
+experiment_id: '43'
+lifecycle_stage: active
+run_id: f0f39cb4c29a43e48d11c71ef5c72ac2
+run_name: peaceful-robin-402
+run_uuid: f0f39cb4c29a43e48d11c71ef5c72ac2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674760891456
+status: 3
+tags: []
+user_id: louibo

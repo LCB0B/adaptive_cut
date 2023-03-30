@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/29/586960fd11894cb4bcfdf8635a35d3f7/artifacts
+end_time: 1674469465691
+entry_point_name: ''
+experiment_id: '29'
+lifecycle_stage: active
+run_id: 586960fd11894cb4bcfdf8635a35d3f7
+run_name: abundant-colt-332
+run_uuid: 586960fd11894cb4bcfdf8635a35d3f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674469301534
+status: 3
+tags: []
+user_id: louibo

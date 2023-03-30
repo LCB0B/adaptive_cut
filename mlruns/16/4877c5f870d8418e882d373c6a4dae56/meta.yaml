@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/16/4877c5f870d8418e882d373c6a4dae56/artifacts
+end_time: 1674066521498
+entry_point_name: ''
+experiment_id: '16'
+lifecycle_stage: active
+run_id: 4877c5f870d8418e882d373c6a4dae56
+run_name: sneaky-donkey-130
+run_uuid: 4877c5f870d8418e882d373c6a4dae56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674066199070
+status: 4
+tags: []
+user_id: louibo

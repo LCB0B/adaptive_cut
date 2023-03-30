@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/94/12531f282360461a8093e9007110e9d4/artifacts
+end_time: 1676753443963
+entry_point_name: ''
+experiment_id: '94'
+lifecycle_stage: active
+run_id: 12531f282360461a8093e9007110e9d4
+run_name: enchanting-tern-888
+run_uuid: 12531f282360461a8093e9007110e9d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676753409857
+status: 3
+tags: []
+user_id: louibo

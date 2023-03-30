@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/144/d9e37101e614437db3a7ad2b43331123/artifacts
+end_time: 1676772049328
+entry_point_name: ''
+experiment_id: '144'
+lifecycle_stage: active
+run_id: d9e37101e614437db3a7ad2b43331123
+run_name: treasured-bat-861
+run_uuid: d9e37101e614437db3a7ad2b43331123
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676772047630
+status: 3
+tags: []
+user_id: louibo

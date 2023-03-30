@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/52/dd98623702864ad18b5bf1005ee06535/artifacts
+end_time: 1676892127648
+entry_point_name: ''
+experiment_id: '52'
+lifecycle_stage: active
+run_id: dd98623702864ad18b5bf1005ee06535
+run_name: hilarious-roo-79
+run_uuid: dd98623702864ad18b5bf1005ee06535
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676891998569
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/68/ea1aa6a888004ae79654bd3f2f5516df/artifacts
+end_time: 1676739921014
+entry_point_name: ''
+experiment_id: '68'
+lifecycle_stage: active
+run_id: ea1aa6a888004ae79654bd3f2f5516df
+run_name: clean-hog-767
+run_uuid: ea1aa6a888004ae79654bd3f2f5516df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676739920452
+status: 3
+tags: []
+user_id: louibo

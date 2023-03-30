@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/104/3e956d3402cc40ce9d214666096719fe/artifacts
+end_time: 1676926414304
+entry_point_name: ''
+experiment_id: '104'
+lifecycle_stage: active
+run_id: 3e956d3402cc40ce9d214666096719fe
+run_name: brawny-ray-936
+run_uuid: 3e956d3402cc40ce9d214666096719fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676926237900
+status: 3
+tags: []
+user_id: louibo

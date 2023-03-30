@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/51/27c108e178f54b9487a08fbb6a2261fc/artifacts
+end_time: 1676824005542
+entry_point_name: ''
+experiment_id: '51'
+lifecycle_stage: active
+run_id: 27c108e178f54b9487a08fbb6a2261fc
+run_name: resilient-sheep-796
+run_uuid: 27c108e178f54b9487a08fbb6a2261fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676824005160
+status: 3
+tags: []
+user_id: louibo

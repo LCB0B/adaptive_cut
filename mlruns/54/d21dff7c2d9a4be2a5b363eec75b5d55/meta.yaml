@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/54/d21dff7c2d9a4be2a5b363eec75b5d55/artifacts
+end_time: 1676893637076
+entry_point_name: ''
+experiment_id: '54'
+lifecycle_stage: active
+run_id: d21dff7c2d9a4be2a5b363eec75b5d55
+run_name: stylish-grub-500
+run_uuid: d21dff7c2d9a4be2a5b363eec75b5d55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676893532585
+status: 3
+tags: []
+user_id: louibo

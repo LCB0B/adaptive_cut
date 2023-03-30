@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/110/2725e71fc6004099bac87f0f7e084eb3/artifacts
+end_time: 1676756292321
+entry_point_name: ''
+experiment_id: '110'
+lifecycle_stage: active
+run_id: 2725e71fc6004099bac87f0f7e084eb3
+run_name: big-toad-352
+run_uuid: 2725e71fc6004099bac87f0f7e084eb3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676756291890
+status: 4
+tags: []
+user_id: louibo

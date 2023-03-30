@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/15/955992e104e34dabbd0045c51a5fc316/artifacts
+end_time: 1674056245547
+entry_point_name: ''
+experiment_id: '15'
+lifecycle_stage: active
+run_id: 955992e104e34dabbd0045c51a5fc316
+run_name: bold-yak-318
+run_uuid: 955992e104e34dabbd0045c51a5fc316
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674056242418
+status: 3
+tags: []
+user_id: louibo

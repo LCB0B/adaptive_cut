@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/29/747ebb3a128140d084536cf83aaa9742/artifacts
+end_time: 1673872303060
+entry_point_name: ''
+experiment_id: '29'
+lifecycle_stage: active
+run_id: 747ebb3a128140d084536cf83aaa9742
+run_name: grandiose-hound-808
+run_uuid: 747ebb3a128140d084536cf83aaa9742
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673872147483
+status: 3
+tags: []
+user_id: louibo

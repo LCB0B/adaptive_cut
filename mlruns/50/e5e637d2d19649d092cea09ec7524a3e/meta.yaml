@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/50/e5e637d2d19649d092cea09ec7524a3e/artifacts
+end_time: 1676757470180
+entry_point_name: ''
+experiment_id: '50'
+lifecycle_stage: active
+run_id: e5e637d2d19649d092cea09ec7524a3e
+run_name: clumsy-kite-12
+run_uuid: e5e637d2d19649d092cea09ec7524a3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676757125963
+status: 3
+tags: []
+user_id: louibo

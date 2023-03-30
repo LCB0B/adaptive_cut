@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/4/daa7f99d7712405aba68039d27aed9fd/artifacts
+end_time: 1676735473646
+entry_point_name: ''
+experiment_id: '4'
+lifecycle_stage: active
+run_id: daa7f99d7712405aba68039d27aed9fd
+run_name: big-hare-15
+run_uuid: daa7f99d7712405aba68039d27aed9fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676735413014
+status: 3
+tags: []
+user_id: louibo

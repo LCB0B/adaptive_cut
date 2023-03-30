@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/96/d0d01f99d58044f1a2ab07b098c71d7a/artifacts
+end_time: 1676907117605
+entry_point_name: ''
+experiment_id: '96'
+lifecycle_stage: active
+run_id: d0d01f99d58044f1a2ab07b098c71d7a
+run_name: abrasive-chimp-578
+run_uuid: d0d01f99d58044f1a2ab07b098c71d7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676907067977
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/34/60c9133cd3e3411f91bbc0821c84aa8e/artifacts
+end_time: 1674080485669
+entry_point_name: ''
+experiment_id: '34'
+lifecycle_stage: active
+run_id: 60c9133cd3e3411f91bbc0821c84aa8e
+run_name: inquisitive-snail-83
+run_uuid: 60c9133cd3e3411f91bbc0821c84aa8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674080442664
+status: 3
+tags: []
+user_id: louibo

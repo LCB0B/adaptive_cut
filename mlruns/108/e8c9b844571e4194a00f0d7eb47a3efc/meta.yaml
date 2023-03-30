@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/108/e8c9b844571e4194a00f0d7eb47a3efc/artifacts
+end_time: 1676867668698
+entry_point_name: ''
+experiment_id: '108'
+lifecycle_stage: active
+run_id: e8c9b844571e4194a00f0d7eb47a3efc
+run_name: enthused-crow-816
+run_uuid: e8c9b844571e4194a00f0d7eb47a3efc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676867668470
+status: 3
+tags: []
+user_id: louibo

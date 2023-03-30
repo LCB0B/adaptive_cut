@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/bfc723681037418b9bf36d585210628e/artifacts
+end_time: 1673743422757
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: bfc723681037418b9bf36d585210628e
+run_name: fearless-rook-420
+run_uuid: bfc723681037418b9bf36d585210628e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673743421545
+status: 3
+tags: []
+user_id: louibo

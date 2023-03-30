@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/144/c7d821bb0f9f4e2399e8ebf9b4651e37/artifacts
+end_time: 1676983142363
+entry_point_name: ''
+experiment_id: '144'
+lifecycle_stage: active
+run_id: c7d821bb0f9f4e2399e8ebf9b4651e37
+run_name: sneaky-midge-727
+run_uuid: c7d821bb0f9f4e2399e8ebf9b4651e37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676983131486
+status: 3
+tags: []
+user_id: louibo

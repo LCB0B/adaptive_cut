@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/3/ac83a0fa093f4033b15d0a8888874f18/artifacts
+end_time: 1674732397621
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+run_id: ac83a0fa093f4033b15d0a8888874f18
+run_name: exultant-fowl-486
+run_uuid: ac83a0fa093f4033b15d0a8888874f18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674732397587
+status: 4
+tags: []
+user_id: louibo

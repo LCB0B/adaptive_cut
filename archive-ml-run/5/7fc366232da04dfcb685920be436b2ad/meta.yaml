@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/5/7fc366232da04dfcb685920be436b2ad/artifacts
+end_time: 1673980905701
+entry_point_name: ''
+experiment_id: '5'
+lifecycle_stage: active
+run_id: 7fc366232da04dfcb685920be436b2ad
+run_name: exultant-bird-31
+run_uuid: 7fc366232da04dfcb685920be436b2ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673980901366
+status: 3
+tags: []
+user_id: louibo

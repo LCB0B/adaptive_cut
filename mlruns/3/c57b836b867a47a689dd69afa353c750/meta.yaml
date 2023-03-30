@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/3/c57b836b867a47a689dd69afa353c750/artifacts
+end_time: 1676850313220
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+run_id: c57b836b867a47a689dd69afa353c750
+run_name: bald-lark-542
+run_uuid: c57b836b867a47a689dd69afa353c750
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676850313146
+status: 4
+tags: []
+user_id: louibo

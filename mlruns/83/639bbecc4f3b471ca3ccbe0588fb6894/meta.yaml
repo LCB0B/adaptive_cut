@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/83/639bbecc4f3b471ca3ccbe0588fb6894/artifacts
+end_time: 1676746987312
+entry_point_name: ''
+experiment_id: '83'
+lifecycle_stage: active
+run_id: 639bbecc4f3b471ca3ccbe0588fb6894
+run_name: rumbling-turtle-523
+run_uuid: 639bbecc4f3b471ca3ccbe0588fb6894
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676746984653
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/149/224cc1fa2bdd402cb24960f255c675aa/artifacts
+end_time: 1676795274100
+entry_point_name: ''
+experiment_id: '149'
+lifecycle_stage: active
+run_id: 224cc1fa2bdd402cb24960f255c675aa
+run_name: fearless-elk-73
+run_uuid: 224cc1fa2bdd402cb24960f255c675aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676795267714
+status: 3
+tags: []
+user_id: louibo

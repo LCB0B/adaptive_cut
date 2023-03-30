@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/1/181fe1956a7947609adb334896e7755e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 181fe1956a7947609adb334896e7755e
+run_name: thoughtful-yak-795
+run_uuid: 181fe1956a7947609adb334896e7755e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674001139423
+status: 1
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/107/7657bb6b50b8416282eab01a53cf90fa/artifacts
+end_time: 1676882363994
+entry_point_name: ''
+experiment_id: '107'
+lifecycle_stage: active
+run_id: 7657bb6b50b8416282eab01a53cf90fa
+run_name: ambitious-grouse-306
+run_uuid: 7657bb6b50b8416282eab01a53cf90fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676882252190
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/13/a651257921da4115a03895bde570ef98/artifacts
+end_time: 1674060131349
+entry_point_name: ''
+experiment_id: '13'
+lifecycle_stage: active
+run_id: a651257921da4115a03895bde570ef98
+run_name: redolent-grub-918
+run_uuid: a651257921da4115a03895bde570ef98
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674059625270
+status: 3
+tags: []
+user_id: louibo

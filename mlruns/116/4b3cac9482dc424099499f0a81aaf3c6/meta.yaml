@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/116/4b3cac9482dc424099499f0a81aaf3c6/artifacts
+end_time: 1676884987965
+entry_point_name: ''
+experiment_id: '116'
+lifecycle_stage: active
+run_id: 4b3cac9482dc424099499f0a81aaf3c6
+run_name: respected-conch-581
+run_uuid: 4b3cac9482dc424099499f0a81aaf3c6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676884780547
+status: 3
+tags: []
+user_id: louibo

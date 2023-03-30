@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/1/50e2adf8dc594c2581ccff8079601633/artifacts
+end_time: 1674742725314
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 50e2adf8dc594c2581ccff8079601633
+run_name: auspicious-moose-246
+run_uuid: 50e2adf8dc594c2581ccff8079601633
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674742251795
+status: 3
+tags: []
+user_id: louibo

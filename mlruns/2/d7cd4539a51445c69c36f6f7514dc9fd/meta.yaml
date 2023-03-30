@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/d7cd4539a51445c69c36f6f7514dc9fd/artifacts
+end_time: 1673744152091
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: d7cd4539a51445c69c36f6f7514dc9fd
+run_name: gaudy-boar-654
+run_uuid: d7cd4539a51445c69c36f6f7514dc9fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673744151721
+status: 4
+tags: []
+user_id: louibo

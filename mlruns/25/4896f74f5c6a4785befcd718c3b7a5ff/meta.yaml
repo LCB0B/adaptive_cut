@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/25/4896f74f5c6a4785befcd718c3b7a5ff/artifacts
+end_time: 1674084410608
+entry_point_name: ''
+experiment_id: '25'
+lifecycle_stage: active
+run_id: 4896f74f5c6a4785befcd718c3b7a5ff
+run_name: fearless-wren-399
+run_uuid: 4896f74f5c6a4785befcd718c3b7a5ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674084191294
+status: 3
+tags: []
+user_id: louibo

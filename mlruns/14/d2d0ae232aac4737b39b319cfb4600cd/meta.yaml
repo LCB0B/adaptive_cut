@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/14/d2d0ae232aac4737b39b319cfb4600cd/artifacts
+end_time: 1674736894259
+entry_point_name: ''
+experiment_id: '14'
+lifecycle_stage: active
+run_id: d2d0ae232aac4737b39b319cfb4600cd
+run_name: adaptable-moose-683
+run_uuid: d2d0ae232aac4737b39b319cfb4600cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674736569071
+status: 3
+tags: []
+user_id: louibo

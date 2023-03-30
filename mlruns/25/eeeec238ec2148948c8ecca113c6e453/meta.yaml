@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/25/eeeec238ec2148948c8ecca113c6e453/artifacts
+end_time: 1676857296492
+entry_point_name: ''
+experiment_id: '25'
+lifecycle_stage: active
+run_id: eeeec238ec2148948c8ecca113c6e453
+run_name: resilient-mule-60
+run_uuid: eeeec238ec2148948c8ecca113c6e453
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676857222033
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/4/a0c0a6cf9f2d4f95b7fd2a7f61d0bed3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '4'
+lifecycle_stage: active
+run_id: a0c0a6cf9f2d4f95b7fd2a7f61d0bed3
+run_name: popular-shrike-351
+run_uuid: a0c0a6cf9f2d4f95b7fd2a7f61d0bed3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674491791636
+status: 1
+tags: []
+user_id: louibo

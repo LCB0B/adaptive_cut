@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/31/645a5f03acaa4788bff3313ce4c8ede5/artifacts
+end_time: 1674762554582
+entry_point_name: ''
+experiment_id: '31'
+lifecycle_stage: active
+run_id: 645a5f03acaa4788bff3313ce4c8ede5
+run_name: bustling-fly-426
+run_uuid: 645a5f03acaa4788bff3313ce4c8ede5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674762549139
+status: 3
+tags: []
+user_id: louibo

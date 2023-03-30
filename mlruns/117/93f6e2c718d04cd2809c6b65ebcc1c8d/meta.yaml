@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/117/93f6e2c718d04cd2809c6b65ebcc1c8d/artifacts
+end_time: 1676870230909
+entry_point_name: ''
+experiment_id: '117'
+lifecycle_stage: active
+run_id: 93f6e2c718d04cd2809c6b65ebcc1c8d
+run_name: zealous-shrew-397
+run_uuid: 93f6e2c718d04cd2809c6b65ebcc1c8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676870230333
+status: 3
+tags: []
+user_id: louibo

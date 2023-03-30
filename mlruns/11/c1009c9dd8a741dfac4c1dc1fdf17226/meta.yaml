@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/11/c1009c9dd8a741dfac4c1dc1fdf17226/artifacts
+end_time: 1674055186077
+entry_point_name: ''
+experiment_id: '11'
+lifecycle_stage: active
+run_id: c1009c9dd8a741dfac4c1dc1fdf17226
+run_name: silent-shad-35
+run_uuid: c1009c9dd8a741dfac4c1dc1fdf17226
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674054648005
+status: 3
+tags: []
+user_id: louibo

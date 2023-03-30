@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/54/64d4e79acb22489b9f0d29a0d8eeaa71/artifacts
+end_time: 1676849350795
+entry_point_name: ''
+experiment_id: '54'
+lifecycle_stage: active
+run_id: 64d4e79acb22489b9f0d29a0d8eeaa71
+run_name: capable-mare-208
+run_uuid: 64d4e79acb22489b9f0d29a0d8eeaa71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676849332701
+status: 3
+tags: []
+user_id: louibo

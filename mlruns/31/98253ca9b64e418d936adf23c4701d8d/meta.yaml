@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/31/98253ca9b64e418d936adf23c4701d8d/artifacts
+end_time: 1674760805851
+entry_point_name: ''
+experiment_id: '31'
+lifecycle_stage: active
+run_id: 98253ca9b64e418d936adf23c4701d8d
+run_name: bouncy-robin-48
+run_uuid: 98253ca9b64e418d936adf23c4701d8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674760804056
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/97/8a9eefc36e434647a574ea17e69b997a/artifacts
+end_time: 1676859556213
+entry_point_name: ''
+experiment_id: '97'
+lifecycle_stage: active
+run_id: 8a9eefc36e434647a574ea17e69b997a
+run_name: bemused-toad-312
+run_uuid: 8a9eefc36e434647a574ea17e69b997a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676859550176
+status: 3
+tags: []
+user_id: louibo

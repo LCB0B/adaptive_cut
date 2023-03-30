@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/152e751ec76d4ded90ba944305f75000/artifacts
+end_time: 1674752669899
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 152e751ec76d4ded90ba944305f75000
+run_name: receptive-hen-167
+run_uuid: 152e751ec76d4ded90ba944305f75000
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674752668699
+status: 3
+tags: []
+user_id: louibo

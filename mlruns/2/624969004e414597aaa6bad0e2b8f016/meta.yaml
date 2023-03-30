@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/624969004e414597aaa6bad0e2b8f016/artifacts
+end_time: 1670251168910
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 624969004e414597aaa6bad0e2b8f016
+run_name: skittish-snake-223
+run_uuid: 624969004e414597aaa6bad0e2b8f016
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670251167471
+status: 3
+tags: []
+user_id: louibo

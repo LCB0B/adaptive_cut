@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/17/e8fb86970d0f48099537edb8201f451b/artifacts
+end_time: 1676857364277
+entry_point_name: ''
+experiment_id: '17'
+lifecycle_stage: active
+run_id: e8fb86970d0f48099537edb8201f451b
+run_name: skittish-gnat-692
+run_uuid: e8fb86970d0f48099537edb8201f451b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676857346901
+status: 3
+tags: []
+user_id: louibo

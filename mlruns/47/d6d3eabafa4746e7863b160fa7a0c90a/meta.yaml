@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/47/d6d3eabafa4746e7863b160fa7a0c90a/artifacts
+end_time: 1674088597842
+entry_point_name: ''
+experiment_id: '47'
+lifecycle_stage: active
+run_id: d6d3eabafa4746e7863b160fa7a0c90a
+run_name: rebellious-wolf-877
+run_uuid: d6d3eabafa4746e7863b160fa7a0c90a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674088563413
+status: 3
+tags: []
+user_id: louibo

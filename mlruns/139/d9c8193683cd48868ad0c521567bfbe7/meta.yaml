@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/139/d9c8193683cd48868ad0c521567bfbe7/artifacts
+end_time: 1676869889336
+entry_point_name: ''
+experiment_id: '139'
+lifecycle_stage: active
+run_id: d9c8193683cd48868ad0c521567bfbe7
+run_name: unequaled-skink-315
+run_uuid: d9c8193683cd48868ad0c521567bfbe7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676869853050
+status: 3
+tags: []
+user_id: louibo

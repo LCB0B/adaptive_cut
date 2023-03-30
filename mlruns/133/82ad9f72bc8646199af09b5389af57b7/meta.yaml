@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/133/82ad9f72bc8646199af09b5389af57b7/artifacts
+end_time: 1676874256292
+entry_point_name: ''
+experiment_id: '133'
+lifecycle_stage: active
+run_id: 82ad9f72bc8646199af09b5389af57b7
+run_name: secretive-kite-20
+run_uuid: 82ad9f72bc8646199af09b5389af57b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676874255324
+status: 3
+tags: []
+user_id: louibo

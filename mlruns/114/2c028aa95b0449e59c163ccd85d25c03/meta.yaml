@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/114/2c028aa95b0449e59c163ccd85d25c03/artifacts
+end_time: 1676868093836
+entry_point_name: ''
+experiment_id: '114'
+lifecycle_stage: active
+run_id: 2c028aa95b0449e59c163ccd85d25c03
+run_name: upbeat-stork-95
+run_uuid: 2c028aa95b0449e59c163ccd85d25c03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676868092888
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/33/5bf216f15c10433a9a10dfddfeb4bff2/artifacts
+end_time: 1673990090572
+entry_point_name: ''
+experiment_id: '33'
+lifecycle_stage: active
+run_id: 5bf216f15c10433a9a10dfddfeb4bff2
+run_name: enchanting-gull-673
+run_uuid: 5bf216f15c10433a9a10dfddfeb4bff2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673990069528
+status: 3
+tags: []
+user_id: louibo

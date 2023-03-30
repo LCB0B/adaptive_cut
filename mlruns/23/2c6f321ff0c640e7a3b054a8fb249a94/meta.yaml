@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/23/2c6f321ff0c640e7a3b054a8fb249a94/artifacts
+end_time: 1674750668880
+entry_point_name: ''
+experiment_id: '23'
+lifecycle_stage: active
+run_id: 2c6f321ff0c640e7a3b054a8fb249a94
+run_name: awesome-sheep-804
+run_uuid: 2c6f321ff0c640e7a3b054a8fb249a94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674750641181
+status: 3
+tags: []
+user_id: louibo

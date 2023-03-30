@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/72/f5885923190e43f9881d7d2115f3ff59/artifacts
+end_time: 1676895774550
+entry_point_name: ''
+experiment_id: '72'
+lifecycle_stage: active
+run_id: f5885923190e43f9881d7d2115f3ff59
+run_name: bouncy-auk-896
+run_uuid: f5885923190e43f9881d7d2115f3ff59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676895745300
+status: 3
+tags: []
+user_id: louibo

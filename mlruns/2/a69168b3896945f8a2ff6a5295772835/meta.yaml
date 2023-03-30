@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/a69168b3896945f8a2ff6a5295772835/artifacts
+end_time: 1670250047857
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: a69168b3896945f8a2ff6a5295772835
+run_name: skillful-foal-371
+run_uuid: a69168b3896945f8a2ff6a5295772835
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670250046347
+status: 3
+tags: []
+user_id: louibo

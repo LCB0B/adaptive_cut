@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/16/d982be29bd234f5fa74551fb9e1032b4/artifacts
+end_time: 1673984510032
+entry_point_name: ''
+experiment_id: '16'
+lifecycle_stage: active
+run_id: d982be29bd234f5fa74551fb9e1032b4
+run_name: smiling-squirrel-801
+run_uuid: d982be29bd234f5fa74551fb9e1032b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673984049091
+status: 3
+tags: []
+user_id: louibo

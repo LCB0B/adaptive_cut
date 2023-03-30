@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/33/9a91ef5be0ac42afb2556f29b585c44b/artifacts
+end_time: 1674008008627
+entry_point_name: ''
+experiment_id: '33'
+lifecycle_stage: active
+run_id: 9a91ef5be0ac42afb2556f29b585c44b
+run_name: abundant-goose-516
+run_uuid: 9a91ef5be0ac42afb2556f29b585c44b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674007995979
+status: 3
+tags: []
+user_id: louibo

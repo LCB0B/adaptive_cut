@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/30/e20c13be05344f39acf97e3425517e7b/artifacts
+end_time: 1676870110825
+entry_point_name: ''
+experiment_id: '30'
+lifecycle_stage: active
+run_id: e20c13be05344f39acf97e3425517e7b
+run_name: exultant-shoat-601
+run_uuid: e20c13be05344f39acf97e3425517e7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676870110460
+status: 3
+tags: []
+user_id: louibo

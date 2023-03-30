@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/cb483d78c3854a019f1804d5d1aa494e/artifacts
+end_time: 1674075735605
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: cb483d78c3854a019f1804d5d1aa494e
+run_name: casual-sloth-105
+run_uuid: cb483d78c3854a019f1804d5d1aa494e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674075734522
+status: 3
+tags: []
+user_id: louibo

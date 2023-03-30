@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/64/1d13bd00f1bd4523877136f30f2de938/artifacts
+end_time: 1676893761640
+entry_point_name: ''
+experiment_id: '64'
+lifecycle_stage: active
+run_id: 1d13bd00f1bd4523877136f30f2de938
+run_name: grandiose-hawk-119
+run_uuid: 1d13bd00f1bd4523877136f30f2de938
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676893487051
+status: 3
+tags: []
+user_id: louibo

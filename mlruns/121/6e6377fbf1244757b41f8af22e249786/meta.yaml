@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/121/6e6377fbf1244757b41f8af22e249786/artifacts
+end_time: 1676763663531
+entry_point_name: ''
+experiment_id: '121'
+lifecycle_stage: active
+run_id: 6e6377fbf1244757b41f8af22e249786
+run_name: judicious-stork-151
+run_uuid: 6e6377fbf1244757b41f8af22e249786
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676763655244
+status: 4
+tags: []
+user_id: louibo

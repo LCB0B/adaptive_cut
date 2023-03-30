@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/82/29cdeb9aff404daab1324aa9770e8707/artifacts
+end_time: 1676747055973
+entry_point_name: ''
+experiment_id: '82'
+lifecycle_stage: active
+run_id: 29cdeb9aff404daab1324aa9770e8707
+run_name: useful-calf-98
+run_uuid: 29cdeb9aff404daab1324aa9770e8707
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676747055899
+status: 4
+tags: []
+user_id: louibo

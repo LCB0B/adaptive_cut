@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/51/5fc8891342374161ab7bd6f6217294f3/artifacts
+end_time: 1676849026643
+entry_point_name: ''
+experiment_id: '51'
+lifecycle_stage: active
+run_id: 5fc8891342374161ab7bd6f6217294f3
+run_name: abrasive-shark-701
+run_uuid: 5fc8891342374161ab7bd6f6217294f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676849026231
+status: 3
+tags: []
+user_id: louibo

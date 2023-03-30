@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/22/82d260d9476e4e89b4dcbe7d4788b895/artifacts
+end_time: 1673986624841
+entry_point_name: ''
+experiment_id: '22'
+lifecycle_stage: active
+run_id: 82d260d9476e4e89b4dcbe7d4788b895
+run_name: carefree-cod-93
+run_uuid: 82d260d9476e4e89b4dcbe7d4788b895
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673986282151
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/5/c1d27b6bc0524bfeb44df609505bd8dc/artifacts
+end_time: 1676893072368
+entry_point_name: ''
+experiment_id: '5'
+lifecycle_stage: active
+run_id: c1d27b6bc0524bfeb44df609505bd8dc
+run_name: unleashed-bird-520
+run_uuid: c1d27b6bc0524bfeb44df609505bd8dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676893068613
+status: 3
+tags: []
+user_id: louibo

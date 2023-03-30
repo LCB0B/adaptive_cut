@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/0e0d4c145ae649fea674779d17555b19/artifacts
+end_time: 1676756588713
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 0e0d4c145ae649fea674779d17555b19
+run_name: omniscient-eel-851
+run_uuid: 0e0d4c145ae649fea674779d17555b19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676756587430
+status: 3
+tags: []
+user_id: louibo

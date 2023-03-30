@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/89/08c725e9e6c54f218e71f5f2fbe67290/artifacts
+end_time: 1676743317777
+entry_point_name: ''
+experiment_id: '89'
+lifecycle_stage: active
+run_id: 08c725e9e6c54f218e71f5f2fbe67290
+run_name: worried-tern-656
+run_uuid: 08c725e9e6c54f218e71f5f2fbe67290
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676743316719
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/115/ae7e92321b4248928566fc1c46f53c8a/artifacts
+end_time: 1676751832586
+entry_point_name: ''
+experiment_id: '115'
+lifecycle_stage: active
+run_id: ae7e92321b4248928566fc1c46f53c8a
+run_name: aged-wren-302
+run_uuid: ae7e92321b4248928566fc1c46f53c8a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676751832474
+status: 4
+tags: []
+user_id: louibo

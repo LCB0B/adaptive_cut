@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/31/73896a9c7cdb4afd9600566de8c60058/artifacts
+end_time: 1673723353190
+entry_point_name: ''
+experiment_id: '31'
+lifecycle_stage: active
+run_id: 73896a9c7cdb4afd9600566de8c60058
+run_name: amazing-gull-31
+run_uuid: 73896a9c7cdb4afd9600566de8c60058
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673723353173
+status: 4
+tags: []
+user_id: louibo

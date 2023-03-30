@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/10/722457ecea404142a8f16074425f304f/artifacts
+end_time: 1673972789227
+entry_point_name: ''
+experiment_id: '10'
+lifecycle_stage: active
+run_id: 722457ecea404142a8f16074425f304f
+run_name: blushing-bear-923
+run_uuid: 722457ecea404142a8f16074425f304f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673972776354
+status: 3
+tags: []
+user_id: louibo

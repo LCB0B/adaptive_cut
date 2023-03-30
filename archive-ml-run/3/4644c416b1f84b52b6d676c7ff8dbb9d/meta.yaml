@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/3/4644c416b1f84b52b6d676c7ff8dbb9d/artifacts
+end_time: 1669218524625
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+run_id: 4644c416b1f84b52b6d676c7ff8dbb9d
+run_name: sincere-penguin-128
+run_uuid: 4644c416b1f84b52b6d676c7ff8dbb9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669218524612
+status: 4
+tags: []
+user_id: louibo

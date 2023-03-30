@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/33/70020766a2f7456eaf4b8445ca646daf/artifacts
+end_time: 1673736690882
+entry_point_name: ''
+experiment_id: '33'
+lifecycle_stage: active
+run_id: 70020766a2f7456eaf4b8445ca646daf
+run_name: upset-snail-864
+run_uuid: 70020766a2f7456eaf4b8445ca646daf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673736674896
+status: 3
+tags: []
+user_id: louibo

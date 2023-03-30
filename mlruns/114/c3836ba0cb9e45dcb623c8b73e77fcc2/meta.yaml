@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/114/c3836ba0cb9e45dcb623c8b73e77fcc2/artifacts
+end_time: 1676882786650
+entry_point_name: ''
+experiment_id: '114'
+lifecycle_stage: active
+run_id: c3836ba0cb9e45dcb623c8b73e77fcc2
+run_name: debonair-robin-724
+run_uuid: c3836ba0cb9e45dcb623c8b73e77fcc2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676882786372
+status: 3
+tags: []
+user_id: louibo

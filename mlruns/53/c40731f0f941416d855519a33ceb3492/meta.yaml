@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/53/c40731f0f941416d855519a33ceb3492/artifacts
+end_time: 1676850403470
+entry_point_name: ''
+experiment_id: '53'
+lifecycle_stage: active
+run_id: c40731f0f941416d855519a33ceb3492
+run_name: flawless-kit-497
+run_uuid: c40731f0f941416d855519a33ceb3492
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676850403252
+status: 3
+tags: []
+user_id: louibo

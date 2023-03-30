@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/24/7b20e28237444014bb701ffcca6fb33c/artifacts
+end_time: 1676748591512
+entry_point_name: ''
+experiment_id: '24'
+lifecycle_stage: active
+run_id: 7b20e28237444014bb701ffcca6fb33c
+run_name: thundering-mare-657
+run_uuid: 7b20e28237444014bb701ffcca6fb33c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676748095664
+status: 3
+tags: []
+user_id: louibo

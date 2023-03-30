@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/8/d64d9aaf47944525b5d4566c3bc060cc/artifacts
+end_time: 1676895499904
+entry_point_name: ''
+experiment_id: '8'
+lifecycle_stage: active
+run_id: d64d9aaf47944525b5d4566c3bc060cc
+run_name: treasured-asp-480
+run_uuid: d64d9aaf47944525b5d4566c3bc060cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676895475516
+status: 3
+tags: []
+user_id: louibo

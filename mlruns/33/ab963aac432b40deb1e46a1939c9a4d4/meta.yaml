@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/33/ab963aac432b40deb1e46a1939c9a4d4/artifacts
+end_time: 1673735313116
+entry_point_name: ''
+experiment_id: '33'
+lifecycle_stage: active
+run_id: ab963aac432b40deb1e46a1939c9a4d4
+run_name: upset-newt-386
+run_uuid: ab963aac432b40deb1e46a1939c9a4d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673735303263
+status: 3
+tags: []
+user_id: louibo

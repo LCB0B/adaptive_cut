@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/25/df7def6c6a48420dbe06035538d4be9f/artifacts
+end_time: 1674082858570
+entry_point_name: ''
+experiment_id: '25'
+lifecycle_stage: active
+run_id: df7def6c6a48420dbe06035538d4be9f
+run_name: sneaky-grouse-314
+run_uuid: df7def6c6a48420dbe06035538d4be9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674082672011
+status: 3
+tags: []
+user_id: louibo

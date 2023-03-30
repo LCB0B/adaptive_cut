@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/3/ba8a55d86d5e415abea9c36bddd43ffc/artifacts
+end_time: 1672594810792
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+run_id: ba8a55d86d5e415abea9c36bddd43ffc
+run_name: invincible-slug-194
+run_uuid: ba8a55d86d5e415abea9c36bddd43ffc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672594810780
+status: 4
+tags: []
+user_id: louibo

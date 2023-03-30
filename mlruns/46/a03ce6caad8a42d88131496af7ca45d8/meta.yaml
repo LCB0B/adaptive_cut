@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/46/a03ce6caad8a42d88131496af7ca45d8/artifacts
+end_time: 1676757494903
+entry_point_name: ''
+experiment_id: '46'
+lifecycle_stage: active
+run_id: a03ce6caad8a42d88131496af7ca45d8
+run_name: nervous-bear-958
+run_uuid: a03ce6caad8a42d88131496af7ca45d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676757476666
+status: 3
+tags: []
+user_id: louibo

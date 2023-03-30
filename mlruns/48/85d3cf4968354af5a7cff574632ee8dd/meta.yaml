@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/48/85d3cf4968354af5a7cff574632ee8dd/artifacts
+end_time: 1674080103320
+entry_point_name: ''
+experiment_id: '48'
+lifecycle_stage: active
+run_id: 85d3cf4968354af5a7cff574632ee8dd
+run_name: wise-lynx-973
+run_uuid: 85d3cf4968354af5a7cff574632ee8dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674080049757
+status: 3
+tags: []
+user_id: louibo

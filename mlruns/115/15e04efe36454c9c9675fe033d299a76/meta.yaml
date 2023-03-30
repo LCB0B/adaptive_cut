@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/115/15e04efe36454c9c9675fe033d299a76/artifacts
+end_time: 1676935391634
+entry_point_name: ''
+experiment_id: '115'
+lifecycle_stage: active
+run_id: 15e04efe36454c9c9675fe033d299a76
+run_name: intrigued-perch-513
+run_uuid: 15e04efe36454c9c9675fe033d299a76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676935344911
+status: 3
+tags: []
+user_id: louibo

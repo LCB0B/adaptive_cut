@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/d68e0fb687aa4996b4e284ca192bfbce/artifacts
+end_time: 1672596112060
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: d68e0fb687aa4996b4e284ca192bfbce
+run_name: lyrical-shrimp-848
+run_uuid: d68e0fb687aa4996b4e284ca192bfbce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672596107616
+status: 4
+tags: []
+user_id: louibo

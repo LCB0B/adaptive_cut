@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/41/ec53dde3a36b4b17a415aecfb168bee0/artifacts
+end_time: 1673990763854
+entry_point_name: ''
+experiment_id: '41'
+lifecycle_stage: active
+run_id: ec53dde3a36b4b17a415aecfb168bee0
+run_name: dapper-swan-497
+run_uuid: ec53dde3a36b4b17a415aecfb168bee0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673990733030
+status: 3
+tags: []
+user_id: louibo

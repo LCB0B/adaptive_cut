@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/8/b1a492ac74fa4601bb81755c9376e63c/artifacts
+end_time: 1676741523125
+entry_point_name: ''
+experiment_id: '8'
+lifecycle_stage: active
+run_id: b1a492ac74fa4601bb81755c9376e63c
+run_name: powerful-bass-402
+run_uuid: b1a492ac74fa4601bb81755c9376e63c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676741406257
+status: 3
+tags: []
+user_id: louibo

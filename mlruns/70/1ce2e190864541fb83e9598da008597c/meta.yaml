@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/70/1ce2e190864541fb83e9598da008597c/artifacts
+end_time: 1676851593804
+entry_point_name: ''
+experiment_id: '70'
+lifecycle_stage: active
+run_id: 1ce2e190864541fb83e9598da008597c
+run_name: unleashed-pug-248
+run_uuid: 1ce2e190864541fb83e9598da008597c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676851593728
+status: 4
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/146/9e2158dd5b1641de866b6165ef385d5f/artifacts
+end_time: 1676898918679
+entry_point_name: ''
+experiment_id: '146'
+lifecycle_stage: active
+run_id: 9e2158dd5b1641de866b6165ef385d5f
+run_name: rambunctious-gnu-930
+run_uuid: 9e2158dd5b1641de866b6165ef385d5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676898907982
+status: 3
+tags: []
+user_id: louibo

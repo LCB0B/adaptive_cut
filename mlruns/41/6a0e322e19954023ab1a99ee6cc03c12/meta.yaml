@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/41/6a0e322e19954023ab1a99ee6cc03c12/artifacts
+end_time: 1676875766514
+entry_point_name: ''
+experiment_id: '41'
+lifecycle_stage: active
+run_id: 6a0e322e19954023ab1a99ee6cc03c12
+run_name: unruly-mare-102
+run_uuid: 6a0e322e19954023ab1a99ee6cc03c12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676875719535
+status: 3
+tags: []
+user_id: louibo

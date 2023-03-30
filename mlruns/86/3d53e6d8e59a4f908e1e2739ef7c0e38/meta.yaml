@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/86/3d53e6d8e59a4f908e1e2739ef7c0e38/artifacts
+end_time: 1676868622253
+entry_point_name: ''
+experiment_id: '86'
+lifecycle_stage: active
+run_id: 3d53e6d8e59a4f908e1e2739ef7c0e38
+run_name: skillful-dolphin-520
+run_uuid: 3d53e6d8e59a4f908e1e2739ef7c0e38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676868583407
+status: 3
+tags: []
+user_id: louibo

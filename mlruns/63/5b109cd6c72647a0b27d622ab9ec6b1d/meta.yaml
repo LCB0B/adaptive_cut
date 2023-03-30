@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/63/5b109cd6c72647a0b27d622ab9ec6b1d/artifacts
+end_time: 1676893361400
+entry_point_name: ''
+experiment_id: '63'
+lifecycle_stage: active
+run_id: 5b109cd6c72647a0b27d622ab9ec6b1d
+run_name: nebulous-shark-473
+run_uuid: 5b109cd6c72647a0b27d622ab9ec6b1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676893265226
+status: 3
+tags: []
+user_id: louibo

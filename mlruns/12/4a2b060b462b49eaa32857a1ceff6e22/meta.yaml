@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/12/4a2b060b462b49eaa32857a1ceff6e22/artifacts
+end_time: 1674054551307
+entry_point_name: ''
+experiment_id: '12'
+lifecycle_stage: active
+run_id: 4a2b060b462b49eaa32857a1ceff6e22
+run_name: incongruous-stag-184
+run_uuid: 4a2b060b462b49eaa32857a1ceff6e22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674054463782
+status: 3
+tags: []
+user_id: louibo

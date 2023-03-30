@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/100/4b8bb09944564ee69d3ff6cfcb02e41f/artifacts
+end_time: 1676874484576
+entry_point_name: ''
+experiment_id: '100'
+lifecycle_stage: active
+run_id: 4b8bb09944564ee69d3ff6cfcb02e41f
+run_name: adventurous-worm-502
+run_uuid: 4b8bb09944564ee69d3ff6cfcb02e41f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676874481744
+status: 3
+tags: []
+user_id: louibo

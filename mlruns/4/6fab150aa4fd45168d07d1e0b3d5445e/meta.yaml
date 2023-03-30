@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/4/6fab150aa4fd45168d07d1e0b3d5445e/artifacts
+end_time: 1674732396330
+entry_point_name: ''
+experiment_id: '4'
+lifecycle_stage: active
+run_id: 6fab150aa4fd45168d07d1e0b3d5445e
+run_name: kindly-colt-297
+run_uuid: 6fab150aa4fd45168d07d1e0b3d5445e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674732336277
+status: 3
+tags: []
+user_id: louibo

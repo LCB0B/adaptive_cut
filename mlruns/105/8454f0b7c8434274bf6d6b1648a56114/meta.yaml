@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/105/8454f0b7c8434274bf6d6b1648a56114/artifacts
+end_time: 1676760201798
+entry_point_name: ''
+experiment_id: '105'
+lifecycle_stage: active
+run_id: 8454f0b7c8434274bf6d6b1648a56114
+run_name: indecisive-fawn-593
+run_uuid: 8454f0b7c8434274bf6d6b1648a56114
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676758593205
+status: 3
+tags: []
+user_id: louibo

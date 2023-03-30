@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/13/368a1c0c7e214e3bb38f7fd477cdddec/artifacts
+end_time: 1673981008848
+entry_point_name: ''
+experiment_id: '13'
+lifecycle_stage: active
+run_id: 368a1c0c7e214e3bb38f7fd477cdddec
+run_name: efficient-crow-22
+run_uuid: 368a1c0c7e214e3bb38f7fd477cdddec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673980729206
+status: 3
+tags: []
+user_id: louibo

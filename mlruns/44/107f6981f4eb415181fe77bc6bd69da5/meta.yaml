@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/44/107f6981f4eb415181fe77bc6bd69da5/artifacts
+end_time: 1676884760622
+entry_point_name: ''
+experiment_id: '44'
+lifecycle_stage: active
+run_id: 107f6981f4eb415181fe77bc6bd69da5
+run_name: classy-worm-931
+run_uuid: 107f6981f4eb415181fe77bc6bd69da5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676884756790
+status: 3
+tags: []
+user_id: louibo

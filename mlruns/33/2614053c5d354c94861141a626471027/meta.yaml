@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/33/2614053c5d354c94861141a626471027/artifacts
+end_time: 1673734307254
+entry_point_name: ''
+experiment_id: '33'
+lifecycle_stage: active
+run_id: 2614053c5d354c94861141a626471027
+run_name: funny-lark-322
+run_uuid: 2614053c5d354c94861141a626471027
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673734292320
+status: 3
+tags: []
+user_id: louibo

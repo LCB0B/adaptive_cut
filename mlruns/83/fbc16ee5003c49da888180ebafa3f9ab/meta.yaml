@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/83/fbc16ee5003c49da888180ebafa3f9ab/artifacts
+end_time: 1676745978582
+entry_point_name: ''
+experiment_id: '83'
+lifecycle_stage: active
+run_id: fbc16ee5003c49da888180ebafa3f9ab
+run_name: delightful-ram-591
+run_uuid: fbc16ee5003c49da888180ebafa3f9ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676745976044
+status: 3
+tags: []
+user_id: louibo

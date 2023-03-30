@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/11/7279be8974be476a9d1fa0892baf9750/artifacts
+end_time: 1676859009628
+entry_point_name: ''
+experiment_id: '11'
+lifecycle_stage: active
+run_id: 7279be8974be476a9d1fa0892baf9750
+run_name: treasured-smelt-448
+run_uuid: 7279be8974be476a9d1fa0892baf9750
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676857914100
+status: 3
+tags: []
+user_id: louibo

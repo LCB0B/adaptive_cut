@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/22/f1cfce4910144220b189e426a80e290e/artifacts
+end_time: 1674739975124
+entry_point_name: ''
+experiment_id: '22'
+lifecycle_stage: active
+run_id: f1cfce4910144220b189e426a80e290e
+run_name: gregarious-calf-175
+run_uuid: f1cfce4910144220b189e426a80e290e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674739464399
+status: 3
+tags: []
+user_id: louibo

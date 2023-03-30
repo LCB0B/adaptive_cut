@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/9/f8279692845b46bb8a6b5f3684a307bb/artifacts
+end_time: 1674735258146
+entry_point_name: ''
+experiment_id: '9'
+lifecycle_stage: active
+run_id: f8279692845b46bb8a6b5f3684a307bb
+run_name: upset-hen-738
+run_uuid: f8279692845b46bb8a6b5f3684a307bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674735237329
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/30/fb056195598f49c8ad06d1f97967d334/artifacts
+end_time: 1676889902671
+entry_point_name: ''
+experiment_id: '30'
+lifecycle_stage: active
+run_id: fb056195598f49c8ad06d1f97967d334
+run_name: caring-grub-93
+run_uuid: fb056195598f49c8ad06d1f97967d334
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676889902317
+status: 3
+tags: []
+user_id: louibo

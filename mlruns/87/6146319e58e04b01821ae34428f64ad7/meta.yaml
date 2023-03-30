@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/87/6146319e58e04b01821ae34428f64ad7/artifacts
+end_time: 1676742617918
+entry_point_name: ''
+experiment_id: '87'
+lifecycle_stage: active
+run_id: 6146319e58e04b01821ae34428f64ad7
+run_name: tasteful-snake-807
+run_uuid: 6146319e58e04b01821ae34428f64ad7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676742617801
+status: 4
+tags: []
+user_id: louibo

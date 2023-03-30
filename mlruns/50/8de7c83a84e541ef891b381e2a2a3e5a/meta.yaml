@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/50/8de7c83a84e541ef891b381e2a2a3e5a/artifacts
+end_time: 1676876133584
+entry_point_name: ''
+experiment_id: '50'
+lifecycle_stage: active
+run_id: 8de7c83a84e541ef891b381e2a2a3e5a
+run_name: zealous-newt-828
+run_uuid: 8de7c83a84e541ef891b381e2a2a3e5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676875791202
+status: 3
+tags: []
+user_id: louibo

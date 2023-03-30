@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/5/fb092dbc87844c56952134341c04e496/artifacts
+end_time: 1674056064496
+entry_point_name: ''
+experiment_id: '5'
+lifecycle_stage: active
+run_id: fb092dbc87844c56952134341c04e496
+run_name: unruly-flea-788
+run_uuid: fb092dbc87844c56952134341c04e496
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674056062625
+status: 3
+tags: []
+user_id: louibo

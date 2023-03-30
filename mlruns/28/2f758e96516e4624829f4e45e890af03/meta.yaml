@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/28/2f758e96516e4624829f4e45e890af03/artifacts
+end_time: 1674079516009
+entry_point_name: ''
+experiment_id: '28'
+lifecycle_stage: active
+run_id: 2f758e96516e4624829f4e45e890af03
+run_name: defiant-stork-81
+run_uuid: 2f758e96516e4624829f4e45e890af03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674079506611
+status: 3
+tags: []
+user_id: louibo

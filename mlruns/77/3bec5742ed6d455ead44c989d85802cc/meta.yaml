@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/77/3bec5742ed6d455ead44c989d85802cc/artifacts
+end_time: 1676743756849
+entry_point_name: ''
+experiment_id: '77'
+lifecycle_stage: active
+run_id: 3bec5742ed6d455ead44c989d85802cc
+run_name: bouncy-donkey-450
+run_uuid: 3bec5742ed6d455ead44c989d85802cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676743742562
+status: 3
+tags: []
+user_id: louibo

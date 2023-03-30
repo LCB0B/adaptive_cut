@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/10/b9005919b55c4806a8d666eddcbeb1de/artifacts
+end_time: 1676857590516
+entry_point_name: ''
+experiment_id: '10'
+lifecycle_stage: active
+run_id: b9005919b55c4806a8d666eddcbeb1de
+run_name: crawling-quail-374
+run_uuid: b9005919b55c4806a8d666eddcbeb1de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676857551557
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/14/140bb549c9874511bc342486fdb74c6c/artifacts
+end_time: 1676740338532
+entry_point_name: ''
+experiment_id: '14'
+lifecycle_stage: active
+run_id: 140bb549c9874511bc342486fdb74c6c
+run_name: selective-fly-866
+run_uuid: 140bb549c9874511bc342486fdb74c6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676740299334
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/67/b501c13d28f04ecea2de6464637fcadf/artifacts
+end_time: 1676739444234
+entry_point_name: ''
+experiment_id: '67'
+lifecycle_stage: active
+run_id: b501c13d28f04ecea2de6464637fcadf
+run_name: amusing-slug-668
+run_uuid: b501c13d28f04ecea2de6464637fcadf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676739438747
+status: 4
+tags: []
+user_id: louibo

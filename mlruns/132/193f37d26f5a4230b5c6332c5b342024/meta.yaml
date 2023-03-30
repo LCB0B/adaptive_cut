@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/132/193f37d26f5a4230b5c6332c5b342024/artifacts
+end_time: 1676756410451
+entry_point_name: ''
+experiment_id: '132'
+lifecycle_stage: active
+run_id: 193f37d26f5a4230b5c6332c5b342024
+run_name: wistful-roo-453
+run_uuid: 193f37d26f5a4230b5c6332c5b342024
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676756410420
+status: 4
+tags: []
+user_id: louibo

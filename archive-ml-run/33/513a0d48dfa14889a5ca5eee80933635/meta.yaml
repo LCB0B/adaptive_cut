@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/33/513a0d48dfa14889a5ca5eee80933635/artifacts
+end_time: 1673990115574
+entry_point_name: ''
+experiment_id: '33'
+lifecycle_stage: active
+run_id: 513a0d48dfa14889a5ca5eee80933635
+run_name: nebulous-stag-369
+run_uuid: 513a0d48dfa14889a5ca5eee80933635
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673990095168
+status: 3
+tags: []
+user_id: louibo

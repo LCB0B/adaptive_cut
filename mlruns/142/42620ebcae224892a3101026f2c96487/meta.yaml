@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/142/42620ebcae224892a3101026f2c96487/artifacts
+end_time: 1676760510303
+entry_point_name: ''
+experiment_id: '142'
+lifecycle_stage: active
+run_id: 42620ebcae224892a3101026f2c96487
+run_name: skittish-loon-755
+run_uuid: 42620ebcae224892a3101026f2c96487
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676760044517
+status: 3
+tags: []
+user_id: louibo

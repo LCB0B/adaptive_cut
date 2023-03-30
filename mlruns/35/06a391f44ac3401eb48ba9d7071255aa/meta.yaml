@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/35/06a391f44ac3401eb48ba9d7071255aa/artifacts
+end_time: 1674001844893
+entry_point_name: ''
+experiment_id: '35'
+lifecycle_stage: active
+run_id: 06a391f44ac3401eb48ba9d7071255aa
+run_name: able-pug-148
+run_uuid: 06a391f44ac3401eb48ba9d7071255aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674001803452
+status: 3
+tags: []
+user_id: louibo

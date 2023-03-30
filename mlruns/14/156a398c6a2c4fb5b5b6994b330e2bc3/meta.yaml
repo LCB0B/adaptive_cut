@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/14/156a398c6a2c4fb5b5b6994b330e2bc3/artifacts
+end_time: 1674736568872
+entry_point_name: ''
+experiment_id: '14'
+lifecycle_stage: active
+run_id: 156a398c6a2c4fb5b5b6994b330e2bc3
+run_name: polite-vole-746
+run_uuid: 156a398c6a2c4fb5b5b6994b330e2bc3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674736528142
+status: 3
+tags: []
+user_id: louibo

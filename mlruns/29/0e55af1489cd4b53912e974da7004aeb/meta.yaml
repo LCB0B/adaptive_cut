@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/29/0e55af1489cd4b53912e974da7004aeb/artifacts
+end_time: 1674075584989
+entry_point_name: ''
+experiment_id: '29'
+lifecycle_stage: active
+run_id: 0e55af1489cd4b53912e974da7004aeb
+run_name: likeable-moth-5
+run_uuid: 0e55af1489cd4b53912e974da7004aeb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674074793305
+status: 3
+tags: []
+user_id: louibo

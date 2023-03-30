@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/9/4e4146a63b4649e2a81f8ccaed47c5df/artifacts
+end_time: 1676858482128
+entry_point_name: ''
+experiment_id: '9'
+lifecycle_stage: active
+run_id: 4e4146a63b4649e2a81f8ccaed47c5df
+run_name: stately-turtle-994
+run_uuid: 4e4146a63b4649e2a81f8ccaed47c5df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676858462060
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/132/320b5d5e09784b13a2e63508f5b2d0b0/artifacts
+end_time: 1676767640411
+entry_point_name: ''
+experiment_id: '132'
+lifecycle_stage: active
+run_id: 320b5d5e09784b13a2e63508f5b2d0b0
+run_name: enthused-crane-881
+run_uuid: 320b5d5e09784b13a2e63508f5b2d0b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676767639480
+status: 3
+tags: []
+user_id: louibo

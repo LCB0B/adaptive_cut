@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/34/968ae4cefc0f40d9a23894d1fe3103c7/artifacts
+end_time: 1673990137021
+entry_point_name: ''
+experiment_id: '34'
+lifecycle_stage: active
+run_id: 968ae4cefc0f40d9a23894d1fe3103c7
+run_name: amazing-crane-44
+run_uuid: 968ae4cefc0f40d9a23894d1fe3103c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673990090613
+status: 3
+tags: []
+user_id: louibo

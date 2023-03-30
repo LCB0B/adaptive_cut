@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/81/80b62472744b4086bf510859cafc6db9/artifacts
+end_time: 1676862242855
+entry_point_name: ''
+experiment_id: '81'
+lifecycle_stage: active
+run_id: 80b62472744b4086bf510859cafc6db9
+run_name: whimsical-skunk-59
+run_uuid: 80b62472744b4086bf510859cafc6db9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676862186598
+status: 3
+tags: []
+user_id: louibo

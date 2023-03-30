@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/80/c89f1d73e9fc42099b5a67a4aa4bb9c3/artifacts
+end_time: 1676863755215
+entry_point_name: ''
+experiment_id: '80'
+lifecycle_stage: active
+run_id: c89f1d73e9fc42099b5a67a4aa4bb9c3
+run_name: efficient-bird-357
+run_uuid: c89f1d73e9fc42099b5a67a4aa4bb9c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676863754455
+status: 3
+tags: []
+user_id: louibo

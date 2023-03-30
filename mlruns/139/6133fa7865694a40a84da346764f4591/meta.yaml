@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/139/6133fa7865694a40a84da346764f4591/artifacts
+end_time: 1676869853037
+entry_point_name: ''
+experiment_id: '139'
+lifecycle_stage: active
+run_id: 6133fa7865694a40a84da346764f4591
+run_name: useful-cow-161
+run_uuid: 6133fa7865694a40a84da346764f4591
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676869841129
+status: 3
+tags: []
+user_id: louibo

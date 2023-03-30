@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/27/341052bd9f0249cf8ba81773a86d0e1a/artifacts
+end_time: 1674758827651
+entry_point_name: ''
+experiment_id: '27'
+lifecycle_stage: active
+run_id: 341052bd9f0249cf8ba81773a86d0e1a
+run_name: glamorous-ram-789
+run_uuid: 341052bd9f0249cf8ba81773a86d0e1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674758820401
+status: 3
+tags: []
+user_id: louibo

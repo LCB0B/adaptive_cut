@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/4/0b87cfb54e8442c59b827df0b2863869/artifacts
+end_time: 1674050966819
+entry_point_name: ''
+experiment_id: '4'
+lifecycle_stage: active
+run_id: 0b87cfb54e8442c59b827df0b2863869
+run_name: blushing-jay-596
+run_uuid: 0b87cfb54e8442c59b827df0b2863869
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674050908912
+status: 3
+tags: []
+user_id: louibo

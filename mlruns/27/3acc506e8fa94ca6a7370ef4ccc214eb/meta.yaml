@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/27/3acc506e8fa94ca6a7370ef4ccc214eb/artifacts
+end_time: 1674075719225
+entry_point_name: ''
+experiment_id: '27'
+lifecycle_stage: active
+run_id: 3acc506e8fa94ca6a7370ef4ccc214eb
+run_name: auspicious-wolf-97
+run_uuid: 3acc506e8fa94ca6a7370ef4ccc214eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674075631718
+status: 3
+tags: []
+user_id: louibo

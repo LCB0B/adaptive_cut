@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/19/133e992ccc0447818682f5c910471587/artifacts
+end_time: 1674065937080
+entry_point_name: ''
+experiment_id: '19'
+lifecycle_stage: active
+run_id: 133e992ccc0447818682f5c910471587
+run_name: abundant-bat-262
+run_uuid: 133e992ccc0447818682f5c910471587
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674064811622
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/34/407bcc9fad6543709f005220d8eda93b/artifacts
+end_time: 1673728940960
+entry_point_name: ''
+experiment_id: '34'
+lifecycle_stage: active
+run_id: 407bcc9fad6543709f005220d8eda93b
+run_name: bright-sloth-262
+run_uuid: 407bcc9fad6543709f005220d8eda93b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673728939444
+status: 4
+tags: []
+user_id: louibo

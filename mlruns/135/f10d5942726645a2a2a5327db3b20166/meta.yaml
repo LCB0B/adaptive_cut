@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/135/f10d5942726645a2a2a5327db3b20166/artifacts
+end_time: 1676917262812
+entry_point_name: ''
+experiment_id: '135'
+lifecycle_stage: active
+run_id: f10d5942726645a2a2a5327db3b20166
+run_name: marvelous-shrike-30
+run_uuid: f10d5942726645a2a2a5327db3b20166
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676917256870
+status: 3
+tags: []
+user_id: louibo

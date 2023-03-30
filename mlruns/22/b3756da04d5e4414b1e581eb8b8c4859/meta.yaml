@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/22/b3756da04d5e4414b1e581eb8b8c4859/artifacts
+end_time: 1674060199121
+entry_point_name: ''
+experiment_id: '22'
+lifecycle_stage: active
+run_id: b3756da04d5e4414b1e581eb8b8c4859
+run_name: smiling-shrimp-685
+run_uuid: b3756da04d5e4414b1e581eb8b8c4859
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674059686365
+status: 3
+tags: []
+user_id: louibo

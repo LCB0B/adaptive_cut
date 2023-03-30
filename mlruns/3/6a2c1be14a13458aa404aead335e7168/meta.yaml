@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/3/6a2c1be14a13458aa404aead335e7168/artifacts
+end_time: 1674055262339
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+run_id: 6a2c1be14a13458aa404aead335e7168
+run_name: dapper-cub-363
+run_uuid: 6a2c1be14a13458aa404aead335e7168
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674055262303
+status: 4
+tags: []
+user_id: louibo

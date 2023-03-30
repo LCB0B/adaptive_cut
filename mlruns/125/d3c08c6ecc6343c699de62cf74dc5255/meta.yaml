@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/125/d3c08c6ecc6343c699de62cf74dc5255/artifacts
+end_time: 1676916997607
+entry_point_name: ''
+experiment_id: '125'
+lifecycle_stage: active
+run_id: d3c08c6ecc6343c699de62cf74dc5255
+run_name: useful-wren-417
+run_uuid: d3c08c6ecc6343c699de62cf74dc5255
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676916995076
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/17/13fa1127aa9b4e6bb76c989e986c4417/artifacts
+end_time: 1676745122892
+entry_point_name: ''
+experiment_id: '17'
+lifecycle_stage: active
+run_id: 13fa1127aa9b4e6bb76c989e986c4417
+run_name: polite-dog-635
+run_uuid: 13fa1127aa9b4e6bb76c989e986c4417
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676745105465
+status: 3
+tags: []
+user_id: louibo

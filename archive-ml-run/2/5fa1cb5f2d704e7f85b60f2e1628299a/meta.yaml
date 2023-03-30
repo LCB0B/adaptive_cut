@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/5fa1cb5f2d704e7f85b60f2e1628299a/artifacts
+end_time: 1672594812194
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 5fa1cb5f2d704e7f85b60f2e1628299a
+run_name: caring-moth-775
+run_uuid: 5fa1cb5f2d704e7f85b60f2e1628299a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672594810814
+status: 3
+tags: []
+user_id: louibo

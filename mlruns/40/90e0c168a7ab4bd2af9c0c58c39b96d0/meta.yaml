@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/40/90e0c168a7ab4bd2af9c0c58c39b96d0/artifacts
+end_time: 1674062308837
+entry_point_name: ''
+experiment_id: '40'
+lifecycle_stage: active
+run_id: 90e0c168a7ab4bd2af9c0c58c39b96d0
+run_name: skittish-cod-552
+run_uuid: 90e0c168a7ab4bd2af9c0c58c39b96d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674062298162
+status: 3
+tags: []
+user_id: louibo

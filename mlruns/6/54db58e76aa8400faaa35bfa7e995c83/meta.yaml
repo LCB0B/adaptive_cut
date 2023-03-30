@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/6/54db58e76aa8400faaa35bfa7e995c83/artifacts
+end_time: 1676894893677
+entry_point_name: ''
+experiment_id: '6'
+lifecycle_stage: active
+run_id: 54db58e76aa8400faaa35bfa7e995c83
+run_name: mercurial-gull-514
+run_uuid: 54db58e76aa8400faaa35bfa7e995c83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676894796608
+status: 3
+tags: []
+user_id: louibo

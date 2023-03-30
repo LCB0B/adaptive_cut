@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/3/7f5a56a0aa38445681c03bd56422bae3/artifacts
+end_time: 1672595438538
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+run_id: 7f5a56a0aa38445681c03bd56422bae3
+run_name: languid-fawn-717
+run_uuid: 7f5a56a0aa38445681c03bd56422bae3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672595438526
+status: 4
+tags: []
+user_id: louibo

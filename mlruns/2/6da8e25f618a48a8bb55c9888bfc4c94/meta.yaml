@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/6da8e25f618a48a8bb55c9888bfc4c94/artifacts
+end_time: 1673744754134
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 6da8e25f618a48a8bb55c9888bfc4c94
+run_name: fun-sponge-96
+run_uuid: 6da8e25f618a48a8bb55c9888bfc4c94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673744752705
+status: 3
+tags: []
+user_id: louibo

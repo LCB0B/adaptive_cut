@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/33/63c41e8394354c9d9e63b5337c6f0548/artifacts
+end_time: 1673736095190
+entry_point_name: ''
+experiment_id: '33'
+lifecycle_stage: active
+run_id: 63c41e8394354c9d9e63b5337c6f0548
+run_name: efficient-kit-410
+run_uuid: 63c41e8394354c9d9e63b5337c6f0548
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673736080653
+status: 3
+tags: []
+user_id: louibo

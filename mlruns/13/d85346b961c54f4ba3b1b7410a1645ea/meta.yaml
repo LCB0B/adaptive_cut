@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/13/d85346b961c54f4ba3b1b7410a1645ea/artifacts
+end_time: 1676743779790
+entry_point_name: ''
+experiment_id: '13'
+lifecycle_stage: active
+run_id: d85346b961c54f4ba3b1b7410a1645ea
+run_name: unequaled-wolf-967
+run_uuid: d85346b961c54f4ba3b1b7410a1645ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676743306105
+status: 3
+tags: []
+user_id: louibo

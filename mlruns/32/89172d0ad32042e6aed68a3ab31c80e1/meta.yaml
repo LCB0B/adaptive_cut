@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/32/89172d0ad32042e6aed68a3ab31c80e1/artifacts
+end_time: 1674757268415
+entry_point_name: ''
+experiment_id: '32'
+lifecycle_stage: active
+run_id: 89172d0ad32042e6aed68a3ab31c80e1
+run_name: peaceful-auk-8
+run_uuid: 89172d0ad32042e6aed68a3ab31c80e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674757259980
+status: 3
+tags: []
+user_id: louibo

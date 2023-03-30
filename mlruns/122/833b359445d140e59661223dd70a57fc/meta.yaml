@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/122/833b359445d140e59661223dd70a57fc/artifacts
+end_time: 1676763883992
+entry_point_name: ''
+experiment_id: '122'
+lifecycle_stage: active
+run_id: 833b359445d140e59661223dd70a57fc
+run_name: fun-kit-728
+run_uuid: 833b359445d140e59661223dd70a57fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676763744880
+status: 3
+tags: []
+user_id: louibo

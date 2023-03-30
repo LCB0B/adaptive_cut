@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/62/0d69211c316e449aa95119f5740f98b8/artifacts
+end_time: 1676850063254
+entry_point_name: ''
+experiment_id: '62'
+lifecycle_stage: active
+run_id: 0d69211c316e449aa95119f5740f98b8
+run_name: angry-crane-538
+run_uuid: 0d69211c316e449aa95119f5740f98b8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676850062723
+status: 3
+tags: []
+user_id: louibo

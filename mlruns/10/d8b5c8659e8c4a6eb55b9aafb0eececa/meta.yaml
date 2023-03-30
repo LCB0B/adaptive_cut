@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/10/d8b5c8659e8c4a6eb55b9aafb0eececa/artifacts
+end_time: 1673974965144
+entry_point_name: ''
+experiment_id: '10'
+lifecycle_stage: active
+run_id: d8b5c8659e8c4a6eb55b9aafb0eececa
+run_name: ambitious-mare-928
+run_uuid: d8b5c8659e8c4a6eb55b9aafb0eececa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673974965011
+status: 4
+tags: []
+user_id: louibo

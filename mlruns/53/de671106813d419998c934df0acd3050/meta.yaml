@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/53/de671106813d419998c934df0acd3050/artifacts
+end_time: 1676893513284
+entry_point_name: ''
+experiment_id: '53'
+lifecycle_stage: active
+run_id: de671106813d419998c934df0acd3050
+run_name: traveling-cow-41
+run_uuid: de671106813d419998c934df0acd3050
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676893508516
+status: 3
+tags: []
+user_id: louibo

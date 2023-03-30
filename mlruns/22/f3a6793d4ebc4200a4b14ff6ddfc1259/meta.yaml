@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/22/f3a6793d4ebc4200a4b14ff6ddfc1259/artifacts
+end_time: 1674068000924
+entry_point_name: ''
+experiment_id: '22'
+lifecycle_stage: active
+run_id: f3a6793d4ebc4200a4b14ff6ddfc1259
+run_name: marvelous-kite-572
+run_uuid: f3a6793d4ebc4200a4b14ff6ddfc1259
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674066699939
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/6/5dd4d7987f7a42c1b62936fc95f1d96d/artifacts
+end_time: 1676856172305
+entry_point_name: ''
+experiment_id: '6'
+lifecycle_stage: active
+run_id: 5dd4d7987f7a42c1b62936fc95f1d96d
+run_name: treasured-midge-950
+run_uuid: 5dd4d7987f7a42c1b62936fc95f1d96d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676855748894
+status: 3
+tags: []
+user_id: louibo

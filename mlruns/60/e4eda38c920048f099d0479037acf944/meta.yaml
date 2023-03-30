@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/60/e4eda38c920048f099d0479037acf944/artifacts
+end_time: 1676735127065
+entry_point_name: ''
+experiment_id: '60'
+lifecycle_stage: active
+run_id: e4eda38c920048f099d0479037acf944
+run_name: unruly-seal-82
+run_uuid: e4eda38c920048f099d0479037acf944
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676735126954
+status: 4
+tags: []
+user_id: louibo

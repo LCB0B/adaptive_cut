@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/111/ceade503906647419e4ae5a89c4d4eac/artifacts
+end_time: 1676863059542
+entry_point_name: ''
+experiment_id: '111'
+lifecycle_stage: active
+run_id: ceade503906647419e4ae5a89c4d4eac
+run_name: beautiful-lynx-975
+run_uuid: ceade503906647419e4ae5a89c4d4eac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676863059047
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/29/d8f66cec8e284599a8a63ace04a2e76b/artifacts
+end_time: 1673969628885
+entry_point_name: ''
+experiment_id: '29'
+lifecycle_stage: active
+run_id: d8f66cec8e284599a8a63ace04a2e76b
+run_name: bemused-seal-242
+run_uuid: d8f66cec8e284599a8a63ace04a2e76b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673969609717
+status: 4
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/115/5f1631604ef34b7cb5e24cba3056a0a4/artifacts
+end_time: 1676868102656
+entry_point_name: ''
+experiment_id: '115'
+lifecycle_stage: active
+run_id: 5f1631604ef34b7cb5e24cba3056a0a4
+run_name: useful-snake-689
+run_uuid: 5f1631604ef34b7cb5e24cba3056a0a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676868097603
+status: 3
+tags: []
+user_id: louibo

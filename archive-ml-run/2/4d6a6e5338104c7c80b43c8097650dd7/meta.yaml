@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/4d6a6e5338104c7c80b43c8097650dd7/artifacts
+end_time: 1670246065738
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 4d6a6e5338104c7c80b43c8097650dd7
+run_name: salty-squirrel-280
+run_uuid: 4d6a6e5338104c7c80b43c8097650dd7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670246062535
+status: 3
+tags: []
+user_id: louibo

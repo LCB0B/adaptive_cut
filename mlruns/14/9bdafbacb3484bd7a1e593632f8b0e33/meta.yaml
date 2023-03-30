@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/14/9bdafbacb3484bd7a1e593632f8b0e33/artifacts
+end_time: 1673786495063
+entry_point_name: ''
+experiment_id: '14'
+lifecycle_stage: active
+run_id: 9bdafbacb3484bd7a1e593632f8b0e33
+run_name: judicious-bear-851
+run_uuid: 9bdafbacb3484bd7a1e593632f8b0e33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673786411832
+status: 3
+tags: []
+user_id: louibo

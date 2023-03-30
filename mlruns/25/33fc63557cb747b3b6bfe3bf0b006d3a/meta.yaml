@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/25/33fc63557cb747b3b6bfe3bf0b006d3a/artifacts
+end_time: 1676918000965
+entry_point_name: ''
+experiment_id: '25'
+lifecycle_stage: active
+run_id: 33fc63557cb747b3b6bfe3bf0b006d3a
+run_name: vaunted-hog-664
+run_uuid: 33fc63557cb747b3b6bfe3bf0b006d3a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676917919493
+status: 3
+tags: []
+user_id: louibo

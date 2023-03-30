@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/66/032b7acb575d4674aa78ce98647058bd/artifacts
+end_time: 1676736345404
+entry_point_name: ''
+experiment_id: '66'
+lifecycle_stage: active
+run_id: 032b7acb575d4674aa78ce98647058bd
+run_name: capricious-zebra-658
+run_uuid: 032b7acb575d4674aa78ce98647058bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676736342215
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/91/a8124573c42548dd9bc7d20dad206e19/artifacts
+end_time: 1676901802783
+entry_point_name: ''
+experiment_id: '91'
+lifecycle_stage: active
+run_id: a8124573c42548dd9bc7d20dad206e19
+run_name: grandiose-sow-290
+run_uuid: a8124573c42548dd9bc7d20dad206e19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676901782633
+status: 3
+tags: []
+user_id: louibo

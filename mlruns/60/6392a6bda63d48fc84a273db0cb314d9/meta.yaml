@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/60/6392a6bda63d48fc84a273db0cb314d9/artifacts
+end_time: 1676892883809
+entry_point_name: ''
+experiment_id: '60'
+lifecycle_stage: active
+run_id: 6392a6bda63d48fc84a273db0cb314d9
+run_name: abundant-zebra-216
+run_uuid: 6392a6bda63d48fc84a273db0cb314d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676892858794
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/1/63283947491b4731a1671df78a5068f2/artifacts
+end_time: 1676873728769
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 63283947491b4731a1671df78a5068f2
+run_name: rumbling-hound-681
+run_uuid: 63283947491b4731a1671df78a5068f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676872823535
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/6/9ebfa675fda44293988d8228bc650559/artifacts
+end_time: 1674051193237
+entry_point_name: ''
+experiment_id: '6'
+lifecycle_stage: active
+run_id: 9ebfa675fda44293988d8228bc650559
+run_name: bustling-gull-799
+run_uuid: 9ebfa675fda44293988d8228bc650559
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674051053113
+status: 3
+tags: []
+user_id: louibo

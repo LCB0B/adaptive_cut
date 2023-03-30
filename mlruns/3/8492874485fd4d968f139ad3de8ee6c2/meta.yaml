@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/3/8492874485fd4d968f139ad3de8ee6c2/artifacts
+end_time: 1670248489911
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+run_id: 8492874485fd4d968f139ad3de8ee6c2
+run_name: unique-mink-161
+run_uuid: 8492874485fd4d968f139ad3de8ee6c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670248489903
+status: 4
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/44d9b187eddf408881c6aa005b9e8714/artifacts
+end_time: 1673743717456
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 44d9b187eddf408881c6aa005b9e8714
+run_name: chill-midge-509
+run_uuid: 44d9b187eddf408881c6aa005b9e8714
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673743716081
+status: 3
+tags: []
+user_id: louibo

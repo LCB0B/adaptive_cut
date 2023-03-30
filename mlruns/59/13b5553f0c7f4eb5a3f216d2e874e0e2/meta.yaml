@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/59/13b5553f0c7f4eb5a3f216d2e874e0e2/artifacts
+end_time: 1676735914561
+entry_point_name: ''
+experiment_id: '59'
+lifecycle_stage: active
+run_id: 13b5553f0c7f4eb5a3f216d2e874e0e2
+run_name: bouncy-shrike-401
+run_uuid: 13b5553f0c7f4eb5a3f216d2e874e0e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676735898860
+status: 3
+tags: []
+user_id: louibo

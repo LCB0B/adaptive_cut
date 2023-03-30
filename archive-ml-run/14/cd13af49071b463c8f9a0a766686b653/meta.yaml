@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/14/cd13af49071b463c8f9a0a766686b653/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '14'
+lifecycle_stage: active
+run_id: cd13af49071b463c8f9a0a766686b653
+run_name: languid-lynx-329
+run_uuid: cd13af49071b463c8f9a0a766686b653
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673801240138
+status: 1
+tags: []
+user_id: louibo

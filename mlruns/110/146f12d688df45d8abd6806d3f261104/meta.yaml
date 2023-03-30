@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/110/146f12d688df45d8abd6806d3f261104/artifacts
+end_time: 1676913641314
+entry_point_name: ''
+experiment_id: '110'
+lifecycle_stage: active
+run_id: 146f12d688df45d8abd6806d3f261104
+run_name: puzzled-vole-935
+run_uuid: 146f12d688df45d8abd6806d3f261104
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676913594656
+status: 3
+tags: []
+user_id: louibo

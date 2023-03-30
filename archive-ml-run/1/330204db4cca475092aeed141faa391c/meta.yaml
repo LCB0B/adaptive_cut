@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/1/330204db4cca475092aeed141faa391c/artifacts
+end_time: 1674001369370
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 330204db4cca475092aeed141faa391c
+run_name: abrasive-vole-623
+run_uuid: 330204db4cca475092aeed141faa391c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674000975814
+status: 3
+tags: []
+user_id: louibo

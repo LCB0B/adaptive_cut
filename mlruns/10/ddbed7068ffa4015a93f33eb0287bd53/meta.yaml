@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/10/ddbed7068ffa4015a93f33eb0287bd53/artifacts
+end_time: 1676897551212
+entry_point_name: ''
+experiment_id: '10'
+lifecycle_stage: active
+run_id: ddbed7068ffa4015a93f33eb0287bd53
+run_name: flawless-mole-327
+run_uuid: ddbed7068ffa4015a93f33eb0287bd53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676897512554
+status: 3
+tags: []
+user_id: louibo

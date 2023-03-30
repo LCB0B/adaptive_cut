@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/98/4faa7828b22e4b819780bd3e2f26348c/artifacts
+end_time: 1676755565283
+entry_point_name: ''
+experiment_id: '98'
+lifecycle_stage: active
+run_id: 4faa7828b22e4b819780bd3e2f26348c
+run_name: mercurial-boar-302
+run_uuid: 4faa7828b22e4b819780bd3e2f26348c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676755549842
+status: 3
+tags: []
+user_id: louibo

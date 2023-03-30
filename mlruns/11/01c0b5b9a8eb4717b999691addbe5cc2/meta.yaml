@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/11/01c0b5b9a8eb4717b999691addbe5cc2/artifacts
+end_time: 1674061336690
+entry_point_name: ''
+experiment_id: '11'
+lifecycle_stage: active
+run_id: 01c0b5b9a8eb4717b999691addbe5cc2
+run_name: abundant-moose-836
+run_uuid: 01c0b5b9a8eb4717b999691addbe5cc2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674060075539
+status: 3
+tags: []
+user_id: louibo

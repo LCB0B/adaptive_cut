@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/13/1f53965a6524416c94fd9017453a6d44/artifacts
+end_time: 1674736214001
+entry_point_name: ''
+experiment_id: '13'
+lifecycle_stage: active
+run_id: 1f53965a6524416c94fd9017453a6d44
+run_name: wistful-chimp-766
+run_uuid: 1f53965a6524416c94fd9017453a6d44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674735806738
+status: 3
+tags: []
+user_id: louibo

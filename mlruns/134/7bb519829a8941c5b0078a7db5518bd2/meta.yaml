@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/134/7bb519829a8941c5b0078a7db5518bd2/artifacts
+end_time: 1676922131693
+entry_point_name: ''
+experiment_id: '134'
+lifecycle_stage: active
+run_id: 7bb519829a8941c5b0078a7db5518bd2
+run_name: grandiose-bear-878
+run_uuid: 7bb519829a8941c5b0078a7db5518bd2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676921076204
+status: 3
+tags: []
+user_id: louibo

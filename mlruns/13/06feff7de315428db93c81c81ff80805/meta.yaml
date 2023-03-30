@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/13/06feff7de315428db93c81c81ff80805/artifacts
+end_time: 1674055097777
+entry_point_name: ''
+experiment_id: '13'
+lifecycle_stage: active
+run_id: 06feff7de315428db93c81c81ff80805
+run_name: sedate-mink-446
+run_uuid: 06feff7de315428db93c81c81ff80805
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674054566532
+status: 3
+tags: []
+user_id: louibo

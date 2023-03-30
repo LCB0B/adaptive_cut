@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/90/fc3837f13a4b4eb9b87fd67b8207a3ba/artifacts
+end_time: 1676744096548
+entry_point_name: ''
+experiment_id: '90'
+lifecycle_stage: active
+run_id: fc3837f13a4b4eb9b87fd67b8207a3ba
+run_name: magnificent-rat-552
+run_uuid: fc3837f13a4b4eb9b87fd67b8207a3ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676744096486
+status: 4
+tags: []
+user_id: louibo

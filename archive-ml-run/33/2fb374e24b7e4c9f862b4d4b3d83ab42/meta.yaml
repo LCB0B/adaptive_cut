@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/33/2fb374e24b7e4c9f862b4d4b3d83ab42/artifacts
+end_time: 1673736739711
+entry_point_name: ''
+experiment_id: '33'
+lifecycle_stage: active
+run_id: 2fb374e24b7e4c9f862b4d4b3d83ab42
+run_name: upset-skink-228
+run_uuid: 2fb374e24b7e4c9f862b4d4b3d83ab42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673736738499
+status: 4
+tags: []
+user_id: louibo

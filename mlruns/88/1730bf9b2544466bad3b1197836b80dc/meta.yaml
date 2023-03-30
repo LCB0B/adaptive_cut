@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/88/1730bf9b2544466bad3b1197836b80dc/artifacts
+end_time: 1676856510780
+entry_point_name: ''
+experiment_id: '88'
+lifecycle_stage: active
+run_id: 1730bf9b2544466bad3b1197836b80dc
+run_name: abundant-vole-171
+run_uuid: 1730bf9b2544466bad3b1197836b80dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676856504621
+status: 3
+tags: []
+user_id: louibo

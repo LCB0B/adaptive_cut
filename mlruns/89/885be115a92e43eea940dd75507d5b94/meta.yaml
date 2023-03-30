@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/89/885be115a92e43eea940dd75507d5b94/artifacts
+end_time: 1676903789949
+entry_point_name: ''
+experiment_id: '89'
+lifecycle_stage: active
+run_id: 885be115a92e43eea940dd75507d5b94
+run_name: bouncy-shoat-105
+run_uuid: 885be115a92e43eea940dd75507d5b94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676903776281
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/8/89ae3d893b924a1385a78fa28cd6eb35/artifacts
+end_time: 1676741406097
+entry_point_name: ''
+experiment_id: '8'
+lifecycle_stage: active
+run_id: 89ae3d893b924a1385a78fa28cd6eb35
+run_name: dashing-hound-486
+run_uuid: 89ae3d893b924a1385a78fa28cd6eb35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676741350327
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/43/5076f0799eaf4fc98f9f72879ddfb2af/artifacts
+end_time: 1676889902039
+entry_point_name: ''
+experiment_id: '43'
+lifecycle_stage: active
+run_id: 5076f0799eaf4fc98f9f72879ddfb2af
+run_name: upset-turtle-293
+run_uuid: 5076f0799eaf4fc98f9f72879ddfb2af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676888272216
+status: 3
+tags: []
+user_id: louibo

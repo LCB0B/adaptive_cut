@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/129/aad8ed4d1bbf470c8aa4491cfedc851f/artifacts
+end_time: 1676917716960
+entry_point_name: ''
+experiment_id: '129'
+lifecycle_stage: active
+run_id: aad8ed4d1bbf470c8aa4491cfedc851f
+run_name: abundant-fawn-298
+run_uuid: aad8ed4d1bbf470c8aa4491cfedc851f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676917716553
+status: 3
+tags: []
+user_id: louibo

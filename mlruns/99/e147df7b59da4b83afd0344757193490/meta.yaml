@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/99/e147df7b59da4b83afd0344757193490/artifacts
+end_time: 1676907317344
+entry_point_name: ''
+experiment_id: '99'
+lifecycle_stage: active
+run_id: e147df7b59da4b83afd0344757193490
+run_name: chill-squirrel-673
+run_uuid: e147df7b59da4b83afd0344757193490
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676907305825
+status: 3
+tags: []
+user_id: louibo

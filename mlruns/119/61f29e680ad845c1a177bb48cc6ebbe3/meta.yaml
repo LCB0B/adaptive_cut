@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/119/61f29e680ad845c1a177bb48cc6ebbe3/artifacts
+end_time: 1676938796639
+entry_point_name: ''
+experiment_id: '119'
+lifecycle_stage: active
+run_id: 61f29e680ad845c1a177bb48cc6ebbe3
+run_name: receptive-kit-596
+run_uuid: 61f29e680ad845c1a177bb48cc6ebbe3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676938686203
+status: 3
+tags: []
+user_id: louibo

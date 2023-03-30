@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/47/a186c97be0194ec5ae951e14eb5baadb/artifacts
+end_time: 1674762724439
+entry_point_name: ''
+experiment_id: '47'
+lifecycle_stage: active
+run_id: a186c97be0194ec5ae951e14eb5baadb
+run_name: thundering-wolf-180
+run_uuid: a186c97be0194ec5ae951e14eb5baadb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674762721410
+status: 3
+tags: []
+user_id: louibo

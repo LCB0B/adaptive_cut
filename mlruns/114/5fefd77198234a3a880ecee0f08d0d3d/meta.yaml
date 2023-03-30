@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/114/5fefd77198234a3a880ecee0f08d0d3d/artifacts
+end_time: 1676751815973
+entry_point_name: ''
+experiment_id: '114'
+lifecycle_stage: active
+run_id: 5fefd77198234a3a880ecee0f08d0d3d
+run_name: fun-newt-228
+run_uuid: 5fefd77198234a3a880ecee0f08d0d3d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676751814890
+status: 3
+tags: []
+user_id: louibo

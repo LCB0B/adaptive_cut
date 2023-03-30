@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/26/6f3fc3b4c4744b04b19b5b2c0a2dee6c/artifacts
+end_time: 1676907067624
+entry_point_name: ''
+experiment_id: '26'
+lifecycle_stage: active
+run_id: 6f3fc3b4c4744b04b19b5b2c0a2dee6c
+run_name: efficient-wolf-992
+run_uuid: 6f3fc3b4c4744b04b19b5b2c0a2dee6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676906824380
+status: 3
+tags: []
+user_id: louibo

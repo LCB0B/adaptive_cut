@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/46/150acbe8327f43d79a879d0d357bf3f0/artifacts
+end_time: 1674069687388
+entry_point_name: ''
+experiment_id: '46'
+lifecycle_stage: active
+run_id: 150acbe8327f43d79a879d0d357bf3f0
+run_name: whimsical-bird-63
+run_uuid: 150acbe8327f43d79a879d0d357bf3f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674069675314
+status: 3
+tags: []
+user_id: louibo

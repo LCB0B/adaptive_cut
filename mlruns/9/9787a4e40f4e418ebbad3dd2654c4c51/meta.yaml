@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/9/9787a4e40f4e418ebbad3dd2654c4c51/artifacts
+end_time: 1676741542087
+entry_point_name: ''
+experiment_id: '9'
+lifecycle_stage: active
+run_id: 9787a4e40f4e418ebbad3dd2654c4c51
+run_name: nervous-worm-566
+run_uuid: 9787a4e40f4e418ebbad3dd2654c4c51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676741523924
+status: 3
+tags: []
+user_id: louibo

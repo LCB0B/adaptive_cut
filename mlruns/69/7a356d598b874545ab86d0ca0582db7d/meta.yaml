@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/69/7a356d598b874545ab86d0ca0582db7d/artifacts
+end_time: 1676902469068
+entry_point_name: ''
+experiment_id: '69'
+lifecycle_stage: active
+run_id: 7a356d598b874545ab86d0ca0582db7d
+run_name: learned-pig-770
+run_uuid: 7a356d598b874545ab86d0ca0582db7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676902352111
+status: 3
+tags: []
+user_id: louibo

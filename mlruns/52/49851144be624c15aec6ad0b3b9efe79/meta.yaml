@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/52/49851144be624c15aec6ad0b3b9efe79/artifacts
+end_time: 1676824159495
+entry_point_name: ''
+experiment_id: '52'
+lifecycle_stage: active
+run_id: 49851144be624c15aec6ad0b3b9efe79
+run_name: bald-newt-468
+run_uuid: 49851144be624c15aec6ad0b3b9efe79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676824030785
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/ac4fc60c5f9342f8bdfb49f6773db1c9/artifacts
+end_time: 1669221986012
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: ac4fc60c5f9342f8bdfb49f6773db1c9
+run_name: indecisive-cow-444
+run_uuid: ac4fc60c5f9342f8bdfb49f6773db1c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669221984519
+status: 3
+tags: []
+user_id: louibo

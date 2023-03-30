@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/59/8cc63aec89374892840fed0c8589fbcd/artifacts
+end_time: 1676849550698
+entry_point_name: ''
+experiment_id: '59'
+lifecycle_stage: active
+run_id: 8cc63aec89374892840fed0c8589fbcd
+run_name: bald-crow-108
+run_uuid: 8cc63aec89374892840fed0c8589fbcd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676849529709
+status: 3
+tags: []
+user_id: louibo

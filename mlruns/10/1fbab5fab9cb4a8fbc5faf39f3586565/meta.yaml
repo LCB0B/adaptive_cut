@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/10/1fbab5fab9cb4a8fbc5faf39f3586565/artifacts
+end_time: 1673972789303
+entry_point_name: ''
+experiment_id: '10'
+lifecycle_stage: active
+run_id: 1fbab5fab9cb4a8fbc5faf39f3586565
+run_name: amusing-gull-417
+run_uuid: 1fbab5fab9cb4a8fbc5faf39f3586565
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673972789232
+status: 4
+tags: []
+user_id: louibo

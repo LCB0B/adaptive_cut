@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/132/989e21096c4f40db8ab06dd5a47368d7/artifacts
+end_time: 1676895699274
+entry_point_name: ''
+experiment_id: '132'
+lifecycle_stage: active
+run_id: 989e21096c4f40db8ab06dd5a47368d7
+run_name: gaudy-owl-289
+run_uuid: 989e21096c4f40db8ab06dd5a47368d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676895691605
+status: 3
+tags: []
+user_id: louibo

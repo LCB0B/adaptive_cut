@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/74/5e629586f8934761a63fb2710843f513/artifacts
+end_time: 1676897560925
+entry_point_name: ''
+experiment_id: '74'
+lifecycle_stage: active
+run_id: 5e629586f8934761a63fb2710843f513
+run_name: traveling-stork-25
+run_uuid: 5e629586f8934761a63fb2710843f513
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676897559410
+status: 3
+tags: []
+user_id: louibo

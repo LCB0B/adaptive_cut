@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/133/56b0fb2d965148aeb8bebe4d13804288/artifacts
+end_time: 1676767894579
+entry_point_name: ''
+experiment_id: '133'
+lifecycle_stage: active
+run_id: 56b0fb2d965148aeb8bebe4d13804288
+run_name: nimble-steed-105
+run_uuid: 56b0fb2d965148aeb8bebe4d13804288
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676767872425
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/40/a6d1366b032f436e9d6ea4d7e0ab301c/artifacts
+end_time: 1674743660370
+entry_point_name: ''
+experiment_id: '40'
+lifecycle_stage: active
+run_id: a6d1366b032f436e9d6ea4d7e0ab301c
+run_name: classy-fowl-16
+run_uuid: a6d1366b032f436e9d6ea4d7e0ab301c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674743649497
+status: 3
+tags: []
+user_id: louibo

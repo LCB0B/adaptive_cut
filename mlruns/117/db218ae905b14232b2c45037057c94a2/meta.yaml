@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/117/db218ae905b14232b2c45037057c94a2/artifacts
+end_time: 1676763467744
+entry_point_name: ''
+experiment_id: '117'
+lifecycle_stage: active
+run_id: db218ae905b14232b2c45037057c94a2
+run_name: able-grub-596
+run_uuid: db218ae905b14232b2c45037057c94a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676763457891
+status: 3
+tags: []
+user_id: louibo

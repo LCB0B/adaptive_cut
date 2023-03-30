@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/125/6614cbd439d74a138731caf1a62ba839/artifacts
+end_time: 1676870654277
+entry_point_name: ''
+experiment_id: '125'
+lifecycle_stage: active
+run_id: 6614cbd439d74a138731caf1a62ba839
+run_name: resilient-shrew-57
+run_uuid: 6614cbd439d74a138731caf1a62ba839
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676870651968
+status: 3
+tags: []
+user_id: louibo

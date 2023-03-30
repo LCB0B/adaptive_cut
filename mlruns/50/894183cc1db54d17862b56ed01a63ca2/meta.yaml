@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/50/894183cc1db54d17862b56ed01a63ca2/artifacts
+end_time: 1676878527693
+entry_point_name: ''
+experiment_id: '50'
+lifecycle_stage: active
+run_id: 894183cc1db54d17862b56ed01a63ca2
+run_name: abrasive-eel-581
+run_uuid: 894183cc1db54d17862b56ed01a63ca2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676878502827
+status: 3
+tags: []
+user_id: louibo

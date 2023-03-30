@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/145/0606b0b7207c46f09e0e9626f78bd6b4/artifacts
+end_time: 1676983594757
+entry_point_name: ''
+experiment_id: '145'
+lifecycle_stage: active
+run_id: 0606b0b7207c46f09e0e9626f78bd6b4
+run_name: efficient-stag-977
+run_uuid: 0606b0b7207c46f09e0e9626f78bd6b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676983182743
+status: 3
+tags: []
+user_id: louibo

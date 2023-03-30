@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/29/88a8765ec8e040cf97d9b5a04db1a22c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '29'
+lifecycle_stage: active
+run_id: 88a8765ec8e040cf97d9b5a04db1a22c
+run_name: bald-dolphin-603
+run_uuid: 88a8765ec8e040cf97d9b5a04db1a22c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674471281784
+status: 1
+tags: []
+user_id: louibo

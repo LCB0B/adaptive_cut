@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/128/5a96e0899f9c4ff68703371cf3874b8f/artifacts
+end_time: 1676911899485
+entry_point_name: ''
+experiment_id: '128'
+lifecycle_stage: active
+run_id: 5a96e0899f9c4ff68703371cf3874b8f
+run_name: treasured-steed-350
+run_uuid: 5a96e0899f9c4ff68703371cf3874b8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676911886586
+status: 3
+tags: []
+user_id: louibo

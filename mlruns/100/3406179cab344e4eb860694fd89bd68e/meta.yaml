@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/100/3406179cab344e4eb860694fd89bd68e/artifacts
+end_time: 1676923421936
+entry_point_name: ''
+experiment_id: '100'
+lifecycle_stage: active
+run_id: 3406179cab344e4eb860694fd89bd68e
+run_name: capricious-crane-202
+run_uuid: 3406179cab344e4eb860694fd89bd68e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676923374662
+status: 3
+tags: []
+user_id: louibo

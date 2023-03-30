@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/61/565ff150277447469c652931a19c80f2/artifacts
+end_time: 1676849576186
+entry_point_name: ''
+experiment_id: '61'
+lifecycle_stage: active
+run_id: 565ff150277447469c652931a19c80f2
+run_name: bouncy-ant-679
+run_uuid: 565ff150277447469c652931a19c80f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676849551969
+status: 3
+tags: []
+user_id: louibo

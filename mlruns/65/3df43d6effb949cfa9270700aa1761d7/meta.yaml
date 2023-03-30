@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/65/3df43d6effb949cfa9270700aa1761d7/artifacts
+end_time: 1676823945316
+entry_point_name: ''
+experiment_id: '65'
+lifecycle_stage: active
+run_id: 3df43d6effb949cfa9270700aa1761d7
+run_name: orderly-sow-962
+run_uuid: 3df43d6effb949cfa9270700aa1761d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676823934289
+status: 3
+tags: []
+user_id: louibo

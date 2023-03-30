@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/44/e5762b7477d44c27a284ac0a20bf790f/artifacts
+end_time: 1674754030045
+entry_point_name: ''
+experiment_id: '44'
+lifecycle_stage: active
+run_id: e5762b7477d44c27a284ac0a20bf790f
+run_name: ambitious-eel-243
+run_uuid: e5762b7477d44c27a284ac0a20bf790f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674754026082
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/39/62fea533560444d2af08463cdb838f4c/artifacts
+end_time: 1674742321001
+entry_point_name: ''
+experiment_id: '39'
+lifecycle_stage: active
+run_id: 62fea533560444d2af08463cdb838f4c
+run_name: luxuriant-snail-518
+run_uuid: 62fea533560444d2af08463cdb838f4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674742319122
+status: 3
+tags: []
+user_id: louibo

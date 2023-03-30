@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/7/7139329ba9f64d7d8b44f922615bdeda/artifacts
+end_time: 1676895475104
+entry_point_name: ''
+experiment_id: '7'
+lifecycle_stage: active
+run_id: 7139329ba9f64d7d8b44f922615bdeda
+run_name: incongruous-eel-928
+run_uuid: 7139329ba9f64d7d8b44f922615bdeda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676894269673
+status: 3
+tags: []
+user_id: louibo

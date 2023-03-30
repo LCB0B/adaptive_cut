@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/1/d8f0db98503c4790b362ef49faa2bd1a/artifacts
+end_time: 1676744813589
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d8f0db98503c4790b362ef49faa2bd1a
+run_name: enchanting-ray-582
+run_uuid: d8f0db98503c4790b362ef49faa2bd1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676744367374
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/33/8f25e3b9a06a48798347590fdaa33e67/artifacts
+end_time: 1674762448529
+entry_point_name: ''
+experiment_id: '33'
+lifecycle_stage: active
+run_id: 8f25e3b9a06a48798347590fdaa33e67
+run_name: stylish-colt-180
+run_uuid: 8f25e3b9a06a48798347590fdaa33e67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674762435558
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/40/43c966076e4d4b56a29898f68dbaad7b/artifacts
+end_time: 1673987902146
+entry_point_name: ''
+experiment_id: '40'
+lifecycle_stage: active
+run_id: 43c966076e4d4b56a29898f68dbaad7b
+run_name: judicious-grouse-323
+run_uuid: 43c966076e4d4b56a29898f68dbaad7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673987891082
+status: 3
+tags: []
+user_id: louibo

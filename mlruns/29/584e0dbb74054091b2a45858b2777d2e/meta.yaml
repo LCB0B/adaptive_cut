@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/29/584e0dbb74054091b2a45858b2777d2e/artifacts
+end_time: 1674469473902
+entry_point_name: ''
+experiment_id: '29'
+lifecycle_stage: active
+run_id: 584e0dbb74054091b2a45858b2777d2e
+run_name: silent-flea-274
+run_uuid: 584e0dbb74054091b2a45858b2777d2e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674469308990
+status: 3
+tags: []
+user_id: louibo

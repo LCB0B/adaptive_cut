@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/140/0876e754891c4fd78eb8cac2e5e2ab5c/artifacts
+end_time: 1676922411700
+entry_point_name: ''
+experiment_id: '140'
+lifecycle_stage: active
+run_id: 0876e754891c4fd78eb8cac2e5e2ab5c
+run_name: nebulous-conch-374
+run_uuid: 0876e754891c4fd78eb8cac2e5e2ab5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676922383873
+status: 3
+tags: []
+user_id: louibo

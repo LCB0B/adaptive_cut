@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/61/3a02a5fc09a84ac693d0962ad2b49681/artifacts
+end_time: 1676850908969
+entry_point_name: ''
+experiment_id: '61'
+lifecycle_stage: active
+run_id: 3a02a5fc09a84ac693d0962ad2b49681
+run_name: bold-ram-187
+run_uuid: 3a02a5fc09a84ac693d0962ad2b49681
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676850884433
+status: 3
+tags: []
+user_id: louibo

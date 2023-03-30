@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/28/35ab1119bc104913b084dfe3976c5690/artifacts
+end_time: 1676757527293
+entry_point_name: ''
+experiment_id: '28'
+lifecycle_stage: active
+run_id: 35ab1119bc104913b084dfe3976c5690
+run_name: mercurial-shoat-459
+run_uuid: 35ab1119bc104913b084dfe3976c5690
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676757506306
+status: 3
+tags: []
+user_id: louibo

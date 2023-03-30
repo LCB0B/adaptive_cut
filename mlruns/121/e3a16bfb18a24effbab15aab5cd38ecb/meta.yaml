@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/121/e3a16bfb18a24effbab15aab5cd38ecb/artifacts
+end_time: 1676759113782
+entry_point_name: ''
+experiment_id: '121'
+lifecycle_stage: active
+run_id: e3a16bfb18a24effbab15aab5cd38ecb
+run_name: luxuriant-bass-203
+run_uuid: e3a16bfb18a24effbab15aab5cd38ecb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676759103847
+status: 3
+tags: []
+user_id: louibo

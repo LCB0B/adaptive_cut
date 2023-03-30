@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/64/d461f0ced1464f3289553ab0a57475b0/artifacts
+end_time: 1676894783473
+entry_point_name: ''
+experiment_id: '64'
+lifecycle_stage: active
+run_id: d461f0ced1464f3289553ab0a57475b0
+run_name: suave-vole-273
+run_uuid: d461f0ced1464f3289553ab0a57475b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676893761662
+status: 3
+tags: []
+user_id: louibo

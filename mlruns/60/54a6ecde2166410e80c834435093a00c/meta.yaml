@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/60/54a6ecde2166410e80c834435093a00c/artifacts
+end_time: 1676735126948
+entry_point_name: ''
+experiment_id: '60'
+lifecycle_stage: active
+run_id: 54a6ecde2166410e80c834435093a00c
+run_name: welcoming-sponge-574
+run_uuid: 54a6ecde2166410e80c834435093a00c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676735124396
+status: 3
+tags: []
+user_id: louibo

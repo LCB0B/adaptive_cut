@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/144/51ca0a62f05f4edeafa47428ef4fe893/artifacts
+end_time: 1676920530185
+entry_point_name: ''
+experiment_id: '144'
+lifecycle_stage: active
+run_id: 51ca0a62f05f4edeafa47428ef4fe893
+run_name: kindly-stoat-36
+run_uuid: 51ca0a62f05f4edeafa47428ef4fe893
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676920529183
+status: 3
+tags: []
+user_id: louibo

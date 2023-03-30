@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/145/577b578b190d4b18ae3d065827f17f7a/artifacts
+end_time: 1676902027911
+entry_point_name: ''
+experiment_id: '145'
+lifecycle_stage: active
+run_id: 577b578b190d4b18ae3d065827f17f7a
+run_name: classy-ray-463
+run_uuid: 577b578b190d4b18ae3d065827f17f7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676901608480
+status: 3
+tags: []
+user_id: louibo

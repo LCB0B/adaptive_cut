@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/30/8bde0c30dbda40caa8945132f73f7a5c/artifacts
+end_time: 1674754024266
+entry_point_name: ''
+experiment_id: '30'
+lifecycle_stage: active
+run_id: 8bde0c30dbda40caa8945132f73f7a5c
+run_name: rebellious-hawk-77
+run_uuid: 8bde0c30dbda40caa8945132f73f7a5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674754018910
+status: 3
+tags: []
+user_id: louibo

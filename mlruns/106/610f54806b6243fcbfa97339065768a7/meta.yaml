@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/106/610f54806b6243fcbfa97339065768a7/artifacts
+end_time: 1676760693077
+entry_point_name: ''
+experiment_id: '106'
+lifecycle_stage: active
+run_id: 610f54806b6243fcbfa97339065768a7
+run_name: sedate-panda-185
+run_uuid: 610f54806b6243fcbfa97339065768a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676760686823
+status: 3
+tags: []
+user_id: louibo

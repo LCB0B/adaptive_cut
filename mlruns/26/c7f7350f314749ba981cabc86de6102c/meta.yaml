@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/26/c7f7350f314749ba981cabc86de6102c/artifacts
+end_time: 1674753477195
+entry_point_name: ''
+experiment_id: '26'
+lifecycle_stage: active
+run_id: c7f7350f314749ba981cabc86de6102c
+run_name: victorious-conch-527
+run_uuid: c7f7350f314749ba981cabc86de6102c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674753002348
+status: 3
+tags: []
+user_id: louibo

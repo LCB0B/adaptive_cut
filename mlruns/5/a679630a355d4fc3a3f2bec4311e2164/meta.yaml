@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/5/a679630a355d4fc3a3f2bec4311e2164/artifacts
+end_time: 1673980773542
+entry_point_name: ''
+experiment_id: '5'
+lifecycle_stage: active
+run_id: a679630a355d4fc3a3f2bec4311e2164
+run_name: sedate-dove-893
+run_uuid: a679630a355d4fc3a3f2bec4311e2164
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673980771822
+status: 3
+tags: []
+user_id: louibo

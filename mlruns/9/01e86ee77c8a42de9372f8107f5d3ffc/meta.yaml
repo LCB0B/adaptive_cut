@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/9/01e86ee77c8a42de9372f8107f5d3ffc/artifacts
+end_time: 1676851546605
+entry_point_name: ''
+experiment_id: '9'
+lifecycle_stage: active
+run_id: 01e86ee77c8a42de9372f8107f5d3ffc
+run_name: nimble-hare-374
+run_uuid: 01e86ee77c8a42de9372f8107f5d3ffc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676851527283
+status: 3
+tags: []
+user_id: louibo

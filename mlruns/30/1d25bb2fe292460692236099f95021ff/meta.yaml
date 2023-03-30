@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/30/1d25bb2fe292460692236099f95021ff/artifacts
+end_time: 1674491868938
+entry_point_name: ''
+experiment_id: '30'
+lifecycle_stage: active
+run_id: 1d25bb2fe292460692236099f95021ff
+run_name: casual-mule-28
+run_uuid: 1d25bb2fe292460692236099f95021ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674491849485
+status: 3
+tags: []
+user_id: louibo

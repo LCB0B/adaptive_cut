@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/29/4d95cba0f0d6423ca6548893a90eab2e/artifacts
+end_time: 1676757704531
+entry_point_name: ''
+experiment_id: '29'
+lifecycle_stage: active
+run_id: 4d95cba0f0d6423ca6548893a90eab2e
+run_name: defiant-squirrel-808
+run_uuid: 4d95cba0f0d6423ca6548893a90eab2e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676757531068
+status: 3
+tags: []
+user_id: louibo

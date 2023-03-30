@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/42/4ae532e9cbdd4bc3b412ecc71c1ee25b/artifacts
+end_time: 1674758820317
+entry_point_name: ''
+experiment_id: '42'
+lifecycle_stage: active
+run_id: 4ae532e9cbdd4bc3b412ecc71c1ee25b
+run_name: trusting-owl-818
+run_uuid: 4ae532e9cbdd4bc3b412ecc71c1ee25b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674758689372
+status: 3
+tags: []
+user_id: louibo

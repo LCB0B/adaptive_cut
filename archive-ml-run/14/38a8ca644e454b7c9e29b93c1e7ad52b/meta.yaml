@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/14/38a8ca644e454b7c9e29b93c1e7ad52b/artifacts
+end_time: 1673738377049
+entry_point_name: ''
+experiment_id: '14'
+lifecycle_stage: active
+run_id: 38a8ca644e454b7c9e29b93c1e7ad52b
+run_name: enthused-shrimp-356
+run_uuid: 38a8ca644e454b7c9e29b93c1e7ad52b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673738339080
+status: 3
+tags: []
+user_id: louibo

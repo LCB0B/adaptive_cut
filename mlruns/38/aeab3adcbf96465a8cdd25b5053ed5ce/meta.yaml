@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/38/aeab3adcbf96465a8cdd25b5053ed5ce/artifacts
+end_time: 1674474524801
+entry_point_name: ''
+experiment_id: '38'
+lifecycle_stage: active
+run_id: aeab3adcbf96465a8cdd25b5053ed5ce
+run_name: thundering-cub-42
+run_uuid: aeab3adcbf96465a8cdd25b5053ed5ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674474516806
+status: 3
+tags: []
+user_id: louibo

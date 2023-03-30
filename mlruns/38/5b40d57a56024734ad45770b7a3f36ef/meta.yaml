@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/38/5b40d57a56024734ad45770b7a3f36ef/artifacts
+end_time: 1676857114663
+entry_point_name: ''
+experiment_id: '38'
+lifecycle_stage: active
+run_id: 5b40d57a56024734ad45770b7a3f36ef
+run_name: persistent-tern-621
+run_uuid: 5b40d57a56024734ad45770b7a3f36ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676857100072
+status: 3
+tags: []
+user_id: louibo

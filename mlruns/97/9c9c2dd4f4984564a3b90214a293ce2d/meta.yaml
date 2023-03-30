@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/97/9c9c2dd4f4984564a3b90214a293ce2d/artifacts
+end_time: 1676874408207
+entry_point_name: ''
+experiment_id: '97'
+lifecycle_stage: active
+run_id: 9c9c2dd4f4984564a3b90214a293ce2d
+run_name: unique-crab-828
+run_uuid: 9c9c2dd4f4984564a3b90214a293ce2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676874407616
+status: 3
+tags: []
+user_id: louibo

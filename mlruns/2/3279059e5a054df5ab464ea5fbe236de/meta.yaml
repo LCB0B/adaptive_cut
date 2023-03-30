@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/3279059e5a054df5ab464ea5fbe236de/artifacts
+end_time: 1670246257014
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 3279059e5a054df5ab464ea5fbe236de
+run_name: secretive-finch-454
+run_uuid: 3279059e5a054df5ab464ea5fbe236de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670246254185
+status: 3
+tags: []
+user_id: louibo

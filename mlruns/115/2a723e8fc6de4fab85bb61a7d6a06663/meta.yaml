@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/115/2a723e8fc6de4fab85bb61a7d6a06663/artifacts
+end_time: 1676751832466
+entry_point_name: ''
+experiment_id: '115'
+lifecycle_stage: active
+run_id: 2a723e8fc6de4fab85bb61a7d6a06663
+run_name: whimsical-hen-760
+run_uuid: 2a723e8fc6de4fab85bb61a7d6a06663
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676751827204
+status: 3
+tags: []
+user_id: louibo

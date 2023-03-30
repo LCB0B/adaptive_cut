@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/8/9e720af2b0e04fe48d466458eded5050/artifacts
+end_time: 1674053577158
+entry_point_name: ''
+experiment_id: '8'
+lifecycle_stage: active
+run_id: 9e720af2b0e04fe48d466458eded5050
+run_name: gaudy-colt-269
+run_uuid: 9e720af2b0e04fe48d466458eded5050
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674053454767
+status: 3
+tags: []
+user_id: louibo

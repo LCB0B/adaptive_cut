@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/122/1cc405d3de4a41068e125f9cbfac93d9/artifacts
+end_time: 1676916793764
+entry_point_name: ''
+experiment_id: '122'
+lifecycle_stage: active
+run_id: 1cc405d3de4a41068e125f9cbfac93d9
+run_name: rumbling-ant-944
+run_uuid: 1cc405d3de4a41068e125f9cbfac93d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676916789863
+status: 3
+tags: []
+user_id: louibo

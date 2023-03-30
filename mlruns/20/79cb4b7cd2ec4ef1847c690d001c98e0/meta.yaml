@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/20/79cb4b7cd2ec4ef1847c690d001c98e0/artifacts
+end_time: 1673737451704
+entry_point_name: ''
+experiment_id: '20'
+lifecycle_stage: active
+run_id: 79cb4b7cd2ec4ef1847c690d001c98e0
+run_name: whimsical-snipe-239
+run_uuid: 79cb4b7cd2ec4ef1847c690d001c98e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673737451689
+status: 4
+tags: []
+user_id: louibo

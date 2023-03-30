@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/131/8e2e8d090ce94af5a180997ee11ef97a/artifacts
+end_time: 1676913481370
+entry_point_name: ''
+experiment_id: '131'
+lifecycle_stage: active
+run_id: 8e2e8d090ce94af5a180997ee11ef97a
+run_name: masked-shad-877
+run_uuid: 8e2e8d090ce94af5a180997ee11ef97a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676913337863
+status: 3
+tags: []
+user_id: louibo

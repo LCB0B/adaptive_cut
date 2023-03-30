@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/32/445179a88721496ba6c36134b9720f43/artifacts
+end_time: 1674754229540
+entry_point_name: ''
+experiment_id: '32'
+lifecycle_stage: active
+run_id: 445179a88721496ba6c36134b9720f43
+run_name: persistent-mouse-91
+run_uuid: 445179a88721496ba6c36134b9720f43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674754219178
+status: 3
+tags: []
+user_id: louibo

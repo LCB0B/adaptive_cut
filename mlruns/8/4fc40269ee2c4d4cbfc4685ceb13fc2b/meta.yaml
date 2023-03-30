@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/8/4fc40269ee2c4d4cbfc4685ceb13fc2b/artifacts
+end_time: 1674735109990
+entry_point_name: ''
+experiment_id: '8'
+lifecycle_stage: active
+run_id: 4fc40269ee2c4d4cbfc4685ceb13fc2b
+run_name: unleashed-eel-735
+run_uuid: 4fc40269ee2c4d4cbfc4685ceb13fc2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674735048883
+status: 3
+tags: []
+user_id: louibo

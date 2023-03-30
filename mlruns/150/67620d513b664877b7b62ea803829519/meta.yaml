@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/150/67620d513b664877b7b62ea803829519/artifacts
+end_time: 1676795299790
+entry_point_name: ''
+experiment_id: '150'
+lifecycle_stage: active
+run_id: 67620d513b664877b7b62ea803829519
+run_name: able-shark-559
+run_uuid: 67620d513b664877b7b62ea803829519
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676795299659
+status: 4
+tags: []
+user_id: louibo

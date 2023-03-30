@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/26/f8031b9a5c6b409a89920d58032a3d7a/artifacts
+end_time: 1674064292386
+entry_point_name: ''
+experiment_id: '26'
+lifecycle_stage: active
+run_id: f8031b9a5c6b409a89920d58032a3d7a
+run_name: calm-owl-684
+run_uuid: f8031b9a5c6b409a89920d58032a3d7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674063922548
+status: 3
+tags: []
+user_id: louibo

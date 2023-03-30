@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/30/ba008d5d74c4493b87fcc4244edc0b9b/artifacts
+end_time: 1674760798706
+entry_point_name: ''
+experiment_id: '30'
+lifecycle_stage: active
+run_id: ba008d5d74c4493b87fcc4244edc0b9b
+run_name: suave-midge-856
+run_uuid: ba008d5d74c4493b87fcc4244edc0b9b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674760793806
+status: 3
+tags: []
+user_id: louibo

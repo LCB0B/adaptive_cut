@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/33/4ff3635f92e34fc8b35372f5be724fa2/artifacts
+end_time: 1673723375081
+entry_point_name: ''
+experiment_id: '33'
+lifecycle_stage: active
+run_id: 4ff3635f92e34fc8b35372f5be724fa2
+run_name: selective-goose-417
+run_uuid: 4ff3635f92e34fc8b35372f5be724fa2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673723359045
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/98/2c381d19ed26400e95da0ba20428de8b/artifacts
+end_time: 1676859561258
+entry_point_name: ''
+experiment_id: '98'
+lifecycle_stage: active
+run_id: 2c381d19ed26400e95da0ba20428de8b
+run_name: delightful-hawk-643
+run_uuid: 2c381d19ed26400e95da0ba20428de8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676859556446
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/115/43460fd709ee4044be863df6725e1e3a/artifacts
+end_time: 1676761408187
+entry_point_name: ''
+experiment_id: '115'
+lifecycle_stage: active
+run_id: 43460fd709ee4044be863df6725e1e3a
+run_name: unequaled-newt-239
+run_uuid: 43460fd709ee4044be863df6725e1e3a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676761403008
+status: 3
+tags: []
+user_id: louibo

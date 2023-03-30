@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/78/241f809ebf424864aaf6512d0c2eb64f/artifacts
+end_time: 1676856615967
+entry_point_name: ''
+experiment_id: '78'
+lifecycle_stage: active
+run_id: 241f809ebf424864aaf6512d0c2eb64f
+run_name: mercurial-fox-462
+run_uuid: 241f809ebf424864aaf6512d0c2eb64f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676856598254
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/80/39b9ca1c773a4803a18774677a706c89/artifacts
+end_time: 1676743815847
+entry_point_name: ''
+experiment_id: '80'
+lifecycle_stage: active
+run_id: 39b9ca1c773a4803a18774677a706c89
+run_name: adaptable-dove-806
+run_uuid: 39b9ca1c773a4803a18774677a706c89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676743815537
+status: 3
+tags: []
+user_id: louibo

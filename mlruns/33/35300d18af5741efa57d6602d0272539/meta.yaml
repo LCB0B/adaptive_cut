@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/33/35300d18af5741efa57d6602d0272539/artifacts
+end_time: 1673736773175
+entry_point_name: ''
+experiment_id: '33'
+lifecycle_stage: active
+run_id: 35300d18af5741efa57d6602d0272539
+run_name: carefree-roo-224
+run_uuid: 35300d18af5741efa57d6602d0272539
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673736758637
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/33/d8dbfbdc05b1467781aaf64a502f85cc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '33'
+lifecycle_stage: active
+run_id: d8dbfbdc05b1467781aaf64a502f85cc
+run_name: enchanting-pug-456
+run_uuid: d8dbfbdc05b1467781aaf64a502f85cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673734698346
+status: 1
+tags: []
+user_id: louibo

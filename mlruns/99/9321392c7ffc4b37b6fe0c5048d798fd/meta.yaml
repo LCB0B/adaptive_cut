@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/99/9321392c7ffc4b37b6fe0c5048d798fd/artifacts
+end_time: 1676904475236
+entry_point_name: ''
+experiment_id: '99'
+lifecycle_stage: active
+run_id: 9321392c7ffc4b37b6fe0c5048d798fd
+run_name: fearless-trout-565
+run_uuid: 9321392c7ffc4b37b6fe0c5048d798fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676904474772
+status: 3
+tags: []
+user_id: louibo

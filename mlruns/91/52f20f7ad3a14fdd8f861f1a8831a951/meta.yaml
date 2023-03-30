@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/91/52f20f7ad3a14fdd8f861f1a8831a951/artifacts
+end_time: 1676751675037
+entry_point_name: ''
+experiment_id: '91'
+lifecycle_stage: active
+run_id: 52f20f7ad3a14fdd8f861f1a8831a951
+run_name: auspicious-snake-607
+run_uuid: 52f20f7ad3a14fdd8f861f1a8831a951
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676751654655
+status: 3
+tags: []
+user_id: louibo

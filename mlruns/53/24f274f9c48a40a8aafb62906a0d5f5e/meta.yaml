@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/53/24f274f9c48a40a8aafb62906a0d5f5e/artifacts
+end_time: 1676734788022
+entry_point_name: ''
+experiment_id: '53'
+lifecycle_stage: active
+run_id: 24f274f9c48a40a8aafb62906a0d5f5e
+run_name: gregarious-finch-855
+run_uuid: 24f274f9c48a40a8aafb62906a0d5f5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676734783264
+status: 3
+tags: []
+user_id: louibo

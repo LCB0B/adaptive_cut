@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/67/5e51d76f4a29417bb1b6962e10e5bebe/artifacts
+end_time: 1676736380817
+entry_point_name: ''
+experiment_id: '67'
+lifecycle_stage: active
+run_id: 5e51d76f4a29417bb1b6962e10e5bebe
+run_name: unequaled-elk-606
+run_uuid: 5e51d76f4a29417bb1b6962e10e5bebe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676736368263
+status: 4
+tags: []
+user_id: louibo

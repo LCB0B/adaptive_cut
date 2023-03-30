@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/29/a7e4621ec8644f8b826f68f040ea8de0/artifacts
+end_time: 1673965677174
+entry_point_name: ''
+experiment_id: '29'
+lifecycle_stage: active
+run_id: a7e4621ec8644f8b826f68f040ea8de0
+run_name: righteous-chimp-565
+run_uuid: a7e4621ec8644f8b826f68f040ea8de0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673965521292
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/12/bb0a88d8c8d94d678423d95a80760b9f/artifacts
+end_time: 1674052989122
+entry_point_name: ''
+experiment_id: '12'
+lifecycle_stage: active
+run_id: bb0a88d8c8d94d678423d95a80760b9f
+run_name: brawny-lamb-698
+run_uuid: bb0a88d8c8d94d678423d95a80760b9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674052962858
+status: 3
+tags: []
+user_id: louibo

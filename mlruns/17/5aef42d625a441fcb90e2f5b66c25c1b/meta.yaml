@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/17/5aef42d625a441fcb90e2f5b66c25c1b/artifacts
+end_time: 1676745466647
+entry_point_name: ''
+experiment_id: '17'
+lifecycle_stage: active
+run_id: 5aef42d625a441fcb90e2f5b66c25c1b
+run_name: classy-seal-656
+run_uuid: 5aef42d625a441fcb90e2f5b66c25c1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676745462155
+status: 3
+tags: []
+user_id: louibo

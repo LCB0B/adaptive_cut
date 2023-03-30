@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/55b07d27cd144d7785612e64a8573e70/artifacts
+end_time: 1676887980747
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 55b07d27cd144d7785612e64a8573e70
+run_name: sassy-bug-874
+run_uuid: 55b07d27cd144d7785612e64a8573e70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676887977794
+status: 3
+tags: []
+user_id: louibo

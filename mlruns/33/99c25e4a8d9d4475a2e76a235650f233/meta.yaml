@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/33/99c25e4a8d9d4475a2e76a235650f233/artifacts
+end_time: 1673735225236
+entry_point_name: ''
+experiment_id: '33'
+lifecycle_stage: active
+run_id: 99c25e4a8d9d4475a2e76a235650f233
+run_name: flawless-rat-1000
+run_uuid: 99c25e4a8d9d4475a2e76a235650f233
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673735215272
+status: 3
+tags: []
+user_id: louibo

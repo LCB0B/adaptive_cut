@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/29/0935817a1ce24dbebb29e63ee1f67651/artifacts
+end_time: 1676910255246
+entry_point_name: ''
+experiment_id: '29'
+lifecycle_stage: active
+run_id: 0935817a1ce24dbebb29e63ee1f67651
+run_name: debonair-pig-930
+run_uuid: 0935817a1ce24dbebb29e63ee1f67651
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676909416158
+status: 3
+tags: []
+user_id: louibo

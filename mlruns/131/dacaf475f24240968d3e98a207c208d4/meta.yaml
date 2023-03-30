@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/131/dacaf475f24240968d3e98a207c208d4/artifacts
+end_time: 1676756396209
+entry_point_name: ''
+experiment_id: '131'
+lifecycle_stage: active
+run_id: dacaf475f24240968d3e98a207c208d4
+run_name: worried-croc-253
+run_uuid: dacaf475f24240968d3e98a207c208d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676756273126
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/9/0c869883246a4561a2389f69193787c3/artifacts
+end_time: 1674052958401
+entry_point_name: ''
+experiment_id: '9'
+lifecycle_stage: active
+run_id: 0c869883246a4561a2389f69193787c3
+run_name: aged-mole-451
+run_uuid: 0c869883246a4561a2389f69193787c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674052948612
+status: 3
+tags: []
+user_id: louibo

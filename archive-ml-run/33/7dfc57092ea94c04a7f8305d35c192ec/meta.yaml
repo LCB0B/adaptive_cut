@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/33/7dfc57092ea94c04a7f8305d35c192ec/artifacts
+end_time: 1673737029362
+entry_point_name: ''
+experiment_id: '33'
+lifecycle_stage: active
+run_id: 7dfc57092ea94c04a7f8305d35c192ec
+run_name: polite-shrew-184
+run_uuid: 7dfc57092ea94c04a7f8305d35c192ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673737014879
+status: 3
+tags: []
+user_id: louibo

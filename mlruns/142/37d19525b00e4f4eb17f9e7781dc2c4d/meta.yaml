@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/142/37d19525b00e4f4eb17f9e7781dc2c4d/artifacts
+end_time: 1676771763485
+entry_point_name: ''
+experiment_id: '142'
+lifecycle_stage: active
+run_id: 37d19525b00e4f4eb17f9e7781dc2c4d
+run_name: languid-tern-982
+run_uuid: 37d19525b00e4f4eb17f9e7781dc2c4d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676771292691
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/67/a8a41ce5b95c41d1b7fc1278ef5372a8/artifacts
+end_time: 1676737666228
+entry_point_name: ''
+experiment_id: '67'
+lifecycle_stage: active
+run_id: a8a41ce5b95c41d1b7fc1278ef5372a8
+run_name: placid-croc-507
+run_uuid: a8a41ce5b95c41d1b7fc1278ef5372a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676737641980
+status: 3
+tags: []
+user_id: louibo

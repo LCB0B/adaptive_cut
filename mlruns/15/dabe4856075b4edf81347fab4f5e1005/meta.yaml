@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/15/dabe4856075b4edf81347fab4f5e1005/artifacts
+end_time: 1676745302217
+entry_point_name: ''
+experiment_id: '15'
+lifecycle_stage: active
+run_id: dabe4856075b4edf81347fab4f5e1005
+run_name: calm-shark-567
+run_uuid: dabe4856075b4edf81347fab4f5e1005
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676745300989
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/32/a010b1032d1a49cbb3942bba491baa48/artifacts
+end_time: 1674754219172
+entry_point_name: ''
+experiment_id: '32'
+lifecycle_stage: active
+run_id: a010b1032d1a49cbb3942bba491baa48
+run_name: stylish-loon-85
+run_uuid: a010b1032d1a49cbb3942bba491baa48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674754216489
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/29/5a8aa00785c744e5abc4526742be75fa/artifacts
+end_time: 1676749352527
+entry_point_name: ''
+experiment_id: '29'
+lifecycle_stage: active
+run_id: 5a8aa00785c744e5abc4526742be75fa
+run_name: salty-fox-361
+run_uuid: 5a8aa00785c744e5abc4526742be75fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676748583620
+status: 3
+tags: []
+user_id: louibo

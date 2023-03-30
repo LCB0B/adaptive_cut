@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/6/8f1916233b4f4b3683d51fc71b2672af/artifacts
+end_time: 1674732524268
+entry_point_name: ''
+experiment_id: '6'
+lifecycle_stage: active
+run_id: 8f1916233b4f4b3683d51fc71b2672af
+run_name: fearless-loon-412
+run_uuid: 8f1916233b4f4b3683d51fc71b2672af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674732386107
+status: 3
+tags: []
+user_id: louibo

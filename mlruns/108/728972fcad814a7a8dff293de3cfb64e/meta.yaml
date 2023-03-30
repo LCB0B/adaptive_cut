@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/108/728972fcad814a7a8dff293de3cfb64e/artifacts
+end_time: 1676885229193
+entry_point_name: ''
+experiment_id: '108'
+lifecycle_stage: active
+run_id: 728972fcad814a7a8dff293de3cfb64e
+run_name: omniscient-dog-251
+run_uuid: 728972fcad814a7a8dff293de3cfb64e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676885227170
+status: 3
+tags: []
+user_id: louibo

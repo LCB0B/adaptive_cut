@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/39/ec302d2bbaba48868bfa4fd06ede2431/artifacts
+end_time: 1676923263910
+entry_point_name: ''
+experiment_id: '39'
+lifecycle_stage: active
+run_id: ec302d2bbaba48868bfa4fd06ede2431
+run_name: defiant-snipe-167
+run_uuid: ec302d2bbaba48868bfa4fd06ede2431
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676923263661
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/81/94bee1e3a44848dea61cb42d3f55319a/artifacts
+end_time: 1676900591190
+entry_point_name: ''
+experiment_id: '81'
+lifecycle_stage: active
+run_id: 94bee1e3a44848dea61cb42d3f55319a
+run_name: mysterious-asp-87
+run_uuid: 94bee1e3a44848dea61cb42d3f55319a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676900528015
+status: 3
+tags: []
+user_id: louibo

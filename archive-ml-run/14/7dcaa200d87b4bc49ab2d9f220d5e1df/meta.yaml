@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/14/7dcaa200d87b4bc49ab2d9f220d5e1df/artifacts
+end_time: 1673973600418
+entry_point_name: ''
+experiment_id: '14'
+lifecycle_stage: active
+run_id: 7dcaa200d87b4bc49ab2d9f220d5e1df
+run_name: bustling-sloth-281
+run_uuid: 7dcaa200d87b4bc49ab2d9f220d5e1df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673973566878
+status: 3
+tags: []
+user_id: louibo

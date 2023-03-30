@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/89/9f55264363cd464c84196f3baacd5f9d/artifacts
+end_time: 1676751050595
+entry_point_name: ''
+experiment_id: '89'
+lifecycle_stage: active
+run_id: 9f55264363cd464c84196f3baacd5f9d
+run_name: fortunate-auk-711
+run_uuid: 9f55264363cd464c84196f3baacd5f9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676751044043
+status: 3
+tags: []
+user_id: louibo

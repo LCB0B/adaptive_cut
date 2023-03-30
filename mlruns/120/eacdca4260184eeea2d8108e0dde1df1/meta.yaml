@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/120/eacdca4260184eeea2d8108e0dde1df1/artifacts
+end_time: 1676916716169
+entry_point_name: ''
+experiment_id: '120'
+lifecycle_stage: active
+run_id: eacdca4260184eeea2d8108e0dde1df1
+run_name: fortunate-foal-985
+run_uuid: eacdca4260184eeea2d8108e0dde1df1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676916712450
+status: 3
+tags: []
+user_id: louibo

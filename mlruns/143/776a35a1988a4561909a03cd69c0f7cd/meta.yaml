@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/143/776a35a1988a4561909a03cd69c0f7cd/artifacts
+end_time: 1676772168649
+entry_point_name: ''
+experiment_id: '143'
+lifecycle_stage: active
+run_id: 776a35a1988a4561909a03cd69c0f7cd
+run_name: nebulous-horse-436
+run_uuid: 776a35a1988a4561909a03cd69c0f7cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676772168513
+status: 4
+tags: []
+user_id: louibo

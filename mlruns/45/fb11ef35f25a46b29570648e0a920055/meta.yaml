@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/45/fb11ef35f25a46b29570648e0a920055/artifacts
+end_time: 1673989959772
+entry_point_name: ''
+experiment_id: '45'
+lifecycle_stage: active
+run_id: fb11ef35f25a46b29570648e0a920055
+run_name: handsome-gnu-772
+run_uuid: fb11ef35f25a46b29570648e0a920055
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673989913917
+status: 3
+tags: []
+user_id: louibo

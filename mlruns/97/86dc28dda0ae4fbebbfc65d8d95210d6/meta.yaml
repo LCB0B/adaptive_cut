@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/97/86dc28dda0ae4fbebbfc65d8d95210d6/artifacts
+end_time: 1676755540818
+entry_point_name: ''
+experiment_id: '97'
+lifecycle_stage: active
+run_id: 86dc28dda0ae4fbebbfc65d8d95210d6
+run_name: clean-squid-382
+run_uuid: 86dc28dda0ae4fbebbfc65d8d95210d6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676755537215
+status: 3
+tags: []
+user_id: louibo

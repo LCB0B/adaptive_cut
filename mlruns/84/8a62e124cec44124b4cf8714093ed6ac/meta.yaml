@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/84/8a62e124cec44124b4cf8714093ed6ac/artifacts
+end_time: 1676868334189
+entry_point_name: ''
+experiment_id: '84'
+lifecycle_stage: active
+run_id: 8a62e124cec44124b4cf8714093ed6ac
+run_name: bittersweet-croc-117
+run_uuid: 8a62e124cec44124b4cf8714093ed6ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676867099698
+status: 3
+tags: []
+user_id: louibo

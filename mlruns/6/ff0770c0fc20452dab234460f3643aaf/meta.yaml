@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/6/ff0770c0fc20452dab234460f3643aaf/artifacts
+end_time: 1674732979185
+entry_point_name: ''
+experiment_id: '6'
+lifecycle_stage: active
+run_id: ff0770c0fc20452dab234460f3643aaf
+run_name: mysterious-steed-816
+run_uuid: ff0770c0fc20452dab234460f3643aaf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674732535429
+status: 3
+tags: []
+user_id: louibo

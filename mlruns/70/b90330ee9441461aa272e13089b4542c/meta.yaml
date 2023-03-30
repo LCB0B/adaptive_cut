@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/70/b90330ee9441461aa272e13089b4542c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '70'
+lifecycle_stage: active
+run_id: b90330ee9441461aa272e13089b4542c
+run_name: likeable-horse-548
+run_uuid: b90330ee9441461aa272e13089b4542c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676889908973
+status: 1
+tags: []
+user_id: louibo

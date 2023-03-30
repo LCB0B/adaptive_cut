@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/20/d7bf4a0a60494213855051e34ff197a0/artifacts
+end_time: 1673737494821
+entry_point_name: ''
+experiment_id: '20'
+lifecycle_stage: active
+run_id: d7bf4a0a60494213855051e34ff197a0
+run_name: crawling-swan-845
+run_uuid: d7bf4a0a60494213855051e34ff197a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673737494805
+status: 4
+tags: []
+user_id: louibo

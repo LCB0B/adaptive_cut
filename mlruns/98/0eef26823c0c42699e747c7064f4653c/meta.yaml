@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/98/0eef26823c0c42699e747c7064f4653c/artifacts
+end_time: 1676877066333
+entry_point_name: ''
+experiment_id: '98'
+lifecycle_stage: active
+run_id: 0eef26823c0c42699e747c7064f4653c
+run_name: valuable-yak-798
+run_uuid: 0eef26823c0c42699e747c7064f4653c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676877061488
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/143/8985e11e13874f02aa1770ff479c570f/artifacts
+end_time: 1676898718884
+entry_point_name: ''
+experiment_id: '143'
+lifecycle_stage: active
+run_id: 8985e11e13874f02aa1770ff479c570f
+run_name: wistful-ape-563
+run_uuid: 8985e11e13874f02aa1770ff479c570f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676898694279
+status: 3
+tags: []
+user_id: louibo

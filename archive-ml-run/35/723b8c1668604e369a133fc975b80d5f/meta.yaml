@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/35/723b8c1668604e369a133fc975b80d5f/artifacts
+end_time: 1673991052414
+entry_point_name: ''
+experiment_id: '35'
+lifecycle_stage: active
+run_id: 723b8c1668604e369a133fc975b80d5f
+run_name: puzzled-bass-948
+run_uuid: 723b8c1668604e369a133fc975b80d5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673990669311
+status: 3
+tags: []
+user_id: louibo

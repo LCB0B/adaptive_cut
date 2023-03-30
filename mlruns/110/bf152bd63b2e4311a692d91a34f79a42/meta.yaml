@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/110/bf152bd63b2e4311a692d91a34f79a42/artifacts
+end_time: 1676751525233
+entry_point_name: ''
+experiment_id: '110'
+lifecycle_stage: active
+run_id: bf152bd63b2e4311a692d91a34f79a42
+run_name: rumbling-crane-702
+run_uuid: bf152bd63b2e4311a692d91a34f79a42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676751518285
+status: 3
+tags: []
+user_id: louibo

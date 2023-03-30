@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/93aa9432f0774e548dc31ef8b890982d/artifacts
+end_time: 1672596292805
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 93aa9432f0774e548dc31ef8b890982d
+run_name: abrasive-slug-25
+run_uuid: 93aa9432f0774e548dc31ef8b890982d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672596291403
+status: 3
+tags: []
+user_id: louibo

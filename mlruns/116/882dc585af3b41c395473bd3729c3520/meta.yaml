@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/116/882dc585af3b41c395473bd3729c3520/artifacts
+end_time: 1676870230090
+entry_point_name: ''
+experiment_id: '116'
+lifecycle_stage: active
+run_id: 882dc585af3b41c395473bd3729c3520
+run_name: efficient-lark-847
+run_uuid: 882dc585af3b41c395473bd3729c3520
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676870140888
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/97/b671bf26e6bb4d4ea57e8013a42b9a43/artifacts
+end_time: 1676755552383
+entry_point_name: ''
+experiment_id: '97'
+lifecycle_stage: active
+run_id: b671bf26e6bb4d4ea57e8013a42b9a43
+run_name: loud-eel-256
+run_uuid: b671bf26e6bb4d4ea57e8013a42b9a43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676755542815
+status: 3
+tags: []
+user_id: louibo

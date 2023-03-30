@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/104/f9e254ffad5041db976f115856229121/artifacts
+end_time: 1676910327684
+entry_point_name: ''
+experiment_id: '104'
+lifecycle_stage: active
+run_id: f9e254ffad5041db976f115856229121
+run_name: clean-duck-492
+run_uuid: f9e254ffad5041db976f115856229121
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676910298430
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/134/083447e6aace43b7b5277217d9e5ec46/artifacts
+end_time: 1676921076085
+entry_point_name: ''
+experiment_id: '134'
+lifecycle_stage: active
+run_id: 083447e6aace43b7b5277217d9e5ec46
+run_name: clean-flea-580
+run_uuid: 083447e6aace43b7b5277217d9e5ec46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676921064128
+status: 3
+tags: []
+user_id: louibo

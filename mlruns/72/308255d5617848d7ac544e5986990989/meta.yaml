@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/72/308255d5617848d7ac544e5986990989/artifacts
+end_time: 1676739996478
+entry_point_name: ''
+experiment_id: '72'
+lifecycle_stage: active
+run_id: 308255d5617848d7ac544e5986990989
+run_name: upbeat-moose-925
+run_uuid: 308255d5617848d7ac544e5986990989
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676739996411
+status: 4
+tags: []
+user_id: louibo

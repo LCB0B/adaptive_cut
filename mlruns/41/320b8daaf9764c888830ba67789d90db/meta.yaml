@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/41/320b8daaf9764c888830ba67789d90db/artifacts
+end_time: 1676747870023
+entry_point_name: ''
+experiment_id: '41'
+lifecycle_stage: active
+run_id: 320b8daaf9764c888830ba67789d90db
+run_name: persistent-hen-352
+run_uuid: 320b8daaf9764c888830ba67789d90db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676747822414
+status: 3
+tags: []
+user_id: louibo

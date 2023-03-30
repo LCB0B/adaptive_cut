@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/7/980b63a3ff2942f2afbcbff465f053c0/artifacts
+end_time: 1674735061479
+entry_point_name: ''
+experiment_id: '7'
+lifecycle_stage: active
+run_id: 980b63a3ff2942f2afbcbff465f053c0
+run_name: abundant-loon-812
+run_uuid: 980b63a3ff2942f2afbcbff465f053c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674733386291
+status: 3
+tags: []
+user_id: louibo

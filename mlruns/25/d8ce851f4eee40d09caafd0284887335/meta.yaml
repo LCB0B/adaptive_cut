@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/25/d8ce851f4eee40d09caafd0284887335/artifacts
+end_time: 1674082443069
+entry_point_name: ''
+experiment_id: '25'
+lifecycle_stage: active
+run_id: d8ce851f4eee40d09caafd0284887335
+run_name: peaceful-cub-311
+run_uuid: d8ce851f4eee40d09caafd0284887335
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674082256476
+status: 3
+tags: []
+user_id: louibo

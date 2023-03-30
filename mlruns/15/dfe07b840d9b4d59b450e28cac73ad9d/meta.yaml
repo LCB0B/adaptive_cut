@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/15/dfe07b840d9b4d59b450e28cac73ad9d/artifacts
+end_time: 1674056242394
+entry_point_name: ''
+experiment_id: '15'
+lifecycle_stage: active
+run_id: dfe07b840d9b4d59b450e28cac73ad9d
+run_name: ambitious-bass-622
+run_uuid: dfe07b840d9b4d59b450e28cac73ad9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674056241326
+status: 3
+tags: []
+user_id: louibo

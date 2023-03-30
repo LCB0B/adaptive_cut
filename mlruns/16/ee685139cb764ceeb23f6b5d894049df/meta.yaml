@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/16/ee685139cb764ceeb23f6b5d894049df/artifacts
+end_time: 1674057265776
+entry_point_name: ''
+experiment_id: '16'
+lifecycle_stage: active
+run_id: ee685139cb764ceeb23f6b5d894049df
+run_name: redolent-mouse-197
+run_uuid: ee685139cb764ceeb23f6b5d894049df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674056759953
+status: 3
+tags: []
+user_id: louibo

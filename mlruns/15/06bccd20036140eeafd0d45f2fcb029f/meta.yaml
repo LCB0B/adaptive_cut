@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/15/06bccd20036140eeafd0d45f2fcb029f/artifacts
+end_time: 1676745305075
+entry_point_name: ''
+experiment_id: '15'
+lifecycle_stage: active
+run_id: 06bccd20036140eeafd0d45f2fcb029f
+run_name: whimsical-duck-168
+run_uuid: 06bccd20036140eeafd0d45f2fcb029f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676745302226
+status: 3
+tags: []
+user_id: louibo

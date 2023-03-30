@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/129/358476ee061b454ab86cb438e618dc93/artifacts
+end_time: 1676911964881
+entry_point_name: ''
+experiment_id: '129'
+lifecycle_stage: active
+run_id: 358476ee061b454ab86cb438e618dc93
+run_name: wise-shad-41
+run_uuid: 358476ee061b454ab86cb438e618dc93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676911964470
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/12/8b574b7f4e6243669f5ed7ce71555518/artifacts
+end_time: 1676904279254
+entry_point_name: ''
+experiment_id: '12'
+lifecycle_stage: active
+run_id: 8b574b7f4e6243669f5ed7ce71555518
+run_name: sassy-mare-927
+run_uuid: 8b574b7f4e6243669f5ed7ce71555518
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676904273852
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/34/3f6635c7aaa44441a2dd6091d2865845/artifacts
+end_time: 1674070150910
+entry_point_name: ''
+experiment_id: '34'
+lifecycle_stage: active
+run_id: 3f6635c7aaa44441a2dd6091d2865845
+run_name: industrious-slug-874
+run_uuid: 3f6635c7aaa44441a2dd6091d2865845
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674069858359
+status: 3
+tags: []
+user_id: louibo

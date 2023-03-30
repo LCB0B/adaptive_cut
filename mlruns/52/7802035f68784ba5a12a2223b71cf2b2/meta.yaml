@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/52/7802035f68784ba5a12a2223b71cf2b2/artifacts
+end_time: 1676824150267
+entry_point_name: ''
+experiment_id: '52'
+lifecycle_stage: active
+run_id: 7802035f68784ba5a12a2223b71cf2b2
+run_name: mysterious-vole-811
+run_uuid: 7802035f68784ba5a12a2223b71cf2b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676824021020
+status: 3
+tags: []
+user_id: louibo

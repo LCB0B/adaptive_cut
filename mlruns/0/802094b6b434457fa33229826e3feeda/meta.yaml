@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/0/802094b6b434457fa33229826e3feeda/artifacts
+end_time: 1674049753628
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 802094b6b434457fa33229826e3feeda
+run_name: melodic-horse-55
+run_uuid: 802094b6b434457fa33229826e3feeda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674049751812
+status: 3
+tags: []
+user_id: louibo

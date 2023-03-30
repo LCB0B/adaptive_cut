@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/43/82c5f3d208fd46a0aec8ddc54b7b5de6/artifacts
+end_time: 1676752172256
+entry_point_name: ''
+experiment_id: '43'
+lifecycle_stage: active
+run_id: 82c5f3d208fd46a0aec8ddc54b7b5de6
+run_name: bold-sponge-798
+run_uuid: 82c5f3d208fd46a0aec8ddc54b7b5de6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676751832730
+status: 3
+tags: []
+user_id: louibo

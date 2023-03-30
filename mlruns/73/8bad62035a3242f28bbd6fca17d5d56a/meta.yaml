@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/73/8bad62035a3242f28bbd6fca17d5d56a/artifacts
+end_time: 1676855126520
+entry_point_name: ''
+experiment_id: '73'
+lifecycle_stage: active
+run_id: 8bad62035a3242f28bbd6fca17d5d56a
+run_name: grandiose-mare-310
+run_uuid: 8bad62035a3242f28bbd6fca17d5d56a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676855026119
+status: 3
+tags: []
+user_id: louibo

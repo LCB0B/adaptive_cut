@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/28/47cb80361d2b46b99a8c213036518848/artifacts
+end_time: 1674068203745
+entry_point_name: ''
+experiment_id: '28'
+lifecycle_stage: active
+run_id: 47cb80361d2b46b99a8c213036518848
+run_name: sassy-wren-503
+run_uuid: 47cb80361d2b46b99a8c213036518848
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674068182326
+status: 3
+tags: []
+user_id: louibo

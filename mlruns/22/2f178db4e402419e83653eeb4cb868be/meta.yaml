@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/22/2f178db4e402419e83653eeb4cb868be/artifacts
+end_time: 1674059019977
+entry_point_name: ''
+experiment_id: '22'
+lifecycle_stage: active
+run_id: 2f178db4e402419e83653eeb4cb868be
+run_name: sedate-carp-395
+run_uuid: 2f178db4e402419e83653eeb4cb868be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674058307074
+status: 3
+tags: []
+user_id: louibo

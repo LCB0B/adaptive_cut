@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/26/272cd70e38d9421baa3edf521410b45f/artifacts
+end_time: 1674742003766
+entry_point_name: ''
+experiment_id: '26'
+lifecycle_stage: active
+run_id: 272cd70e38d9421baa3edf521410b45f
+run_name: salty-auk-203
+run_uuid: 272cd70e38d9421baa3edf521410b45f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674741496764
+status: 3
+tags: []
+user_id: louibo

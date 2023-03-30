@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/128/e8993d37709049caa8eada9fa0052bfe/artifacts
+end_time: 1676917652536
+entry_point_name: ''
+experiment_id: '128'
+lifecycle_stage: active
+run_id: e8993d37709049caa8eada9fa0052bfe
+run_name: nebulous-owl-527
+run_uuid: e8993d37709049caa8eada9fa0052bfe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676917639570
+status: 3
+tags: []
+user_id: louibo

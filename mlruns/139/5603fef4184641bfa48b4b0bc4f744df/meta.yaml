@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/139/5603fef4184641bfa48b4b0bc4f744df/artifacts
+end_time: 1676768895256
+entry_point_name: ''
+experiment_id: '139'
+lifecycle_stage: active
+run_id: 5603fef4184641bfa48b4b0bc4f744df
+run_name: crawling-cod-152
+run_uuid: 5603fef4184641bfa48b4b0bc4f744df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676768895009
+status: 4
+tags: []
+user_id: louibo

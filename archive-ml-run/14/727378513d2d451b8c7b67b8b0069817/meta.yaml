@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/14/727378513d2d451b8c7b67b8b0069817/artifacts
+end_time: 1673803224772
+entry_point_name: ''
+experiment_id: '14'
+lifecycle_stage: active
+run_id: 727378513d2d451b8c7b67b8b0069817
+run_name: colorful-ape-94
+run_uuid: 727378513d2d451b8c7b67b8b0069817
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673803187731
+status: 3
+tags: []
+user_id: louibo

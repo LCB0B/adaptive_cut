@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/135/757acd15daa640368648a07942b1f31c/artifacts
+end_time: 1676897063578
+entry_point_name: ''
+experiment_id: '135'
+lifecycle_stage: active
+run_id: 757acd15daa640368648a07942b1f31c
+run_name: skittish-turtle-310
+run_uuid: 757acd15daa640368648a07942b1f31c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676897063263
+status: 3
+tags: []
+user_id: louibo

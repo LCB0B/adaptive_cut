@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/124/08d87583bd154fa793e1164a3db1992c/artifacts
+end_time: 1676753954974
+entry_point_name: ''
+experiment_id: '124'
+lifecycle_stage: active
+run_id: 08d87583bd154fa793e1164a3db1992c
+run_name: fun-mouse-431
+run_uuid: 08d87583bd154fa793e1164a3db1992c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676753951771
+status: 3
+tags: []
+user_id: louibo

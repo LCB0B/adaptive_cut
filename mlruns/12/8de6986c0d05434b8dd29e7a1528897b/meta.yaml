@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/12/8de6986c0d05434b8dd29e7a1528897b/artifacts
+end_time: 1674053789803
+entry_point_name: ''
+experiment_id: '12'
+lifecycle_stage: active
+run_id: 8de6986c0d05434b8dd29e7a1528897b
+run_name: auspicious-sow-614
+run_uuid: 8de6986c0d05434b8dd29e7a1528897b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674053769227
+status: 3
+tags: []
+user_id: louibo

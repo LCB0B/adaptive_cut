@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/37/cc0e30d9f63c4ad4b33f3294a1cc61b4/artifacts
+end_time: 1674074512347
+entry_point_name: ''
+experiment_id: '37'
+lifecycle_stage: active
+run_id: cc0e30d9f63c4ad4b33f3294a1cc61b4
+run_name: likeable-mole-305
+run_uuid: cc0e30d9f63c4ad4b33f3294a1cc61b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674073517409
+status: 3
+tags: []
+user_id: louibo

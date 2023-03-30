@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/37/6a805a1b930e4d6db7892144cbfd732b/artifacts
+end_time: 1673738680435
+entry_point_name: ''
+experiment_id: '37'
+lifecycle_stage: active
+run_id: 6a805a1b930e4d6db7892144cbfd732b
+run_name: capricious-mink-663
+run_uuid: 6a805a1b930e4d6db7892144cbfd732b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673738679014
+status: 4
+tags: []
+user_id: louibo

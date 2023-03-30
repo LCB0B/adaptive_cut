@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/29/de9d22a3a9304ccd82425d6c95b9f8d2/artifacts
+end_time: 1676753394080
+entry_point_name: ''
+experiment_id: '29'
+lifecycle_stage: active
+run_id: de9d22a3a9304ccd82425d6c95b9f8d2
+run_name: silent-yak-542
+run_uuid: de9d22a3a9304ccd82425d6c95b9f8d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676753141459
+status: 3
+tags: []
+user_id: louibo

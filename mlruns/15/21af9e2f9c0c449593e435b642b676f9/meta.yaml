@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/15/21af9e2f9c0c449593e435b642b676f9/artifacts
+end_time: 1676900397636
+entry_point_name: ''
+experiment_id: '15'
+lifecycle_stage: active
+run_id: 21af9e2f9c0c449593e435b642b676f9
+run_name: clumsy-stag-928
+run_uuid: 21af9e2f9c0c449593e435b642b676f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676900394561
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/14/0184f49918534ec994b5924fd452e4b9/artifacts
+end_time: 1673801531403
+entry_point_name: ''
+experiment_id: '14'
+lifecycle_stage: active
+run_id: 0184f49918534ec994b5924fd452e4b9
+run_name: enthused-koi-96
+run_uuid: 0184f49918534ec994b5924fd452e4b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673801494532
+status: 3
+tags: []
+user_id: louibo

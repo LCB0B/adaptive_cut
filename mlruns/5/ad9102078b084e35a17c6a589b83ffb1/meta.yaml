@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/5/ad9102078b084e35a17c6a589b83ffb1/artifacts
+end_time: 1676735642787
+entry_point_name: ''
+experiment_id: '5'
+lifecycle_stage: active
+run_id: ad9102078b084e35a17c6a589b83ffb1
+run_name: glamorous-steed-514
+run_uuid: ad9102078b084e35a17c6a589b83ffb1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676735638602
+status: 3
+tags: []
+user_id: louibo

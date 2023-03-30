@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/17/81ebd899c9ba4f20a995a80f8de9dd6e/artifacts
+end_time: 1676898682163
+entry_point_name: ''
+experiment_id: '17'
+lifecycle_stage: active
+run_id: 81ebd899c9ba4f20a995a80f8de9dd6e
+run_name: sincere-shad-155
+run_uuid: 81ebd899c9ba4f20a995a80f8de9dd6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676898681356
+status: 3
+tags: []
+user_id: louibo

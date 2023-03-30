@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/10/d8743991d8a3476c853574048338dd05/artifacts
+end_time: 1674053831403
+entry_point_name: ''
+experiment_id: '10'
+lifecycle_stage: active
+run_id: d8743991d8a3476c853574048338dd05
+run_name: traveling-shark-638
+run_uuid: d8743991d8a3476c853574048338dd05
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674053810080
+status: 3
+tags: []
+user_id: louibo

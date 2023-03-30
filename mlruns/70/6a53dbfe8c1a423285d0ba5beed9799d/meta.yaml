@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/70/6a53dbfe8c1a423285d0ba5beed9799d/artifacts
+end_time: 1676738606376
+entry_point_name: ''
+experiment_id: '70'
+lifecycle_stage: active
+run_id: 6a53dbfe8c1a423285d0ba5beed9799d
+run_name: worried-stag-597
+run_uuid: 6a53dbfe8c1a423285d0ba5beed9799d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676738605655
+status: 3
+tags: []
+user_id: louibo

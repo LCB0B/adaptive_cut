@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/7/d0b5b00a8c4b47f187d55bcf6785b46c/artifacts
+end_time: 1673830943762
+entry_point_name: ''
+experiment_id: '7'
+lifecycle_stage: active
+run_id: d0b5b00a8c4b47f187d55bcf6785b46c
+run_name: spiffy-tern-930
+run_uuid: d0b5b00a8c4b47f187d55bcf6785b46c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673830387391
+status: 3
+tags: []
+user_id: louibo

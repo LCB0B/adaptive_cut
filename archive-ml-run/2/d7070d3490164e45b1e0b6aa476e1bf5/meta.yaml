@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/d7070d3490164e45b1e0b6aa476e1bf5/artifacts
+end_time: 1672596299675
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: d7070d3490164e45b1e0b6aa476e1bf5
+run_name: capable-dolphin-61
+run_uuid: d7070d3490164e45b1e0b6aa476e1bf5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672596292807
+status: 3
+tags: []
+user_id: louibo

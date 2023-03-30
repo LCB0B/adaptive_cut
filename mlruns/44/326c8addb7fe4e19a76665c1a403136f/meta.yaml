@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/44/326c8addb7fe4e19a76665c1a403136f/artifacts
+end_time: 1676910854936
+entry_point_name: ''
+experiment_id: '44'
+lifecycle_stage: active
+run_id: 326c8addb7fe4e19a76665c1a403136f
+run_name: unruly-snake-382
+run_uuid: 326c8addb7fe4e19a76665c1a403136f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676910849237
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/47/5c22b9f373f24efb8dea069c4c5f0f5c/artifacts
+end_time: 1674762732818
+entry_point_name: ''
+experiment_id: '47'
+lifecycle_stage: active
+run_id: 5c22b9f373f24efb8dea069c4c5f0f5c
+run_name: vaunted-wasp-822
+run_uuid: 5c22b9f373f24efb8dea069c4c5f0f5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674762724454
+status: 3
+tags: []
+user_id: louibo

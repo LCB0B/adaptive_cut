@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/12/43534a25f3bd47b7b4c6ab45214217ae/artifacts
+end_time: 1676898232276
+entry_point_name: ''
+experiment_id: '12'
+lifecycle_stage: active
+run_id: 43534a25f3bd47b7b4c6ab45214217ae
+run_name: puzzled-seal-291
+run_uuid: 43534a25f3bd47b7b4c6ab45214217ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676898149551
+status: 3
+tags: []
+user_id: louibo

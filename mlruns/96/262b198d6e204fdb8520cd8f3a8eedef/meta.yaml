@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/96/262b198d6e204fdb8520cd8f3a8eedef/artifacts
+end_time: 1676751134044
+entry_point_name: ''
+experiment_id: '96'
+lifecycle_stage: active
+run_id: 262b198d6e204fdb8520cd8f3a8eedef
+run_name: clean-slug-260
+run_uuid: 262b198d6e204fdb8520cd8f3a8eedef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676751133964
+status: 4
+tags: []
+user_id: louibo

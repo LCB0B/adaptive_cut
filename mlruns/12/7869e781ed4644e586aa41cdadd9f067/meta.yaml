@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/12/7869e781ed4644e586aa41cdadd9f067/artifacts
+end_time: 1674736841430
+entry_point_name: ''
+experiment_id: '12'
+lifecycle_stage: active
+run_id: 7869e781ed4644e586aa41cdadd9f067
+run_name: dazzling-sheep-818
+run_uuid: 7869e781ed4644e586aa41cdadd9f067
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674736819073
+status: 3
+tags: []
+user_id: louibo

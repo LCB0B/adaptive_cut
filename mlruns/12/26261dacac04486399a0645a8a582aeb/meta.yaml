@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/12/26261dacac04486399a0645a8a582aeb/artifacts
+end_time: 1673980872792
+entry_point_name: ''
+experiment_id: '12'
+lifecycle_stage: active
+run_id: 26261dacac04486399a0645a8a582aeb
+run_name: grandiose-sheep-144
+run_uuid: 26261dacac04486399a0645a8a582aeb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673980858017
+status: 3
+tags: []
+user_id: louibo

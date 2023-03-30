@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/24/730c182eb44b446f956683da9376bfbe/artifacts
+end_time: 1673996176556
+entry_point_name: ''
+experiment_id: '24'
+lifecycle_stage: active
+run_id: 730c182eb44b446f956683da9376bfbe
+run_name: wistful-swan-405
+run_uuid: 730c182eb44b446f956683da9376bfbe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673995789667
+status: 3
+tags: []
+user_id: louibo

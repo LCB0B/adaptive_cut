@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/57/06423e88551e4e168da48c3ada639bf9/artifacts
+end_time: 1676849421256
+entry_point_name: ''
+experiment_id: '57'
+lifecycle_stage: active
+run_id: 06423e88551e4e168da48c3ada639bf9
+run_name: painted-cow-812
+run_uuid: 06423e88551e4e168da48c3ada639bf9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676849394667
+status: 3
+tags: []
+user_id: louibo

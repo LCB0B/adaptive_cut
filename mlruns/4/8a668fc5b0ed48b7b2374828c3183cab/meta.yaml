@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/4/8a668fc5b0ed48b7b2374828c3183cab/artifacts
+end_time: 1674732329987
+entry_point_name: ''
+experiment_id: '4'
+lifecycle_stage: active
+run_id: 8a668fc5b0ed48b7b2374828c3183cab
+run_name: worried-finch-795
+run_uuid: 8a668fc5b0ed48b7b2374828c3183cab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674732312772
+status: 3
+tags: []
+user_id: louibo

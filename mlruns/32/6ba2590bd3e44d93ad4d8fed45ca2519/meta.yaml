@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/32/6ba2590bd3e44d93ad4d8fed45ca2519/artifacts
+end_time: 1676983595457
+entry_point_name: ''
+experiment_id: '32'
+lifecycle_stage: active
+run_id: 6ba2590bd3e44d93ad4d8fed45ca2519
+run_name: aged-moth-660
+run_uuid: 6ba2590bd3e44d93ad4d8fed45ca2519
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676983595072
+status: 3
+tags: []
+user_id: louibo

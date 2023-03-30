@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/29/a74195c2761f447d9a55768ce41e7423/artifacts
+end_time: 1670276251899
+entry_point_name: ''
+experiment_id: '29'
+lifecycle_stage: active
+run_id: a74195c2761f447d9a55768ce41e7423
+run_name: loud-shark-298
+run_uuid: a74195c2761f447d9a55768ce41e7423
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670269467987
+status: 3
+tags: []
+user_id: louibo

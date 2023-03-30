@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/30/c6c63b09efa94090bcc29e2ba6425a42/artifacts
+end_time: 1674491849480
+entry_point_name: ''
+experiment_id: '30'
+lifecycle_stage: active
+run_id: c6c63b09efa94090bcc29e2ba6425a42
+run_name: youthful-hog-674
+run_uuid: c6c63b09efa94090bcc29e2ba6425a42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674491847345
+status: 3
+tags: []
+user_id: louibo

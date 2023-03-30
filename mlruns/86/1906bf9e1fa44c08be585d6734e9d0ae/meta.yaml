@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/86/1906bf9e1fa44c08be585d6734e9d0ae/artifacts
+end_time: 1676748063576
+entry_point_name: ''
+experiment_id: '86'
+lifecycle_stage: active
+run_id: 1906bf9e1fa44c08be585d6734e9d0ae
+run_name: defiant-ray-701
+run_uuid: 1906bf9e1fa44c08be585d6734e9d0ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676748063476
+status: 4
+tags: []
+user_id: louibo

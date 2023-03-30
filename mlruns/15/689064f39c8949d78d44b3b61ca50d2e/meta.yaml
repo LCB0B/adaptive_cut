@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/15/689064f39c8949d78d44b3b61ca50d2e/artifacts
+end_time: 1670257550828
+entry_point_name: ''
+experiment_id: '15'
+lifecycle_stage: active
+run_id: 689064f39c8949d78d44b3b61ca50d2e
+run_name: treasured-sponge-129
+run_uuid: 689064f39c8949d78d44b3b61ca50d2e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670257550744
+status: 4
+tags: []
+user_id: louibo

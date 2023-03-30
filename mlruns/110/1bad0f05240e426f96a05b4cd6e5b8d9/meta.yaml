@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/110/1bad0f05240e426f96a05b4cd6e5b8d9/artifacts
+end_time: 1676761110332
+entry_point_name: ''
+experiment_id: '110'
+lifecycle_stage: active
+run_id: 1bad0f05240e426f96a05b4cd6e5b8d9
+run_name: bald-dove-772
+run_uuid: 1bad0f05240e426f96a05b4cd6e5b8d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676761103795
+status: 3
+tags: []
+user_id: louibo

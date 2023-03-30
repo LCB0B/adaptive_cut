@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/36/c07283e161f9482da8d557b87ffbbb42/artifacts
+end_time: 1676917256286
+entry_point_name: ''
+experiment_id: '36'
+lifecycle_stage: active
+run_id: c07283e161f9482da8d557b87ffbbb42
+run_name: defiant-seal-367
+run_uuid: c07283e161f9482da8d557b87ffbbb42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676917249399
+status: 3
+tags: []
+user_id: louibo

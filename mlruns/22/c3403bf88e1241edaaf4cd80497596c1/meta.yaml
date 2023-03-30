@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/22/c3403bf88e1241edaaf4cd80497596c1/artifacts
+end_time: 1674058225054
+entry_point_name: ''
+experiment_id: '22'
+lifecycle_stage: active
+run_id: c3403bf88e1241edaaf4cd80497596c1
+run_name: incongruous-fly-905
+run_uuid: c3403bf88e1241edaaf4cd80497596c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674057633641
+status: 3
+tags: []
+user_id: louibo

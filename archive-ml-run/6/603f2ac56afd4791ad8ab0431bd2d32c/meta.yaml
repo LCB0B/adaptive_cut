@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/6/603f2ac56afd4791ad8ab0431bd2d32c/artifacts
+end_time: 1673979330954
+entry_point_name: ''
+experiment_id: '6'
+lifecycle_stage: active
+run_id: 603f2ac56afd4791ad8ab0431bd2d32c
+run_name: thundering-panda-640
+run_uuid: 603f2ac56afd4791ad8ab0431bd2d32c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673979146574
+status: 3
+tags: []
+user_id: louibo

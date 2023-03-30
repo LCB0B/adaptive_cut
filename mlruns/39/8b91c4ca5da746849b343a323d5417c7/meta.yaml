@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/39/8b91c4ca5da746849b343a323d5417c7/artifacts
+end_time: 1676859521869
+entry_point_name: ''
+experiment_id: '39'
+lifecycle_stage: active
+run_id: 8b91c4ca5da746849b343a323d5417c7
+run_name: bedecked-dove-203
+run_uuid: 8b91c4ca5da746849b343a323d5417c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676859521671
+status: 3
+tags: []
+user_id: louibo

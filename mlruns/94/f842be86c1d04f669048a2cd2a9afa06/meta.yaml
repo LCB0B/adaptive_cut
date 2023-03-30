@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/94/f842be86c1d04f669048a2cd2a9afa06/artifacts
+end_time: 1676745061025
+entry_point_name: ''
+experiment_id: '94'
+lifecycle_stage: active
+run_id: f842be86c1d04f669048a2cd2a9afa06
+run_name: worried-worm-443
+run_uuid: f842be86c1d04f669048a2cd2a9afa06
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676745027506
+status: 3
+tags: []
+user_id: louibo

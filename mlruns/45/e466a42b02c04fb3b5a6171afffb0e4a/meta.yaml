@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/45/e466a42b02c04fb3b5a6171afffb0e4a/artifacts
+end_time: 1674080227012
+entry_point_name: ''
+experiment_id: '45'
+lifecycle_stage: active
+run_id: e466a42b02c04fb3b5a6171afffb0e4a
+run_name: likeable-flea-883
+run_uuid: e466a42b02c04fb3b5a6171afffb0e4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674080211502
+status: 3
+tags: []
+user_id: louibo

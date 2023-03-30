@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/76/fb4d544f75b846619bcf8d07d9cc2b38/artifacts
+end_time: 1676907873148
+entry_point_name: ''
+experiment_id: '76'
+lifecycle_stage: active
+run_id: fb4d544f75b846619bcf8d07d9cc2b38
+run_name: fun-dove-721
+run_uuid: fb4d544f75b846619bcf8d07d9cc2b38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676907815887
+status: 3
+tags: []
+user_id: louibo

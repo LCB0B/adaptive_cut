@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/104/3c86996f0781411ebeec10b6bee1ea1b/artifacts
+end_time: 1676865975018
+entry_point_name: ''
+experiment_id: '104'
+lifecycle_stage: active
+run_id: 3c86996f0781411ebeec10b6bee1ea1b
+run_name: nebulous-loon-571
+run_uuid: 3c86996f0781411ebeec10b6bee1ea1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676865964445
+status: 3
+tags: []
+user_id: louibo

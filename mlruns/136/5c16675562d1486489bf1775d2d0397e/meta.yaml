@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/136/5c16675562d1486489bf1775d2d0397e/artifacts
+end_time: 1676768788953
+entry_point_name: ''
+experiment_id: '136'
+lifecycle_stage: active
+run_id: 5c16675562d1486489bf1775d2d0397e
+run_name: gifted-snipe-488
+run_uuid: 5c16675562d1486489bf1775d2d0397e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676768788669
+status: 3
+tags: []
+user_id: louibo

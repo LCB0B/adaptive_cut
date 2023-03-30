@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/ed2071a200ae406e9c26cde6c22085c0/artifacts
+end_time: 1673733448585
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: ed2071a200ae406e9c26cde6c22085c0
+run_name: suave-ox-215
+run_uuid: ed2071a200ae406e9c26cde6c22085c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673733441647
+status: 3
+tags: []
+user_id: louibo

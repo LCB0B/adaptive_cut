@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/40/2368d36ecebd437d919b8f405a44ffc1/artifacts
+end_time: 1676755439475
+entry_point_name: ''
+experiment_id: '40'
+lifecycle_stage: active
+run_id: 2368d36ecebd437d919b8f405a44ffc1
+run_name: skillful-shark-864
+run_uuid: 2368d36ecebd437d919b8f405a44ffc1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676755415735
+status: 3
+tags: []
+user_id: louibo

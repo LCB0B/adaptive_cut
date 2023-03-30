@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/92/1eaaccd760ca4f52bf4ce22ab38cac04/artifacts
+end_time: 1676748927655
+entry_point_name: ''
+experiment_id: '92'
+lifecycle_stage: active
+run_id: 1eaaccd760ca4f52bf4ce22ab38cac04
+run_name: unique-fowl-115
+run_uuid: 1eaaccd760ca4f52bf4ce22ab38cac04
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676748906203
+status: 3
+tags: []
+user_id: louibo

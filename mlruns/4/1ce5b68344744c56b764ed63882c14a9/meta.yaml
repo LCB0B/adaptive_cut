@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/4/1ce5b68344744c56b764ed63882c14a9/artifacts
+end_time: 1674092077914
+entry_point_name: ''
+experiment_id: '4'
+lifecycle_stage: active
+run_id: 1ce5b68344744c56b764ed63882c14a9
+run_name: exultant-jay-713
+run_uuid: 1ce5b68344744c56b764ed63882c14a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674091638796
+status: 3
+tags: []
+user_id: louibo

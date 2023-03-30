@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/57/e870a3050e6940c39a04747a02e10278/artifacts
+end_time: 1676850677615
+entry_point_name: ''
+experiment_id: '57'
+lifecycle_stage: active
+run_id: e870a3050e6940c39a04747a02e10278
+run_name: gaudy-moth-123
+run_uuid: e870a3050e6940c39a04747a02e10278
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676850649642
+status: 3
+tags: []
+user_id: louibo

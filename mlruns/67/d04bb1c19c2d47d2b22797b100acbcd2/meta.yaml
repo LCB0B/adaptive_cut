@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/67/d04bb1c19c2d47d2b22797b100acbcd2/artifacts
+end_time: 1676736368258
+entry_point_name: ''
+experiment_id: '67'
+lifecycle_stage: active
+run_id: d04bb1c19c2d47d2b22797b100acbcd2
+run_name: welcoming-carp-737
+run_uuid: d04bb1c19c2d47d2b22797b100acbcd2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676736345521
+status: 3
+tags: []
+user_id: louibo

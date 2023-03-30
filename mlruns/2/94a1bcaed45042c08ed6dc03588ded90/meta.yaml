@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/94a1bcaed45042c08ed6dc03588ded90/artifacts
+end_time: 1670269147709
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 94a1bcaed45042c08ed6dc03588ded90
+run_name: bedecked-wolf-406
+run_uuid: 94a1bcaed45042c08ed6dc03588ded90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670269146383
+status: 3
+tags: []
+user_id: louibo

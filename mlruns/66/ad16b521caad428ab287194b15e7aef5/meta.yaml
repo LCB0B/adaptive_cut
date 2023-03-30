@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/66/ad16b521caad428ab287194b15e7aef5/artifacts
+end_time: 1676854995806
+entry_point_name: ''
+experiment_id: '66'
+lifecycle_stage: active
+run_id: ad16b521caad428ab287194b15e7aef5
+run_name: placid-duck-755
+run_uuid: ad16b521caad428ab287194b15e7aef5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676854992846
+status: 3
+tags: []
+user_id: louibo

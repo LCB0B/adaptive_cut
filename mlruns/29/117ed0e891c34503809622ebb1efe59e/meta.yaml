@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/29/117ed0e891c34503809622ebb1efe59e/artifacts
+end_time: 1673963517287
+entry_point_name: ''
+experiment_id: '29'
+lifecycle_stage: active
+run_id: 117ed0e891c34503809622ebb1efe59e
+run_name: skillful-doe-224
+run_uuid: 117ed0e891c34503809622ebb1efe59e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673963362258
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/124/b1d970cb17364f81a8afa8b4607b48b5/artifacts
+end_time: 1676911643465
+entry_point_name: ''
+experiment_id: '124'
+lifecycle_stage: active
+run_id: b1d970cb17364f81a8afa8b4607b48b5
+run_name: respected-moose-553
+run_uuid: b1d970cb17364f81a8afa8b4607b48b5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676911639552
+status: 3
+tags: []
+user_id: louibo

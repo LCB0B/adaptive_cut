@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/d4cfcc26226544a2867c8938c88acbda/artifacts
+end_time: 1673733441644
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: d4cfcc26226544a2867c8938c88acbda
+run_name: dashing-koi-199
+run_uuid: d4cfcc26226544a2867c8938c88acbda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673733440308
+status: 3
+tags: []
+user_id: louibo

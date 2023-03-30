@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/23/5d02b4fc49264879b6ae00385d8fd2eb/artifacts
+end_time: 1676856475913
+entry_point_name: ''
+experiment_id: '23'
+lifecycle_stage: active
+run_id: 5d02b4fc49264879b6ae00385d8fd2eb
+run_name: enchanting-flea-238
+run_uuid: 5d02b4fc49264879b6ae00385d8fd2eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676856467342
+status: 3
+tags: []
+user_id: louibo

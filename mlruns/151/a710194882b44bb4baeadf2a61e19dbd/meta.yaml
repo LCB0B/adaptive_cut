@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/151/a710194882b44bb4baeadf2a61e19dbd/artifacts
+end_time: 1676926700874
+entry_point_name: ''
+experiment_id: '151'
+lifecycle_stage: active
+run_id: a710194882b44bb4baeadf2a61e19dbd
+run_name: funny-gnat-209
+run_uuid: a710194882b44bb4baeadf2a61e19dbd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676926695082
+status: 3
+tags: []
+user_id: louibo

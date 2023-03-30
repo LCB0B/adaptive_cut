@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/69/a9f8c9e304ac412ebf5351297c9f5d77/artifacts
+end_time: 1676858607820
+entry_point_name: ''
+experiment_id: '69'
+lifecycle_stage: active
+run_id: a9f8c9e304ac412ebf5351297c9f5d77
+run_name: polite-cub-88
+run_uuid: a9f8c9e304ac412ebf5351297c9f5d77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676858493888
+status: 3
+tags: []
+user_id: louibo

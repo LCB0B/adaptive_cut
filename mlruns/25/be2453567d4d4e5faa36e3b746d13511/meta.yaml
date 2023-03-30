@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/25/be2453567d4d4e5faa36e3b746d13511/artifacts
+end_time: 1673988605883
+entry_point_name: ''
+experiment_id: '25'
+lifecycle_stage: active
+run_id: be2453567d4d4e5faa36e3b746d13511
+run_name: silent-shoat-915
+run_uuid: be2453567d4d4e5faa36e3b746d13511
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673988479617
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/20/4ecd6758fe4246da9f13cfb9c36e1ea2/artifacts
+end_time: 1674473690293
+entry_point_name: ''
+experiment_id: '20'
+lifecycle_stage: active
+run_id: 4ecd6758fe4246da9f13cfb9c36e1ea2
+run_name: adventurous-ram-928
+run_uuid: 4ecd6758fe4246da9f13cfb9c36e1ea2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674473684898
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/45/eeb07c773719470cbfbdfa6688d0bbd9/artifacts
+end_time: 1674755063783
+entry_point_name: ''
+experiment_id: '45'
+lifecycle_stage: active
+run_id: eeb07c773719470cbfbdfa6688d0bbd9
+run_name: polite-horse-341
+run_uuid: eeb07c773719470cbfbdfa6688d0bbd9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674754980158
+status: 3
+tags: []
+user_id: louibo

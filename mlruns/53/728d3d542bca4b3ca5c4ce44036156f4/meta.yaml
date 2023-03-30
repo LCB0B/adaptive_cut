@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/53/728d3d542bca4b3ca5c4ce44036156f4/artifacts
+end_time: 1676849268724
+entry_point_name: ''
+experiment_id: '53'
+lifecycle_stage: active
+run_id: 728d3d542bca4b3ca5c4ce44036156f4
+run_name: melodic-sponge-135
+run_uuid: 728d3d542bca4b3ca5c4ce44036156f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676849268507
+status: 3
+tags: []
+user_id: louibo

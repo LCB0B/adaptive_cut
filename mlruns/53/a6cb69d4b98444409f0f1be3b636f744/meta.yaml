@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/53/a6cb69d4b98444409f0f1be3b636f744/artifacts
+end_time: 1676734940871
+entry_point_name: ''
+experiment_id: '53'
+lifecycle_stage: active
+run_id: a6cb69d4b98444409f0f1be3b636f744
+run_name: luminous-zebra-48
+run_uuid: a6cb69d4b98444409f0f1be3b636f744
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676734939762
+status: 3
+tags: []
+user_id: louibo

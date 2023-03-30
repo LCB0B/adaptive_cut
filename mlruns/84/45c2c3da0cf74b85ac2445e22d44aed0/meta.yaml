@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/84/45c2c3da0cf74b85ac2445e22d44aed0/artifacts
+end_time: 1676899921536
+entry_point_name: ''
+experiment_id: '84'
+lifecycle_stage: active
+run_id: 45c2c3da0cf74b85ac2445e22d44aed0
+run_name: salty-roo-624
+run_uuid: 45c2c3da0cf74b85ac2445e22d44aed0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676899692028
+status: 3
+tags: []
+user_id: louibo

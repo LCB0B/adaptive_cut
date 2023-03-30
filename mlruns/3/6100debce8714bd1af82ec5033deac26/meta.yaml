@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/3/6100debce8714bd1af82ec5033deac26/artifacts
+end_time: 1672594849514
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+run_id: 6100debce8714bd1af82ec5033deac26
+run_name: rare-stoat-382
+run_uuid: 6100debce8714bd1af82ec5033deac26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672594849501
+status: 4
+tags: []
+user_id: louibo

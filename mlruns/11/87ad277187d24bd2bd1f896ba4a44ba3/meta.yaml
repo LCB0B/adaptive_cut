@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/11/87ad277187d24bd2bd1f896ba4a44ba3/artifacts
+end_time: 1674735617345
+entry_point_name: ''
+experiment_id: '11'
+lifecycle_stage: active
+run_id: 87ad277187d24bd2bd1f896ba4a44ba3
+run_name: wise-cub-773
+run_uuid: 87ad277187d24bd2bd1f896ba4a44ba3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674735216230
+status: 3
+tags: []
+user_id: louibo

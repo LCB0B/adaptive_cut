@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/150/318dfc66688b44d8a876b679835a3527/artifacts
+end_time: 1676927095482
+entry_point_name: ''
+experiment_id: '150'
+lifecycle_stage: active
+run_id: 318dfc66688b44d8a876b679835a3527
+run_name: receptive-dolphin-95
+run_uuid: 318dfc66688b44d8a876b679835a3527
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676927015110
+status: 3
+tags: []
+user_id: louibo

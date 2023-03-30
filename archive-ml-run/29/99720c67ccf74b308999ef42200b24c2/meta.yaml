@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/29/99720c67ccf74b308999ef42200b24c2/artifacts
+end_time: 1673969812104
+entry_point_name: ''
+experiment_id: '29'
+lifecycle_stage: active
+run_id: 99720c67ccf74b308999ef42200b24c2
+run_name: unleashed-owl-227
+run_uuid: 99720c67ccf74b308999ef42200b24c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673969641620
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/29/57bfabafe9764b9184a57abea8deaa77/artifacts
+end_time: 1673961321036
+entry_point_name: ''
+experiment_id: '29'
+lifecycle_stage: active
+run_id: 57bfabafe9764b9184a57abea8deaa77
+run_name: classy-ram-531
+run_uuid: 57bfabafe9764b9184a57abea8deaa77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673961075121
+status: 3
+tags: []
+user_id: louibo

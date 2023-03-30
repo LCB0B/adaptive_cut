@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/106/96b776ff689245eebe32ece8a88927c7/artifacts
+end_time: 1676760702483
+entry_point_name: ''
+experiment_id: '106'
+lifecycle_stage: active
+run_id: 96b776ff689245eebe32ece8a88927c7
+run_name: serious-trout-725
+run_uuid: 96b776ff689245eebe32ece8a88927c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676760693844
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/7/b0c0eb373db84bc8ab91ed71d6a60084/artifacts
+end_time: 1673820373047
+entry_point_name: ''
+experiment_id: '7'
+lifecycle_stage: active
+run_id: b0c0eb373db84bc8ab91ed71d6a60084
+run_name: sneaky-trout-893
+run_uuid: b0c0eb373db84bc8ab91ed71d6a60084
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673820068984
+status: 3
+tags: []
+user_id: louibo

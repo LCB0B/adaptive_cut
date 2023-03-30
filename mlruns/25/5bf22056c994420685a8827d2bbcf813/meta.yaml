@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/25/5bf22056c994420685a8827d2bbcf813/artifacts
+end_time: 1674752562107
+entry_point_name: ''
+experiment_id: '25'
+lifecycle_stage: active
+run_id: 5bf22056c994420685a8827d2bbcf813
+run_name: dapper-panda-408
+run_uuid: 5bf22056c994420685a8827d2bbcf813
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674752442281
+status: 3
+tags: []
+user_id: louibo

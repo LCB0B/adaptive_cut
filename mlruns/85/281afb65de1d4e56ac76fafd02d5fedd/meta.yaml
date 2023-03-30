@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/85/281afb65de1d4e56ac76fafd02d5fedd/artifacts
+end_time: 1676868523994
+entry_point_name: ''
+experiment_id: '85'
+lifecycle_stage: active
+run_id: 281afb65de1d4e56ac76fafd02d5fedd
+run_name: puzzled-squid-125
+run_uuid: 281afb65de1d4e56ac76fafd02d5fedd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676868397295
+status: 3
+tags: []
+user_id: louibo

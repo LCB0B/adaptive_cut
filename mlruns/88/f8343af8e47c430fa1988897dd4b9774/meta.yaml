@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/88/f8343af8e47c430fa1988897dd4b9774/artifacts
+end_time: 1676743316604
+entry_point_name: ''
+experiment_id: '88'
+lifecycle_stage: active
+run_id: f8343af8e47c430fa1988897dd4b9774
+run_name: crawling-skink-763
+run_uuid: f8343af8e47c430fa1988897dd4b9774
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676743316463
+status: 4
+tags: []
+user_id: louibo

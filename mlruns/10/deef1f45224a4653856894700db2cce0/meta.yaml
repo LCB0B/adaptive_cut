@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/10/deef1f45224a4653856894700db2cce0/artifacts
+end_time: 1673977122641
+entry_point_name: ''
+experiment_id: '10'
+lifecycle_stage: active
+run_id: deef1f45224a4653856894700db2cce0
+run_name: merciful-skunk-475
+run_uuid: deef1f45224a4653856894700db2cce0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673977084899
+status: 3
+tags: []
+user_id: louibo

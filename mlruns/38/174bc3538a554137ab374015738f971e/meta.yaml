@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/38/174bc3538a554137ab374015738f971e/artifacts
+end_time: 1674062074966
+entry_point_name: ''
+experiment_id: '38'
+lifecycle_stage: active
+run_id: 174bc3538a554137ab374015738f971e
+run_name: gregarious-mule-369
+run_uuid: 174bc3538a554137ab374015738f971e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674062066676
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/116/3bd6cb3fc66d4720b8cc2d73d5e9ddd5/artifacts
+end_time: 1676910880247
+entry_point_name: ''
+experiment_id: '116'
+lifecycle_stage: active
+run_id: 3bd6cb3fc66d4720b8cc2d73d5e9ddd5
+run_name: likeable-goose-170
+run_uuid: 3bd6cb3fc66d4720b8cc2d73d5e9ddd5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676910855276
+status: 3
+tags: []
+user_id: louibo

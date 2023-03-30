@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/45/1e3ade5340cc416682591f3d0226063a/artifacts
+end_time: 1676759978155
+entry_point_name: ''
+experiment_id: '45'
+lifecycle_stage: active
+run_id: 1e3ade5340cc416682591f3d0226063a
+run_name: luxuriant-gnu-10
+run_uuid: 1e3ade5340cc416682591f3d0226063a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676759769321
+status: 3
+tags: []
+user_id: louibo

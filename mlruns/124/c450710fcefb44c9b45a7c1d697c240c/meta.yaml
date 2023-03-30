@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/124/c450710fcefb44c9b45a7c1d697c240c/artifacts
+end_time: 1676916994770
+entry_point_name: ''
+experiment_id: '124'
+lifecycle_stage: active
+run_id: c450710fcefb44c9b45a7c1d697c240c
+run_name: agreeable-shoat-324
+run_uuid: c450710fcefb44c9b45a7c1d697c240c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676916975865
+status: 3
+tags: []
+user_id: louibo

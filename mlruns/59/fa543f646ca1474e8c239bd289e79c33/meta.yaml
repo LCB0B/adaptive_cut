@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/59/fa543f646ca1474e8c239bd289e79c33/artifacts
+end_time: 1676892687061
+entry_point_name: ''
+experiment_id: '59'
+lifecycle_stage: active
+run_id: fa543f646ca1474e8c239bd289e79c33
+run_name: bright-crab-963
+run_uuid: fa543f646ca1474e8c239bd289e79c33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676892671965
+status: 3
+tags: []
+user_id: louibo

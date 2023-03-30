@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/10/aee06a30ccaa4053acbd917b26ecf4e3/artifacts
+end_time: 1674735307299
+entry_point_name: ''
+experiment_id: '10'
+lifecycle_stage: active
+run_id: aee06a30ccaa4053acbd917b26ecf4e3
+run_name: awesome-owl-369
+run_uuid: aee06a30ccaa4053acbd917b26ecf4e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674735267670
+status: 3
+tags: []
+user_id: louibo

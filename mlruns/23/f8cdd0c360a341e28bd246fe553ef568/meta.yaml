@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/23/f8cdd0c360a341e28bd246fe553ef568/artifacts
+end_time: 1674068984577
+entry_point_name: ''
+experiment_id: '23'
+lifecycle_stage: active
+run_id: f8cdd0c360a341e28bd246fe553ef568
+run_name: placid-goat-929
+run_uuid: f8cdd0c360a341e28bd246fe553ef568
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674068908933
+status: 3
+tags: []
+user_id: louibo

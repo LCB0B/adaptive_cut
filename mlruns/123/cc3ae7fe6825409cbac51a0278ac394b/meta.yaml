@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/123/cc3ae7fe6825409cbac51a0278ac394b/artifacts
+end_time: 1676865341177
+entry_point_name: ''
+experiment_id: '123'
+lifecycle_stage: active
+run_id: cc3ae7fe6825409cbac51a0278ac394b
+run_name: gentle-fawn-811
+run_uuid: cc3ae7fe6825409cbac51a0278ac394b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676865320891
+status: 3
+tags: []
+user_id: louibo

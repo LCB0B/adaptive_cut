@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/33/189de0d59d0d424a849e2cd3d423e771/artifacts
+end_time: 1673736169591
+entry_point_name: ''
+experiment_id: '33'
+lifecycle_stage: active
+run_id: 189de0d59d0d424a849e2cd3d423e771
+run_name: burly-fly-490
+run_uuid: 189de0d59d0d424a849e2cd3d423e771
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673736160883
+status: 3
+tags: []
+user_id: louibo

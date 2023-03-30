@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/148/3ea88139157e4da6b03c217554ab5ea5/artifacts
+end_time: 1676871623049
+entry_point_name: ''
+experiment_id: '148'
+lifecycle_stage: active
+run_id: 3ea88139157e4da6b03c217554ab5ea5
+run_name: nervous-bug-926
+run_uuid: 3ea88139157e4da6b03c217554ab5ea5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676871250387
+status: 3
+tags: []
+user_id: louibo

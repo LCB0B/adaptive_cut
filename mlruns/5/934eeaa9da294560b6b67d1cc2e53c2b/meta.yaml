@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/5/934eeaa9da294560b6b67d1cc2e53c2b/artifacts
+end_time: 1674732381528
+entry_point_name: ''
+experiment_id: '5'
+lifecycle_stage: active
+run_id: 934eeaa9da294560b6b67d1cc2e53c2b
+run_name: funny-penguin-38
+run_uuid: 934eeaa9da294560b6b67d1cc2e53c2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674732379916
+status: 3
+tags: []
+user_id: louibo

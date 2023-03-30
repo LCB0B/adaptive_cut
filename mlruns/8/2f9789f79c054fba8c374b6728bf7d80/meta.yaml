@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/8/2f9789f79c054fba8c374b6728bf7d80/artifacts
+end_time: 1676739920337
+entry_point_name: ''
+experiment_id: '8'
+lifecycle_stage: active
+run_id: 2f9789f79c054fba8c374b6728bf7d80
+run_name: receptive-foal-626
+run_uuid: 2f9789f79c054fba8c374b6728bf7d80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676739813468
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/4/9b17e300738f4e1e86a67674a2c7083d/artifacts
+end_time: 1676849480993
+entry_point_name: ''
+experiment_id: '4'
+lifecycle_stage: active
+run_id: 9b17e300738f4e1e86a67674a2c7083d
+run_name: nervous-quail-675
+run_uuid: 9b17e300738f4e1e86a67674a2c7083d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676849475279
+status: 3
+tags: []
+user_id: louibo

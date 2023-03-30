@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/124/3d221c74ac5040dfa31ba16006956597/artifacts
+end_time: 1676865361360
+entry_point_name: ''
+experiment_id: '124'
+lifecycle_stage: active
+run_id: 3d221c74ac5040dfa31ba16006956597
+run_name: honorable-shrimp-72
+run_uuid: 3d221c74ac5040dfa31ba16006956597
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676865344248
+status: 3
+tags: []
+user_id: louibo

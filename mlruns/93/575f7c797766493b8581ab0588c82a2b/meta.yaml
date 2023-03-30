@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/93/575f7c797766493b8581ab0588c82a2b/artifacts
+end_time: 1676861416453
+entry_point_name: ''
+experiment_id: '93'
+lifecycle_stage: active
+run_id: 575f7c797766493b8581ab0588c82a2b
+run_name: gentle-rook-108
+run_uuid: 575f7c797766493b8581ab0588c82a2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676861406313
+status: 3
+tags: []
+user_id: louibo

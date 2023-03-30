@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/116/dd497e037ddd49eea081c25b56f47ecd/artifacts
+end_time: 1676763534778
+entry_point_name: ''
+experiment_id: '116'
+lifecycle_stage: active
+run_id: dd497e037ddd49eea081c25b56f47ecd
+run_name: sassy-conch-276
+run_uuid: dd497e037ddd49eea081c25b56f47ecd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676763534656
+status: 4
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/87/bf387e40d184423787c56ec7efeb6e1b/artifacts
+end_time: 1676748167528
+entry_point_name: ''
+experiment_id: '87'
+lifecycle_stage: active
+run_id: bf387e40d184423787c56ec7efeb6e1b
+run_name: masked-deer-750
+run_uuid: bf387e40d184423787c56ec7efeb6e1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676748167163
+status: 4
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/116/f06d47118f404aabbc3fc7b6e5549b0f/artifacts
+end_time: 1676753635938
+entry_point_name: ''
+experiment_id: '116'
+lifecycle_stage: active
+run_id: f06d47118f404aabbc3fc7b6e5549b0f
+run_name: dazzling-eel-497
+run_uuid: f06d47118f404aabbc3fc7b6e5549b0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676753599811
+status: 3
+tags: []
+user_id: louibo

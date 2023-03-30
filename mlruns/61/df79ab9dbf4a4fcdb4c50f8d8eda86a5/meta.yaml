@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/61/df79ab9dbf4a4fcdb4c50f8d8eda86a5/artifacts
+end_time: 1676850062452
+entry_point_name: ''
+experiment_id: '61'
+lifecycle_stage: active
+run_id: df79ab9dbf4a4fcdb4c50f8d8eda86a5
+run_name: puzzled-cod-991
+run_uuid: df79ab9dbf4a4fcdb4c50f8d8eda86a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676849723100
+status: 3
+tags: []
+user_id: louibo

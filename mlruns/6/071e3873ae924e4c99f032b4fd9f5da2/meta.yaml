@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/6/071e3873ae924e4c99f032b4fd9f5da2/artifacts
+end_time: 1676739063362
+entry_point_name: ''
+experiment_id: '6'
+lifecycle_stage: active
+run_id: 071e3873ae924e4c99f032b4fd9f5da2
+run_name: sedate-hawk-235
+run_uuid: 071e3873ae924e4c99f032b4fd9f5da2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676738909271
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/69/9cf15d2df6084cd89793b7165c21a136/artifacts
+end_time: 1676853585839
+entry_point_name: ''
+experiment_id: '69'
+lifecycle_stage: active
+run_id: 9cf15d2df6084cd89793b7165c21a136
+run_name: sedate-robin-778
+run_uuid: 9cf15d2df6084cd89793b7165c21a136
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676853542101
+status: 3
+tags: []
+user_id: louibo

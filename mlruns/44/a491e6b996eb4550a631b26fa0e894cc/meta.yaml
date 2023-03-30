@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/44/a491e6b996eb4550a631b26fa0e894cc/artifacts
+end_time: 1673992448315
+entry_point_name: ''
+experiment_id: '44'
+lifecycle_stage: active
+run_id: a491e6b996eb4550a631b26fa0e894cc
+run_name: nebulous-fly-472
+run_uuid: a491e6b996eb4550a631b26fa0e894cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673992446923
+status: 3
+tags: []
+user_id: louibo

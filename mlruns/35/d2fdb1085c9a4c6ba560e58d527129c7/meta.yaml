@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/35/d2fdb1085c9a4c6ba560e58d527129c7/artifacts
+end_time: 1674063878298
+entry_point_name: ''
+experiment_id: '35'
+lifecycle_stage: active
+run_id: d2fdb1085c9a4c6ba560e58d527129c7
+run_name: thoughtful-goose-147
+run_uuid: d2fdb1085c9a4c6ba560e58d527129c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674063844564
+status: 3
+tags: []
+user_id: louibo

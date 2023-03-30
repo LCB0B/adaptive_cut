@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/b6309f430cf74ca593c5c7c5cfe3c680/artifacts
+end_time: 1673733494267
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: b6309f430cf74ca593c5c7c5cfe3c680
+run_name: calm-chimp-800
+run_uuid: b6309f430cf74ca593c5c7c5cfe3c680
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673733487330
+status: 3
+tags: []
+user_id: louibo

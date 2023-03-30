@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/6/4190ee370ddf4b1882e9961a5b4222a2/artifacts
+end_time: 1674732539712
+entry_point_name: ''
+experiment_id: '6'
+lifecycle_stage: active
+run_id: 4190ee370ddf4b1882e9961a5b4222a2
+run_name: fortunate-frog-63
+run_uuid: 4190ee370ddf4b1882e9961a5b4222a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674732402398
+status: 3
+tags: []
+user_id: louibo

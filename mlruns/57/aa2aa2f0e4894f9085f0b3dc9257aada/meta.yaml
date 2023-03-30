@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/57/aa2aa2f0e4894f9085f0b3dc9257aada/artifacts
+end_time: 1676735042503
+entry_point_name: ''
+experiment_id: '57'
+lifecycle_stage: active
+run_id: aa2aa2f0e4894f9085f0b3dc9257aada
+run_name: respected-stag-990
+run_uuid: aa2aa2f0e4894f9085f0b3dc9257aada
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676735002626
+status: 3
+tags: []
+user_id: louibo

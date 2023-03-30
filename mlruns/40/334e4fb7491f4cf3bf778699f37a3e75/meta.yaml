@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/40/334e4fb7491f4cf3bf778699f37a3e75/artifacts
+end_time: 1674064334394
+entry_point_name: ''
+experiment_id: '40'
+lifecycle_stage: active
+run_id: 334e4fb7491f4cf3bf778699f37a3e75
+run_name: delicate-tern-308
+run_uuid: 334e4fb7491f4cf3bf778699f37a3e75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674064305693
+status: 3
+tags: []
+user_id: louibo

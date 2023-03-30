@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/33/5a768e6fe9004401acb45c392a477c03/artifacts
+end_time: 1674068270839
+entry_point_name: ''
+experiment_id: '33'
+lifecycle_stage: active
+run_id: 5a768e6fe9004401acb45c392a477c03
+run_name: bustling-snipe-894
+run_uuid: 5a768e6fe9004401acb45c392a477c03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674068240635
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/1/7529a3c3e540411abd10214ac1ffa3c6/artifacts
+end_time: 1676870085282
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7529a3c3e540411abd10214ac1ffa3c6
+run_name: funny-slug-801
+run_uuid: 7529a3c3e540411abd10214ac1ffa3c6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676869713971
+status: 3
+tags: []
+user_id: louibo

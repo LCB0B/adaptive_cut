@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/27/1ce9a2490e4d4c9cb88bfdb48871445e/artifacts
+end_time: 1673991461227
+entry_point_name: ''
+experiment_id: '27'
+lifecycle_stage: active
+run_id: 1ce9a2490e4d4c9cb88bfdb48871445e
+run_name: likeable-panda-722
+run_uuid: 1ce9a2490e4d4c9cb88bfdb48871445e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673991354636
+status: 3
+tags: []
+user_id: louibo

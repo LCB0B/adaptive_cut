@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/73/234b93748d7e4830b2fc1b57dfc07998/artifacts
+end_time: 1676743274787
+entry_point_name: ''
+experiment_id: '73'
+lifecycle_stage: active
+run_id: 234b93748d7e4830b2fc1b57dfc07998
+run_name: respected-turtle-418
+run_uuid: 234b93748d7e4830b2fc1b57dfc07998
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676743273762
+status: 4
+tags: []
+user_id: louibo

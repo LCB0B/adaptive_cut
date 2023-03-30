@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/3/0c0fba577117436bb4b8c24ba4ab4e6e/artifacts
+end_time: 1673980777217
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+run_id: 0c0fba577117436bb4b8c24ba4ab4e6e
+run_name: clumsy-smelt-132
+run_uuid: 0c0fba577117436bb4b8c24ba4ab4e6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673980777197
+status: 4
+tags: []
+user_id: louibo

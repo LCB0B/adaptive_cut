@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/4/857b19f07d2946a3a518041cd5906b49/artifacts
+end_time: 1674092097074
+entry_point_name: ''
+experiment_id: '4'
+lifecycle_stage: active
+run_id: 857b19f07d2946a3a518041cd5906b49
+run_name: valuable-fowl-341
+run_uuid: 857b19f07d2946a3a518041cd5906b49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674091654673
+status: 3
+tags: []
+user_id: louibo

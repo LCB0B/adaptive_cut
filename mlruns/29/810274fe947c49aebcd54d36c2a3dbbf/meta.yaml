@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/29/810274fe947c49aebcd54d36c2a3dbbf/artifacts
+end_time: 1674752461819
+entry_point_name: ''
+experiment_id: '29'
+lifecycle_stage: active
+run_id: 810274fe947c49aebcd54d36c2a3dbbf
+run_name: rogue-ram-513
+run_uuid: 810274fe947c49aebcd54d36c2a3dbbf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674751629287
+status: 3
+tags: []
+user_id: louibo

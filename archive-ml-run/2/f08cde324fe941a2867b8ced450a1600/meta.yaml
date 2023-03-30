@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/f08cde324fe941a2867b8ced450a1600/artifacts
+end_time: 1670246625586
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: f08cde324fe941a2867b8ced450a1600
+run_name: bold-finch-811
+run_uuid: f08cde324fe941a2867b8ced450a1600
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670246622562
+status: 3
+tags: []
+user_id: louibo

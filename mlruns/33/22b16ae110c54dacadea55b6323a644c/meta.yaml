@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/33/22b16ae110c54dacadea55b6323a644c/artifacts
+end_time: 1674762784947
+entry_point_name: ''
+experiment_id: '33'
+lifecycle_stage: active
+run_id: 22b16ae110c54dacadea55b6323a644c
+run_name: whimsical-shrimp-894
+run_uuid: 22b16ae110c54dacadea55b6323a644c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674762756447
+status: 3
+tags: []
+user_id: louibo

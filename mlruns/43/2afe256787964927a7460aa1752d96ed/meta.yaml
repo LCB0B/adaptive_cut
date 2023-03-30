@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/43/2afe256787964927a7460aa1752d96ed/artifacts
+end_time: 1676910840967
+entry_point_name: ''
+experiment_id: '43'
+lifecycle_stage: active
+run_id: 2afe256787964927a7460aa1752d96ed
+run_name: masked-sponge-628
+run_uuid: 2afe256787964927a7460aa1752d96ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676909730808
+status: 3
+tags: []
+user_id: louibo

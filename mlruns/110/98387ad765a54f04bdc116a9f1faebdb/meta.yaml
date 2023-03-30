@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/110/98387ad765a54f04bdc116a9f1faebdb/artifacts
+end_time: 1676913594639
+entry_point_name: ''
+experiment_id: '110'
+lifecycle_stage: active
+run_id: 98387ad765a54f04bdc116a9f1faebdb
+run_name: big-koi-319
+run_uuid: 98387ad765a54f04bdc116a9f1faebdb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676913587422
+status: 3
+tags: []
+user_id: louibo

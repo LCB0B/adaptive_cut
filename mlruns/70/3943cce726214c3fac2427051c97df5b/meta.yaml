@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/70/3943cce726214c3fac2427051c97df5b/artifacts
+end_time: 1676857413951
+entry_point_name: ''
+experiment_id: '70'
+lifecycle_stage: active
+run_id: 3943cce726214c3fac2427051c97df5b
+run_name: sincere-pig-790
+run_uuid: 3943cce726214c3fac2427051c97df5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676857413852
+status: 4
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/43/e78b43bdf3a04d128e1ae5662e33e008/artifacts
+end_time: 1674751899479
+entry_point_name: ''
+experiment_id: '43'
+lifecycle_stage: active
+run_id: e78b43bdf3a04d128e1ae5662e33e008
+run_name: fortunate-crow-917
+run_uuid: e78b43bdf3a04d128e1ae5662e33e008
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674751569499
+status: 3
+tags: []
+user_id: louibo

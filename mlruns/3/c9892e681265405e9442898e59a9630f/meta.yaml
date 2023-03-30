@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/3/c9892e681265405e9442898e59a9630f/artifacts
+end_time: 1672595470545
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+run_id: c9892e681265405e9442898e59a9630f
+run_name: loud-moth-793
+run_uuid: c9892e681265405e9442898e59a9630f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672595470532
+status: 4
+tags: []
+user_id: louibo

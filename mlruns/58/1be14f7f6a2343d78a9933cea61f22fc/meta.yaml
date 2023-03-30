@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/58/1be14f7f6a2343d78a9933cea61f22fc/artifacts
+end_time: 1676734967889
+entry_point_name: ''
+experiment_id: '58'
+lifecycle_stage: active
+run_id: 1be14f7f6a2343d78a9933cea61f22fc
+run_name: brawny-finch-896
+run_uuid: 1be14f7f6a2343d78a9933cea61f22fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676734965593
+status: 3
+tags: []
+user_id: louibo

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/2/90e369014658429098bb8261e0c19784/artifacts
+end_time: 1676935339934
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 90e369014658429098bb8261e0c19784
+run_name: dapper-lark-436
+run_uuid: 90e369014658429098bb8261e0c19784
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676935337107
+status: 3
+tags: []
+user_id: louibo

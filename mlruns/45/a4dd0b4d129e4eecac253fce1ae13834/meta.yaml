@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/45/a4dd0b4d129e4eecac253fce1ae13834/artifacts
+end_time: 1674760913935
+entry_point_name: ''
+experiment_id: '45'
+lifecycle_stage: active
+run_id: a4dd0b4d129e4eecac253fce1ae13834
+run_name: calm-koi-221
+run_uuid: a4dd0b4d129e4eecac253fce1ae13834
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674760827532
+status: 3
+tags: []
+user_id: louibo

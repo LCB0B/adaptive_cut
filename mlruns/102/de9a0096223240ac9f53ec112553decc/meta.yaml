@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/102/de9a0096223240ac9f53ec112553decc/artifacts
+end_time: 1676904888696
+entry_point_name: ''
+experiment_id: '102'
+lifecycle_stage: active
+run_id: de9a0096223240ac9f53ec112553decc
+run_name: gifted-zebra-120
+run_uuid: de9a0096223240ac9f53ec112553decc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676904875802
+status: 3
+tags: []
+user_id: louibo

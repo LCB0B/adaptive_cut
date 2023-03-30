@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/louibo/phd/adaptive_cut/mlruns/17/0125d5dc8cab4a60aa2da34d0e92c0ab/artifacts
+end_time: 1674056771941
+entry_point_name: ''
+experiment_id: '17'
+lifecycle_stage: active
+run_id: 0125d5dc8cab4a60aa2da34d0e92c0ab
+run_name: treasured-eel-200
+run_uuid: 0125d5dc8cab4a60aa2da34d0e92c0ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674056752436
+status: 3
+tags: []
+user_id: louibo
