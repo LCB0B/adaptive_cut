@@ -1,1 +1,0 @@
-name 'colors_dict' is not defined
