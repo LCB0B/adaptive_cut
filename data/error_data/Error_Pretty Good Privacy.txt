@@ -1,2 +1,0 @@
-Empty data passed with indices specified. 
-ValueError('Empty data passed with indices specified.')

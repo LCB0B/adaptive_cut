@@ -1,2 +1,0 @@
-'float' object has no attribute 'append' 
-AttributeError("'float' object has no attribute 'append'")
