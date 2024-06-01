@@ -1,38 +1,42 @@
 import numpy as np
 import networkx as nx
 
-from src import link_clustering as lc
-
+from plots import plot_dendrogram as pl 
 import time
 
-filename = 'data/sbm.csv'
+import matplotlib.pyplot as plt
 
-global_start_time = time.time()
+name = 'sbm_10'
+
+
+from src import LinkClustering as lc
+dendrogram = lc.LinkClustering(name, delimiter=',')
+
+dendrogram = LinkClustering(name, delimiter=',')
+
+dendrogram.build_dendrogram()
+
+fig = plt.figure(figsize=(25, 10))
+dn = hierarchy.dendrogram(dendrogram.Z)
+plt.savefig('figures/dendrogram.png')
+
+fig = plt.figure(figsize=(25, 10))
+dn = hierarchy.dendrogram(dendrogram.Zs)
+plt.savefig('figures/dendrogram_.png')
+
+linkage = self.single_linkage()
+D = self.get_partition_density()
+max_entropy,real_entropy = self.get_balanceness()
+
+#test
+#test all edges are ordered
+for i,j in dendrogram.edges:
+    assert i < j
+#test len similarities is (n 2) with n len(edges)
+assert len(dendrogram.similarities) == len(dendrogram.edges)*(len(dendrogram.edges)-1)//2
 
 start_time = time.time()
-adj,edges = lc.read_edgelist_unweighted(filename, delimiter=',')
-print(f'read_edgelist_unweighted: {time.time() - start_time:.2f}s')
+pl.dendrogram_plot(len(edges), linkage, 0.5, orig_cid2edge, newcid2cids, cid2numedges, similarities,main_path='figures/', imgname=filename.split('/')[-1].split('.')[0])
+print(f'dendrogram_plot: {time.time() - start_time:.2f}s')
 
-start_time = time.time()
-similarities = lc.similarities_unweighted(adj)
-print(f'similarities_unweighted: {time.time() - start_time:.2f}s')
-
-start_time = time.time()
-edge2cid, cid2edges, orig_cid2edge, cid2nodes, curr_maxcid, cid2numedges, cid2numnodes = lc.initialize_edges(edges=edges)
-print(f'initialize_edges: {time.time() - start_time:.2f}s')
-
-start_time = time.time()
-linkage, list_D_plot, newcid2cids, cid2numedges_m, cid2numnodes_n = lc.single_linkage_HC(
-    edges=edges,
-    num_edges=len(edges),
-    similarities=similarities,
-    edge2cid=edge2cid,
-    cid2edges=cid2edges,
-    cid2nodes=cid2nodes,
-    curr_maxcid=curr_maxcid,
-    cid2numedges=cid2numedges,
-    cid2numnodes=cid2numnodes
-)
-print(f'single_linkage_HC: {time.time() - start_time:.2f}s')
-
-print(f'Total time: {time.time() - global_start_time:.2f}s,  network size: {len(edges)}')
+dendrogram_plot(len(edges), linkage, 0.5, orig_cid2edge, newcid2cids, cid2numedges, similarities,main_path='figures/', imgname=filename.split('/')[-1].split('.')[0])

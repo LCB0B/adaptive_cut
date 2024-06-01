@@ -18,10 +18,10 @@ def stochastic_block_model(n, k, p, q):
     return nx.to_numpy_matrix(G)
 
 if __name__=='__main__':
-    n = 2000
-    k = 100
-    p = 0.8
-    q = 0.2
+    n = 10
+    k = 5
+    p = 0.9
+    q = 0.1
     adjacency_matrix = stochastic_block_model(n, k, p, q)
     #save the edge list as csv, 2d numpy array
     edge_list = np.argwhere(adjacency_matrix).astype(int)
