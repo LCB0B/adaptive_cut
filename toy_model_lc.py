@@ -7,7 +7,7 @@ import time
 import matplotlib.pyplot as plt
 
 name = 'sbm_10'
-
+name = 'unbalanced_example'
 
 from src import LinkClustering as lc
 dendrogram = lc.LinkClustering(name, delimiter=',')
@@ -16,19 +16,18 @@ dendrogram = LinkClustering(name, delimiter=',')
 
 dendrogram.build_dendrogram()
 
-fig = plt.figure(figsize=(25, 10))
-dn = hierarchy.dendrogram(dendrogram.Z)
-plt.savefig('figures/dendrogram.png')
+dendrogram.single_linkage()
+linkage = dendrogram.linkage
 
-fig = plt.figure(figsize=(25, 10))
-dn = hierarchy.dendrogram(dendrogram.Zs)
-plt.savefig('figures/dendrogram_.png')
+dendrogram.get_partition_density()
 
-linkage = self.single_linkage()
-D = self.get_partition_density()
-max_entropy,real_entropy = self.get_balanceness()
+dendrogram.D_lc
+dendrogram.D
+dendrogram.best_lc_partition
 
-#test
+dendrogram.adaptive_cut(T=3e-2,steps=1e4)
+dendrogram.get_balanceness()
+
 #test all edges are ordered
 for i,j in dendrogram.edges:
     assert i < j
