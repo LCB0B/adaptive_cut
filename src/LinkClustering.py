@@ -6,7 +6,9 @@ from scipy.cluster import hierarchy
 import numpy as np
 import math
 from helper_functions import *
+import sys
 
+sys.setrecursionlimit(int(1e4))
 # Mapping from (i, j) in adjacency matrix to index in condensed distance matrix
 def index_2to1(i, j, n):
     if i > j:
@@ -152,7 +154,53 @@ class LinkClustering:
         self.D = D
         self.D_lc = np.max(D)
         self.best_lc_partition = best_partition
+        
+    def update_partition_density(prev_partition,prev_D,partition,inv_edges):
+        # prev_D : dict community_id : {edges}
+        diff_key = set(prev_partition.keys()) - set(partition.keys())
+        D = prev_D.copy()
+        for key in diff_key:
+            key = int(key)
+            del D[key]
+        new_key = set(partition.keys()) - set(prev_partition.keys())
+        for key in new_key:
+            key = int(key)
+            ms = len(partition[key])
+            ns = len(set([ node for edges in partition[key] for node in inv_edges[edges] ]))
+            D[key] = ms*Dc2(ms,ns)
+        return D
     
+    def get_fast_partition_density(self):
+        self.inv_edges = {v: k for k, v in self.edges.items()}
+        edges2comid = {i: i for i in range(len(self.edges))}
+        edges2com = {i: {i} for i in range(len(self.edges))}
+        D = {k:0 for k,v in edges2com.items()}
+        list_D = np.zeros(len(self.linkage)+1)
+        k=0
+        max_D = 0
+        for i,j,_,_ in self.linkage:
+            i = int(i)
+            j = int(j)
+            prev_edges2com = edges2com.copy()
+            edges2com[len(self.edges)+k] = edges2com[i] | edges2com[j]
+            for e in edges2com[i]:
+                edges2comid[e] = len(self.edges)+k
+            for e in edges2com[j]:
+                edges2comid[e] = len(self.edges)+k
+            del edges2com[i], edges2com[j]
+            D = LinkClustering.update_partition_density(prev_edges2com,D,edges2com,self.inv_edges)
+            list_D[k] = np.sum(list(D.values()))/self.len_edges
+            if list_D[k] > max_D:
+                #print(D[k],edges2com)
+                self.partition_lc = edges2com.copy()
+                self.D_lc = D.copy()
+                max_D = list_D[k]
+            k+=1
+        #self.D = list_D
+        self.D_lc_max = np.max(list_D)
+        #return self.D_lc_max
+            
+        
     def get_balanceness(self):
         n_edges = len(self.edges) 
         edges2comid = {i: i for i in range(len(self.edges))}
@@ -182,7 +230,6 @@ class LinkClustering:
         similarity = self.linkage[:,2]
         #where sim value change
         mask_sim = np.where(similarity[:-1] != similarity[1:])
-
         self.real_entropy = real_entropy
         self.max_entropy = max_entropy
     
@@ -202,54 +249,77 @@ class LinkClustering:
         if node.is_leaf():
             leaf_set.add(node.id)
         else:
-            get_leaves(node.get_left(), leaf_set)
-            get_leaves(node.get_right(), leaf_set)
+            LinkClustering.get_leaves(node.get_left(), leaf_set)
+            LinkClustering.get_leaves(node.get_right(), leaf_set)
         return leaf_set
     
+    def remove_merged_com(self,partition,leaves):
+        com2del = []
+        for key in partition.keys():
+            if not partition[key].isdisjoint(leaves):
+                com2del.append(key)
+        for key in com2del:
+            del partition[key]
+        return partition
+  
     def get_new_partition(self,direction,partition,x):
         if direction == 'up':
-            #find x in linkage
-            i = np.where(self.linkage[:,:2] == x)[0][0]
+            #find x in linkagez̄
+            pos = np.where(self.linkage[:,:2] == x)
+            i = pos[0][0]
+            j = 1-pos[1][0] #the other one
             #merge the communities
+            if (self.linkage[i,0] not in partition) or (self.linkage[i,1] not in partition):
+                leaves = LinkClustering.get_leaves(self.clusters[self.linkage[i,j].astype(int)])
+                #delete the other community that contains any of the leaves
+                partition = self.remove_merged_com(partition,leaves)
+                partition[self.linkage[i,j].astype(int)] = leaves
+                #partition = get_new_partition('up',partition,x)
+                #return partition
             if (self.linkage[i,0] in partition) and (self.linkage[i,1] in partition): 
                 partition[self.len_edges+i] = partition[self.linkage[i,0]] | partition[self.linkage[i,1]]
                 del partition[self.linkage[i,0]], partition[self.linkage[i,1]]
                 return partition
             else:
+                print('Error:community nor in partition')
                 return partition
         if direction == 'down':
             #find x in partition
             i,j = self.linkage[x-self.len_edges,:2].astype(int)
-            partition[i] = get_leaves(self.clusters[i])
-            partition[j] = get_leaves(self.clusters[j])
+            partition[i] = LinkClustering.get_leaves(self.clusters[i])
+            partition[j] = LinkClustering.get_leaves(self.clusters[j])
             del partition[x]
             return partition
             
     def adaptive_cut(self,T=0.5,C=0.5,steps=1000,early_stop=1e-2):
         # test if D from get_partition_density exists
-        if not hasattr(self, 'D'):
+        if not hasattr(self, 'D_lc'):
             self.get_partition_density()
        
         self.tree, self.clusters= hierarchy.to_tree(self.linkage,rd=True)
             
-        partition = self.best_lc_partition
+        partition = self.partition_lc
         D = self.D_lc
         
         k=0
         while k < steps:
             #choose where to walk 
-            x = list(self.best_lc_partition.keys())[np.random.choice(len(self.best_lc_partition.keys()))]
+            x = list(partition.keys())[np.random.choice(len(partition.keys()))]
             #inversly proportional to the size of the community ???
             
             
             direction = self.choose_direction(x,partition)
+            #print(f'x: {x}, direction: {direction}')
+            temp_partition = self.get_new_partition(direction,partition.copy(),x)
+            if temp_partition == partition:
+                #print('no change')
+            #temp_D = compute_partition_density(partition,self.inv_edges)
+            temp_D = LinkClustering.update_partition_density(partition,D,temp_partition,self.inv_edges)
             
-            temp_partition = self.get_new_partition(direction,partition,x)
-            
-            temp_D = compute_partition_density(partition,self.inv_edges)
-            
-            alpha = min(np.exp((temp_D-D)/T),1)
-            print(f'alpha: {alpha}, temp_D: {temp_D}, D: {D}')  
+            temps_D_value = np.sum(list(temp_D.values()))/self.len_edges
+            D_value = np.sum(list(D.values()))/self.len_edges
+            alpha = min(np.exp((temps_D_value-D_value)/T),1)
+            #print(f'alpha: {alpha}, temp_D: {temps_D_value}, D: {D_value}')
             if np.random.rand() < alpha:
                 partition = temp_partition
                 D = temp_D
@@ -257,6 +327,7 @@ class LinkClustering:
         
         self.partition_mcmc = partition
         self.D_mcmc = D
+        self.D_mcmc_max = np.sum(list(D.values()))/self.len_edges
         
         
     def single_linkage_HC(self):
