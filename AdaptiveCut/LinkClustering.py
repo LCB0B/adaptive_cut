@@ -5,13 +5,36 @@ from copy import copy
 from scipy.cluster import hierarchy 
 import numpy as np
 import math
-from helper_functions import *
+#from helper_functions import *
 import sys
 import time 
 from tqdm import tqdm
 
 
-from .utils import *
+#from .utils import *
+
+def swap(i,j):
+    if i<j:
+        return i,j
+    else:
+        return j,i
+    
+def Dc(m,n):
+    if m==1:
+        return 0
+    elif n>2:
+        return 2*m*(m-(n-1))/((n-1)*(n-2))
+    else:
+        return 0
+
+def Dc2(m,n):
+    if n>2:
+        return (m-(n-1)) / (n*(n-1)/2 - (n-1))
+    else:
+        return 0
+    
+def entropy(ks):
+    return np.sum([k*np.log2(k) for k in ks])
 
 sys.setrecursionlimit(int(1e4))
 # Mapping from (i, j) in adjacency matrix to index in condensed distance matrix
@@ -101,10 +124,10 @@ class LinkClustering:
         for node in self.adj:
             if len(self.adj[node]) > 1:
                 for i, j in combinations(self.adj[node], 2):
-                    edge = swap(swap(i, node), swap(node, j))
+                    edges = swap(swap(i, node), swap(node, j))
                     inc_ni, inc_nj = inclusive[i], inclusive[j]
                     jaccard_index = len(inc_ni & inc_nj) / len(inc_ni | inc_nj)
-                    similarities.append((1 - jaccard_index, (self.edges[edge[0]],self.edges[edge[1]])))
+                    similarities.append((1 - jaccard_index, (self.edges[edges[0]],self.edges[edges[1]])))
         similarities.sort(key=lambda x: (x[0], x[1]))
         self.similarities = similarities
         
@@ -122,10 +145,10 @@ class LinkClustering:
                 pairs_to_evaluate = [all_pairs[idx] for idx in sampled_pairs]
                 #print(f'lenght pairs to evaluate: {len(all_pairs)}, sampling prob: {sampling_prob}, n_neighbors: {len(self.adj[node])}, num_pairs_to_sample: {num_pairs_to_sample}')
                 for i, j in pairs_to_evaluate:
-                    edge = swap(swap(i, node), swap(node, j))
+                    edges = swap(swap(i, node), swap(node, j))
                     inc_ni, inc_nj = inclusive[i], inclusive[j]
                     jaccard_index = len(inc_ni & inc_nj) / len(inc_ni | inc_nj)
-                    similarities.append((1 - jaccard_index, (self.edges[edge[0]],self.edges[edge[1]])))
+                    similarities.append((1 - jaccard_index, (self.edges[edges[0]],self.edges[edges[1]])))
         # check is some edges are missing
         unique_edges = set([e[0] for _,e in similarities]).union(set([e[1] for _,e in similarities]))
         if len(unique_edges) != len(self.edges):
@@ -133,28 +156,28 @@ class LinkClustering:
         similarities.sort(key=lambda x: (x[0], x[1]))
         self.similarities = similarities
         
-    def similarities_unweighted_h2(self,sampling_exponent=0):
-        inclusive = {n: self.adj[n] | {n} for n in self.adj}
-        similarities = []      
+    # def similarities_unweighted_h2(self,sampling_exponent=0):
+    #     inclusive = {n: self.adj[n] | {n} for n in self.adj}
+    #     similarities = []      
 
-        for node in self.adj:
-            if len(self.adj[node]) > 1:
-                sampling_prob = len(self.adj[node]) ** (-sampling_exponent)
-                #print(f'sampling prob: {sampling_prob}')
+    #     for node in self.adj:
+    #         if len(self.adj[node]) > 1:
+    #             sampling_prob = len(self.adj[node]) ** (-sampling_exponent)
+    #             #print(f'sampling prob: {sampling_prob}')
 
-                for i, j in combinations(self.adj[node], 2):
-                    if np.random.rand() < sampling_prob:
-                        continue
-                    edge = swap(swap(i, node), swap(node, j))
-                    inc_ni, inc_nj = inclusive[i], inclusive[j]
-                    jaccard_index = len(inc_ni & inc_nj) / len(inc_ni | inc_nj)
-                    similarities.append((1 - jaccard_index, (self.edges[edge[0]],self.edges[edge[1]])))
-        # check is some edges are missing
-        unique_edges = set([e[0] for _,e in similarities]).union(set([e[1] for _,e in similarities]))
-        if len(unique_edges) != len(self.edges):
-            print('Some edges are missing')
-        similarities.sort(key=lambda x: (x[0], x[1]))
-        self.similarities = similarities 
+    #             for i, j in combinations(self.adj[node], 2):
+    #                 if np.random.rand() < sampling_prob:
+    #                     continue
+    #                 edges = swap(swap(i, node), swap(node, j))
+    #                 inc_ni, inc_nj = inclusive[i], inclusive[j]
+    #                 jaccard_index = len(inc_ni & inc_nj) / len(inc_ni | inc_nj)
+    #                 similarities.append((1 - jaccard_index, (self.edges[edges[0]],self.edges[edges[1]])))
+    #     # check is some edges are missing
+    #     unique_edges = set([e[0] for _,e in similarities]).union(set([e[1] for _,e in similarities]))
+    #     if len(unique_edges) != len(self.edges):
+    #         print('Some edges are missing')
+    #     similarities.sort(key=lambda x: (x[0], x[1]))
+    #     self.similarities = similarities 
         
     def similarities_weighted(self,sampling_exponent=0):
         inclusive = {n: self.adj[n] | {n} for n in self.adj}
@@ -179,7 +202,7 @@ class LinkClustering:
                     inc_ni, inc_nj = inclusive[i], inclusive[j]
                     ai_dot_aj = sum(Aij[swap(i, k)] * Aij[swap(j, k)] for k in inc_ni & inc_nj)
                     S = ai_dot_aj / (a_sqrd[i] + a_sqrd[j] - ai_dot_aj)
-                    similarities.append((1 - S, edges))
+                    similarities.append((1 - S, (self.edges[edges[0]],self.edges[edges[1]])))
 
         similarities.sort(key=lambda x: (x[0], x[1]))
         self.similarities = similarities
@@ -203,11 +226,11 @@ class LinkClustering:
                 sampled_pairs = np.random.choice(len(all_pairs), num_pairs_to_sample, replace=False)
                 pairs_to_evaluate = [all_pairs[idx] for idx in sampled_pairs]
                 for i, j in pairs_to_evaluate:
-                    edges = (i,j)
+                    edges = ((node,i),(node,j)) #respect order !
                     inc_ni, inc_nj = inclusive[i], inclusive[j]
                     ai_dot_aj = sum(Aij[(i,k)] * Aij[(j,k)] for k in inc_ni & inc_nj)
                     S = ai_dot_aj / (a_sqrd[i] + a_sqrd[j] - ai_dot_aj)
-                    similarities.append((1 - S, edges))
+                    similarities.append((1 - S, (self.edges[edges[0]],self.edges[edges[1]])))
         
         similarities.sort(key=lambda x: (x[0], x[1]))
         self.similarities = similarities
