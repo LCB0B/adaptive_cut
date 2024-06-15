@@ -290,7 +290,7 @@ class LinkClustering:
         cid2nodes = {cid: set(edge) for cid, edge in enumerate(edges)}
         cid2numedges = {cid: 1 for cid in range(len(edges))}
         cid2numnodes = {cid: len(edge) for cid, edge in enumerate(edges)}
-        best_partition = {cid:self.edges[edge] for cid, edge in enumerate(edges)}
+        best_partition = {cid:{self.edges[edge]} for cid, edge in enumerate(edges)}
 
         curr_maxcid = len(edges) - 1
         linkage = []
