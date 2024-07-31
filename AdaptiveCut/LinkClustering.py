@@ -80,17 +80,30 @@ class LinkClustering:
                 if ni != nj:
                     edges.add((ni, nj))
                     wij_dict[(ni, nj)] = wij
-                    adj[ni].add(nj)
+                    adj[nj].add(ni)  #!!!!! order of i and j in inversed for the adjacency matrix
+
+        self.adj = dict(adj)
+
+        #check if every item of the adjacency list exist as values in adj 
+        set_keys = set(self.adj.keys())
+        set_values = set([item for sublist in self.adj.values() for item in sublist])
+        
+        diff = set_values - set_keys
+        for d in diff:
+            adj[d] = {d}
+            wij_dict[(d,d)] = 0
+            edges.add((d,d))
+        
         edges = sorted(edges)
         edges = {e: i for i, e in enumerate(edges)  }
         self.len_edges = len(edges)
-        self.adj = dict(adj)
         self.edges = edges
         self.inv_edges = {v: k for k, v in self.edges.items()}
-        self.weight = wij_dict
         
-    
-    
+        
+        self.weight = wij_dict
+        self.adj = dict(adj)
+            
     def similarities_unweighted(self):
         inclusive = {n: self.adj[n] | {n} for n in self.adj}
         similarities = []
@@ -167,11 +180,11 @@ class LinkClustering:
         
         Aij = copy(self.weight)
         #get the average weight of each node
-        A = {node: sum(self.weight[(node,i)] for i in self.adj[node]) / len(self.adj[node]) for node in self.adj}
+        A = {node: sum(self.weight[(i,node)] for i in self.adj[node]) / len(self.adj[node]) for node in self.adj}
         #add to Aij the self loop
         Aij.update({(node,node): A[node] for node in self.adj})
         #pre compute the square sum of Aij
-        a_sqrd = {node: sum(Aij[(node,i)]**2 for i in inclusive[node]) for node in self.adj}
+        a_sqrd = {node: sum(Aij[(i,node)]**2 for i in inclusive[node]) for node in self.adj}
         
         for node in self.adj:
             if len(self.adj[node]) > 1:
@@ -183,11 +196,15 @@ class LinkClustering:
                 for i, j in pairs_to_evaluate:
                     edges = ((i,node),(j,node)) #dont swap for directed
                     inc_ni, inc_nj = inclusive[i], inclusive[j]
-                    ai_dot_aj = sum(Aij[(i,k)] * Aij[(j,k)] for k in inc_ni & inc_nj)
-                    S = ai_dot_aj / (a_sqrd[i] + a_sqrd[j] - ai_dot_aj)
-                    similarities.append((1 - S, edges))
-                    # directed network trick
-                    if (node,j) in self.edges:
+                    ai_dot_aj = sum(Aij[(k,i)] * Aij[(k,j)] for k in inc_ni & inc_nj)
+                    
+                    if (a_sqrd[i] + a_sqrd[j] - ai_dot_aj) == 0 :
+                        S=0
+                    else:
+                        S = ai_dot_aj / (a_sqrd[i] + a_sqrd[j] - ai_dot_aj)
+                    if (i,node) in self.edges and (j,node) in self.edges:
+                        similarities.append((1 - S, edges))
+                    if (i,node) in self.edges and (node,j) in self.edges:
                         edges = ((i ,node),(node,j))
                         similarities.append((1 - S, edges))
           
@@ -252,7 +269,7 @@ class LinkClustering:
         cid2nodes = {cid: set(edge) for cid, edge in enumerate(edges)}
         cid2numedges = {cid: 1 for cid in range(len(edges))}
         cid2numnodes = {cid: len(edge) for cid, edge in enumerate(edges)}
-        best_partition = {cid:self.edges[edge] for cid, edge in enumerate(edges)}
+        best_partition = {cid:{edge} for cid, edge in enumerate(edges)}
 
         curr_maxcid = len(edges) - 1
         linkage = []
@@ -316,11 +333,39 @@ class LinkClustering:
             linkage[k]=[comm_id1, comm_id2, oms, m]
             k+=1 
             Dc_12 = Dc(m, n)
+      
             D += (Dc_12 - Dc_1 - Dc_2) * M
             
-            # if k>100:
-            #     break
+
+        #if the linkage is not complete
+        if k < len(self.edges)-1:
+            print('Linkage not complete, fill with zeros')
+            #link all the remaining communities
+            for i in range(k,len(self.edges)-1):
+                #take two communities at random and merge them at level 1 (max)
+                comm_id1, comm_id2 = np.random.choice(list(set(edge2cid.values())),2,replace=False)
+                
+                #normal linkaging
+                m1, m2 = len(cid2edges[comm_id1]), len(cid2edges[comm_id2])
+                n1, n2 = len(cid2nodes[comm_id1]), len(cid2nodes[comm_id2])
+                Dc_1, Dc_2 = Dc(m1, n1), Dc(m2, n2)
+                if m2 > m1:
+                    comm_id1, comm_id2 = comm_id2, comm_id1
+                curr_maxcid += 1
+                newcid = curr_maxcid
+                newcid2cids[newcid] = (comm_id1, comm_id2)
+                cid2edges[newcid] = cid2edges.pop(comm_id1) | cid2edges.pop(comm_id2)
+                cid2nodes[newcid] = cid2nodes.pop(comm_id1) | cid2nodes.pop(comm_id2)
+                for e in cid2edges[newcid]:
+                    edge2cid[e] = newcid
             
+                m, n = len(cid2edges[newcid]), len(cid2nodes[newcid])
+                cid2numedges_tmp[newcid] = m
+                cid2numnodes_tmp[newcid] = n
+                linkage[i]=[comm_id1, comm_id2, 1.0, m]
+                Dc_12 = Dc(m, n)
+                D += (Dc_12 - Dc_1 - Dc_2) * M
+                
         self.linkage = linkage
         self.D_lc_max= np.max([d for d, _ in list_D])
         #apply self.edges to the set of values in the best partition
