@@ -5,7 +5,7 @@ setup(
     version="0.1",
     packages=find_packages(),
     install_requires=[],  # Add any dependencies here
-    author="Louis Boucherie",
+    author="Louis B",
     author_email="louibo@dtu.dk",
     description="AdaptiveCut library",
     url="louisboucherie.com",

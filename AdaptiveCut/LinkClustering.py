@@ -5,7 +5,6 @@ from copy import copy
 from scipy.cluster import hierarchy 
 import numpy as np
 import math
-from helper_functions import *
 import sys
 import time 
 from tqdm import tqdm
@@ -282,16 +281,16 @@ class LinkClustering:
                     best_partition = cid2edges.copy()
             edges = [inv_edges[e] for e in edge_ids if e is not None]
             if edges==[]:
-                print('empty edges')
+                #print('empty edges')
                 continue
             edge1, edge2 = edges[0], edges[1]
 
-            print(edge1, edge2)
+            #print(edge1, edge2)
             comm_id1, comm_id2 = edge2cid[edge1], edge2cid[edge2]
-            print(comm_id1, comm_id2)
+            #print(comm_id1, comm_id2)
             
             if comm_id1 == comm_id2:
-                print('same community')
+                #print('same community')
                 continue
 
             m1, m2 = len(cid2edges[comm_id1]), len(cid2edges[comm_id2])
@@ -611,7 +610,7 @@ class LinkClustering:
                         node_appartenence[node][com_id] += 1/len(self.adj[node])
                     else:
                         node_appartenence[node][com_id] = 1/len(self.adj[node])
-        return node_appartenence
+        return dict(node_appartenence)
         
     
     def build_dendrogram(self):

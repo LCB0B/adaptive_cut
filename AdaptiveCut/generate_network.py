@@ -22,13 +22,13 @@ def stochastic_block_model_weight(n, k, p, q):
     for i in range(n):
         G.add_node(i)
     for i in range(n):
-        for j in range(i+1, n):
+        for j in range(1, n):
             if i//k == j//k:
-                if np.random.rand() < p:
-                    G.add_edge(i, j,weight=np.random.randint(3))
+                if np.random.rand() <= p:
+                    G.add_edge(i, j,weight=np.random.randint(1,1))
             else:
-                if np.random.rand() < q:
-                    G.add_edge(i, j,weight=np.random.randint(3))
+                if np.random.rand() <= q:
+                    G.add_edge(i, j,weight=np.random.randint(1,1))
     #return the adjacency matrix
     return nx.to_numpy_matrix(G)
 
@@ -43,9 +43,9 @@ if __name__=='__main__':
     np.savetxt(f'data/sbm_{n}.csv', edge_list, delimiter=',', fmt='%d')
 
     n = 100
-    k = 20
-    p = 0.95
-    q = 0.5
+    k = 5
+    p = 0.5
+    q = 0.1
     adjacency_matrix = stochastic_block_model_weight(n, k, p, q)
     #save the edge list as csv, 2d numpy array
     edge_list = np.argwhere(adjacency_matrix).astype(int)
