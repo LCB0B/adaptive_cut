@@ -90,6 +90,14 @@ if __name__=='__main__':
     n = 100
     m = 10
     adjacency_matrix = generate_directed_ba_network(n, m)
+    #test number of connected components in adjacency matrix
+    G = nx.DiGraph()
+    G.add_nodes_from(range(n))
+    for i in range(n):
+        for j in range(n):
+            if adjacency_matrix[i,j]:
+                G.add_edge(i,j)
+    print(nx.number_weakly_connected_components(G))
     #save the edge list as csv, 2d numpy array
     edge_list = np.argwhere(adjacency_matrix).astype(int)
     edge_list_w = [[e[0],e[1],adjacency_matrix[e[0],e[1]]] for e in edge_list]

@@ -16,14 +16,30 @@ sys.setrecursionlimit(int(1e4))
 # Mapping from (i, j) in adjacency matrix to index in condensed distance matrix
     
 class LinkClustering:
-    def __init__(self, name, delimiter,file='data'):
+    def __init__(self, name, delimiter, file='data'):
+        """
+        Initialize the LinkClustering class with the dataset's name and delimiter.
+
+        Parameters:
+        name (str): Name of the dataset.
+        delimiter (str): Delimiter used in the dataset file.
+        file (str): Directory where the dataset file is located. Default is 'data'.
+        """
         self.file = file
         self.name = name
         self.delimiter = delimiter
         self.filename = f'{self.file}/{self.name}.csv'
-        
 
     def read_edgelist_unweighted(self):
+        """
+        Reads an unweighted edge list from a CSV file and stores it as an adjacency list.
+
+        Outputs:
+        - self.adj (dict): Dictionary mapping each node to a set of its neighbors.
+        - self.edges (dict): Dictionary mapping edges (tuple of nodes) to an index.
+        - self.len_edges (int): Total number of edges.
+        - self.inv_edges (dict): Dictionary mapping edge indices back to edge tuples.
+        """
         adj = defaultdict(set)
         edges = set()
 
@@ -36,15 +52,23 @@ class LinkClustering:
                     adj[ni].add(nj)
                     adj[nj].add(ni)
         edges = sorted(edges)
-        edges = {e: i for i, e in enumerate(edges)  }
+        edges = {e: i for i, e in enumerate(edges)}
         self.len_edges = len(edges)
         self.adj = dict(adj)
         self.edges = edges
         self.inv_edges = {v: k for k, v in self.edges.items()}
- 
-        #return dict(adj), edges
-    
+
     def read_edgelist_weighted(self):
+        """
+        Reads a weighted edge list from a CSV file and stores it as an adjacency list with weights.
+
+        Outputs:
+        - self.adj (dict): Dictionary mapping each node to a set of its neighbors.
+        - self.edges (dict): Dictionary mapping edges (tuple of nodes) to an index.
+        - self.len_edges (int): Total number of edges.
+        - self.inv_edges (dict): Dictionary mapping edge indices back to edge tuples.
+        - self.weight (dict): Dictionary mapping edges to their weights.
+        """
         adj = defaultdict(set)
         edges = set()
         wij_dict = {}
@@ -60,18 +84,28 @@ class LinkClustering:
                     adj[ni].add(nj)
                     adj[nj].add(ni)
         edges = sorted(edges)
-        edges = {e: i for i, e in enumerate(edges)  }
+        edges = {e: i for i, e in enumerate(edges)}
         self.len_edges = len(edges)
         self.adj = dict(adj)
         self.edges = edges
         self.inv_edges = {v: k for k, v in self.edges.items()}
         self.weight = wij_dict
-    
+
     def read_edgelist_weighted_directed(self):
+        """
+        Reads a weighted directed edge list from a CSV file and stores it as an adjacency list with weights.
+
+        Outputs:
+        - self.adj (dict): Dictionary mapping each node to a set of nodes pointing to it.
+        - self.edges (dict): Dictionary mapping directed edges (tuple of nodes) to an index.
+        - self.len_edges (int): Total number of edges.
+        - self.inv_edges (dict): Dictionary mapping edge indices back to edge tuples.
+        - self.weight (dict): Dictionary mapping edges to their weights.
+        """
         adj = defaultdict(set)
         edges = set()
         wij_dict = {}
-        
+
         with open(self.filename) as f:
             for line in f:
                 ni, nj, wij = line.strip().split(self.delimiter)
@@ -80,70 +114,90 @@ class LinkClustering:
                 if ni != nj:
                     edges.add((ni, nj))
                     wij_dict[(ni, nj)] = wij
-                    adj[nj].add(ni)  #!!!!! order of i and j in inversed for the adjacency matrix
+                    adj[nj].add(ni)  # Order of i and j is inverted for the adjacency matrix
 
         self.adj = dict(adj)
 
-        #check if every item of the adjacency list exist as values in adj 
+        # Ensure all nodes appear as keys in the adjacency list
         set_keys = set(self.adj.keys())
         set_values = set([item for sublist in self.adj.values() for item in sublist])
         
         diff = set_values - set_keys
         for d in diff:
             adj[d] = {d}
-            wij_dict[(d,d)] = 0
-            edges.add((d,d))
+            wij_dict[(d, d)] = 0
+            edges.add((d, d))
         
         edges = sorted(edges)
-        edges = {e: i for i, e in enumerate(edges)  }
+        edges = {e: i for i, e in enumerate(edges)}
         self.len_edges = len(edges)
         self.edges = edges
         self.inv_edges = {v: k for k, v in self.edges.items()}
-        
-        
         self.weight = wij_dict
         self.adj = dict(adj)
-            
+
     def similarities_unweighted(self):
+        """
+        Calculates Jaccard similarities between edges in an unweighted network.
+
+        Outputs:
+        - self.similarities (list): List of tuples (1 - Jaccard index, (edge index 1, edge index 2)).
+        """
         inclusive = {n: self.adj[n] | {n} for n in self.adj}
         similarities = []
-        
+
         for node in self.adj:
             if len(self.adj[node]) > 1:
                 for i, j in combinations(self.adj[node], 2):
                     edge = swap(swap(i, node), swap(node, j))
                     inc_ni, inc_nj = inclusive[i], inclusive[j]
                     jaccard_index = len(inc_ni & inc_nj) / len(inc_ni | inc_nj)
-                    similarities.append((1 - jaccard_index, (self.edges[edge[0]],self.edges[edge[1]])))
+                    similarities.append((1 - jaccard_index, (self.edges[edge[0]], self.edges[edge[1]])))
         similarities.sort(key=lambda x: (x[0], x[1]))
         self.similarities = similarities
-        
-             
-    def similarities_unweighted_h(self,sampling_exponent=0):
+
+    def similarities_unweighted_h(self, sampling_exponent=0):
+        """
+        Calculates Jaccard similarities with hierarchical sampling for unweighted networks.
+
+        Parameters:
+        sampling_exponent (float): Exponent controlling the probability of sampling pairs. Default is 0.
+
+        Outputs:
+        - self.similarities (list): List of tuples (1 - Jaccard index, (edge index 1, edge index 2)).
+        """
         inclusive = {n: self.adj[n] | {n} for n in self.adj}
-        similarities = []      
+        similarities = []
 
         for node in self.adj:
             if len(self.adj[node]) > 1:
-                sampling_prob= len(self.adj[node]) ** (-sampling_exponent)
+                sampling_prob = len(self.adj[node]) ** (-sampling_exponent)
                 all_pairs = list(combinations(self.adj[node], 2))
                 num_pairs_to_sample = max(1, int(len(all_pairs) * sampling_prob))
                 sampled_pairs = np.random.choice(len(all_pairs), num_pairs_to_sample, replace=False)
                 pairs_to_evaluate = [all_pairs[idx] for idx in sampled_pairs]
-                #print(f'lenght pairs to evaluate: {len(all_pairs)}, sampling prob: {sampling_prob}, n_neighbors: {len(self.adj[node])}, num_pairs_to_sample: {num_pairs_to_sample}')
                 for i, j in pairs_to_evaluate:
                     edge = swap(swap(i, node), swap(node, j))
                     inc_ni, inc_nj = inclusive[i], inclusive[j]
                     jaccard_index = len(inc_ni & inc_nj) / len(inc_ni | inc_nj)
-                    similarities.append((1 - jaccard_index, (self.edges[edge[0]],self.edges[edge[1]])))
-        # check is some edges are missing
-        unique_edges = set([e[0] for _,e in similarities]).union(set([e[1] for _,e in similarities]))
+                    similarities.append((1 - jaccard_index, (self.edges[edge[0]], self.edges[edge[1]])))
+        # Check if some edges are missing
+        unique_edges = set([e[0] for _, e in similarities]).union(set([e[1] for _, e in similarities]))
         if len(unique_edges) != len(self.edges):
             print('Some edges are missing')
         similarities.sort(key=lambda x: (x[0], x[1]))
         self.similarities = similarities
         
     def similarities_weighted(self,sampling_exponent=0):
+         """
+        Calculates cosine similarities for weighted networks.
+
+        Parameters:
+        sampling_exponent (float): Exponent controlling the probability of sampling pairs. Default is 0.
+
+        Outputs:
+        - self.similarities (list): List of tuples (1 - cosine similarity, (edge index 1, edge index 2)).
+        """
         inclusive = {n: self.adj[n] | {n} for n in self.adj}
         similarities = []
         Aij = copy(self.weight)
@@ -175,6 +229,15 @@ class LinkClustering:
     
 
     def similarities_weighted_directed(self,sampling_exponent=0):
+          """
+        Calculates cosine similarities for weighted and directed networks.
+
+        Parameters:
+        sampling_exponent (float): Exponent controlling the probability of sampling pairs. Default is 0.
+
+        Outputs:
+        - self.similarities (list): List of tuples (1 - cosine similarity, (edge index 1, edge index 2)).
+        """
         inclusive = {n: self.adj[n] | {n} for n in self.adj}
         similarities = []
         
@@ -261,7 +324,15 @@ class LinkClustering:
         #print("--- %s seconds ---" % (time.time() - start_time))
         self.linkage = linkage
     
-    def single_linkage_legacy(self):
+     def single_linkage_legacy(self):
+        """
+        Legacy implementation of single-linkage hierarchical clustering.
+
+        Outputs:
+        - self.linkage (ndarray): Linkage matrix representing the hierarchical clustering.
+        - self.partition_lc (dict): Best partition of the edges based on the clustering.
+        - self.D_lc_max (float): Maximum partition density.
+        """
         edges = list(self.edges.keys())
         edge2cid = {edge: cid for cid, edge in enumerate(edges)}
         cid2edges = {cid: {edge} for cid, edge in enumerate(edges)}
@@ -374,9 +445,23 @@ class LinkClustering:
         self.list_D = list_D
 
     def test_single_linkage(self):
+        """
+        Tests if the generated linkage matrix is valid according to SciPy's standards.
+
+        Outputs:
+        - bool: Returns True if the linkage matrix is valid, otherwise False.
+        """
         return hierarchy.is_valid_linkage(self.linkage)
     
     def get_partition_density_lc(self):
+        """
+        Computes the partition density for the linkage clustering (LC) method.
+
+        Outputs:
+        - self.D (ndarray): Array of partition densities at each level of the dendrogram.
+        - self.D_lc_max (float): Maximum partition density found.
+        - self.best_lc_partition (dict): Best partition of the edges based on maximum partition density.
+        """
         D = np.zeros(len(self.linkage)+1)
         k=0
         edges2comid = {i: i for i in range(len(self.edges))}
@@ -407,20 +492,49 @@ class LinkClustering:
         self.best_lc_partition = best_partition
     
     def find_similarities(self,edge):
+        """
+        Finds the similarities of a specific edge with all other edges.
+
+        Parameters:
+        edge (tuple): The edge for which similarities are to be found.
+
+        Outputs:
+        - list: List of similarities with other edges.
+        """
         #find the similarities of an edge with all the other edges
         return [[sim, (i,j)]for sim, (i,j) in self.similarities if i == edge or j == edge]
-        
-    def get_partition_density(partition,inv_edges):
-        #intialize the partition density with partition keys
-        D={k:0 for k in partition.keys()}
-        for key,edges in partition.items():
-            ms = len(edges)
-            ns = len(set([ node for e in edges for node in inv_edges[e] ]))
-            D[key] = ms*Dc2(ms,ns)
-        return D
     
-    def update_partition_density(prev_partition,prev_D,partition,inv_edges):
-        # prev_D : dict community_id : {edges}
+    def get_partition_density(partition, inv_edges):
+        """
+        Calculates the partition density for a given partition.
+
+        Parameters:
+        partition (dict): The partition of edges to communities.
+        inv_edges (dict): Inverse mapping from edge indices to edge tuples.
+
+        Outputs:
+        - D (dict): Partition density for each community.
+        """
+        D = {k: 0 for k in partition.keys()}
+        for key, edges in partition.items():
+            ms = len(edges)
+            ns = len(set([node for e in edges for node in inv_edges[e]]))
+            D[key] = ms * Dc2(ms, ns)
+        return D
+
+    def update_partition_density(prev_partition, prev_D, partition, inv_edges):
+        """
+        Updates the partition density based on changes in the partition.
+
+        Parameters:
+        prev_partition (dict): Previous partition of edges.
+        prev_D (dict): Previous partition densities.
+        partition (dict): New partition of edges.
+        inv_edges (dict): Inverse mapping from edge indices to edge tuples.
+
+        Outputs:
+        - D (dict): Updated partition densities.
+        """
         diff_key = set(prev_partition.keys()) - set(partition.keys())
         D = prev_D.copy()
         for key in diff_key:
@@ -430,116 +544,144 @@ class LinkClustering:
         for key in new_key:
             key = int(key)
             ms = len(partition[key])
-            ns = len(set([ node for edges in partition[key] for node in inv_edges[edges] ]))
-            D[key] = ms*Dc2(ms,ns)
+            ns = len(set([node for edges in partition[key] for node in inv_edges[edges]]))
+            D[key] = ms * Dc2(ms, ns)
         return D
-    
+
     def get_fast_partition_density(self):
+        """
+        Quickly computes the partition density using a fast update mechanism.
+
+        Outputs:
+        - self.D_lc_max (float): Maximum partition density found.
+        - self.D_lc (dict): Partition densities at the best partition.
+        - self.partition_lc (dict): Best partition of edges.
+        """
         self.inv_edges = {v: k for k, v in self.edges.items()}
         edges2comid = {i: i for i in range(len(self.edges))}
         edges2com = {i: {i} for i in range(len(self.edges))}
-        D = {k:0 for k,v in edges2com.items()}
-        list_D = np.zeros(len(self.linkage)+1)
-        k=0
+        D = {k: 0 for k, v in edges2com.items()}
+        list_D = np.zeros(len(self.linkage) + 1)
+        k = 0
         max_D = 0
-        for i,j,_,_ in self.linkage:
+
+        for i, j, _, _ in self.linkage:
             i = int(i)
             j = int(j)
             prev_edges2com = edges2com.copy()
-            edges2com[len(self.edges)+k] = edges2com[i] | edges2com[j]
+            edges2com[len(self.edges) + k] = edges2com[i] | edges2com[j]
             for e in edges2com[i]:
-                edges2comid[e] = len(self.edges)+k
+                edges2comid[e] = len(self.edges) + k
             for e in edges2com[j]:
-                edges2comid[e] = len(self.edges)+k
+                edges2comid[e] = len(self.edges) + k
             del edges2com[i], edges2com[j]
-            D = LinkClustering.update_partition_density(prev_edges2com,D,edges2com,self.inv_edges)
-            list_D[k] = np.sum(list(D.values()))/self.len_edges
+            D = LinkClustering.update_partition_density(prev_edges2com, D, edges2com, self.inv_edges)
+            list_D[k] = np.sum(list(D.values())) / self.len_edges
             if list_D[k] > max_D:
-                #print(D[k],edges2com)
                 self.partition_lc = edges2com.copy()
                 self.D_lc = D.copy()
                 max_D = list_D[k]
-            k+=1
-        #self.D = list_D
+            k += 1
+
         self.D_lc_max = np.max(list_D)
-        #return self.D_lc_max
-            
-    def get_leaves_partition(self,partition):
-        #return a dict partition_id: set of leaves
+
+    def get_leaves_partition(self, partition):
+        """
+        Returns a dictionary of partition IDs to sets of leaf nodes.
+
+        Parameters:
+        partition (dict): A partition of edges.
+
+        Outputs:
+        - leaves_partition (dict): A dictionary where keys are partition IDs and values are sets of leaf nodes.
+        """
         leaves_partition = {}
         for key in partition.keys():
             leaves = get_leaves(self.clusters[key])
             leaves_partition[key] = leaves
-        #leaves_partition = {k:v for key inpartition.keys()
         return leaves_partition
-                
+
     def get_levels_entropy(self):
-        n_edges = len(self.edges) 
+        """
+        Computes entropy at different levels of the dendrogram.
+
+        Outputs:
+        - self.real_entropy (ndarray): Real entropy values at different levels.
+        - self.max_entropy (ndarray): Maximum possible entropy at different levels.
+        - self.min_entropy (ndarray): Minimum possible entropy at different levels.
+        - self.entropy_levels (ndarray): Similarity values at the respective entropy levels.
+        """
+        n_edges = len(self.edges)
         edges2com = {i: {i} for i in range(len(self.edges))}
-        similarity = self.linkage[:,2]
+        similarity = self.linkage[:, 2]
         n_level = np.sum(similarity[:-1] != similarity[1:])
-        real_entropy = np.zeros(n_level+1)
-        max_entropy = np.zeros(n_level+1)
-        min_entropy = np.zeros(n_level+1)
-        c=0
+        real_entropy = np.zeros(n_level + 1)
+        max_entropy = np.zeros(n_level + 1)
+        min_entropy = np.zeros(n_level + 1)
+        c = 0
         sim_prev = 0
         com2merge = set()
         fake_com = set()
-        for k,l in enumerate(self.linkage):
-            i,j,sim = l[:3]
+
+        for k, l in enumerate(self.linkage):
+            i, j, sim = l[:3]
             i = int(i)
             j = int(j)
             if sim == sim_prev:
                 com2merge.add(i)
                 com2merge.add(j)
-                fake_com.add(len(self.edges)+k)
+                fake_com.add(len(self.edges) + k)
                 sim_prev = sim
                 continue
-            #print(i,j)
-            elif sim != sim_prev: 
+            elif sim != sim_prev:
                 com2merge.add(i)
                 com2merge.add(j)
-                #merge the communities
                 com2merge = com2merge - fake_com
-                edges2com[len(self.edges)+k] = set().union(*[edges2com[i] for i in com2merge])
-                
-                # remove the merged communities
+                edges2com[len(self.edges) + k] = set().union(*[edges2com[i] for i in com2merge])
                 for i in com2merge:
                     del edges2com[i]
-                #print(edges2comid, edges2com)
-                #print('-----------------')
-                #print(edges2com)
-                #print([len(e)/n_edges for e in edges2com.values()])
                 com2merge = set()
 
-                real_entropy[c] = entropy([len(e)/n_edges for e in edges2com.values()])
-                max_entropy[c]= np.log2(len(edges2com))
-                min_entropy[c] = -(1-(len(edges2com)-1)/n_edges)*np.log2((1-(len(edges2com)-1)/n_edges)) - (len(edges2com)-1)/n_edges*np.log2(1/n_edges)
-            
-                #print(real_entropy[k],max_entropy[k])
-                c+=1
+                real_entropy[c] = entropy([len(e) / n_edges for e in edges2com.values()])
+                max_entropy[c] = np.log2(len(edges2com))
+                min_entropy[c] = -(1 - (len(edges2com) - 1) / n_edges) * np.log2((1 - (len(edges2com) - 1) / n_edges)) - (len(edges2com) - 1) / n_edges * np.log2(1 / n_edges)
+
+                c += 1
                 sim_prev = sim
-        #correct for same similarity
-        #where sim value change
-        mask_sim = np.where(similarity[:-1] != similarity[1:])[0] # add the last similarity
-        mask_sim = np.append(mask_sim,len(similarity)-1)
+
+        mask_sim = np.where(similarity[:-1] != similarity[1:])[0]
+        mask_sim = np.append(mask_sim, len(similarity) - 1)
         self.real_entropy = real_entropy
         self.max_entropy = max_entropy
         self.min_entropy = min_entropy
-        
-        self.entropy_levels = similarity[mask_sim] 
-        
+        self.entropy_levels = similarity[mask_sim]
+
     def balanceness(self):
+        """
+        Computes the balanceness of the network based on entropy levels.
+
+        Outputs:
+        - self.balanceness (float): The balanceness value of the network.
+        """
         if not hasattr(self, 'real_entropy'):
             self.get_levels_entropy()
-        denominator = (self.max_entropy[:-1]-self.min_entropy[:-1])
-        numerator = (self.real_entropy[:-1]-self.min_entropy[:-1])
+        denominator = (self.max_entropy[:-1] - self.min_entropy[:-1])
+        numerator = (self.real_entropy[:-1] - self.min_entropy[:-1])
         mask = denominator != 0
-        ratio = numerator[mask]/denominator[mask]
-        self.balanceness = np.mean(ratio[ratio>0])
+        ratio = numerator[mask] / denominator[mask]
+        self.balanceness = np.mean(ratio[ratio > 0])
 
-    
     def choose_direction(self,x,partition):
+      """
+        Chooses the direction for dendrogram traversal.
+
+        Parameters:
+        x (int): Index of the current cluster.
+        partition (dict): Current partition of edges.
+
+        Outputs:
+        - str: 'up' to merge, 'down' to split, based on the current state and the end of the dendrogram.
+        """
         if x < self.len_edges:
             return 'up'
         elif len(partition[x]) == len(self.edges):
@@ -560,6 +702,16 @@ class LinkClustering:
         return leaf_set
     
     def remove_merged_com(self,partition,leaves):
+        """
+        Removes merged communities from the partition.
+
+        Parameters:
+        partition (dict): Current partition of edges.
+        leaves (set): Set of leaves to remove.
+
+        Outputs:
+        - dict: Updated partition with merged communities removed.
+        """
         com2del = []
         for key in partition.keys():
             if not partition[key].isdisjoint(leaves):
@@ -601,6 +753,20 @@ class LinkClustering:
             return partition
             
     def adaptive_cut(self,T=0.5,C=0.5,steps=1000,early_stop=1e-2):
+        """
+        Performs an adaptive cut on the dendrogram to find a meaningful partition.
+
+        Parameters:
+        T (float): Temperature parameter for simulated annealing. Default is 0.5.
+        C (float): Cooling rate. Default is 0.5.
+        steps (int): Number of steps to perform. Default is 1000.
+        early_stop (float): Threshold for early stopping. Default is 1e-2.
+
+        Outputs:
+        - self.partition_mcmc (dict): Best partition found during the adaptive cut.
+        - self.D_mcmc (dict): Partition densities of the best partition.
+        - self.D_mcmc_max (float): Maximum partition density achieved.
+        """
         # test if D from get_partition_density exists
         #if not hasattr(self, 'partiton_lc'):
             #self.get_partition_density()
@@ -641,10 +807,28 @@ class LinkClustering:
         
         
     def get_partition_edges(self,partition):
+         """
+        Converts a partition of edge indices to actual edge tuples.
+
+        Parameters:
+        partition (dict): Partition of edge indices.
+
+        Outputs:
+        - dict: Partition of edge tuples.
+        """
         partition_edges = {k: {self.inv_edges[e] for e in v} for k,v in partition.items()}
         return partition_edges
     
     def get_nodes_appartenence(self,partition):
+         """
+        Calculates the community membership percentage for each node.
+
+        Parameters:
+        partition (dict): Partition of edge indices.
+
+        Outputs:
+        - dict: Node community membership percentages.
+        """
         partition_edges = self.get_partition_edges(partition)
         #for each node get % communities it belongs to, node_appartenence = {node: {community_id: %}}
         node_appartenence = defaultdict(dict)
@@ -659,6 +843,12 @@ class LinkClustering:
         
     
     def build_dendrogram(self):
+         """
+        Builds the dendrogram for the unweighted network.
+
+        Outputs:
+        - self.linkage: The linkage matrix of the dendrogram.
+        """
         self.adj, self.edges = self.read_edgelist_unweighted()
         self.similarities = self.similarities_unweighted()
         self.single_linkage_legacy()
