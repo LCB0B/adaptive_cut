@@ -17,8 +17,7 @@ sys.setrecursionlimit(int(1e4))
     
 class LinkClustering:
     def __init__(self, name, delimiter, file='data'):
-        """
-        Initialize the LinkClustering class with the dataset's name and delimiter.
+        """Initialize the LinkClustering class with the dataset's name and delimiter.
 
         Parameters:
         name (str): Name of the dataset.
@@ -189,7 +188,7 @@ class LinkClustering:
         self.similarities = similarities
         
     def similarities_weighted(self,sampling_exponent=0):
-         """
+        """
         Calculates cosine similarities for weighted networks.
 
         Parameters:
@@ -229,7 +228,7 @@ class LinkClustering:
     
 
     def similarities_weighted_directed(self,sampling_exponent=0):
-          """
+        """
         Calculates cosine similarities for weighted and directed networks.
 
         Parameters:
@@ -270,9 +269,6 @@ class LinkClustering:
                     if (i,node) in self.edges and (node,j) in self.edges:
                         edges = ((i ,node),(node,j))
                         similarities.append((1 - S, edges))
-          
-
-        
         similarities.sort(key=lambda x: (x[0], x[1]))
         similarities = [(sim, (self.edges[e[0]],self.edges[e[1]])) for sim, e in similarities]
         self.similarities = similarities
@@ -324,7 +320,7 @@ class LinkClustering:
         #print("--- %s seconds ---" % (time.time() - start_time))
         self.linkage = linkage
     
-     def single_linkage_legacy(self):
+    def single_linkage_legacy(self):
         """
         Legacy implementation of single-linkage hierarchical clustering.
 
@@ -656,7 +652,7 @@ class LinkClustering:
         self.min_entropy = min_entropy
         self.entropy_levels = similarity[mask_sim]
 
-    def balanceness(self):
+    def get_balanceness(self):
         """
         Computes the balanceness of the network based on entropy levels.
 
@@ -672,7 +668,7 @@ class LinkClustering:
         self.balanceness = np.mean(ratio[ratio > 0])
 
     def choose_direction(self,x,partition):
-      """
+        """
         Chooses the direction for dendrogram traversal.
 
         Parameters:
@@ -807,7 +803,7 @@ class LinkClustering:
         
         
     def get_partition_edges(self,partition):
-         """
+        """
         Converts a partition of edge indices to actual edge tuples.
 
         Parameters:
@@ -820,7 +816,7 @@ class LinkClustering:
         return partition_edges
     
     def get_nodes_appartenence(self,partition):
-         """
+        """
         Calculates the community membership percentage for each node.
 
         Parameters:
@@ -843,7 +839,7 @@ class LinkClustering:
         
     
     def build_dendrogram(self):
-         """
+        """
         Builds the dendrogram for the unweighted network.
 
         Outputs:
