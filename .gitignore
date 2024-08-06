@@ -1,3 +1,15 @@
 statistics_louis.py
 Untitled-2.py
-
+data_network
+plots
+figures/*
+examples/*
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.pywz
+AdaptiveCut/*.pyc
+AdaptiveCut/__pycache__/*
