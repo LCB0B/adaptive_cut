@@ -12,11 +12,11 @@ from tqdm import tqdm
 
 from .utils import *
 
-sys.setrecursionlimit(int(1e4))
+# sys.setrecursionlimit(int(1e4))
 # Mapping from (i, j) in adjacency matrix to index in condensed distance matrix
     
 class LinkClustering:
-    def __init__(self, name, delimiter, file='data'):
+    def __init__(self, fname, delimiter=None):
         """Initialize the LinkClustering class with the dataset's name and delimiter.
 
         Parameters:
@@ -24,11 +24,46 @@ class LinkClustering:
         delimiter (str): Delimiter used in the dataset file.
         file (str): Directory where the dataset file is located. Default is 'data'.
         """
-        self.file = file
-        self.name = name
+        #get name from path 
+        self.name = fname.split('/')[-1].split('.')[0]
+        if delimiter is None:
+            delimiter = ' '
+            print('Delimiter not specified, using space as default.')
         self.delimiter = delimiter
-        self.filename = f'{self.file}/{self.name}.csv'
+        self.filename = f'{fname}'
 
+    def run(self,weighted=False,directed=False):
+        """
+        Run the LinkClustering algorithm on the dataset.
+
+        Parameters:
+        weighted (bool): True if the network is weighted, otherwise False. Default is False.
+        directed (bool): True if the network is directed, otherwise False. Default is False.
+        """
+        if weighted and directed:
+            self.read_edgelist_weighted_directed()
+            self.similarities_weighted_directed()
+        elif directed and not weighted:
+            print('doesnt supporte directed and unweighted, reading as undirected')
+            self.read_edgelist_unweighted()
+            self.similarities_unweighted()
+        elif weighted:
+            self.read_edgelist_weighted()
+            self.similarities_weighted()
+        else:
+            self.read_edgelist_unweighted()
+            self.similarities_unweighted()
+            
+        self.single_linkage_legacy()
+        
+        print(f'test linkage: {self.test_single_linkage()}')
+        
+        self.adaptive_cut(T=1e-4,steps=1e4)
+        self.get_balanceness()
+        
+        
+        
+        
     def read_edgelist_unweighted(self):
         """
         Reads an unweighted edge list from a CSV file and stores it as an adjacency list.
@@ -800,7 +835,41 @@ class LinkClustering:
         self.partition_mcmc = partition
         self.D_mcmc = D
         self.D_mcmc_max = np.sum(list(D.values()))/self.len_edges
+    
+    def adaptive_cut_bias(self,T=0.5,C=0.5,steps=1000,early_stop=1e-2):
+        self.tree, self.clusters= hierarchy.to_tree(self.linkage,rd=True)
+            
+        partition = self.partition_lc
         
+        D = LinkClustering.get_partition_density(partition,self.inv_edges)
+        
+
+        for k in tqdm(range(int(steps)),total=int(steps)):
+            #choose where to walk 
+            x = list(partition.keys())[np.random.choice(len(partition.keys()))]
+            #inversly proportional to the size of the community ???
+            
+            direction = self.choose_direction(x,partition)
+            #print(f'x: {x}, direction: {direction}')
+            temp_partition = self.get_new_partition(direction,partition.copy(),x)
+            if temp_partition == partition:
+                continue
+                #print('no change')
+            #temp_D = compute_partition_density(partition,self.inv_edges)
+            temp_D = LinkClustering.update_partition_density(partition,D,temp_partition,self.inv_edges)
+            
+            temps_D_value = np.sum(list(temp_D.values()))/self.len_edges
+            D_value = np.sum(list(D.values()))/self.len_edges
+            alpha = min(np.exp((temps_D_value-D_value)/T),1)
+            #print(f'alpha: {alpha}, temp_D: {temps_D_value}, D: {D_value}')
+            if np.random.rand() < alpha:
+                partition = temp_partition
+                D = temp_D
+
+        
+        self.partition_mcmc = partition
+        self.D_mcmc = D
+        self.D_mcmc_max = np.sum(list(D.values()))/self.len_edges
         
     def get_partition_edges(self,partition):
         """
