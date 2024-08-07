@@ -12,7 +12,7 @@ from tqdm import tqdm
 
 from .utils import *
 
-# sys.setrecursionlimit(int(1e4))
+sys.setrecursionlimit(int(1e4))
 # Mapping from (i, j) in adjacency matrix to index in condensed distance matrix
     
 class LinkClustering:
@@ -32,7 +32,7 @@ class LinkClustering:
         self.delimiter = delimiter
         self.filename = f'{fname}'
 
-    def run(self,weighted=False,directed=False):
+    def run(self,weighted=False,directed=False,adaptive_cut=False,T=1e-4,steps=1e4):
         """
         Run the LinkClustering algorithm on the dataset.
 
@@ -58,11 +58,10 @@ class LinkClustering:
         
         print(f'test linkage: {self.test_single_linkage()}')
         
-        self.adaptive_cut(T=1e-4,steps=1e4)
-        self.get_balanceness()
+        if adaptive_cut:
+            self.adaptive_cut(T,steps)
         
-        
-        
+        self.balanceness = self.get_balanceness()
         
     def read_edgelist_unweighted(self):
         """
