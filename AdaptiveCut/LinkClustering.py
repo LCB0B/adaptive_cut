@@ -8,7 +8,7 @@ import math
 import sys
 import time 
 from tqdm import tqdm
-
+import pickle
 
 from .utils import *
 
@@ -918,5 +918,35 @@ class LinkClustering:
         self.single_linkage_legacy()
         return 
 
+
+    def save(self, filepath):
+        """Save the LinkClustering object to a file.
+
+        Parameters:
+        filepath (str): The path to the file where the object will be saved.
+        
+        ex:
+        lc = LinkClustering('your_file.txt', delimiter=',')
+        # ... (run your clustering process)
+        lc.save('path_to_save.pkl')
+        """
+        with open(filepath, 'wb') as f:
+            pickle.dump(self, f)
+
+    @staticmethod
+    def load(filepath):
+        """Load a LinkClustering object from a file.
+
+        Parameters:
+        filepath (str): The path to the file from which the object will be loaded.
+
+        Returns:
+        LinkClustering: The loaded LinkClustering object.
+        
+        ex: 
+        lc_loaded = LinkClustering.load('path_to_save.pkl')
+        """
+        with open(filepath, 'rb') as f:
+            return pickle.load(f)
 # %%
 
