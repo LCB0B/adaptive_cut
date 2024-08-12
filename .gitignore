@@ -13,3 +13,10 @@ __pycache__
 *.pywz
 AdaptiveCut/*.pyc
 AdaptiveCut/__pycache__/*
+data
+toy_model_lc.py
+dist/
+.DS_Store
+AdaptiveCut.egg-info/
+script/
+results/
