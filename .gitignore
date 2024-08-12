@@ -18,5 +18,6 @@ toy_model_lc.py
 dist/
 .DS_Store
 AdaptiveCut.egg-info/
-script/
+scripts/
 results/
+tests/

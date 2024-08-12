@@ -31,6 +31,12 @@ class LinkClustering:
             print('Delimiter not specified, using space as default.')
         self.delimiter = delimiter
         self.filename = f'{fname}'
+        
+        #test to see if utils is imported
+        try:
+            swap(1,2)
+        except:
+            print('AdaptiveCut.utils.py not imported!!')
 
     def run(self,weighted=False,directed=False,adaptive_cut=False,T=1e-4,steps=1e4):
         """
@@ -52,8 +58,13 @@ class LinkClustering:
             self.similarities_weighted()
         else:
             self.read_edgelist_unweighted()
-            self.similarities_unweighted()
-            
+            self.similarities_unweighted_h(sampling_exponent=0)
+        
+        #flag issue if empty similarities
+        if len(self.edges) == 0:
+            print('Problem! Empty edge list!')
+            return
+          
         self.single_linkage_legacy()
         
         print(f'test linkage: {self.test_single_linkage()}')
