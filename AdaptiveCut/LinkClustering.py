@@ -951,7 +951,7 @@ class LinkClustering:
             return pickle.load(f)
     
     @staticmethod
-    def get_partition_size(self, partition):
+    def get_partition_size(partition):
         """
         Calculates the size of each community in a partition.
 
@@ -964,7 +964,7 @@ class LinkClustering:
         return {k: len(v) for k, v in partition.items()}
     
     @staticmethod
-    def get_partition_density_of_each_partition(self, partition):
+    def get_partition_density_of_each_partition(partition,inv_edges):
         """
         Calculates the partition density of each community in a partition.
 
@@ -974,7 +974,7 @@ class LinkClustering:
         Outputs:
         - dict: Community partition densities.
         """
-        return {k: compute_partition_density({k: v}, self.inv_edges) for k, v in partition.items()}
+        return {k: compute_partition_density({k: v}, inv_edges) for k, v in partition.items()}
 
 # %%
 
