@@ -534,6 +534,7 @@ class LinkClustering:
         #find the similarities of an edge with all the other edges
         return [[sim, (i,j)]for sim, (i,j) in self.similarities if i == edge or j == edge]
     
+    
     def get_partition_density(partition, inv_edges):
         """
         Calculates the partition density for a given partition.
@@ -948,5 +949,32 @@ class LinkClustering:
         """
         with open(filepath, 'rb') as f:
             return pickle.load(f)
+    
+    @staticmethod
+    def get_partition_size(self, partition):
+        """
+        Calculates the size of each community in a partition.
+
+        Parameters:
+        partition (dict): Partition of edge indices.
+
+        Outputs:
+        - dict: Community sizes.
+        """
+        return {k: len(v) for k, v in partition.items()}
+    
+    @staticmethod
+    def get_partition_density_of_each_partition(self, partition):
+        """
+        Calculates the partition density of each community in a partition.
+
+        Parameters:
+        partition (dict): Partition of edge indices.
+
+        Outputs:
+        - dict: Community partition densities.
+        """
+        return {k: compute_partition_density({k: v}, self.inv_edges) for k, v in partition.items()}
+
 # %%
 
