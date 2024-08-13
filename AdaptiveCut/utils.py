@@ -43,6 +43,14 @@ def compute_partition_density(edges2com,inv_edges):
 def entropy(comm):
     return -np.sum([c*np.log2(c) for c in comm if c > 0])
 
+def compute_max_entropy(k,n):
+    p = n//k
+    r = n%k
+    max_entropy_com = [p for i in range(k)]
+    for i in range(r):
+        max_entropy_com[i] += 1
+    return entropy([i / n for i in max_entropy_com])
+
 
 if __name__ == '__main__':
     print('not a main function')

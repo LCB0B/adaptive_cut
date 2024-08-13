@@ -685,7 +685,9 @@ class LinkClustering:
                 com2merge = set()
 
                 real_entropy[c] = entropy([len(e) / n_edges for e in edges2com.values()])
-                max_entropy[c] = np.log2(len(edges2com))
+                #max_entropy[c] = np.log2(len(edges2com))
+                max_entropy[c] =  compute_max_entropy(len(edges2com),n_edges)
+    
                 min_entropy[c] = -(1 - (len(edges2com) - 1) / n_edges) * np.log2((1 - (len(edges2com) - 1) / n_edges)) - (len(edges2com) - 1) / n_edges * np.log2(1 / n_edges)
 
                 c += 1
@@ -709,9 +711,19 @@ class LinkClustering:
             self.get_levels_entropy()
         denominator = (self.max_entropy[:-1] - self.min_entropy[:-1])
         numerator = (self.real_entropy[:-1] - self.min_entropy[:-1])
-        mask = denominator != 0
+        mask = (denominator != 0)
         ratio = numerator[mask] / denominator[mask]
         self.balanceness = np.mean(ratio[ratio > 0])
+        
+        #similarity weighted entropy, with self.entropy_levels
+        similarity_steps = np.diff(self.entropy_levels)
+        denominator = (self.max_entropy[:-1] - self.min_entropy[:-1]) 
+        numerator = (self.real_entropy[:-1] - self.min_entropy[:-1])
+        mask = (denominator != 0) * (numerator != 0)
+        ratio = numerator[mask] / denominator[mask] * similarity_steps[mask]
+        self.balanceness_weighted = np.sum(ratio[ratio > 0]) / np.sum(similarity_steps[mask][ratio > 0])
+        
+
 
     def choose_direction(self,x,partition):
         """
