@@ -739,6 +739,7 @@ class LinkClustering:
         if x < self.len_edges:
             return 'up'
         elif len(partition[x]) == len(self.edges):
+            #print('down')
             return 'down'
         else:
             return np.random.choice(['up','down'])
@@ -859,13 +860,16 @@ class LinkClustering:
         self.D_mcmc = D
         self.D_mcmc_max = np.sum(list(D.values()))/self.len_edges
     
-    def adaptive_cut_bias(self,T=0.5,C=0.5,steps=1000,early_stop=1e-2):
+    def adaptive_cut_bias(self,T=0.5,C=0.5,steps=1000,early_stop=1e-2,k_SA=None):
         self.tree, self.clusters= hierarchy.to_tree(self.linkage,rd=True)
             
         partition = self.partition_lc
         
         D = LinkClustering.get_partition_density(partition,self.inv_edges)
+        T0=T
         
+        if k_SA is None:
+            k_SA = steps//1.5
 
         for k in tqdm(range(int(steps)),total=int(steps)):
             #choose where to walk 
@@ -883,8 +887,16 @@ class LinkClustering:
             
             temps_D_value = np.sum(list(temp_D.values()))/self.len_edges
             D_value = np.sum(list(D.values()))/self.len_edges
-            alpha = min(np.exp((temps_D_value-D_value)/T),1)
-            #print(f'alpha: {alpha}, temp_D: {temps_D_value}, D: {D_value}')
+            k1 = len(partition) #number of communities
+            k2 = len(temp_partition)
+            # print(f'k1: {k1}, k2: {k2}')
+            Q_new = 1/3 * 3*k1/(3*k1-2) * int(direction=='up') + 2/3 * 3*(k1-1)/(3*k1-2) * int(direction=='down')+1e-6 # Q_{* -> i}
+            Q_back=  1/3 * 3*k2/(3*k2-2) * (1-int(direction=='up')) + 2/3 * 3*(k2-1)/(3*k2-2) * (1-int(direction=='down'))+1e-6 # Q_{i -> *}
+            if k>k_SA:
+                T = T0/ np.log(k-k_SA+2)
+            #print(f'T: {T}, Q_new: {Q_new}, Q_back: {Q_back}, k2: {k2}, D: {D_value}, temp_D: {temps_D_value}')
+            alpha = min(np.exp((temps_D_value-D_value)/T)*Q_back/Q_new,1)
+            # print(f'alpha: {alpha}, temp_D: {temps_D_value}, D: {D_value}')
             if np.random.rand() < alpha:
                 partition = temp_partition
                 D = temp_D
