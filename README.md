@@ -1,5 +1,9 @@
 # AdaptiveCut
 
+## Preprint
+
+ ```prepint.pdf ```
+ 
 ## Installation
 
 To install the dependencies for this project, follow these steps:
