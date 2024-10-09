@@ -10,7 +10,7 @@ To install the dependencies for this project, follow these steps:
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/LCB0B/adaptive_cut.git
+   git clone --depth 1 https://github.com/LCB0B/adaptive_cut.git
    cd adaptive_cut
    ```
 
