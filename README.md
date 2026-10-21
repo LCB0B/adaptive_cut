@@ -14,7 +14,7 @@ all such multi-level cuts, it returns the one that maximises an objective
 summed over clusters. `adaptive_cut` does this for any scipy linkage matrix:
 point clouds, networks, or anything else you can build a dendrogram for.
 
-![Ward dendrogram and clusters of three tight and two wide blobs](docs/images/blobs.png)
+![Ward dendrogram and clusters of three tight and two wide blobs](https://raw.githubusercontent.com/LCB0B/adaptive_cut/main/docs/images/blobs.png)
 
 The method is described in
 L. Boucherie, Y.-Y. Ahn, S. Lehmann, *Adaptive cut reveals multiscale
@@ -212,7 +212,7 @@ Each edge of the varying-density network, coloured by its link community
 (communities of one or two edges in grey). The single-level cut that suits the
 dense blocks leaves the fourth block in fragments; the adaptive cut groups it.
 
-![Link communities of the varying-density network](docs/images/sbm.png)
+![Link communities of the varying-density network](https://raw.githubusercontent.com/LCB0B/adaptive_cut/main/docs/images/sbm.png)
 
 ## Classic datasets
 
@@ -232,7 +232,7 @@ dimensions.
 Mean image of each digits cluster of the adaptive cut, with its most common
 digit and its size:
 
-![Mean image of each digits cluster](docs/images/digits.png)
+![Mean image of each digits cluster](https://raw.githubusercontent.com/LCB0B/adaptive_cut/main/docs/images/digits.png)
 
 ## Balancedness
 

@@ -13,7 +13,13 @@ requires-python = ">=3.10"
 authors = [{ name = "Louis Boucherie" }]
 keywords = ["hierarchical clustering", "dendrogram", "community detection", "link clustering", "MCMC"]
 classifiers = [
+    "Development Status :: 4 - Beta",
     "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Operating System :: OS Independent",
     "Intended Audience :: Science/Research",
     "Topic :: Scientific/Engineering",
     "Typing :: Typed",
