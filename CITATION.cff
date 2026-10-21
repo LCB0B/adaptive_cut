@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+title: "adaptive_cut"
+version: 0.1.0
+license: MIT
+authors:
+  - family-names: Boucherie
+    given-names: Louis
+preferred-citation:
+  type: article
+  title: "Adaptive cut reveals multiscale complexity in networks"
+  authors:
+    - family-names: Boucherie
+      given-names: Louis
+    - family-names: Ahn
+      given-names: Yong-Yeol
+    - family-names: Lehmann
+      given-names: Sune
+  year: 2025
+  url: "https://arxiv.org/abs/2512.08741"
+  identifiers:
+    - type: other
+      value: "arXiv:2512.08741"

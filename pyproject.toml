@@ -1,0 +1,55 @@
+[build-system]
+requires = ["hatchling>=1.27"]
+build-backend = "hatchling.build"
+
+[project]
+name = "adaptive_cut"
+dynamic = ["version"]
+description = "Adaptive multi-level cuts and balancedness of dendrograms, with link communities for networks."
+readme = "README.md"
+license = "MIT"
+license-files = ["LICENSE"]
+requires-python = ">=3.10"
+authors = [{ name = "Louis Boucherie" }]
+keywords = ["hierarchical clustering", "dendrogram", "community detection", "link clustering", "MCMC"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Intended Audience :: Science/Research",
+    "Topic :: Scientific/Engineering",
+    "Typing :: Typed",
+]
+dependencies = ["numpy>=1.23", "scipy>=1.10"]
+
+[project.optional-dependencies]
+numba = ["numba>=0.60"]
+networkx = ["networkx>=3.0"]
+test = ["pytest>=7"]
+examples = ["matplotlib>=3.6", "scikit-learn>=1.2"]
+all = ["adaptive_cut[numba,networkx]"]
+
+[project.urls]
+Source = "https://github.com/LCB0B/adaptive_cut"
+Paper = "https://arxiv.org/abs/2512.08741"
+
+[tool.hatch.version]
+path = "src/adaptive_cut/__init__.py"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/adaptive_cut"]
+
+[tool.hatch.build.targets.sdist]
+include = ["src", "tests", "examples", "docs", "README.md", "LICENSE", "CITATION.cff", "CHANGELOG.md"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 100
+src = ["src"]
+
+[tool.ruff.format]
+exclude = ["*.md"]  # keep the hand-aligned README code
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B", "NPY"]
+ignore = ["E741", "B905"]
