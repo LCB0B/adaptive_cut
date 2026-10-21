@@ -1,5 +1,10 @@
 # adaptive_cut
 
+[![DOI](https://img.shields.io/badge/DOI-10.1093%2Fpnasnexus%2Fpgag344-blue)](https://doi.org/10.1093/pnasnexus/pgag344)
+[![arXiv](https://img.shields.io/badge/arXiv-2512.08741-B31B1B.svg)](https://arxiv.org/abs/2512.08741)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff)
+
 Hierarchical clustering usually ends with one horizontal cut of the dendrogram,
 so every cluster is taken at the same height. When clusters have different
 densities or scales, no single height fits all of them.
@@ -13,7 +18,8 @@ point clouds, networks, or anything else you can build a dendrogram for.
 
 The method is described in
 L. Boucherie, Y.-Y. Ahn, S. Lehmann, *Adaptive cut reveals multiscale
-complexity in networks*, [arXiv:2512.08741](https://arxiv.org/abs/2512.08741).
+complexity in networks*, PNAS Nexus (2026),
+[doi:10.1093/pnasnexus/pgag344](https://doi.org/10.1093/pnasnexus/pgag344).
 
 ## Install
 
@@ -302,11 +308,12 @@ networks with many small clusters under large ones are slower per step.
 ## Citation
 
 ```bibtex
-@article{boucherie2025adaptive,
+@article{boucherie2026adaptive,
   title   = {Adaptive cut reveals multiscale complexity in networks},
   author  = {Boucherie, Louis and Ahn, Yong-Yeol and Lehmann, Sune},
-  journal = {arXiv preprint arXiv:2512.08741},
-  year    = {2025}
+  journal = {PNAS Nexus},
+  year    = {2026},
+  doi     = {10.1093/pnasnexus/pgag344}
 }
 ```
 

@@ -29,7 +29,7 @@ all = ["adaptive_cut[numba,networkx]"]
 
 [project.urls]
 Source = "https://github.com/LCB0B/adaptive_cut"
-Paper = "https://arxiv.org/abs/2512.08741"
+Paper = "https://doi.org/10.1093/pnasnexus/pgag344"
 
 [tool.hatch.version]
 path = "src/adaptive_cut/__init__.py"

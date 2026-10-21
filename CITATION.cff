@@ -16,8 +16,10 @@ preferred-citation:
       given-names: Yong-Yeol
     - family-names: Lehmann
       given-names: Sune
-  year: 2025
-  url: "https://arxiv.org/abs/2512.08741"
+  journal: "PNAS Nexus"
+  year: 2026
+  doi: "10.1093/pnasnexus/pgag344"
+  url: "https://doi.org/10.1093/pnasnexus/pgag344"
   identifiers:
     - type: other
       value: "arXiv:2512.08741"
