@@ -5,6 +5,7 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2512.08741-B31B1B.svg)](https://arxiv.org/abs/2512.08741)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff)
+[![CI](https://github.com/LCB0B/adaptive_cut/actions/workflows/ci.yml/badge.svg)](https://github.com/LCB0B/adaptive_cut/actions/workflows/ci.yml)
 
 Hierarchical clustering usually ends with one horizontal cut of the dendrogram,
 so every cluster is taken at the same height. When clusters have different
