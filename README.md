@@ -1,5 +1,6 @@
 # adaptive_cut
 
+[![PyPI](https://img.shields.io/pypi/v/adaptive_cut.svg)](https://pypi.org/project/adaptive_cut/)
 [![DOI](https://img.shields.io/badge/DOI-10.1093%2Fpnasnexus%2Fpgag344-blue)](https://doi.org/10.1093/pnasnexus/pgag344)
 [![arXiv](https://img.shields.io/badge/arXiv-2512.08741-B31B1B.svg)](https://arxiv.org/abs/2512.08741)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
