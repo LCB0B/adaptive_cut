@@ -10,6 +10,7 @@ NEEDS = {
     "05_hdbscan": ["hdbscan"],
     "06_link_communities": ["networkx"],
     "07_balancedness": ["networkx"],
+    "08_working_with_results": ["networkx"],
 }
 
 

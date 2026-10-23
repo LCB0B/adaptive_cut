@@ -2,7 +2,7 @@
 
 ## Unreleased
 
-- Seven example notebooks in `examples/notebooks` (quickstart, scipy linkages, scikit-learn, flat methods, HDBSCAN, link communities, balancedness); they replace `examples/tutorial.ipynb`.
+- Eight example notebooks in `examples/notebooks` (quickstart, scipy linkages, scikit-learn, flat methods, HDBSCAN, link communities, balancedness, working with results); they replace `examples/tutorial.ipynb`.
 
 ## 0.2.0 (2026-10-23)
 
