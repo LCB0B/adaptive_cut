@@ -123,3 +123,29 @@ def link_matrix_figure(r, cuts, titles):
         ax.set_yticks([])
         ax.set_title(title, fontsize=10)
     return fig
+
+
+def link_network_figure(G, r, cuts, titles, seed=1):
+    """Drawing of a network, each edge coloured by its link community."""
+    import networkx as nx
+
+    pos = nx.spring_layout(G, seed=seed)
+    xy = np.array([pos[v] for v in r.node_labels])
+    fig, axes = plt.subplots(1, len(cuts), figsize=(4.6 * len(cuts), 4.4), layout="constrained")
+    for ax, cut, title in zip(np.atleast_1d(axes), cuts, titles):
+        rank = np.argsort(np.argsort(-cut.sizes))
+        big = cut.sizes > 2  # communities of <= 2 edges are grey
+        for e, (a, b) in enumerate(r.edges):
+            k = cut.labels[e]
+            ax.plot(
+                *xy[[a, b]].T,
+                color=_color(rank[k]) if big[k] else GREY,
+                lw=2.4 if big[k] else 1.0,
+                zorder=2 if big[k] else 1,
+                solid_capstyle="round",
+            )
+        ax.scatter(*xy.T, s=28, c="white", edgecolors="#333333", linewidths=0.8, zorder=3)
+        ax.set_title(title, fontsize=10)
+        ax.set_aspect("equal")
+        ax.axis("off")
+    return fig

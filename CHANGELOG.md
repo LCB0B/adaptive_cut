@@ -1,5 +1,15 @@
 # Changelog
 
+## 0.2.0 (2026-10-23)
+
+- `AdaptiveClustering`: scikit-learn style estimator (scipy linkage, Gaussian BIC, adaptive cut). It passes scikit-learn's `check_estimator` and works without scikit-learn installed.
+- `gaussian_scores(Z, X, covariance=...)`: per-node Gaussian BIC with diagonal, spherical or full covariance, in O(n d).
+- `modularity_scores(Z, A)`: per-node modularity of a node dendrogram, in O(n log n + m).
+- `linkage_from_sklearn(model)`: scipy linkage matrix of a fitted `AgglomerativeClustering`.
+- Benchmarks (`benchmarks/`) of the adaptive cut across scipy linkage methods and node dendrograms of networks.
+- Karate club example of link communities, with a figure.
+- Removed `optimal_cut`: the package provides the adaptive cut sampler only.
+
 ## 0.1.0 (2026-10-21)
 
 First release.

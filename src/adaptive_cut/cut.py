@@ -192,44 +192,6 @@ def best_level_cut(Z, scores) -> Cut:
     return _make_cut(build_tree(Z, n), nodes, scores, height)
 
 
-def optimal_cut(Z, scores) -> Cut:
-    """Exact best multi-level cut of a dendrogram.
-
-    Because the objective ``sum(scores[cut])`` is additive over clusters, its
-    maximum over all cuts follows from one bottom-up pass:
-    ``best(v) = max(scores[v], best(left) + best(right))``. This takes O(n)
-    time. On ties the larger cluster is kept, so the cut has as few clusters
-    as possible.
-
-    Parameters
-    ----------
-    Z : array_like, shape (n-1, 4)
-        scipy linkage matrix (heights need not be monotone).
-    scores : array_like, shape (2n-1,)
-        Additive per-node objective (see :func:`node_scores`).
-    """
-    Z, n = as_linkage(Z)
-    scores = _check_scores(scores, n)
-    left = Z[:, 0].astype(np.int64).tolist()
-    right = Z[:, 1].astype(np.int64).tolist()
-    best = scores.tolist()
-    split = [False] * (n - 1)
-    for i in range(n - 1):
-        s = best[left[i]] + best[right[i]]
-        if s > best[n + i]:
-            best[n + i] = s
-            split[i] = True
-    nodes, stack = [], [2 * n - 2]
-    while stack:
-        v = stack.pop()
-        if v >= n and split[v - n]:
-            stack.append(left[v - n])
-            stack.append(right[v - n])
-        else:
-            nodes.append(v)
-    return _make_cut(build_tree(Z, n), nodes, scores)
-
-
 def _auto_temperature(Z: np.ndarray, n: int, scores: np.ndarray) -> float:
     left = Z[:, 0].astype(np.int64)
     right = Z[:, 1].astype(np.int64)

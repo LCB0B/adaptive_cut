@@ -14,8 +14,8 @@ jobs:
         with:
           python-version: "3.12"
       - run: pip install ruff
-      - run: ruff check src tests examples
-      - run: ruff format --check src tests examples
+      - run: ruff check src tests examples benchmarks
+      - run: ruff format --check src tests examples benchmarks
 
   core:
     # numpy + scipy only: the numba and networkx tests are skipped

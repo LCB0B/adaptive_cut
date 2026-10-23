@@ -30,7 +30,7 @@ dependencies = ["numpy>=1.23", "scipy>=1.10"]
 numba = ["numba>=0.60"]
 networkx = ["networkx>=3.0"]
 test = ["pytest>=7"]
-examples = ["matplotlib>=3.6", "scikit-learn>=1.2"]
+examples = ["matplotlib>=3.6", "scikit-learn>=1.2", "networkx>=3.0"]
 all = ["adaptive_cut[numba,networkx]"]
 
 [project.urls]
@@ -59,3 +59,6 @@ exclude = ["*.md"]  # keep the hand-aligned README code
 [tool.ruff.lint]
 select = ["E", "F", "I", "UP", "B", "NPY"]
 ignore = ["E741", "B905"]
+
+[tool.ruff.lint.per-file-ignores]
+"benchmarks/*" = ["E402"]  # thread limits are set before numpy is imported

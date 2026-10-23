@@ -89,3 +89,50 @@ def test_readme_classic_table():
             f"| {best.n_clusters} clusters, ARI {ari_best:.2f} |"
         )
         assert row in text
+
+
+def test_network_example_matches_the_readme():
+    pytest.importorskip("networkx")
+    _, r, best = _load("network").run()
+    assert round(r.level_cut.value, 3) == 0.285
+    assert round(best.value, 3) == 0.403
+    text = (EXAMPLES.parent / "README.md").read_text()
+    assert "partition density 0.285" in text and "partition density 0.403" in text
+
+
+def _readme_block(marker):
+    return next(c for lang, c in _readme_blocks() if lang == "python" and marker in c)
+
+
+def test_readme_scikit_learn_blocks_run():
+    pytest.importorskip("sklearn")
+    X, _ = _load("points").blobs(seed=0)
+    ns = {"X": X}
+    exec(compile(_readme_block("make_pipeline"), "README.md", "exec"), ns)
+    assert ns["model"].n_clusters_ >= 2 and len(set(ns["labels"])) >= 2
+    exec(compile(_readme_block("linkage_from_sklearn"), "README.md", "exec"), ns)
+    assert len(ns["labels"]) == len(X)
+
+
+def test_readme_karate_block_matches_its_comments():
+    pytest.importorskip("networkx")
+    ns = {}
+    exec(compile(_readme_block("karate_club_graph"), "README.md", "exec"), ns)
+    assert round(ns["r"].level_cut.value, 3) == 0.285
+    assert round(ns["r"].partition_density, 3) == 0.403
+
+
+def test_readme_node_communities_block_runs():
+    sknetwork = pytest.importorskip("sknetwork")
+    nx = pytest.importorskip("networkx")
+    A = nx.to_scipy_sparse_array(nx.karate_club_graph(), weight=None, format="csr")
+    import scipy.sparse as sp
+
+    A = sp.csr_matrix(A)
+    A.indices, A.indptr = A.indices.astype(np.int32), A.indptr.astype(np.int32)
+    ns = {"A": A}
+    exec(compile(_readme_block("Paris()"), "README.md", "exec"), ns)
+    from sknetwork.clustering import get_modularity
+
+    assert sknetwork is not None
+    assert ns["res"].value == pytest.approx(get_modularity(A, ns["res"].labels))

@@ -6,9 +6,15 @@ import matplotlib
 
 matplotlib.use("Agg")
 
+import network  # noqa: E402
 import points  # noqa: E402
 import sbm  # noqa: E402
-from plots import blobs_figure, digits_figure, link_matrix_figure  # noqa: E402
+from plots import (  # noqa: E402
+    blobs_figure,
+    digits_figure,
+    link_matrix_figure,
+    link_network_figure,
+)
 
 OUT = pathlib.Path(__file__).parent.parent / "docs" / "images"
 
@@ -34,6 +40,15 @@ def main():
         ],
     )
     fig.savefig(OUT / "sbm.png", dpi=110)
+
+    G, r, best = network.run()
+    fig = link_network_figure(
+        G,
+        r,
+        [r.level_cut, best],
+        [f"single-level cut, D={r.level_cut.value:.3f}", f"adaptive cut, D={best.value:.3f}"],
+    )
+    fig.savefig(OUT / "karate.png", dpi=110)
 
 
 if __name__ == "__main__":

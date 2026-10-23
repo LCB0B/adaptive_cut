@@ -5,7 +5,7 @@ import pytest
 from conftest import caterpillar, leaves_of, mixed6, random_tied
 from scipy.cluster.hierarchy import fcluster
 
-from adaptive_cut import Cut, adaptive_cut, best_level_cut, node_scores, optimal_cut
+from adaptive_cut import Cut, adaptive_cut, best_level_cut, node_scores
 
 
 def _random_scores(Z, seed):
@@ -191,33 +191,13 @@ def test_best_keeps_level_height_when_not_improved():
 
 
 @pytest.mark.parametrize("seed", range(20))
-def test_optimal_cut_matches_brute_force(seed):
+def test_sampler_finds_the_best_cut_of_small_trees(seed):
     from conftest import enumerate_cuts
 
     rng = np.random.default_rng(seed)
     Z = random_tied(int(rng.integers(2, 10)), int(rng.integers(1, 5)), rng)
     scores = _random_scores(Z, seed)
     opt = max(math.fsum(scores[list(c)]) for c in enumerate_cuts(Z))
-    c = optimal_cut(Z, scores)
-    assert c.value == pytest.approx(opt, rel=1e-12, abs=1e-12)
-    assert c.value == math.fsum(scores[c.nodes]) and c.height is None
-    assert c.value >= best_level_cut(Z, scores).value - 1e-12
-
-
-def test_optimal_cut_ties_keep_the_larger_cluster():
-    Z = mixed6()
-    assert optimal_cut(Z, np.zeros(11)).nodes.tolist() == [10]
-    # a leaf-sum score is constant on all cuts
-    s = node_scores(Z, len)
-    assert optimal_cut(Z, s).nodes.tolist() == [10]
-
-
-def test_optimal_cut_beats_the_sampler_and_scales():
-    Z = random_tied(60, 8, 3)
-    scores = _random_scores(Z, 3)
-    r = adaptive_cut(Z, scores, 0.5, n_steps=5000, rng=0, engine="python")
-    assert optimal_cut(Z, scores).value >= r.value - 1e-12
-    n = 100_000  # no recursion on a deep chain
-    s = np.zeros(2 * n - 1)
-    s[:n] = 1.0
-    assert optimal_cut(caterpillar(n), s).n_clusters == n
+    r = adaptive_cut(Z, scores, "auto", n_steps=20_000, rng=seed, engine="python")
+    assert r.value == pytest.approx(opt, rel=1e-12, abs=1e-12)
+    assert r.value >= best_level_cut(Z, scores).value - 1e-12
