@@ -9,8 +9,7 @@ NOTEBOOKS = sorted(NOTEBOOK_DIR.glob("*.ipynb"))
 NEEDS = {
     "05_hdbscan": ["hdbscan"],
     "06_link_communities": ["networkx"],
-    "07_node_communities": ["networkx", "sknetwork"],
-    "08_balancedness": ["networkx"],
+    "07_balancedness": ["networkx"],
 }
 
 

@@ -53,11 +53,9 @@ runs on its own:
 | [04 flat methods](https://github.com/LCB0B/adaptive_cut/blob/main/examples/notebooks/04_flat_methods.ipynb) | KMeans or Gaussian mixtures: a tree over many small clusters, then the adaptive cut |
 | [05 HDBSCAN](https://github.com/LCB0B/adaptive_cut/blob/main/examples/notebooks/05_hdbscan.ipynb) | The adaptive cut on HDBSCAN's tree, compared with HDBSCAN's own clusters |
 | [06 link communities](https://github.com/LCB0B/adaptive_cut/blob/main/examples/notebooks/06_link_communities.ipynb) | Karate club, varying-density networks, overlapping memberships |
-| [07 node communities](https://github.com/LCB0B/adaptive_cut/blob/main/examples/notebooks/07_node_communities.ipynb) | Modularity on scikit-network and spectral trees, compared with Louvain |
-| [08 balancedness](https://github.com/LCB0B/adaptive_cut/blob/main/examples/notebooks/08_balancedness.ipynb) | Balancedness of a dendrogram, level by level |
+| [07 balancedness](https://github.com/LCB0B/adaptive_cut/blob/main/examples/notebooks/07_balancedness.ipynb) | Balancedness of a dendrogram, level by level |
 
-Notebook 05 also needs `pip install hdbscan`, notebook 07
-`pip install scikit-network`.
+Notebook 05 also needs `pip install hdbscan`.
 
 ## Example: clusters at different scales
 
