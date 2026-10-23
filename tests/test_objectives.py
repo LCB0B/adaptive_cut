@@ -17,7 +17,7 @@ def _gaussian_direct(X, covariance, var_floor=0.01):
         P = X[idx]
         m = len(P)
         if covariance == "full":
-            ch = np.cov(P, rowvar=False, bias=True).reshape(d, d)
+            ch = (P - P.mean(axis=0)).T @ (P - P.mean(axis=0)) / m
             C = ch + np.diag(floor)
             ll = (
                 -0.5
