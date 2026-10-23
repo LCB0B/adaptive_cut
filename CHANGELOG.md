@@ -1,5 +1,9 @@
 # Changelog
 
+## Unreleased
+
+- Eight example notebooks in `examples/notebooks` (scipy linkages, scikit-learn, flat methods, HDBSCAN, link and node communities, balancedness); they replace `examples/tutorial.ipynb`.
+
 ## 0.2.0 (2026-10-23)
 
 - `AdaptiveClustering`: scikit-learn style estimator (scipy linkage, Gaussian BIC, adaptive cut). It passes scikit-learn's `check_estimator` and works without scikit-learn installed.

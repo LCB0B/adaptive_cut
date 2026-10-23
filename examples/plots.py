@@ -1,4 +1,4 @@
-"""Figures for the README and the tutorial notebook (needs matplotlib)."""
+"""Figures for the README (needs matplotlib)."""
 
 import matplotlib.pyplot as plt
 import numpy as np

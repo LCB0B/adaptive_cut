@@ -36,8 +36,28 @@ scikit-learn is optional. With it installed, `AdaptiveClustering` is a full
 scikit-learn estimator (pipelines, `clone`, grid search).
 
 From a clone of the repository: `pip install -e ".[all,test]"`, then `pytest`.
-The examples and the [tutorial notebook](https://github.com/LCB0B/adaptive_cut/blob/main/examples/tutorial.ipynb) also need
-`pip install "adaptive_cut[examples]"` (matplotlib, scikit-learn and networkx).
+The examples also need `pip install "adaptive_cut[examples]"` (matplotlib,
+scikit-learn and networkx).
+
+## Example notebooks
+
+Each notebook in
+[`examples/notebooks`](https://github.com/LCB0B/adaptive_cut/tree/main/examples/notebooks)
+runs on its own:
+
+| Notebook | What it shows |
+|---|---|
+| [01 quickstart](https://github.com/LCB0B/adaptive_cut/blob/main/examples/notebooks/01_quickstart.ipynb) | Tree, scores, single-level and adaptive cut, the temperature |
+| [02 scipy linkages](https://github.com/LCB0B/adaptive_cut/blob/main/examples/notebooks/02_scipy_linkages.ipynb) | All seven scipy linkage methods, covariance models, your own score |
+| [03 scikit-learn](https://github.com/LCB0B/adaptive_cut/blob/main/examples/notebooks/03_scikit_learn.ipynb) | `AdaptiveClustering`, pipelines, trees from `AgglomerativeClustering` |
+| [04 flat methods](https://github.com/LCB0B/adaptive_cut/blob/main/examples/notebooks/04_flat_methods.ipynb) | KMeans or Gaussian mixtures: a tree over many small clusters, then the adaptive cut |
+| [05 HDBSCAN](https://github.com/LCB0B/adaptive_cut/blob/main/examples/notebooks/05_hdbscan.ipynb) | The adaptive cut on HDBSCAN's tree, compared with HDBSCAN's own clusters |
+| [06 link communities](https://github.com/LCB0B/adaptive_cut/blob/main/examples/notebooks/06_link_communities.ipynb) | Karate club, varying-density networks, overlapping memberships |
+| [07 node communities](https://github.com/LCB0B/adaptive_cut/blob/main/examples/notebooks/07_node_communities.ipynb) | Modularity on scikit-network and spectral trees, compared with Louvain |
+| [08 balancedness](https://github.com/LCB0B/adaptive_cut/blob/main/examples/notebooks/08_balancedness.ipynb) | Balancedness of a dendrogram, level by level |
+
+Notebook 05 also needs `pip install hdbscan`, notebook 07
+`pip install scikit-network`.
 
 ## Example: clusters at different scales
 
