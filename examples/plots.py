@@ -149,3 +149,65 @@ def link_network_figure(G, r, cuts, titles, seed=1):
         ax.set_aspect("equal")
         ax.axis("off")
     return fig
+
+
+# scikit-learn's palette in its cluster comparison example; black is noise (-1)
+SKLEARN_COLORS = ["#377eb8", "#ff7f00", "#4daf4a", "#f781bf", "#a65628", "#984ea3", "#999999"]
+SKLEARN_COLORS += ["#e41a1c", "#dede00"]
+
+
+HIGHLIGHT = "#fdf0d5"  # background of the highlighted columns
+
+
+def comparison_figure(rows, highlight=()):
+    """scikit-learn's cluster comparison grid: one row per dataset, one column per method.
+
+    ``rows`` is the output of ``cluster_comparison.run``. The ``highlight`` columns are set apart
+    on the right, with bold titles and a coloured background. Each panel shows the fit time in
+    its lower right corner.
+    """
+    methods = list(rows[0][3])
+    order = [m for m in methods if m not in highlight] + [m for m in methods if m in highlight]
+    gap = 0.25 if highlight else 0.0
+    ratios = [1] * (len(order) - len(highlight)) + [gap] * bool(highlight) + [1] * len(highlight)
+    fig = plt.figure(figsize=(1.9 * len(order) + gap * 1.9, 1.9 * len(rows) + 0.9))
+    grid = fig.add_gridspec(
+        len(rows),
+        len(ratios),
+        width_ratios=ratios,
+        left=0.01,
+        right=0.99,
+        bottom=0.005,
+        top=0.93,
+        wspace=0.05,
+        hspace=0.05,
+    )
+    columns = [
+        c for c in range(len(ratios)) if not (highlight and c == len(order) - len(highlight))
+    ]
+    for r, (_, X, _, results) in enumerate(rows):
+        for c, method in zip(columns, order):
+            labels, seconds = results[method]
+            ax = fig.add_subplot(grid[r, c])
+            if method in highlight:
+                ax.set_facecolor(HIGHLIGHT)
+            colors = np.array(
+                [SKLEARN_COLORS[k % len(SKLEARN_COLORS)] for k in range(labels.max() + 1)]
+                + ["#000000"]
+            )
+            ax.scatter(X[:, 0], X[:, 1], s=6, color=colors[labels], linewidths=0)
+            ax.set_xlim(-2.5, 2.5)
+            ax.set_ylim(-2.5, 2.5)
+            ax.set_xticks([])
+            ax.set_yticks([])
+            ax.text(
+                0.99,
+                0.01,
+                f"{seconds:.2f}s".lstrip("0"),
+                transform=ax.transAxes,
+                size=13,
+                ha="right",
+            )
+            if r == 0:
+                ax.set_title(method, size=16, weight="bold" if method in highlight else "normal")
+    return fig

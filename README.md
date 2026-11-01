@@ -17,7 +17,20 @@ summed over clusters, with a Markov chain Monte Carlo sampler and simulated
 annealing. `adaptive_cut` does this for any scipy linkage matrix: point clouds,
 networks, or anything else you can build a dendrogram for.
 
-![Ward dendrogram and clusters of three tight and two wide blobs](https://raw.githubusercontent.com/LCB0B/adaptive_cut/main/docs/images/blobs.png)
+![The adaptive cut next to scikit-learn's clustering methods on its six toy datasets](https://raw.githubusercontent.com/LCB0B/adaptive_cut/main/docs/images/comparison.png)
+
+The adaptive cut (shaded, right) on scikit-learn's toy datasets, next to the
+methods of scikit-learn's
+[comparison example](https://scikit-learn.org/stable/auto_examples/cluster/plot_cluster_comparison.html).
+The scikit-learn methods use the parameters that example tunes for each
+dataset, including the true number of clusters. The adaptive cut uses one
+setting for all six datasets and is never told the number of clusters: a
+single-linkage tree, cut to maximise the modularity of the graph that joins
+each point to its 20 nearest neighbours. It finds the circles, the moons and
+the anisotropic blobs, and one cluster in the uniform square, and merges blobs
+that touch or overlap (see
+[*Choosing the objective*](#choosing-the-objective)). The number in each panel
+is the fit time in seconds.
 
 The method is described in
 L. Boucherie, Y.-Y. Ahn, S. Lehmann, *Adaptive cut reveals multiscale
@@ -60,7 +73,9 @@ Notebook 05 also needs `pip install hdbscan`.
 
 ## Example: clusters at different scales
 
-The figure above comes from
+![Ward dendrogram and clusters of three tight and two wide blobs](https://raw.githubusercontent.com/LCB0B/adaptive_cut/main/docs/images/blobs.png)
+
+The figure comes from
 [`examples/points.py`](https://github.com/LCB0B/adaptive_cut/blob/main/examples/points.py).
 The data have three tight blobs next to two wide ones, clustered by Ward
 linkage. Each cluster is scored by the BIC of one Gaussian fitted to it, so the
@@ -132,6 +147,55 @@ tree = AgglomerativeClustering(distance_threshold=0, n_clusters=None).fit(X)
 Z = ac.linkage_from_sklearn(tree)
 labels = ac.adaptive_cut(Z, ac.gaussian_scores(Z, X), T="auto", rng=0).labels
 ```
+
+## Choosing the objective
+
+The adaptive cut finds the cut that maximises the objective, so the objective
+says what a good cluster is. The adaptive cut in the figure at the top scores
+connectivity
+([`examples/cluster_comparison.py`](https://github.com/LCB0B/adaptive_cut/blob/main/examples/cluster_comparison.py)):
+
+```python
+import adaptive_cut as ac
+from sklearn.neighbors import kneighbors_graph
+
+
+def knn_modularity(Z, X):
+    """Modularity of each tree node on the graph of the 20 nearest neighbours."""
+    A = kneighbors_graph(X, 20, include_self=False)
+    A = ((A + A.T) > 0).astype(float)
+    return ac.modularity_scores(Z, A, resolution=0.1)
+
+
+model = ac.AdaptiveClustering(linkage="single", objective=knn_modularity)
+```
+
+The tree is single linkage, and a cut scores its modularity on the symmetric
+graph that joins each point to its 20 nearest neighbours: the share of the
+edges inside clusters, minus a penalty for large clusters. Splitting a
+connected shape cuts many edges, so a low resolution (0.1 instead of 1) keeps
+connected shapes whole. Clusters and ARI with the true classes:
+
+| Dataset | Adaptive cut |
+|---|---|
+| noisy circles | 2 clusters, ARI 1.00 |
+| noisy moons | 2 clusters, ARI 1.00 |
+| varied | 1 cluster, ARI 0.00 |
+| anisotropic | 6 clusters, ARI 0.99 |
+| blobs | 5 clusters, ARI 0.56 |
+| no structure | 1 cluster |
+
+It finds the rings, the moons and the anisotropic blobs, and one cluster in the
+uniform square; a few stray points form clusters of one or two points. It
+joins blobs that are connected: two of the blobs touch (92 nearest-neighbour
+edges join them), and the wide blob of *varied* overlaps the other two. The
+results are the same for 15 to 25 neighbours, resolutions from 0.07 to 0.15,
+and each sampler seed we tried (0, 1, 2).
+
+The tree matters as much as the objective, because the adaptive cut can only
+take whole subtrees. No node of a Ward, average or complete linkage tree of the
+circles holds more than a third of a ring, so no objective can recover the
+rings from these trees; the single-linkage tree has each ring as one node.
 
 ## How much does it help?
 

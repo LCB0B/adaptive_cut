@@ -6,11 +6,13 @@ import matplotlib
 
 matplotlib.use("Agg")
 
+import cluster_comparison  # noqa: E402
 import network  # noqa: E402
 import points  # noqa: E402
 import sbm  # noqa: E402
 from plots import (  # noqa: E402
     blobs_figure,
+    comparison_figure,
     digits_figure,
     link_matrix_figure,
     link_network_figure,
@@ -21,6 +23,9 @@ OUT = pathlib.Path(__file__).parent.parent / "docs" / "images"
 
 def main():
     OUT.mkdir(parents=True, exist_ok=True)
+    rows = cluster_comparison.run(seed=0)
+    fig = comparison_figure(rows, highlight=[cluster_comparison.ADAPTIVE])
+    fig.savefig(OUT / "comparison.png", dpi=80)
     blobs_figure(points.run(seed=0), points.ari).savefig(OUT / "blobs.png", dpi=110)
 
     from sklearn.datasets import load_digits

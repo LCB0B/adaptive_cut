@@ -136,3 +136,20 @@ def test_readme_node_communities_block_runs():
 
     assert sknetwork is not None
     assert ns["res"].value == pytest.approx(get_modularity(A, ns["res"].labels))
+
+
+def test_readme_comparison_table():
+    pytest.importorskip("sklearn")
+    text = (EXAMPLES.parent / "README.md").read_text()
+    for row in _load("cluster_comparison").adaptive_table(seed=0):
+        assert row in text
+
+
+def test_readme_objective_block_matches_the_example():
+    pytest.importorskip("sklearn")
+    ns = {}
+    exec(compile(_readme_block("def knn_modularity"), "README.md", "exec"), ns)
+    example = _load("cluster_comparison")
+    for _, X, _, _ in example.datasets()[:2]:
+        readme = ns["model"].set_params(random_state=0)
+        np.testing.assert_array_equal(readme.fit(X).labels_, example.adaptive().fit(X).labels_)
