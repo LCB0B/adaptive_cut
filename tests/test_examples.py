@@ -78,6 +78,7 @@ def test_readme_points_block_matches_its_comments(monkeypatch):
     ari = _load("points").ari
     assert (ns["level"].n_clusters, round(ari(ns["y"], ns["level"].labels), 2)) == (3, 0.69)
     assert (ns["best"].n_clusters, round(ari(ns["y"], ns["best"].labels), 2)) == (5, 0.96)
+    assert set(ns["exact"].nodes) == set(ns["best"].nodes)
 
 
 def test_readme_classic_table():
@@ -153,3 +154,19 @@ def test_readme_objective_block_matches_the_example():
     for _, X, _, _ in example.datasets()[:2]:
         readme = ns["model"].set_params(random_state=0)
         np.testing.assert_array_equal(readme.fit(X).labels_, example.adaptive().fit(X).labels_)
+
+
+def test_readme_examples_reach_the_exact_optimum():
+    """The README says the sampler reaches the value of optimal_cut on its examples."""
+    pytest.importorskip("sklearn")
+    nx = pytest.importorskip("networkx")
+    import adaptive_cut as ac
+
+    r = ac.link_communities(nx.karate_club_graph(), rng=0)
+    assert r.cut.value == pytest.approx(ac.optimal_cut(r.Z, r.scores).value, abs=1e-12)
+    example = _load("cluster_comparison")
+    for _, X, _, _ in example.datasets():
+        m = example.adaptive().fit(X)
+        assert m.cut_.value == pytest.approx(
+            ac.optimal_cut(m.linkage_matrix_, m.scores_).value, abs=1e-12
+        )

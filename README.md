@@ -92,6 +92,7 @@ scores = ac.gaussian_scores(Z, X)             # one score per dendrogram node
 level = ac.best_level_cut(Z, scores)          # 3 clusters, ARI 0.69
 res = ac.adaptive_cut(Z, scores, T=160, n_steps=100_000, rng=0)
 best = res.best                               # 5 clusters, ARI 0.96
+exact = ac.optimal_cut(Z, scores)             # the same 5 clusters, in one pass
 ```
 
 A height that separates the three tight blobs also cuts the wide blobs into
@@ -103,7 +104,8 @@ The temperature matters here. To go from the 3-cluster cut to the 5-cluster
 cut, the chain has to pass through cuts about 30 BIC units worse. The automatic
 temperature (`T="auto"`, about 2 units here) is too low for that, and the chain
 stays at the single-level cut. `T=160` with 100,000 steps finds the 5-cluster
-cut on all 10 seeds we tried.
+cut on all 10 seeds we tried. `optimal_cut` needs no temperature: it finds the
+best cut in one pass over the tree (see *How it works*).
 
 ## With scikit-learn
 
@@ -275,6 +277,16 @@ the cluster made of the leaves under `v`. The objective of a cut is
 usual baseline. It tries every distinct merge height and applies tied merges
 together, as `fcluster(Z, h, "distance")` does.
 
+**Exact optimum.** Because the objective is a sum over clusters, its maximum
+over all cuts follows from one bottom-up pass over the tree,
+`best(v) = max(scores[v], best(left) + best(right))`. `optimal_cut` does this
+in O(n) time; on ties it keeps the larger cluster. This is the selection step
+of Campello et al. (2013), which HDBSCAN applies with cluster stability as the
+score. It works on any tree and scores of this package:
+`ac.optimal_cut(model.linkage_matrix_, model.scores_)` for a fitted
+`AdaptiveClustering`, `ac.optimal_cut(r.Z, r.scores)` for link communities.
+On the examples of this README the sampler reaches the same value.
+
 **Sampler.** `adaptive_cut` is the Markov chain of the paper. It samples cuts
 from `exp(f(cut) / T)` with a reversible-jump Metropolis-Hastings chain:
 
@@ -379,7 +391,7 @@ r.partition_density     # D of the adaptive cut
 r.cut.labels            # community of every edge (edge i is r.edges[i])
 r.communities()         # node labels of every (overlapping) link community
 r.memberships()         # sparse (nodes x communities) fraction of each node's edges
-r.Z, r.scores           # the edge dendrogram and its scores, for adaptive_cut etc.
+r.Z, r.scores           # the edge dendrogram and its scores, for optimal_cut etc.
 ```
 
 `graph` can be an edge array of any sortable labels, a `networkx.Graph`, or a
@@ -507,6 +519,7 @@ The mean runs over all levels where `H_max > H_min`, that is `2 <= k <= n - 2`.
 
 ## Performance and reproducibility
 
+- **Exact optimum:** `optimal_cut` is one pass over the `n - 1` merges.
 - **Sampler:** each step costs O(1) plus the size of the proposed move. The
   state lives in flat integer arrays, and the proposal tables are precomputed
   once per tree.
@@ -543,6 +556,7 @@ networks with many small clusters under large ones are slower per step.
 |---|---|
 | `AdaptiveClustering(linkage="ward", ...)` | scikit-learn estimator: tree, Gaussian BIC, adaptive cut |
 | `adaptive_cut(Z, scores, T, ...)` | Adaptive cut; returns `AdaptiveCutResult` |
+| `optimal_cut(Z, scores)` | Exact best multi-level cut, in one bottom-up pass; returns `Cut` |
 | `best_level_cut(Z, scores)` | Best single-level cut; returns `Cut` |
 | `gaussian_scores(Z, X, covariance="diag")` | Per-node Gaussian BIC of a dendrogram of points |
 | `modularity_scores(Z, A, resolution=1.0)` | Per-node modularity of a dendrogram of the nodes of a network |

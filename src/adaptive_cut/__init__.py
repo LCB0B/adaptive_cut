@@ -4,6 +4,8 @@
 * :func:`adaptive_cut` -- multi-level cut of any scipy linkage matrix under
   an objective that is additive over clusters, by reversible-jump
   Metropolis-Hastings sampling with simulated annealing.
+* :func:`optimal_cut` -- the exact best multi-level cut under the same kind
+  of objective, in one bottom-up pass over the tree.
 * :func:`best_level_cut` -- the best single-level cut, as a baseline.
 * :func:`link_communities` -- link clustering of a network with partition
   density, single-level and adaptive cuts.
@@ -14,7 +16,14 @@
 """
 
 from .balance import Levels, balancedness
-from .cut import AdaptiveCutResult, Cut, adaptive_cut, best_level_cut, node_scores
+from .cut import (
+    AdaptiveCutResult,
+    Cut,
+    adaptive_cut,
+    best_level_cut,
+    node_scores,
+    optimal_cut,
+)
 from .estimator import AdaptiveClustering, linkage_from_sklearn
 from .link import LinkCommunities, link_communities, partition_density_scores
 from .objectives import gaussian_scores, modularity_scores
@@ -35,5 +44,6 @@ __all__ = [
     "linkage_from_sklearn",
     "modularity_scores",
     "node_scores",
+    "optimal_cut",
     "partition_density_scores",
 ]

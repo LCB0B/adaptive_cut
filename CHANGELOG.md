@@ -2,6 +2,7 @@
 
 ## Unreleased
 
+- `optimal_cut(Z, scores)` is back: the exact best multi-level cut under an additive objective, in one bottom-up pass (the selection step of Campello et al. 2013). The README examples check that the sampler reaches the same value.
 - README figure: the adaptive cut next to scikit-learn's methods on its six toy datasets (`examples/cluster_comparison.py`), with one setting for all of them: a single-linkage tree cut by the modularity of the 20-nearest-neighbour graph. New README section, *Choosing the objective*.
 - Eight example notebooks in `examples/notebooks` (quickstart, scipy linkages, scikit-learn, flat methods, HDBSCAN, link communities, balancedness, working with results); they replace `examples/tutorial.ipynb`.
 
