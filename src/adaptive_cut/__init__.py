@@ -28,7 +28,7 @@ from .estimator import AdaptiveClustering, linkage_from_sklearn
 from .link import LinkCommunities, link_communities, partition_density_scores
 from .objectives import gaussian_scores, modularity_scores
 
-__version__ = "0.2.0"
+__version__ = "0.2.1"
 
 __all__ = [
     "AdaptiveClustering",
